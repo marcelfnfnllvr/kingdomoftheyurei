@@ -69,40 +69,26 @@ Außerdem darf jeder Spielende nach einem Abenteuer folgende Schritte durchführ
 ## Der „Phoenix aus der Asche“ Spielzug
 
 1. Du bist erfolgreich aufgestiegen
+   1. Setzte Aufstieg wieder zurück.
+   2. Lösche all deine zusätzliche Korruption.
+   3. Wenn du es in Einklang mit dem Abenteuer bringen kannst, verliere eine passende Angst.
+   4. Erzähle die nächste Narrative auf der Aufstiegstabelle.
+   5. Dein dauerhafter Korruptionswert steigt um eins.
+   6. Würfel jeweils einmal auf die Fähigkeiten Tabelle und tausche eine Fähigkeit gegen eine neue. Es darf jede der Fähigkeiten gegen eine neue getauscht werden. (Optional)
+   7. Würfel erneut auf die Schwachpunkt Tabelle mit -1. (Optional)
+   8. Ändere ein Herkunft, Dämonen oder Reittierattribut. (Optional)
+   9. Verändere das Aussehen von deiner Veränderung (Optional)
 
-a.    Setzte Aufstieg wieder zurück.
-
-b.    Lösche all deine zusätzliche Korruption.
-
-c.    Wenn du es in Einklang mit dem Abenteuer bringen kannst, verliere eine passende Angst.
-
-d.    Erzähle die nächste Narrative auf der Aufstiegstabelle.
-
-e.    Dein dauerhafter Korruptionswert steigt um eins.
-
-f.     Würfel jeweils einmal auf die Fähigkeiten Tabelle und tausche eine Fähigkeit gegen eine neue. Es darf jede der Fähigkeiten gegen eine neue getauscht werden. (Optional)
-
-g.    Würfel erneut auf die Schwachpunkt Tabelle mit -1. (Optional)
-
-h.    Ändere ein Herkunfts-, Dämonen oder Reittierattribut. (Optional)
-
-i.     Verändere das Aussehen von deiner Veränderung (Optional)
 
 2. Du bist gestorben und wieder auferstanden
+   1. Würfel jeweils einmal auf die Fähigkeiten Tabelle und Würfel dann einen D3 welche Fähigkeit du gegen eine neue tauscht.
+   2. Beantworte eine Frage auf der Wiedergeburtstabelle.
+   3. Würfel erneut auf die Schwachpunkt Tabelle mit +1.
+   4. Würfel erneut auf die Ängste Tabelle.
+   5. Das Aussehen deiner Veränderung wird sichtbar stärker.
+   6. Setzte Aufstieg wieder zurück.
+   7. Dein dauerhafter Korruptionswert steigt um eins. Du behältst den Zustand dieser Korruption für immer.
 
-a.    Würfel jeweils einmal auf die Fähigkeiten Tabelle und Würfel dann einen D3 welche Fähigkeit du gegen eine neue tauscht.
-
-b.    Beantworte eine Frage auf der Wiedergeburtstabelle.
-
-c.    Würfel erneut auf die Schwachpunkt Tabelle mit +1.
-
-d.    Würfel erneut auf die Ängste Tabelle.
-
-e.    Das Aussehen deiner Veränderung wird sichtbar stärker.
-
-f.     Setzte Aufstieg wieder zurück.
-
-g.    Dein dauerhafter Korruptionswert steigt um eins. Du behältst den Zustand dieser Korruption für immer.
 
 ## Der „Seine Dämon bezwingen“ Spielzug
 
