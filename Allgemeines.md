@@ -1,0 +1,5 @@
+## Worum geht es in diesem Rollenspiel?
+
+> In Königreich der Yurei schlüpft man in die Rolle von gezeichneten Wanderern, den Fureru, die durch die Welt ziehen und mit Hilfe dämonischer Kräfte versuchen, das Gleichgewicht zwischen Geistern und Menschen aufrechtzuerhalten.
+
+Ihr schlüpft in die Rolle einer Gruppe, die durch das Königreich Soho zieht und ihre Kräfte einsetzt, um außer Kontrolle geratene Geister aufzuhalten. Ihr macht das indem ihr mit den Menschen vor Ort, der Umwelt oder auch mit anderen Geistern interagiert und so Stück für Stück eine Geschichte konstruiert, die erklärt, warum der Geist sich verändert hat. Auf dem Weg zur Lösung erwarten euch Gefahren, die direkt mit dem jeweiligen Abenteuer zu tun haben, aber auch mit dem Verfall eures Charakters und seinem Kontakt mit der Dämonenwelt. Oberstes Ziel der Fureru ist immer eine friedliche Lösung des Problems.
