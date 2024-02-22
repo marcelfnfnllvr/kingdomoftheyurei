@@ -4,15 +4,16 @@
 
 Immer wenn ein Charakter eine doppelte Sechs würfelt, bekommt er einen Hinweise auf die Welt. Diese Hinweise kann er persönlich sammeln und sich damit eines Tages von seinem Dämon befreien. Die Folgenden Hinweise sind in der Welt verstraut. Sie können als Erzählungen, in Textform aber auch als Visionen auftreten.
 
-\-      Brief einen fremden Königreichs mit Anweisung die Wandere zu beseitigen.
+1. Brief einen fremden Königreichs mit Anweisung die Wandere zu beseitigen.
 
-\-      Ein toter Waldgeist. Ein ca. 30 cm hohes weißes Wesen mit einem riesigen Auge. Er existiert eigentlich nicht auf der Ebene der Menschen.
+2. Ein toter Waldgeist. Ein ca. 30 cm hohes weißes Wesen mit einem riesigen Auge. Er existiert eigentlich nicht auf der Ebene der Menschen.
 
-\-      Im Körper eines Wildschweines wurde eine Metallkugel gefunden. Es scheint daran verendet zu sein.
+3. Im Körper eines Wildschweines wurde eine Metallkugel gefunden. Es scheint daran verendet zu sein.
 
-\-      Brief der Handel mit einem anderen Königreich anbietet. Der Brief ist an der Stelle abgeschnitten, wo Voraussetzungen beschrieben werden.
+4. Brief der Handel mit einem anderen Königreich anbietet. Der Brief ist an der Stelle abgeschnitten, wo Voraussetzungen beschrieben werden.
 
-\-      …
+5. …
+
 
 ## Den Wurf verbessern
 
