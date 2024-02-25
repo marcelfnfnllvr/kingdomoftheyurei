@@ -1,8 +1,6 @@
 # Das Anwesen
 
-[TOC]
-
-#### Schwierigkeit: 14 – ein kurzes und eher einfaches Abenteuer
+Schwierigkeit: 14 – ein kurzes und eher einfaches Abenteuer
 
 ### Spielleiterhinweise:
 
@@ -70,35 +68,55 @@ Wohlgesonnen
 Sind dankbar und haben jetzt mehr Arbeit, wo die Hausgeister fehlen. Waren schon immer hier. Vor dem alten Herrn. Lange vorher. Wiederholen sich. Sie können sich nicht mehr daran erinnern, dass sie mal Hausgeister waren.
 Die anderen Hausgeister denken das beim Ankommen des Herrn 10 von Ihnen verschwunden sind. Dabei haben sich jeweils fünf nur zu den Bediensteten verwandelt.
 
-Die Hausgeister
+##### Die Hausgeister
+
 Sie sprechen alle gleich, denn alle sind gleich.
 Misstrauisch
 Sie werden nicht verraten, ob sie Anwar getötet haben oder nicht. Sie sagen, aber es wäre nicht ihre Art. Es wurde allerdings Unrecht getan. 
 
-Der alte Kater Ito
+##### Der alte Kater Ito
+
 Wohlgesonnen+1
 Dicker Kater kann an verschiedenen Stellen des Hauses zu finden ist.
 Der Kater kann alles wissen ist aber katzenmäßig eher mit Vorsicht anzufassen. Er ist ein Geist und kann mit den Fureru sprechen.
 
-Schauplätze:
-Das Haus
+### Schauplätze:
+
+##### Das Haus
+
 Ungefährlich
-Eröffnungsfrage: Was hier am Haus zeigt euch den wahren Reichtum des Herrn Sugimoto?
-Das Wohnzimmer
+
+> Eröffnungsfrage: Was hier am Haus zeigt euch den wahren Reichtum des Herrn Sugimoto?
+
+##### Das Wohnzimmer
+
 Ungefährlich
-Eröffnungsfrage: Was zeigt euch, dass die Geister trotzdem anwesend sind und nicht verschwunden?
-Das Arbeitszimmer
+
+> Eröffnungsfrage: Was zeigt euch, dass die Geister trotzdem anwesend sind und nicht verschwunden?
+
+##### Das Arbeitszimmer
+
 Gefährlich
-Eröffnungsfrage: Was zeigt euch die tiefe Verbundenheit von Herrn Sugimoto mit den Hausgeistern?
-Der Esszimmer
+
+> Eröffnungsfrage: Was zeigt euch die tiefe Verbundenheit von Herrn Sugimoto mit den Hausgeistern?
+
+##### Der Esszimmer
+
 Ungefährlich
-Eröffnungsfrage: Was zeigt euch das die Familie tief gespalten sein muss in diesem Zimmer?
+
+> Eröffnungsfrage: Was zeigt euch das die Familie tief gespalten sein muss in diesem Zimmer?
+
 Herausforderung: Der Gruppe fällt auf das knapp 10-20 Meter unter dem Fenster etwas auf einem Felsvorsprung liegt. 
-Der Keller als Zwischendemension (nur von Fureru zu sehen)
+
+##### Der Keller als Zwischendemension (nur von Fureru zu sehen)
+
 Gefährlich
-Eröffnungsfrage: Wie sieht die Tür zum Keller aus?
+
+> Eröffnungsfrage: Wie sieht die Tür zum Keller aus?
+
 Herausforderung: Der Keller wird von den Hausgeister schlossen gehalten. Es muss ein Weg gefunden werden dort einzudringen. 
-Hinweise:
+
+### Hinweise:
 
 -	[   ] Ein Brief mit einem Geständnis der verstorbenen Ehefrau einen Hausgeist aus Versehen getötet zu haben. Es ist ungeöffnet.
 -	[   ] Silberbesteck mit Blut darauf.
