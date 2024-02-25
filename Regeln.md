@@ -31,7 +31,49 @@ Der Spielleiter kann dich anweisen bei einer Aufgabe einen zusätzlichen schwarz
 
 ## Der Tod
 
-Sollte ein Charakter den sechsten Köper und Geistpunkt bekommen verstirbt er. Gebt dem Charakter eine gute Abschlussszene und Würfel danach einen neuen aus.
+Sollte ein Charakter den sechsten Köper und Geistpunkt bekommen verstirbt er. Du löst mit deinem Tod den "Phoenix aus der Asche" Spielzug aus.
+
+Du bist gestorben und wieder auferstanden
+
+1. Dein dauerhafter Korruptionswert steigt um eins. Du behältst den Zustand dieser Korruption für immer.
+   1. Sollte den dauerhafter korruptionswert jetzt 6 betragen verstirbt dein Charkter wirklich.
+2. Würfel jeweils einmal auf die Fähigkeiten Tabelle und Würfel dann einen D3 welche Fähigkeit du gegen eine neue tauscht.
+3. Beantworte eine Frage auf der Wiedergeburtstabelle.
+4. Würfel erneut auf die Schwachpunkt Tabelle mit +1.
+5. Würfel erneut auf die Ängste Tabelle.
+6. Das Aussehen deiner Veränderung wird sichtbar stärker.
+7. Setzte Aufstieg wieder zurück.
+
+## Der Aufstieg / Das Leveln
+
+Euer Charakter verdient sich nach jedem Abend Punkte. Diese werden gesammelt und können für einen Aufstieg der Stufe 1, 2 oder 3 ausgegeben werden. Bedenkt allerdings das solltet ihr sterben alle gesammelten Punkte verloren gehen.
+
+Bei jedem Aufstieg
+
+1. Der Aufstiegspunktezähler wird zurückgesetzt.
+2. Deine Korruption wird zurückgesetzt. 
+3. Wenn du es in Einklang mit dem Abenteuer bringen kannst, verliere eine passende Angst.
+4. Erzähle die nächste Narrative auf der Aufstiegstabelle.
+5. Ändere ein Herkunft, Dämonen oder Reittierattribut. (Optional)
+6. Verändere das Aussehen von deiner Veränderung (Optional)
+
+Stufe 1 - Bei 5 gesammelten Punkten
+
+1. Deine dauerhafte Korruption erhöt sich um eine Stufe. Dies passiert ohne zusätzlichen Zustand.
+2. Würfel erneut auf die Schwachpunkt Tabelle mit -1. (Optional)
+
+Stufe 2 - Bei 8 gesammelten Punkten
+
+1. Deine dauerhafte Korruption erhöt sich NICHT um eine Stufe.
+2. Würfel erneut auf die Schwachpunkt Tabelle mit -2. (Optional)
+3. Würfel jeweils einmal auf die Fähigkeiten Tabelle und tausche eine Fähigkeit gegen eine neue. Es darf jede der Fähigkeiten gegen eine neue getauscht werden. (Optional)
+
+Stufe 3 - Bei 12 gesammelten Punkten
+
+1. Du verlierst eine dauerhafte Korruption deiner Wahl.
+2. Würfel erneut auf die Schwachpunkt Tabelle mit -3. (Optional)
+3. Ändere ein weiteres Herkunft, Dämonen oder Reittierattribut. (Optional)
+4. Würfel jeweils zweimal auf die Fähigkeiten Tabelle und tausche eine Fähigkeit gegen eine neue. Es darf jede der Fähigkeiten gegen eine neue getauscht werden. (Optional)
 
 ## Korruption
 
