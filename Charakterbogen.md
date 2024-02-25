@@ -6,7 +6,7 @@
 | --------------- | -------------- |
 |                 |                |
 
-| Wiedergeburten | Aufstiege |
+| Auferstehungen | Aufstiege |
 | -------------- | --------- |
 |                |           |
 
