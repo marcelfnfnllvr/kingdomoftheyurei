@@ -44,9 +44,9 @@ Du bist gestorben und wieder auferstanden
 6. Das Aussehen deiner Veränderung wird sichtbar stärker.
 7. Setzte Aufstieg wieder zurück.
 
-## Der Aufstieg / Das Leveln
+## Der Stufenaufstieg
 
-Euer Charakter verdient sich nach jedem Abend Punkte. Diese werden gesammelt und können für einen Aufstieg der Stufe 1, 2 oder 3 ausgegeben werden. Bedenkt allerdings das solltet ihr sterben alle gesammelten Punkte verloren gehen.
+Euer Charakter verdient sich nach jedem Abend Punkte. Diese werden gesammelt und können für einen Aufstieg der Stufe 1, 2 oder 3 ausgegeben werden. Bedenkt allerdings das solltet ihr sterben alle gesammelten Punkte verloren gehen. Der Stufenaufstieg ist eine Art Alterungsprozess des Charakters. Kein Charakter ist dafür gedacht ewig zu sein. 
 
 Bei jedem Aufstieg
 
@@ -68,7 +68,7 @@ Stufe 2 - Bei 8 gesammelten Punkten
 2. Würfel erneut auf die Schwachpunkt Tabelle mit -2. (Optional)
 3. Würfel jeweils einmal auf die Fähigkeiten Tabelle und tausche eine Fähigkeit gegen eine neue. Es darf jede der Fähigkeiten gegen eine neue getauscht werden. (Optional)
 
-Stufe 3 - Bei 12 gesammelten Punkten
+Stufe 3 - Bei 10 gesammelten Punkten
 
 1. Du verlierst eine dauerhafte Korruption deiner Wahl.
 2. Würfel erneut auf die Schwachpunkt Tabelle mit -3. (Optional)
