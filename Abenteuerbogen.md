@@ -61,5 +61,3 @@ Habt einen ruhigen Moment oder erzählt von einem auf Reisen, um alleine oder ge
 | Hast du eine Situation friedlich deeskaliert?            |         |
 | Hast du dich einem Kampf gestellt und diesen gemeistert? |         |
 | Hast du einen Hinweis auf die Welt erhalten?             |         |
-
-### 
