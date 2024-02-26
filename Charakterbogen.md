@@ -60,24 +60,22 @@
 
 Korruption beschreibt, wie sehr der D&auml;mon von eurem Charakter besitzt ergreift und ihn ver&auml;ndert. Wenn die Korruption steigt, bekommt ihr ebenfalls einen Zustand. Zust&auml;nde zeigen den Geistigen und K&ouml;rperlichen Verfall eures Charakters.
 
-| Stufe |              |
-| ----- | ------------ |
-| 1     | **Zustände** |
-| 2     |              |
-| 3     |              |
-| 4     |              |
-| 5     |              |
-| 6     |              |
+| Stufe      |              |
+| ---------- | ------------ |
+| 1 - [ x ]  | **Zustände** |
+| 2 - [    ] |              |
+| 3 - [    ] |              |
+| 4 - [    ] |              |
+| 5 - [    ] |              |
+| 6 - [    ] |              |
 
-### Zustände abbauen
+### Ehrungen			
 
-Habt einen ruhigen Moment oder erzählt von einem auf Reisen, um alleine oder gemeinsam Korruption abzubauen. Ihr könnt nur so viel Korruption abbauen, wie durch das Gefahrenlevel freigeschaltet ist.
-
-| Level | Beschreibung |
-| ----- | ------------ |
-| 1+    |              |
-|       |              |
-| 3+    |              |
-|       |              |
-| 6+    |              |
+| **Titel** | Attribut |
+| --------- | -------- |
+|           |          |
+|           |          |
+|           |          |
+|           |          |
+|           |          |
 
