@@ -77,11 +77,15 @@ Stufe 3 - Bei 10 gesammelten Punkten
 
 ## Korruption
 
-Korruption beschreibt, wie sehr der Dämon von eurem Charakter besitzt ergreift und ihn verändert.
+Korruption beschreibt, wie sehr der Dämon von eurem Charakter besitzt ergreift und ihn verändert. Der Charakter besitzt immer so viele Zustände wie er Korruption hat.
 
 ## Zustände
 
 Wenn die Korruption steigt, bekommst du ebenfalls einen Zustand. Zustände zeigen den Geistigen und Körperlichen Verfall deines Charakters.
+
+## Zustände abbauen
+
+Habt einen ruhigen Moment oder erzählt von einem auf Reisen, um alleine oder gemeinsam Korruption abzubauen. Ihr könnt nur so viel Korruption abbauen, wie durch das Gefahrenlevel im Abenteuer freigeschaltet ist. Zustände werden nicht automatisch nach einem Abenteuer entfernt. Es können pro Erzählung so viele Zustände entfernt werden wie freigeschaltet sind.
 
 ## Die Doppelsechs – Der Sechserpasch
 

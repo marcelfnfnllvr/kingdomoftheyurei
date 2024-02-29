@@ -64,6 +64,9 @@
 | 10             | Bauer                 | Tiere          | Pflanzen       | Bauernweisheiten    |
 | 11             | Adliger               | Fechten        | Soziales       | Reichtum            |
 | 12             | Scharfrichter         | Gewalt         | Einzelgänger   | Befehlsempfänger    |
+| 13             | Straßenkind           | Wegfinding     | Nahrungssuche  | Schleichen          |
+| 14             | Geisha                |                |                |                     |
+|                |                       | Bedrohlich     |                |                     |
 
 ## Ängste Tabelle
 

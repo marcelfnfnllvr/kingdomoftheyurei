@@ -44,6 +44,8 @@ Es ist möglich das Erfolgslevel des Gegners mithilfe von Fähigkeiten zu senken
 
 Ziel im Kampf ist es mit der Summe der zwei besten Würfel (xD6kh2>=Erfolgslevel) das Ziel des Gegners zu treffen oder zu überbieten. Du kannst Hinweispunkte oder Fähigkeiten dafür einsetzen, um das Ziel des Gegners zu senken. Dies kannst du nur tun, wenn du noch nicht direkt involviert bist. Wenn du es im Kampf tust, zählt dein Würfel diese Kampfrunde nicht zu den weißen dazu. Wenn der Kampf startet, zähle wie viele SCs am Kampf beteiligt sind. Jeder SC gibt einen weißen Kampfwürfel. Du bekommst pro gekämpfter Runde noch einen weiteren Kampfwürfel dazu. Sollte ein Schwachpunkt von einem teilnehmenden SC getroffen werden erhöht sich dessen Korruption um so viele Punkte wie Würfel seinen Schwachpunkt getroffen haben. Charaktere, die während eines Kampfes versterben setzen eine Kampfrunde aus.
 
+## Der „Kampf ist vorbei“ Spielzug
+
 Wenn der Kampf erfolgreich absolviert, wurde Würfel so viele D6 wie das gesenkte Erfolgslevel des Gegners betrug und bekomme einen Hinweis pro gewürfelter 6.
 
 ## Der „Hilfe anbieten“ Spielzug

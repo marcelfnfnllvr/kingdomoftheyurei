@@ -8,7 +8,7 @@
 
 **Abenteuerdauer**: One-Shot / Ein Abend. 
 
-**Datum, Uhrzeit & Spieldauer**: 08.01.2024 ab 18.30 Uhr bis ca. 22.30~23.00 Uhr 
+**Datum, Uhrzeit & Spieldauer**: 08.03.2024 ab 18.30 Uhr bis ca. 22.30~23.00 Uhr 
 
 **Beschreibung**: In Königreich der Yurei schlüpft man in die Rolle von gezeichneten Wanderern, den Fureru, die durch die Welt ziehen und mit Hilfe dämonischer Kräfte versuchen, das Gleichgewicht zwischen Geistern und Menschen aufrechtzuerhalten.
 
@@ -26,4 +26,4 @@ Bitte das Abenteuer NICHT vorher lesen.
 
 Bitte habt Verständnis dafür, dass ich im Zweifelsfall Spieler auswähle, die ich bereits kenne. Es wird kein „Wer zuerst kommt mahlt zuerst“ geben. Ich werde schauen wie viel Interesse hier wirklich besteht und kurz sammeln. Wenn ihr an dem Termin nicht könnt, meldet euch gerne trotzdem.
 
-**Angemeldete Spielerinnen 08.01.2024 0/3**:
+**Angemeldete Spielerinnen 08.03.2024 0/3**:

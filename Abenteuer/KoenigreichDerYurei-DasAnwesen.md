@@ -29,7 +29,9 @@ Es kommen Väterchen und Mütterchen auf euch zugelaufen und begrüßen euch. Si
 -	Die Tochter oder der Sohn drehen durch. Stufe 8.
 -	Ein Raum, in dem sich die Gruppe befindet, kippt und stürzt in die Tiefe. Die Abwesenheit der Hausgeister lässt das Gebäude schneller zerfallen.
 -	Alte Samurai Rüstungen in dem Haus, welche durch die Geister belebt werden.
-  Momente:
+
+### Momente:
+
 -	Das Licht im flackert und ihr habt das Gefühl beobachtet zu werden. Nach einem kurzem Moment scheinen die Lampen wieder normalen aber ein silberner Krug, der vor euch auf einen Kommode stand, fehlt. 
 -	Die untergehende Sonne bricht sich im Fenster und einen Moment ist alles Still. Eine Art Klarheit überkommt euch. Was an diesem Haus erinnert euch an euren eigenen Zerfall durch den Dämonen?
 -	Das Gebäude wackelt leicht und stöhnt, als ob es Schmerzen hätte. 
