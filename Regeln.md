@@ -64,8 +64,8 @@ Stufe 1 - Bei 5 gesammelten Punkten
 
 Stufe 2 - Bei 8 gesammelten Punkten
 
-1. Deine dauerhafte Korruption erhöt sich NICHT um eine Stufe.
-2. Du darfst für eine passende Erzählung eine Angst deiner Wahl verlieren.
+1. Deine dauerhafte Korruption erhöht sich NICHT um eine Stufe.
+2. Du darfst, für eine passende Erzählung, eine Angst deiner Wahl verlieren. (Optional)
 3. Würfel erneut auf die Schwachpunkt Tabelle mit -2. (Optional)
 4. Würfel jeweils einmal auf die Fähigkeiten Tabelle und tausche eine Fähigkeit gegen eine neue. Es darf jede der Fähigkeiten gegen eine neue getauscht werden. (Optional)
 
