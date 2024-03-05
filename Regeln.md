@@ -65,8 +65,9 @@ Stufe 1 - Bei 5 gesammelten Punkten
 Stufe 2 - Bei 8 gesammelten Punkten
 
 1. Deine dauerhafte Korruption erhöt sich NICHT um eine Stufe.
-2. Würfel erneut auf die Schwachpunkt Tabelle mit -2. (Optional)
-3. Würfel jeweils einmal auf die Fähigkeiten Tabelle und tausche eine Fähigkeit gegen eine neue. Es darf jede der Fähigkeiten gegen eine neue getauscht werden. (Optional)
+2. Du darfst für eine passende Erzählung eine Angst deiner Wahl verlieren.
+3. Würfel erneut auf die Schwachpunkt Tabelle mit -2. (Optional)
+4. Würfel jeweils einmal auf die Fähigkeiten Tabelle und tausche eine Fähigkeit gegen eine neue. Es darf jede der Fähigkeiten gegen eine neue getauscht werden. (Optional)
 
 Stufe 3 - Bei 10 gesammelten Punkten
 
@@ -91,14 +92,15 @@ Habt einen ruhigen Moment oder erzählt von einem auf Reisen, um alleine oder ge
 
 Wenn du in einem Wurf zwei Sechsen würfelst, löst du einen zusätzlichen Effekt aus. Dieser kann dich Heilen, einen Zustand entfernen, einen Hinweis geben, das Gefahrenlevel senken oder einen anderen, mit der Spielleitung abgesprochenen, Effekt haben. Zusätzlich wird dir die SL einen Hinweis auf die Welt präsentieren.
 
-## Komplikationszähler/Gefahrenzähler
+## Gefahrenlevel
 
-Steigt immer, wenn in einem Spielzug eine Komplikation ausgelöst wird.
+Das Gefahrenlevel ist ein Zähler der Gefahren in das Abenteuer bringt aber das Abenteuer auch vorzeitig beenden kann. Dieser erhöht sich immer wenn ein Spielzug mit "das Gefahrenlevel steigt um 1" beendet wird. Die Gefahren die die Spielleitung einbringt sollten mit höherer Stufe immer gefährlicher werden. Es könnte sich um einen einfachen Kampf handeln aber auch ein Gebäude kollabieren oder eine Felskante abstürzen.
 
-*Bei 3 kommt es zu einer gefährlichen Situation. Diese kann einen Kampf aber auch eine andersartige Gefahr darstellen.
+| Stufe | Abenteuer ein Abend                                          | Abenteuer zwei Abende                                        |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 3     | Es passiert etwas gefährliches.                              | Es passiert etwas gefährliches.                              |
+| 5     | Es passiert etwas gefährliches.                              | Es passiert etwas gefährliches.                              |
+| 6     | Die Gruppe muss jetzt die Aufgabe lösen. Ein Kampf am Ende ist aber unvermeidlich. Es darf nicht mehr auf eine friedvolle Lösung gewürfelt werden. | -                                                            |
+| 7     | -                                                            | Es passiert etwas gefährliches.                              |
+| 8     | -                                                            | Die Gruppe muss jetzt die Aufgabe lösen. Ein Kampf am Ende ist aber unvermeidlich. Es darf nicht mehr auf eine friedvolle Lösung gewürfelt werden. |
 
-*Bei 5 kommt es zu einer weiteren gefährlichen Situation. Diese kann einen Kampf aber auch eine andersartige Gefahr darstellen.
-
-*Bei 7 kommt es zu einer gefährlich Situation und ab jetzt kommt es bei jedem Anstieg zu einen gefährlichen Situation
-
-*Bei 9 gerät die Gefahr außer Kontrolle und es kommt zum Kampf gegen das volle Abenteuerlevel.
