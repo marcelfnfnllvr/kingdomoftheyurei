@@ -1,5 +1,19 @@
 # Spielbeispiele
 
+## Ablauf einer Session
+
+##### Session 0
+
+Vor der ersten Session, vor allem wenn es sich um einen Oneshot handelt, sollten die CATS an die Spielenden gegeben werden. Außerdem sollten die Lines and Veils abgeklärt werden. So wird die Chance das es Missverständnisse und falsche Erwartungen gibt minimiert.
+
+Auch wenn es Möglich ist seinen Charakter in Gänze zu würfeln tendiere ich dazu bei den Spielenden einen Namen, das Aussehen und ein Reittier abzufragen. Nachdem ich über die CATS an dem Abend das Spiel grob erklärt habe gehe ich meistens auf die Punkte die in der allgemeinen Beschreibung aufgeführt sind noch 10 Minuten näher ein. Auch über die Ton des Abends rede ich noch etwas ausführlicher. Hier ist vor allem wichtig das sich alle auf einen Gemeinsamen einigen und nicht welches das ist. Dieses Regelwerk kann sehr ernst aber auch eher locker gespielt werden. Mir ist immer wichtig das die Spielenden ihre Charaktere ernst nehmen.
+
+Nachdem das geklärt ist werden die Charakter ganz nach dem Kapitel Charaktererstellung erstellt.
+
+##### Session 1
+
+Der SL führt in das Abenteuer. Dafür findet der SL bei jedem Abenteuer den Punkt Eröffnung. 
+
 ## Fähigkeiten nutzen
 
 ##### Ruf des Vergangenen – Lässt dich eine Szene oder einen Gegenstand untersuchen und seine Vergangenheit erleben.
