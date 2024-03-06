@@ -121,7 +121,7 @@
 | 19       | Toki         |
 | 20       | Masae        |
 
-## Merkmale Tabelle
+## Dämonen Tabelle
 
 | **1d20** | **Dämon**   | **Zeichnung**        | **Attribut** |
 | -------- | ----------- | -------------------- | ------------ |
@@ -146,3 +146,31 @@
 | 19       | Amabie      | Schuppige Haut       | Wasserratte  |
 | 20       | Sadako      | Lange schwarze Haare | Klettern     |
 
+## Ehrungen Tabelle
+
+| **1d20** | **Titel** | Attribut |
+| -------- | --------- | -------- |
+| 1        | Toby      |          |
+| 2        | Iwa       |          |
+| 3        | Gabriel   |          |
+| 4        | Fiora     |          |
+| 5        | Kira      |          |
+| 6        | Marie     |          |
+| 7        | Eran      |          |
+| 8        | Koga      |          |
+| 9        | Azai      |          |
+| 10       | Liam      |          |
+| 11       | Okuda     |          |
+| 12       | Nana      |          |
+| 13       | Kana      |          |
+| 14       | Isa       |          |
+| 15       | Kushizu   |          |
+| 16       | Mine      |          |
+| 17       | Efren     |          |
+| 18       | Ishi      |          |
+| 19       | Toki      |          |
+| 20       | Masae     |          |
+
+## Reittier Tabelle
+
+Jupp, hier muss noch ne Tabellle hin.
