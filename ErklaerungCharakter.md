@@ -14,7 +14,7 @@ Es gibt keinen direkten Wert für das Alter eines Charakters. Allerdings zeigt d
 
 ## Der Dämon
 
-Der Dämon ist seit dem Vorfall teil der Charakters. Er wohnt in ihm und versucht ständig, ihn zu beeinflussen. Er...
+Der Dämon ist seit dem Vorfall teil der Charakters. Er wohnt in ihm und versucht ständig, ihn zu beeinflussen.
 
 ## Mechanik und Fluff
 
@@ -22,7 +22,7 @@ Der Charakterbogen enthält verschiedene Felder, die den Charakter beschreiben. 
 
 ## Die Charaktererstellung
 
-Theoretisch ist es natürlich möglich, dass der Spielende ein Veto gegen Würfelergebnisse einlegt. Hier ist zu bedenken, dass mit mehr Einfluss des Spielers auf die Spielfigur die Grundidee etwas verloren geht. Das ist natürlich völlig in Ordnung. Vor allem der Name wird vielen Spielenden sehr wichtig sein. Auf den Zufallstabellen wird in folgender Reihenfolge gewürfelt
+Theoretisch ist es natürlich möglich, dass der Spielende ein Veto gegen Würfelergebnisse einlegt. Hier ist zu bedenken, dass mit mehr Einfluss des Spielers auf die Spielfigur die Grundidee etwas verloren geht. Das ist natürlich völlig in Ordnung. Vor allem der Name wird vielen Spielenden sehr wichtig sein. Auf die Zufallstabellen wird in folgender Reihenfolge gewürfelt
 
 1. Ehrungen Tabelle
 1. Dämonen Tabelle
@@ -61,58 +61,58 @@ Theoretisch ist es natürlich möglich, dass der Spielende ein Veto gegen Würfe
 
 ### Herkunft
 
-| Herkunft | Attribut | Attribut | Attribut |
-| -------- | -------- | -------- | -------- |
-|          |          |          |          |
+| Herkunft                                                     | Attribut                                    | Attribut      | Attribut        |
+| ------------------------------------------------------------ | ------------------------------------------- | ------------- | --------------- |
+| Der Beruf den der Charakter ausgeübt hat bevor er Fureru wurde. | Ein Attribut welches zum Alten Beruf passt. | Ein weiteres. | Und noch eines. |
 
 ### Schwächen
 
-| Angst 1 | Angst 2 |
-| ------- | ------- |
-|         |         |
+| Angst 1                                                | Angst 2             |
+| ------------------------------------------------------ | ------------------- |
+| Eine Angst den der SL für schwarze Würfel nutzen kann. | Eine weitere Angst. |
 
-| Schwachpunkt Numerik | Schwachpunkt Beschreibung |
-| -------------------- | ------------------------- |
-|                      |                           |
+| Schwachpunkt Numerik                                     | Schwachpunkt Beschreibung                            |
+| -------------------------------------------------------- | ---------------------------------------------------- |
+| Der numerische Schwachpunkt der im Kampf verwendet wird. | Wie sich dieser Schwachpunkt an dem Charakter zeigt. |
 
 ### Reittier
 
-| Name | Beschreibung | Attribut |
-| ---- | ------------ | -------- |
-|      |              |          |
+| Name                     | Beschreibung                                                 | Attribut                                                     |
+| ------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Der Name des Reittieres. | Eine kurze Beschreibung des Aussehens und Charakters des Reittiers. | Ein passendes Attribut des Reittiers. Dies kann der SC zu jedem Zeitpunkt als sein eigenes nutzen. |
 
 ### Fähigkeiten
 
-| **Fähigkeiten**            |
-| -------------------------- |
-|                            |
-|                            |
-|                            |
-| **Korruptionsstufe 2**     |
-|                            |
-| **Korruptionsstufe** **3** |
-|                            |
+| **Fähigkeiten**                                              |
+| ------------------------------------------------------------ |
+| Eine physische Fähigkeit die der Charakter bekommt.          |
+| Eine magische Fähigkeit die der Charakter bekommt.           |
+| Eine soziale Fähigkeit die der Charakter bekommt.            |
+| **Korruptionsstufe 2**                                       |
+| Eine weitere Fähigkeit die bei der ersten permanente Korruptionsstufe freigeschaltet wird. |
+| **Korruptionsstufe** **3**                                   |
+| Eine weitere Fähigkeit die bei der zweiten permanente Korruptionsstufe freigeschaltet wird. |
 
 ### Korruption
 
-Korruption beschreibt, wie sehr der D&auml;mon von eurem Charakter besitzt ergreift und ihn ver&auml;ndert. Wenn die Korruption steigt, bekommt ihr ebenfalls einen Zustand. Zust&auml;nde zeigen den Geistigen und K&ouml;rperlichen Verfall eures Charakters.
+Korruption beschreibt, wie sehr der Dämon von eurem Charakter besitzt ergreift und ihn verändert. Wenn die Korruption steigt, bekommt ihr ebenfalls einen Zustand. Zustände zeigen den Geistigen und K&ouml;rperlichen Verfall eures Charakters.
 
-| Stufe      |              |
-| ---------- | ------------ |
-| 1 - [ x ]  | **Zustände** |
-| 2 - [    ] |              |
-| 3 - [    ] |              |
-| 4 - [    ] |              |
-| 5 - [    ] |              |
-| 6 - [    ] |              |
+| Stufe      |                                                              |
+| ---------- | ------------------------------------------------------------ |
+| 1 - [ x ]  | **Zustände**                                                 |
+| 2 - [    ] | Einen Zustand den der SL für zusätzliche schwarze Würfel nutzen kann. |
+| 3 - [    ] | Zustände können zum Beispiel sein:                           |
+| 4 - [    ] | Verängstigt                                                  |
+| 5 - [    ] | Verletzt                                                     |
+| 6 - [    ] | Wütend                                                       |
 
 ### Ehrungen			
 
-| **Titel** | Attribut |
-| --------- | -------- |
-|           |          |
-|           |          |
-|           |          |
-|           |          |
-|           |          |
+| **Titel**                                                 | Attribut                                         |
+| --------------------------------------------------------- | ------------------------------------------------ |
+| Titel den der SC nach Abschluss eines Abenteuers bekommt. | Ein passendes Attribut zum gespielten Abenteuer. |
+|                                                           |                                                  |
+|                                                           |                                                  |
+|                                                           |                                                  |
+|                                                           |                                                  |
 
