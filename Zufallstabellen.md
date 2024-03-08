@@ -16,6 +16,14 @@
 10. –
 11. –
 12. -
+13. -
+14. -
+15. -
+16. -
+17. -
+18. -
+19. -
+20. -
 
 ### Magische Fähigkeiten
 
@@ -31,6 +39,14 @@
 10. Schutz – Errichte einen Schild aus Energie.
 11. Stille – Unterdrücke alle Geräusche in deiner näheren Umgebung.
 12. Ablenkung – Lass deine Stimme an einer anderen Stellen erscheinen.
+13. -
+14. -
+15. -
+16. -
+17. -
+18. -
+19. -
+20. -
 
 ### Soziale Fähigkeiten
 
@@ -47,10 +63,17 @@
 11. –
 12. –
 13. –
+14. -
+15. -
+16. -
+17. -
+18. -
+19. -
+20. -
 
-## Herkunft Tabelle
+## Herkunft Tabelle  & Attributstabelle
 
-| **1d**  **12** | **Herkunft**          | **Attribut 1** | **Attribut 2** | **Attribut 3**      |
+| **1d20** / 1d3 | **Herkunft**          | **Attribut 1** | **Attribut 2** | **Attribut 3**      |
 | -------------- | --------------------- | -------------- | -------------- | ------------------- |
 | 1              | Führer                | Wegfindung     | Nahrungssuche  | Jagen               |
 | 2              | Wache                 | Athletik       | Kraft          | Ausdauernd          |
@@ -61,40 +84,53 @@
 | 7              | Apotheker             | Okkultes       | Kräuterkunde   | Wissen              |
 | 8              | Kleriker              | Symbolik       | Wissen         | Glaube              |
 | 9              | Leibeigener           | Kraft          | Loyal          | Ausdauernd          |
-| 10             | Bauer                 | Tiere          | Pflanzen       | Bauernweisheiten    |
+| 10             | Farmer                | Tiere          | Pflanzen       | Bauernweisheiten    |
 | 11             | Adliger               | Fechten        | Soziales       | Reichtum            |
 | 12             | Scharfrichter         | Gewalt         | Einzelgänger   | Befehlsempfänger    |
-| 13             | Straßenkind           | Wegfinding     | Nahrungssuche  | Schleichen          |
+| 13             | Straßenkind           | Wegfindung     | Nahrungssuche  | Schleichen          |
 | 14             | Geisha                |                |                |                     |
-|                |                       | Bedrohlich     |                |                     |
+| 15             | Gärtner               |                |                |                     |
+| 16             | Schlachter            |                |                |                     |
+| 17             | Samurai               | Bedrohlich     |                |                     |
+| 18             | Handwerker            |                |                |                     |
+| 19             | Koch                  |                |                |                     |
+| 20             | Fischer               |                |                |                     |
 
 ## Ängste Tabelle
 
-| **1d12** | **Angst**                                             |
-| -------- | ----------------------------------------------------- |
-| 1        | Die Angst vor engen, aber auch weiten Räumen          |
-| 2        | Selbst ein Tisch ist dir zu hoch.                     |
-| 3        | Die Angst vor großen Menschenmengen                   |
-| 4        | Angst vor Wasser                                      |
-| 5        | Angst vor Insekten                                    |
-| 6        | Angst vor Ruinen, instabilen Gebäuden oder Strukturen |
-| 7        | Angst gefesselt oder gewürgt zu werden                |
-| 8        | Hochstaplersyndrom – Die Angst davor aufzufliegen     |
-| 9        | Angst vor Feuer                                       |
-| 10       | Angst vor Blut                                        |
-| 11       | Aberglaube - Angst vor Unglückssymbolen               |
-| 12       | Angst vor sozialer Ablehnung                          |
+| 1d20 | **Angst**                                             |
+| ---- | ----------------------------------------------------- |
+| 1    | Die Angst vor engen, aber auch weiten Räumen          |
+| 2    | Selbst ein Tisch ist dir zu hoch.                     |
+| 3    | Die Angst vor großen Menschenmengen                   |
+| 4    | Angst vor Wasser                                      |
+| 5    | Angst vor Insekten                                    |
+| 6    | Angst vor Ruinen, instabilen Gebäuden oder Strukturen |
+| 7    | Angst gefesselt oder gewürgt zu werden                |
+| 8    | Hochstaplersyndrom – Die Angst davor aufzufliegen     |
+| 9    | Angst vor Feuer                                       |
+| 10   | Angst vor Blut                                        |
+| 11   | Aberglaube - Angst vor Unglückssymbolen               |
+| 12   | Angst vor sozialer Ablehnung                          |
+| 13   | Angst vor Katzen                                      |
+| 14   | Angst vor Hunden                                      |
+| 15   |                                                       |
+| 16   |                                                       |
+| 17   |                                                       |
+| 18   |                                                       |
+| 19   |                                                       |
+| 20   |                                                       |
 
 ## Schwachpunkt Tabelle
 
-| **1d6 & 1d2** | **Schwachpunkt**                                             |
-| ------------- | ------------------------------------------------------------ |
-| 1             | Ungünstige Kriegsnarbe \| Wetterfühligkeit                   |
-| 2             | Ein fauler Zahn der unangenehm riecht \| Ungünstige Ausrüstung |
-| 3             | Angeknackste Knöchel \| Eine zitternde Hand                  |
-| 4             | Ausgekugelte Schulter \| Suchtentzug                         |
-| 5             | Eine gebrochene Rippe \| Gehirnerschütterung,  Kopfschmerzen |
-| 6             | Ein offenliegende Wunde \| eine schwere  Infektion/Krankheit |
+| **1d6 / 1d**3 | **Schwachpunkt** 1                    | Schwachpunkt 2         | **Schwachpunkt** 3     |
+| ------------- | ------------------------------------- | ---------------------- | ---------------------- |
+| 1             | Ungünstige Kriegsnarbe                | Wetterfühligkeit       |                        |
+| 2             | Ein fauler Zahn der unangenehm riecht | Ungünstige Ausrüstung  |                        |
+| 3             | Angeknackste Knöchel                  | Eine zitternde Hand    |                        |
+| 4             | Ausgekugelte Schulter                 | Suchtentzug            |                        |
+| 5             | Eine gebrochene Rippe                 | Gehirnerschütterung    |                        |
+| 6             | Ein offenliegende Wunde               | Eine schwere Krankheit | Eine schwere Infektion |
 
 ## Namen Tabelle
 
@@ -173,4 +209,25 @@
 
 ## Reittier Tabelle
 
-Jupp, hier muss noch ne Tabellle hin.
+| **1d20** | **Tier** | Attribut |
+| -------- | -------- | -------- |
+| 1        | Toby     |          |
+| 2        | Iwa      |          |
+| 3        | Gabriel  |          |
+| 4        | Fiora    |          |
+| 5        | Kira     |          |
+| 6        | Marie    |          |
+| 7        | Eran     |          |
+| 8        | Koga     |          |
+| 9        | Azai     |          |
+| 10       | Liam     |          |
+| 11       | Okuda    |          |
+| 12       | Nana     |          |
+| 13       | Kana     |          |
+| 14       | Isa      |          |
+| 15       | Kushizu  |          |
+| 16       | Mine     |          |
+| 17       | Efren    |          |
+| 18       | Ishi     |          |
+| 19       | Toki     |          |
+| 20       | Masae    |          |
