@@ -17,3 +17,10 @@
 - [ ] Hilfe Regel abändern? Oder Okay so?
 - [ ] Fragestellungen: In einem Kampf das Gefahrenlevel um 2 Punkte senke
 - [ ] Ist es wirklich nötig etwas zu ändern? Bei 3 Spielerinnen ist das System gefährlicher.
+- [ ] Partywhipe
+  - [ ] Falls alle versterben
+  - [ ] Die Gruppe verstirbt 2x und das ganze Szenario nimmt den möglichst schlechtesten Asugang
+- [ ] Vogelfedern im Seitendesign/Layout
+- [ ] Lernt die Gruppe nach jedem Abenteuer etwas über die Welt? Darf ihre Welt gestalten
+- [ ] Fragen für die Rast
+  - [ ] Erzähle eine Situation die die Gruppe zum lachen gebrach hat.
