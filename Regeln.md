@@ -36,13 +36,14 @@ Sollte ein Charakter den sechsten Köper und Geistpunkt bekommen verstirbt er. D
 Du bist gestorben und wieder auferstanden
 
 1. Dein dauerhafter Korruptionswert steigt um eins. Du behältst den Zustand dieser Korruption für immer.
-   1. Sollte den dauerhafter korruptionswert jetzt 6 betragen verstirbt dein Charkter wirklich.
+   1. Sollte den dauerhafter korruptionswert jetzt 6 betragen verstirbt dein Charakter.
 2. Würfel jeweils einmal auf die Fähigkeiten Tabelle und Würfel dann einen D3 welche Fähigkeit du gegen eine neue tauscht.
 3. Beantworte eine Frage auf der Wiedergeburtstabelle.
-4. Würfel erneut auf die Schwachpunkt Tabelle mit +1.
-5. Würfel erneut auf die Ängste Tabelle.
+4. Würfel erneut auf die Schwachpunkt Tabelle mit +2.
+5. Würfel deine Ängste komplett neu. Fehlende werden ergänzt.
 6. Das Aussehen deiner Veränderung wird sichtbar stärker.
-7. Setzte Aufstieg wieder zurück.
+7. Würfel auf deine Attribute und dann auf die Attributstabelle. Dieses Attribut ändert sich in ein Dämonenattribut.
+8. Setzte Aufstieg wieder zurück.
 
 ## Der Stufenaufstieg
 
@@ -74,7 +75,8 @@ Stufe 3 - Bei 10 gesammelten Punkten
 1. Du verlierst eine dauerhafte Korruption deiner Wahl.
 2. Würfel erneut auf die Schwachpunkt Tabelle mit -3. (Optional)
 3. Ändere ein weiteres Herkunft, Dämonen oder Reittierattribut. (Optional)
-4. Würfel jeweils zweimal auf die Fähigkeiten Tabelle und tausche eine Fähigkeit gegen eine neue. Es darf jede der Fähigkeiten gegen eine neue getauscht werden. (Optional)
+4. Ein gewandeltes Feld darf wieder in ein normales geändert werden. (Optional)
+5. Würfel jeweils zweimal auf die Fähigkeiten Tabelle und tausche eine Fähigkeit gegen eine neue. Es darf jede der Fähigkeiten gegen eine neue getauscht werden. (Optional)
 
 ## Korruption
 
@@ -90,7 +92,11 @@ Habt einen ruhigen Moment oder erzählt von einem auf Reisen, um alleine oder ge
 
 ## Die Doppelsechs – Der Sechserpasch
 
-Wenn du in einem Wurf zwei Sechsen würfelst, löst du einen zusätzlichen Effekt aus. Dieser kann dich Heilen, einen Zustand entfernen, einen Hinweis geben, das Gefahrenlevel senken oder einen anderen, mit der Spielleitung abgesprochenen, Effekt haben. Zusätzlich wird dir die SL einen Hinweis auf die Welt präsentieren.
+Wenn du in einem Wurf zwei Sechsen würfelst, löst du einen zusätzlichen Effekt aus. 
+
+- Ein Hinweis auf die Welt.
+- Einen Hinweis etablieren für das aktuelle Abenteuer. Der Hinweise darf nicht direkt zur Lösung führen.
+- Einen Zustand entfernen, das Gefahrenlevel senken oder ein anderen, mit der Spielleitung abgesprochenen, Effekt.
 
 ## Gefahrenlevel
 
