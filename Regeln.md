@@ -24,7 +24,7 @@ Wenn du mit dem Würfelergebnis nicht zufrieden bist und ein weißer Würfel der
 Immer wenn die Spielerinnen schlecht würfeln sammelt die Spielleitung Finsternispunkte. Diese kann sie für bestimmte Ereignisse ausgeben um dem Spiel mehr würze zu verleihen.
 
 *1-X
-*2 Finsternispunkte: Ein gefährliches Ereignis.
+*2 Finsternispunkte: Ein gefährliches Ereignis. Aus einem gefährlichen Ereignis könnte ein Gegner der Stufe 8 werden.
 *3 Finsternispunkte: Einen Kampf gegen einen Gegner der Stufe 10.
 *5 Finsternispunkte: Einen Kampf gegen einen Gegner der Stufe 12.
 

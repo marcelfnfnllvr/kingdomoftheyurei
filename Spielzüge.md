@@ -38,9 +38,11 @@ Es ist möglich das Erfolgslevel des Gegners mithilfe von Fähigkeiten zu senken
 
 *5-6 Du senkst das Erfolgslevel um 1.
 
+*6&6 Du senkst das Erfolgslevel um 3.
+
 ## Der „Auf Reisen“ Spielzug
 
-Diese Spielzug darf pro Abenteuer einmalig genutzt werden. Erzählt von einem Moment auf Reisen, um alleine oder gemeinsam Zustände abzubauen.
+Diese Spielzug darf pro Abenteuer einmalig genutzt werden. Erzählt von einem Moment auf Reisen, um alleine oder gemeinsam Zustände abzubauen. Dieser Spielzug gibt dir einen weißen Würfel.
 
 *1-2 Die Spielleitung bekommt einen Finsternispunkt.
 

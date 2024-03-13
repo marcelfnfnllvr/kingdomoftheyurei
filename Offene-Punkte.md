@@ -80,3 +80,7 @@
 
 - [ ] Frage 
   - [ ] Wie bist du in Kontakt mit deinem Dämon gekommen? Wie hast du überlebt?
+
+- [ ] Fragen geteilt in Persönliche, Reisen und Camp?
+
+- [ ] Besser Episoden als Abschnitt?
