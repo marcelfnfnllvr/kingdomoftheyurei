@@ -1,6 +1,6 @@
 # Die Aschegeister
 
-Schwierigkeit: 16 –  Beschreibung wie lang und wie gefährlich das Abenteuer ist.
+Schwierigkeit: 18 – längeres Abenteuer – zwei bis drei Abende
 
 ### Spielleiterhinweise:
 
