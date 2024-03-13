@@ -19,31 +19,38 @@ Immer wenn ein Charakter eine doppelte Sechs würfelt, bekommt er einen Hinweise
 
 Wenn du mit dem Würfelergebnis nicht zufrieden bist und ein weißer Würfel der höchste Würfel des Wurfs ist, darfst du einmalig einen weiteren schwarzen Würfel dem Wurf hinzufügen. Würfel dann komplett neu. Das neue Ergebnis zählt.
 
+## Finsternispunkte
+
+Immer wenn die Spielerinnen schlecht würfeln sammelt die Spielleitung Finsternispunkte. Diese kann sie für bestimmte Ereignisse ausgeben um dem Spiel mehr würze zu verleihen.
+
+*1-X
+*2 Finsternispunkte: Ein gefährliches Ereignis.
+*3 Finsternispunkte: Einen Kampf gegen einen Gegner der Stufe 10.
+*5 Finsternispunkte: Einen Kampf gegen einen Gegner der Stufe 12.
+
 ## Würfel sammeln
 
-Du bekommst einen Würfel für deinen ausgelösten Spielzug. Für ungefährlich Spielzüge gibt es einen weißen und für gefährliche einen schwarzen Würfel. Dann bekommst du einen zweiten Würfel für ein passendes Attribut. Je nach Attribut könnte dieser weiß oder schwarz sein. Den dritten Würfel bekommst du entweder durch eine Angst, einen Zustand oder ein Ritual.
+Du bekommst einen Würfel für deinen ausgelösten Spielzug. Für ungefährlich Spielzüge gibt es einen weißen und für gefährliche einen schwarzen Würfel. Dann bekommst du einen zweiten Würfel für ein passendes Attribut. Je nach Attribut könnte dieser weiß oder schwarz sein. Den dritten Würfel bekommst du entweder durch eine Angst oder einen Zustand.
 
-1D6 [Spielzug] +1D6 [Attribut] + 1D6 [Angst, Zustand oder Ritual]
+1D6 [Spielzug] +1D6 [Attribut] + 1D6 [Angst oder Zustand]
 
 ## Der schwarze Würfel
 
 Der Spielleiter kann dich anweisen bei einer Aufgabe einen zusätzlichen schwarzen Würfel zu verwenden, wenn entweder deine Furcht oder einer deiner Zustände die Aufgabe beeinflusst.
 
-## Der Tod
+## Außer Gefecht gesetzt
 
-Sollte ein Charakter den sechsten Köper und Geistpunkt bekommen verstirbt er. Du löst mit deinem Tod den "Phoenix aus der Asche" Spielzug aus.
+Sollte ein Charakter sechs Korruption erreichen wird er außer Gefecht gesetzt. Es erfordert einen "Sich dem Risiko aussetzen" Wurf eines anderen Spielers um dem Spieler wieder aufzuhelfen. In dieser Zeit ergreift der Dämon besitzt und verändert den SC nachhaltig. 
 
-Du bist gestorben und wieder auferstanden
-
-1. Dein dauerhafter Korruptionswert steigt um eins. Du behältst den Zustand dieser Korruption für immer.
-   1. Sollte den dauerhafter korruptionswert jetzt 6 betragen verstirbt dein Charakter.
-2. Würfel jeweils einmal auf die Fähigkeiten Tabelle und Würfel dann einen D3 welche Fähigkeit du gegen eine neue tauscht.
-3. Beantworte eine Frage auf der Wiedergeburtstabelle.
-4. Würfel erneut auf die Schwachpunkt Tabelle mit +2.
-5. Würfel deine Ängste komplett neu. Fehlende werden ergänzt.
-6. Das Aussehen deiner Veränderung wird sichtbar stärker.
-7. Würfel auf deine Attribute und dann auf die Attributstabelle. Dieses Attribut ändert sich in ein Dämonenattribut.
-8. Setzte Aufstieg wieder zurück.
+1. Der Körper und der Geist deines Charakters altern. Erhöhe Abschnitt um eins.
+   1. Sollte dein Charakter jetzt im sechstens Abschnitt seines Lebens sein ist er zu Müde und geschafft um fortzufahren. Wie sieht der Lebensabend eines Charakters aus?
+2. Erzähle die nächste Narrative auf der Abschnittstabelle.
+3. Dein Abschnittsattribut wird neu bestimmt und ist jetzt schwarz.
+4. Würfel jeweils einmal auf die Fähigkeiten Tabelle und Würfel dann einen D3 welche Fähigkeit du gegen eine neue tauscht.
+5. Würfel erneut auf die Schwachpunkt Tabelle mit +2.
+6. Fehlende Ängste werden neu gewürfelt.
+7. Das Aussehen deiner Veränderung wird sichtbar stärker.
+8. Setzte deine Aufstiegspunkte wieder zurück.
 
 ## Der Stufenaufstieg
 
@@ -52,35 +59,33 @@ Euer Charakter verdient sich nach jedem Abend Punkte. Diese werden gesammelt und
 Bei jedem Aufstieg
 
 1. Der Aufstiegspunktezähler wird zurückgesetzt.
-2. Deine Korruption wird zurückgesetzt. 
+2. Deine Zustände werden zurückgesetzt. 
 3. Wenn du es in Einklang mit dem Abenteuer bringen kannst, verliere eine passende Angst.
-4. Erzähle die nächste Narrative auf der Aufstiegstabelle.
+4. Erzähle die nächste Narrative auf der Abschnittstabelle.
 5. Ändere ein Herkunft, Dämonen oder Reittierattribut. (Optional)
 6. Verändere das Aussehen von deiner Veränderung (Optional)
+7. Erhöhe deinen Abschnittszähler um eins.
 
 Stufe 1 - Bei 5 gesammelten Punkten
 
-1. Deine dauerhafte Korruption erhöt sich um eine Stufe. Dies passiert ohne zusätzlichen Zustand.
-2. Würfel erneut auf die Schwachpunkt Tabelle mit -1. (Optional)
+1. Würfel erneut auf die Schwachpunkt Tabelle mit -1. (Optional)
 
 Stufe 2 - Bei 8 gesammelten Punkten
 
-1. Deine dauerhafte Korruption erhöht sich NICHT um eine Stufe.
-2. Du darfst, für eine passende Erzählung, eine Angst deiner Wahl verlieren. (Optional)
+1. Du darfst, für eine passende Erzählung, eine Angst deiner Wahl verlieren. (Optional)
 3. Würfel erneut auf die Schwachpunkt Tabelle mit -2. (Optional)
 4. Würfel jeweils einmal auf die Fähigkeiten Tabelle und tausche eine Fähigkeit gegen eine neue. Es darf jede der Fähigkeiten gegen eine neue getauscht werden. (Optional)
 
 Stufe 3 - Bei 10 gesammelten Punkten
 
-1. Du verlierst eine dauerhafte Korruption deiner Wahl.
-2. Würfel erneut auf die Schwachpunkt Tabelle mit -3. (Optional)
+1. Würfel erneut auf die Schwachpunkt Tabelle mit -3. (Optional)
 3. Ändere ein weiteres Herkunft, Dämonen oder Reittierattribut. (Optional)
-4. Ein gewandeltes Feld darf wieder in ein normales geändert werden. (Optional)
+4. Das Abschnittsattribut darf wieder in ein normales geändert werden. (Optional)
 5. Würfel jeweils zweimal auf die Fähigkeiten Tabelle und tausche eine Fähigkeit gegen eine neue. Es darf jede der Fähigkeiten gegen eine neue getauscht werden. (Optional)
 
 ## Korruption
 
-Korruption beschreibt, wie sehr der Dämon von eurem Charakter besitzt ergreift und ihn verändert. Der Charakter besitzt immer so viele Zustände wie er Korruption hat.
+Korruption beschreibt, wie sehr der Dämon von eurem Charakter besitzt ergreift und ihn verändert. Der Charakter besitzt immer so viele Zustände wie er Korruption besitzt.
 
 ## Zustände
 
@@ -88,7 +93,11 @@ Wenn die Korruption steigt, bekommst du ebenfalls einen Zustand. Zustände zeige
 
 ## Zustände abbauen
 
-Habt einen ruhigen Moment oder erzählt von einem auf Reisen, um alleine oder gemeinsam Korruption abzubauen. Ihr könnt nur so viel Korruption abbauen, wie durch das Gefahrenlevel im Abenteuer freigeschaltet ist. Zustände werden nicht automatisch nach einem Abenteuer entfernt. Es können pro Erzählung so viele Zustände entfernt werden wie freigeschaltet sind.
+Du kannst Zustände auf drei verschieden Arten abbauen.
+
+1. Beantworte eine oder zwei Zustands Fragen des Abenteuers.
+2. Reduziere einen Zustand wenn du einen Sechspasch würfelst.
+3. Nutze einmalig im Abenteuer den Spielzug "Auf Reisen".
 
 ## Die Doppelsechs – Der Sechserpasch
 
@@ -96,17 +105,4 @@ Wenn du in einem Wurf zwei Sechsen würfelst, löst du einen zusätzlichen Effek
 
 - Ein Hinweis auf die Welt.
 - Einen Hinweis etablieren für das aktuelle Abenteuer. Der Hinweise darf nicht direkt zur Lösung führen.
-- Einen Zustand entfernen, das Gefahrenlevel senken oder ein anderen, mit der Spielleitung abgesprochenen, Effekt.
-
-## Gefahrenlevel
-
-Das Gefahrenlevel ist ein Zähler der Gefahren in das Abenteuer bringt aber das Abenteuer auch vorzeitig beenden kann. Dieser erhöht sich immer wenn ein Spielzug mit "das Gefahrenlevel steigt um 1" beendet wird. Die Gefahren die die Spielleitung einbringt sollten mit höherer Stufe immer gefährlicher werden. Es könnte sich um einen einfachen Kampf handeln aber auch ein Gebäude kollabieren oder eine Felskante abstürzen.
-
-| Stufe | Abenteuer ein Abend                                          | Abenteuer zwei Abende                                        |
-| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 3     | Es passiert etwas gefährliches.                              | Es passiert etwas gefährliches.                              |
-| 5     | Es passiert etwas gefährliches.                              | Es passiert etwas gefährliches.                              |
-| 6     | Die Gruppe muss jetzt die Aufgabe lösen. Ein Kampf am Ende ist aber unvermeidlich. Es darf nicht mehr auf eine friedvolle Lösung gewürfelt werden. | -                                                            |
-| 7     | -                                                            | Es passiert etwas gefährliches.                              |
-| 8     | -                                                            | Die Gruppe muss jetzt die Aufgabe lösen. Ein Kampf am Ende ist aber unvermeidlich. Es darf nicht mehr auf eine friedvolle Lösung gewürfelt werden. |
-
+- Entferne einen Zustand.

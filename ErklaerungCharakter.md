@@ -28,7 +28,7 @@ Theoretisch ist es natürlich möglich, dass der Spielende ein Veto gegen Würfe
 1. Dämonen Tabelle
 1. Herkunft Tabelle
 1. zwei Mal auf die Schwächen Tabelle 
-1. Reittier Tabelle
+1. Reittier Tabelle - Hier hat die Spieler:in die Mögli
 1. Fähigkeiten Tabelle
    1. für physische Fähigkeiten
    1. für magische Fähigkeiten

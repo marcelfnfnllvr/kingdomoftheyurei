@@ -31,14 +31,14 @@
 
 Habt einen ruhigen Moment oder erzählt von einem auf Reisen, um alleine oder gemeinsam Korruption abzubauen. Ihr könnt nur so viel Korruption abbauen, wie durch das Gefahrenlevel freigeschaltet ist.
 
-| Level | Beschreibung |
-| ----- | ------------ |
-| 1+    |              |
-|       |              |
-| 3+    |              |
-|       |              |
-| 5+    |              |
-| 7+    |              |
+| Level     | Beschreibung |
+| --------- | ------------ |
+| Abenteuer |              |
+| 1+        |              |
+| 3+        |              |
+| 5+        |              |
+| 7+        |              |
+|           |              |
 
 ### Ende der Sitzung
 

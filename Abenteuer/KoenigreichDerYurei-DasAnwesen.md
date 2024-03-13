@@ -133,6 +133,6 @@ Herausforderung: Der Keller wird von den Hausgeister schlossen gehalten. Es muss
 -	[   ] Der Hausherr ist über 120 Jahre alt.
 -	[   ] Die Erben hassen die Hausgeister.
 -	[   ] Das Zeichen der Hausgeister auf dem Nacken des toten.
--	[   ] Vor Jahrzenten als der alte Herr das Haus übernommen hat verschwanden 10 Hausgeister spurlos. 
+-	[   ] Vor Jahrzehnten als der alte Herr das Haus übernommen hat verschwanden 10 Hausgeister spurlos. 
 -	[   ] Ein Buch in dem beschrieben wird, einen Geist zu konsumieren verlängert das Leben. Es gibt dort auch Anleitungen.
 -	[   ] Mütterchen und Väterchen haben eine Geisterhafte Aura.
