@@ -22,7 +22,7 @@ Wenn dir eine Person misstrauisch gegenüber ist oder du etwas Riskantes machen 
 
 ## Der „Eine Fähigkeit nutzen“ Spielzug
 
-Besprich mit der Spielleitung welchen Effekt du mit deiner Fähigkeit erzielen möchtest. Die Spielleitung wird dir mitteilen welche negative Komplikation scheitern hätte. Du bekommst einen schwarzen Würfel von diesem Spielzug.
+Besprich mit der Spielleitung welchen Effekt du mit deiner Fähigkeit erzielen möchtest. Du bekommst einen schwarzen Würfel von diesem Spielzug.
 
 *Es passiert in jedem Fall, was du wolltest.
 
