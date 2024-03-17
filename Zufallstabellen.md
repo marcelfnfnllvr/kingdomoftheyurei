@@ -123,14 +123,14 @@
 
 ## Schwachpunkt Tabelle
 
-| **1d6 / 1d**3 | **Schwachpunkt** 1                    | Schwachpunkt 2         | **Schwachpunkt** 3     |
-| ------------- | ------------------------------------- | ---------------------- | ---------------------- |
-| 1             | Ungünstige Kriegsnarbe                | Wetterfühligkeit       |                        |
-| 2             | Ein fauler Zahn der unangenehm riecht | Ungünstige Ausrüstung  |                        |
-| 3             | Angeknackste Knöchel                  | Eine zitternde Hand    |                        |
-| 4             | Ausgekugelte Schulter                 | Suchtentzug            |                        |
-| 5             | Eine gebrochene Rippe                 | Gehirnerschütterung    |                        |
-| 6             | Ein offenliegende Wunde               | Eine schwere Krankheit | Eine schwere Infektion |
+| **1d6 / 1d**3 | Modifikator | **Schwachpunkt** 1                    | Schwachpunkt 2         | **Schwachpunkt** 3     |
+| ------------- | ----------- | ------------------------------------- | ---------------------- | ---------------------- |
+| 1             | -2          | Ungünstige Kriegsnarbe                | Wetterfühligkeit       |                        |
+| 2             | -1          | Ein fauler Zahn der unangenehm riecht | Ungünstige Ausrüstung  |                        |
+| 3             | 0           | Angeknackste Knöchel                  | Eine zitternde Hand    |                        |
+| 4             | 0           | Ausgekugelte Schulter                 | Suchtentzug            |                        |
+| 5             | +1          | Eine gebrochene Rippe                 | Gehirnerschütterung    |                        |
+| 6             | +2          | Ein offenliegende Wunde               | Eine schwere Krankheit | Eine schwere Infektion |
 
 ## Namen Tabelle
 

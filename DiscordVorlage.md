@@ -27,3 +27,33 @@ Bitte das Abenteuer NICHT vorher lesen.
 Bitte habt Verständnis dafür, dass ich im Zweifelsfall Spieler auswähle, die ich bereits kenne. Es wird kein „Wer zuerst kommt mahlt zuerst“ geben. Ich werde schauen wie viel Interesse hier wirklich besteht und kurz sammeln. Wenn ihr an dem Termin nicht könnt, meldet euch gerne trotzdem.
 
 **Angemeldete Spielerinnen 08.03.2024 0/3**:
+
+
+
+**Abenteuername**: Gute Frage.
+
+**Regelwerk**: AGON
+
+**Voraussetzung**: Wir spielen über Foundry VTT. Ihr braucht nur einen Webbrowser und eine Internetverbindung.
+
+**Regelkenntnisse**: Nicht notwendig / Für Neueinsteiger geeignet
+
+**Abenteuerdauer**: One-Shot / Ein Abend. 
+
+**Datum, Uhrzeit & Spieldauer**: 29.03.2024 ab 18.30 Uhr bis ~23.00 Uhr 
+
+**Beschreibung**: Aus den Nebeln am Anbeginn der Zeit singt uns die Dichtkunst von den großen Taten mächtiger Held:innen – von erschlagenen Ungeheuern, von wiederhergestellter Gerechtigkeit, von weisem Rat und Listenreichtum, von Kühnheit, Tapferkeit und Wagemut – den Gottheiten selbst zum Trotz. In Agon erschafft ihr genau solche Held:innen und entwickelt die Erzählungen um ihre Taten zu unsterblichen Sagen und Epen. 
+
+Ihr seid die sagenhaften Held:innen eurer Epoche, die die Möglichkeit bekommen, Größe zu beweisen – in diesen vergessenen Landen die Dinge wieder ins rechte Lot zu rücken, sich in den Konflikten zu beweisen, die von Gottheiten, Ungeheuern oder gewöhnlichen Sterblichen an sie herangetragen werden, und den Weg nach Hause zu erkämpfen.
+
+Zitiert von System-Matters.de
+
+**Charaktererstellung**: Erstellen wir am Anfang gemeinsam.
+
+**Was erwartet mich**? Ich möchte das System gerne ausprobieren. Wer sich vorher etwas Informieren möchte kann gerne die Podcastfolge der Jungs hören. Es wird an viele stellen experimentell werden.
+
+Ich denke der Ton des Abends wird eher ein lockerer sein.
+
+**Safety-Tools**: Falls ihr Tabuthemen habt, teilt mir diese bitte vorher per Direktnachricht mit. Falls ihr keinen Spaß habt oder euch die Situation/Themen unangenehm sind, habt ihr natürlich jederzeit die Möglichkeit auszusteigen. Eine kurze Direktnachricht an mich wäre in diesem Fall nett, damit ich weiß das ihr nicht einfach aussteigt. 
+
+**Angemeldete Spielerinnen 29.03.2024 0/4**:

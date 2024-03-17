@@ -42,7 +42,7 @@ Es ist möglich das Erfolgslevel des Gegners mithilfe von Fähigkeiten zu senken
 
 ## Der „Auf Reisen“ Spielzug
 
-Diese Spielzug darf pro Abenteuer einmalig genutzt werden. Erzählt von einem Moment auf Reisen, um alleine oder gemeinsam Zustände abzubauen. Dieser Spielzug gibt dir einen weißen Würfel.
+Diese Spielzug darf pro Abenteuer einmalig genutzt werden. Erzählt von einem Moment auf Reisen, um alleine oder gemeinsam Zustände abzubauen. Dieser Spielzug gibt dir einen weißen Würfel. Um einen weiteren Würfel zu bekommen muss die Erzählung etwas mit dem Attribut zu tun haben.
 
 *1-2 Die Spielleitung bekommt einen Finsternispunkt.
 

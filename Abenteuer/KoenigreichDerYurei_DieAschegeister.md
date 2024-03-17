@@ -14,6 +14,10 @@ Das ganze Dorf wird von den Aschegeister überrannt die jeden mit sich reisen un
 
 Aschegeist - Feuerfest
 
+### Zustandsfrage
+
+Wann war dein Charakter das erste Mal in einem Onsen und wie war es für ihn?
+
 ### Eröffnung:
 
 Ihr seid auf dem Weg in das Dorf „Supa“. Es ist berühmt für sein schönes Bad welches vielen Gästen angenehme Stunden bereitet. 
@@ -94,7 +98,7 @@ Ungefährlich
 
 > Eröffnungsfrage: Was lädt euch dazu ein sofort ein Bad zu nehmen?
 
-##### Das Massgetempel - mit großen grünen Gärten
+##### Das Massagetempel - mit großen grünen Gärten
 
 Ungefährlich
 
@@ -125,26 +129,26 @@ Herausforderung: Der Weg nach Oben ist beschwerlich. Leicht können sich Lavastr
 ### Hinweise:
 
 -	[  ] Berichte zeigen einen alten Konflikt zwischen zwei Völkern die hier um das Land gekämpft haben sollen.
--	[  x] Die Gestalt scheint eine Frau zu sein der lange schwarze Haare ins Gesicht hängen. Ihre Haut blättert langsam ab und sie scheint zu zerfallen.
--	[ x ] Es dauert ungefähr eine Minute bis die Person verstirbt.
+-	[  ] Die Gestalt scheint eine Frau zu sein der lange schwarze Haare ins Gesicht hängen. Ihre Haut blättert langsam ab und sie scheint zu zerfallen.
+-	[  ] Es dauert ungefähr eine Minute bis die Person verstirbt.
 -	[  ] Das Dorf wurde vor ca. 100 Jahren auf den Ruinen eines andere Dorfes erbaut.
 -	[  ] Die Sichtung von Irrlichtern hier in der Gegend ist massiv angestiegen nachdem das Unglück geschehen ist.
--	[ x ] Die Formel der Mixtur für die Lampen wurde kürzlich geändert.
+-	[  ] Die Formel der Mixtur für die Lampen wurde kürzlich geändert.
 -	[  ] Es werden vermehrt tote Schwarzsandfüchse gesehen. Diese sind ungenießbare und wirken komisch verändert.
--	[ x ] Das Sekret der Dunkelglüher soll heilende Kräfte besitzen.
--	[ x ] Jemand hat einen älteren Mann grazil und wie ein Steinbock die Wände des Berges hochlaufen sehen.
+-	[  ] Das Sekret der Dunkelglüher soll heilende Kräfte besitzen.
+-	[  ] Jemand hat einen älteren Mann grazil und wie ein Steinbock die Wände des Berges hochlaufen sehen.
 -	[  ] Die Quellen sollen früher wärmer gewesen sein.
 -	[  ] Ein zerbrochenes heiliges Schutzsymbol.
 -	[  ] Natürliche Filteranlage die das Badewasser aussiebt. Sie ist mit einer merkwürdig schleimigen Substanz voll.
--	[ x ] Die Frau des Badehausbesitzers ist seit einer Weile verschwunden.
--	[ x ] Kurz vor dem Tod summt das Wesen ein Kinderlied
--	[x  ] Dunkelglüher sollen die Seelen der verstorbenen in den Himmel tragen.
--	[ x ] Ausgerissene Federn von einem Ascheraben.
+-	[  ] Die Frau des Badehausbesitzers ist seit einer Weile verschwunden.
+-	[  ] Kurz vor dem Tod summt das Wesen ein Kinderlied
+-	[  ] Dunkelglüher sollen die Seelen der verstorbenen in den Himmel tragen.
+-	[  ] Ausgerissene Federn von einem Ascheraben.
 -	[  ] Ein Weg dem schwer zu Folgen ist. Er bildet eine Schleife und führt wieder in das Dorf.
 -	[  ] Ein Händler bringt wohlschmeckende Bohnenpaste in das Dorf.
--	[ x ] Eine Unterhaltung oder ein Briefverkehr der Naheliegt das den Bewohnen die Besucher nicht passen.
+-	[  ] Eine Unterhaltung oder ein Briefverkehr der Naheliegt das den Bewohnen die Besucher nicht passen.
 -	[  ] Eine Händleruniform mit Tragegurten für den Rücken.
--	[ x ] Lichtpunkte, fast wie große Feuer, werden vermehrt in den Bergen gesehen.
--	[ x ] Nachts sind vermehrt menschenähnliche Aschegestalten nahe dem Dorf zu sehen.
+-	[  ] Lichtpunkte, fast wie große Feuer, werden vermehrt in den Bergen gesehen.
+-	[  ] Nachts sind vermehrt menschenähnliche Aschegestalten nahe dem Dorf zu sehen.
 -	[  ] Die toten werden in der Erde vergraben und nicht wie üblich verbrannt.
--	[ x ] Das Wasser des Badehauses soll heilende Kräfte besitzen.
+-	[  ] Das Wasser des Badehauses soll heilende Kräfte besitzen.

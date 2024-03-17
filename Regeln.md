@@ -62,7 +62,7 @@ Bei jedem Aufstieg
 2. Deine Zustände werden zurückgesetzt. 
 3. Wenn du es in Einklang mit dem Abenteuer bringen kannst, verliere eine passende Angst.
 4. Erzähle die nächste Narrative auf der Abschnittstabelle.
-5. Ändere ein Herkunft, Dämonen oder Reittierattribut. (Optional)
+5. Ändere das Abschnittsattribut. (Optional)
 6. Verändere das Aussehen von deiner Veränderung (Optional)
 7. Erhöhe deinen Abschnittszähler um eins.
 
