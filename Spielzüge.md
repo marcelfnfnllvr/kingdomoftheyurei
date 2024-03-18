@@ -48,7 +48,7 @@ Diese Spielzug darf pro Abenteuer einmalig genutzt werden. Erzählt von einem Mo
 
 *3-4 Du darfst die letzten zwei Zustände entfernen. 
 
-*5-6 Du darfst die letzten vier Zustände entfernen. Die Spielleitung gibt dir einen Hinweis.
+*5-6 Du darfst die letzten drei Zustände entfernen. Die Spielleitung gibt dir einen Hinweis.
 
 ## Der „Sich dem Kampf stellen“ Spielzug
 
@@ -56,11 +56,11 @@ Ziel im Kampf ist es mit der Summe der zwei besten Würfel (xD6kh2>=Erfolgslevel
 
 ## Der „Der Kampf ist vorbei“ Spielzug
 
-Wenn der Kampf erfolgreich absolviert wurde, würfel so viele D6 wie das gesenkte Erfolgslevel des Gegners betrug und bekomme einen Hinweis pro gewürfelter 6.
+Wenn der Kampf erfolgreich absolviert wurde, würfle so viele D6 wie das gesenkte Erfolgslevel des Gegners betrug und bekomme einen Hinweis pro gewürfelter 6.
 
 ## Der „Hilfe anbieten“ Spielzug
 
-Du würfelst mit einem weißen Würfel und dieser wird dem Wurf des anderen Spielers hinzugefügt. Solltest du das Ergebnis des schwarzen Würfels treffen bekommst du einen Zustand.
+Hilf einem anderen Spieler indem du mit einem passenden Attributs Würfel würfelst. Das Ergebnis zählt als Ergebnis für den anderen Spieler. Solltest du das Ergebnis des schwarzen Würfels treffen, oder mit einem schwarzen Würfel werfen bekommst du einen Zustand.
 
 ## Der „Die Aufgabe lösen“ Spielzug
 
@@ -70,6 +70,6 @@ Um zu wissen, ob eure Lösung funktioniert, wirft der Älteste 2D6 und bildet di
 
 Außerdem darf jeder Spielende nach einem Abenteuer folgende Schritte durchführen:
 
-1. Du darfst aufgebaute Korruption durch den „Zustände abbauen“ Spielzug abbauen, solange das Gefahrenlevel dies zulässt. 
+1. Du darfst aufgebaute Zustände durch den „Auf Reisen“ Spielzug abbauen, solange das Gefahrenlevel dies zulässt und du den Spielzug noch nicht im Abenteuer genutzt hast. 
 2. Du darfst deinen Titel wechseln.
 3. Du schaust ob die du ausgewählten Fragen beim Ende der Sitzung erfüllt hast und steigst eventuell auf.

@@ -71,5 +71,9 @@
   - [ ] Die Welt
   - [ ] Die Mechanik
     - [ ] Ein D6 Würfelsystem welches mit Spielzügen arbeitet und auf Attribute und nicht auf klassisch numerische Werte setzt.
+- [ ] Abschnitt
+  - [ ] Kapitel
+  - [ ] Schlüsselmomente
+  - [ ] Momente
 
 

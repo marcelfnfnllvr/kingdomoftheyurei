@@ -2,6 +2,8 @@
 
 Schwierigkeit: 18 – längeres Abenteuer – zwei bis drei Abende
 
+Gesammelte Finsternispunkte: [   ]
+
 ### Spielleiterhinweise:
 
 Die Gruppe befindet sich in einem Dorf am Rande einer Vulkanwüste. Die Menschen hier sterben seit einigen Monaten auf unerklärliche Weise. Es gibt berichte das sie Geister sehen bevor sie sterben. Allerdings kann wohl nur die sterbende Person diesen Geist sehen. Nachdem die Person gestorben ist, fängt ihre Haut an zu brennen und sie steht wieder auf. Lediglich das komplette Löschen mit Wasser lässt sie für immer ruhen. Während die Gruppe dort ist, stirbt eine Person genau vor ihren Augen. So haben sie die Chance diese genauer zu befragen.
@@ -86,41 +88,23 @@ Ein riesiger Rabe der auch eine rote glühende Schwanzspitze aufweist. Er weiß 
 
 ##### Aschefeld mit schwarzem Sand
 
-Gefährlich
-
 > Eröffnungsfrage: Welche Tierart findet ihr hier, in einer dunklen Form, die ihr nicht vermutet hättet?
 
 Herausforderung: Es gilt sich um die Lavaströme und heiße Fontänen herum zu bewegen.
 
 ##### Das Badehaus
 
-Ungefährlich
-
-> Eröffnungsfrage: Was lädt euch dazu ein sofort ein Bad zu nehmen?
-
-##### Das Massagetempel - mit großen grünen Gärten
-
-Ungefährlich
-
 > Eröffnungsfrage: Was lädt euch dazu ein sofort ein Bad zu nehmen?
 
 ##### Das Dorf
 
-Ungefährlich
-
 > Eröffnungsfrage: Was am Dorf lädt euch zum verweilen ein.
 
-Herausforderung: Es gilt sich um die Lavaströme und heiße Fontänen herum zu bewegen.
-
 ##### Das Izakaja
-
-Ungefährlich
 
 > Eröffnungsfrage: Welche wohlschmeckenden Speise aus seiner Kindheit bestellt sich euer Charakter
 
 ##### Die Berge
-
-Gefährlich
 
 > Eröffnungsfrage: Welche Überreste vergangener Traditionen findet ihr beim Aufstieg?
 
@@ -132,7 +116,7 @@ Herausforderung: Der Weg nach Oben ist beschwerlich. Leicht können sich Lavastr
 -	[  ] Die Gestalt scheint eine Frau zu sein der lange schwarze Haare ins Gesicht hängen. Ihre Haut blättert langsam ab und sie scheint zu zerfallen.
 -	[  ] Es dauert ungefähr eine Minute bis die Person verstirbt.
 -	[  ] Das Dorf wurde vor ca. 100 Jahren auf den Ruinen eines andere Dorfes erbaut.
--	[  ] Die Sichtung von Irrlichtern hier in der Gegend ist massiv angestiegen nachdem das Unglück geschehen ist.
+-	[  ] Die Sichtung von Dunkelglüher hier in der Gegend ist massiv angestiegen nachdem das Unglück geschehen ist.
 -	[  ] Die Formel der Mixtur für die Lampen wurde kürzlich geändert.
 -	[  ] Es werden vermehrt tote Schwarzsandfüchse gesehen. Diese sind ungenießbare und wirken komisch verändert.
 -	[  ] Das Sekret der Dunkelglüher soll heilende Kräfte besitzen.
@@ -147,6 +131,7 @@ Herausforderung: Der Weg nach Oben ist beschwerlich. Leicht können sich Lavastr
 -	[  ] Ein Weg dem schwer zu Folgen ist. Er bildet eine Schleife und führt wieder in das Dorf.
 -	[  ] Ein Händler bringt wohlschmeckende Bohnenpaste in das Dorf.
 -	[  ] Eine Unterhaltung oder ein Briefverkehr der Naheliegt das den Bewohnen die Besucher nicht passen.
+-	[  ] Die Tochter des Onsen Besitzers scheint krank zu sein.
 -	[  ] Eine Händleruniform mit Tragegurten für den Rücken.
 -	[  ] Lichtpunkte, fast wie große Feuer, werden vermehrt in den Bergen gesehen.
 -	[  ] Nachts sind vermehrt menschenähnliche Aschegestalten nahe dem Dorf zu sehen.

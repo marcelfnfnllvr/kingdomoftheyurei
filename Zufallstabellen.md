@@ -28,7 +28,7 @@
 ### Magische Fähigkeiten
 
 1. Ein ruhiger Geist – Lässt dich auf deinen inneren Geist hören. 
-2. Tief durchatmen – Heile sofort eine Korruption. Im Kampf anwendbar.
+2. Tief durchatmen – Heile sofort eine Zustand. Im Kampf anwendbar.
 3. Durch die Augen des Zwielichts – Sehe was die Bedrohung sah/sieht.
 4. Elementarbändiger - Manipuliert die Elemente Feuer, Erde, Wasser oder Luft.
 5. Leidfresser – Nimm das Leid einer Person oder eines Wesens als dein eigenes.
