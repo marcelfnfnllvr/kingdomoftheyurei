@@ -45,7 +45,7 @@ Sollte ein Charakter sechs Korruption erreichen wird er außer Gefecht gesetzt. 
 1. Der Körper und der Geist deines Charakters altern. Erhöhe Abschnitt um eins.
    1. Sollte dein Charakter jetzt im sechstens Abschnitt seines Lebens sein ist er zu Müde und geschafft um fortzufahren. Wie sieht der Lebensabend eines Charakters aus?
 2. Erzähle die nächste Narrative auf der Abschnittstabelle.
-3. Dein Abschnittsattribut wird neu bestimmt und ist jetzt schwarz.
+3. Ändere eines der Attributsfelder in ein schwarzes.
 4. Würfel jeweils einmal auf die Fähigkeiten Tabelle und Würfel dann einen D3 welche Fähigkeit du gegen eine neue tauscht.
 5. Würfel erneut auf die Schwachpunkt Tabelle mit +2.
 6. Fehlende Ängste werden neu gewürfelt.
@@ -106,3 +106,11 @@ Wenn du in einem Wurf zwei Sechsen würfelst, löst du folgende Effekte aus:
 - Ein Hinweis auf die Welt.
 - Einen Hinweis etablieren für das aktuelle Abenteuer. Der Hinweise darf nicht direkt zur Lösung führen.
 - Entferne einen Zustand.
+
+## Die Doppeleins – Snakeeyes
+
+Wenn du in einem Wurf zwei Einsen würfelst darfst du den Wurf nicht wiederholen und dir darf nicht geholfen werden. Snakeeyes zählen als kritischer Fehlschlag.
+
+- Es kommt sofort zu einer gefährlichen Situation. Diese kann eine Umweltgefahr oder einen Kampf darstellen.
+- Dein erstes Herkunftsattribut färbt sich dunkel. Es zählt ab jetzt für einen schwarzen und nicht mehr für einen weiße
+

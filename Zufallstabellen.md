@@ -73,64 +73,64 @@
 
 ## Herkunft Tabelle  & Attributstabelle
 
-| **1d20** / 1d3 | **Herkunft**          | **Attribut 1** | **Attribut 2** | **Attribut 3**      |
-| -------------- | --------------------- | -------------- | -------------- | ------------------- |
-| 1              | Führer                | Wegfindung     | Nahrungssuche  | Jagen               |
-| 2              | Wache                 | Athletik       | Kraft          | Ausdauernd          |
-| 3              | Händler               | Feilschen      | Schätzen       | Tragen              |
-| 4              | Wirt                  | Soziales       | Kraft          | Kochen              |
-| 5              | Unterhaltungskünstler | Akrobatik      | Auftreten      | Geschichtenerzähler |
-| 6              | Nomade                | Geschick       | Zähigkeit      | Wegfindung          |
-| 7              | Apotheker             | Okkultes       | Kräuterkunde   | Wissen              |
-| 8              | Kleriker              | Symbolik       | Wissen         | Glaube              |
-| 9              | Leibeigener           | Kraft          | Loyal          | Ausdauernd          |
-| 10             | Farmer                | Tiere          | Pflanzen       | Bauernweisheiten    |
-| 11             | Adliger               | Fechten        | Soziales       | Reichtum            |
-| 12             | Scharfrichter         | Gewalt         | Einzelgänger   | Befehlsempfänger    |
-| 13             | Straßenkind           | Wegfindung     | Nahrungssuche  | Schleichen          |
-| 14             | Geisha                |                |                |                     |
-| 15             | Gärtner               |                |                |                     |
-| 16             | Schlachter            |                |                |                     |
-| 17             | Samurai               | Bedrohlich     |                |                     |
-| 18             | Handwerker            |                |                |                     |
-| 19             | Koch                  |                |                |                     |
-| 20             | Fischer               |                |                |                     |
+| **1d20** | **Herkunft**          | **Attribut 1** | **Attribut 2**      | Gegenstand 1          |
+| -------- | --------------------- | -------------- | ------------------- | --------------------- |
+| 1        | Führer                | Wegfindung     | Nahrungssuche       |                       |
+| 2        | Wache                 | Ausdauer       | Kraft               | Schild                |
+| 3        | Händler               | Feilschen      | Schätzen            |                       |
+| 4        | Wirt                  | Soziales       | Kraft               |                       |
+| 5        | Unterhaltungskünstler | Akrobatik      | Geschichtenerzähler |                       |
+| 6        | Nomade                | Geschick       | Zähigkeit           |                       |
+| 7        | Apotheker             | Okkultes       | Kräuterkunde        |                       |
+| 8        | Kleriker              | Symbolik       | Wissen              |                       |
+| 9        | Leibeigener           | Kraft          | Loyal               | Angestellten Kleidung |
+| 10       | Farmer                | Tiere          | Pflanzen            |                       |
+| 11       | Adliger               | Fechten        | Reichtum            | Degen                 |
+| 12       | Scharfrichter         | Gewalt         | Einzelgänger        | Schwert               |
+| 13       | Straßenkind           | Schleichen     | Nahrungssuche       | Zwille                |
+| 14       | Geisha                | Athletik       | Verführung          | Edle Kleidung         |
+| 15       | Gärtner               | Pflanzen       |                     | Dünger                |
+| 16       | Schlachter            | Gewalt         | Abgebrüht           | Fleischmesser         |
+| 17       | Samurai               | Bedrohlich     | Gewand              | Schwert               |
+| 18       | Handwerker            | Geschick       | Kraft               | Säge                  |
+| 19       | Koch                  | Geschick       | Kochen              | Rezeptsammlung        |
+| 20       | Fischer               | Ausdauer       | Geschick            | Messer                |
 
 ## Ängste Tabelle
 
 | 1d20 | **Angst**                                             |
 | ---- | ----------------------------------------------------- |
-| 1    | Die Angst vor engen, aber auch weiten Räumen          |
-| 2    | Selbst ein Tisch ist dir zu hoch.                     |
-| 3    | Die Angst vor großen Menschenmengen                   |
+| 1    | Angst vor engen Räumen                                |
+| 2    | Angst vor Höhe                                        |
+| 3    | Angst vor großen Menschenmengen                       |
 | 4    | Angst vor Wasser                                      |
 | 5    | Angst vor Insekten                                    |
 | 6    | Angst vor Ruinen, instabilen Gebäuden oder Strukturen |
-| 7    | Angst gefesselt oder gewürgt zu werden                |
-| 8    | Hochstaplersyndrom – Die Angst davor aufzufliegen     |
+| 7    | Angst gefesselt zu werden                             |
+| 8    | Angst davor aufzufliegen                              |
 | 9    | Angst vor Feuer                                       |
 | 10   | Angst vor Blut                                        |
-| 11   | Aberglaube - Angst vor Unglückssymbolen               |
+| 11   | Angst vor Unglückssymbolen                            |
 | 12   | Angst vor sozialer Ablehnung                          |
 | 13   | Angst vor Katzen                                      |
 | 14   | Angst vor Hunden                                      |
-| 15   |                                                       |
-| 16   |                                                       |
-| 17   |                                                       |
-| 18   |                                                       |
-| 19   |                                                       |
-| 20   |                                                       |
+| 15   | Angst vor weiten Flächen                              |
+| 16   | Angst vor Wunden                                      |
+| 17   | Angst vor Dunkelheit                                  |
+| 18   | Angst vor Berührungen                                 |
+| 19   | Angst vor Wahnsinn                                    |
+| 20   | Angst vor dem Altern                                  |
 
 ## Schwachpunkt Tabelle
 
 | **1d6 / 1d**3 | Modifikator | **Schwachpunkt** 1                    | Schwachpunkt 2         | **Schwachpunkt** 3     |
 | ------------- | ----------- | ------------------------------------- | ---------------------- | ---------------------- |
-| 1             | -2          | Ungünstige Kriegsnarbe                | Wetterfühligkeit       |                        |
+| 1             | -2          | Ungünstige Kriegsnarbe                | Wetterfühligkeit       | Schmerzender Knöchel   |
 | 2             | -1          | Ein fauler Zahn der unangenehm riecht | Ungünstige Ausrüstung  |                        |
 | 3             | 0           | Angeknackste Knöchel                  | Eine zitternde Hand    |                        |
 | 4             | 0           | Ausgekugelte Schulter                 | Suchtentzug            |                        |
 | 5             | +1          | Eine gebrochene Rippe                 | Gehirnerschütterung    |                        |
-| 6             | +2          | Ein offenliegende Wunde               | Eine schwere Krankheit | Eine schwere Infektion |
+| 6             | +2          | Eine offenliegende Wunde              | Eine schwere Krankheit | Eine schwere Infektion |
 
 ## Namen Tabelle
 
@@ -159,53 +159,53 @@
 
 ## Dämonen Tabelle
 
-| **1d20** | **Dämon**   | **Zeichnung**        | **Attribut** |
-| -------- | ----------- | -------------------- | ------------ |
-| 1        | Hirsch      | Hirschgeweih         | Stechend     |
-| 2        | Fuchs       | Fuchsschwanz         | Balanciert   |
-| 3        | Bär         | Bärenfell            | Warm         |
-| 4        | Widder      | Widdergeweih         | Stechend     |
-| 5        | Eule        | Eulenaugen           | Dunkelsicht  |
-| 6        | Adler       | Adleraugen           | Weitsicht    |
-| 7        | Katze       | Katzenohren          | Aufmerksam   |
-| 8        | Käfer       | Chitinpanzer         | Robust       |
-| 9        | Stier       | Hörner               | Bedrohlich   |
-| 10       | Chamäleon   | Hypnotisches Muster  | Bezaubernd   |
-| 11       | Vogel       | Geräumiger Kehlsack  | Melodisch    |
-| 12       | Vogel       | Federhaare           | Leicht       |
-| 13       | Kappa       | Kiemen               | Atmen        |
-| 14       | Tengu       | Flügel               | Leicht       |
-| 15       | Kitsune     | Rote Zeichnungen     | Gewand       |
-| 16       | Tanuki      | Bauch                | Geschützt    |
-| 17       | Kodama      | Weiße Haut           | Wald         |
-| 18       | Tsukumogami | Gegenstand           | Versteckt    |
-| 19       | Amabie      | Schuppige Haut       | Wasserratte  |
-| 20       | Sadako      | Lange schwarze Haare | Klettern     |
+| **1d20** | **Dämon**   | **Zeichnung**        | **Attribut** | Gegenstand |
+| -------- | ----------- | -------------------- | ------------ | ---------- |
+| 1        | Hirsch      | Hirschgeweih         | Stechend     |            |
+| 2        | Fuchs       | Fuchsschwanz         | Balanciert   |            |
+| 3        | Bär         | Bärenfell            | Warm         |            |
+| 4        | Widder      | Widdergeweih         | Stechend     |            |
+| 5        | Eule        | Eulenaugen           | Dunkelsicht  |            |
+| 6        | Adler       | Adleraugen           | Weitsicht    |            |
+| 7        | Katze       | Katzenohren          | Aufmerksam   |            |
+| 8        | Käfer       | Chitinpanzer         | Robust       |            |
+| 9        | Stier       | Hörner               | Bedrohlich   |            |
+| 10       | Chamäleon   | Hypnotisches Muster  | Bezaubernd   |            |
+| 11       | Vogel       | Geräumiger Kehlsack  | Melodisch    |            |
+| 12       | Vogel       | Federhaare           | Leicht       |            |
+| 13       | Kappa       | Kiemen               | Atmen        |            |
+| 14       | Tengu       | Flügel               | Leicht       |            |
+| 15       | Kitsune     | Rote Zeichnungen     | Gewand       |            |
+| 16       | Tanuki      | Bauch                | Geschützt    |            |
+| 17       | Kodama      | Weiße Haut           | Wald         |            |
+| 18       | Tsukumogami | Gegenstand           | Versteckt    |            |
+| 19       | Amabie      | Schuppige Haut       | Wasserratte  |            |
+| 20       | Sadako      | Lange schwarze Haare | Klettern     |            |
 
 ## Ehrungen Tabelle
 
 | **1d20** | **Titel** | Attribut |
 | -------- | --------- | -------- |
-| 1        | Toby      |          |
-| 2        | Iwa       |          |
-| 3        | Gabriel   |          |
-| 4        | Fiora     |          |
-| 5        | Kira      |          |
-| 6        | Marie     |          |
-| 7        | Eran      |          |
-| 8        | Koga      |          |
-| 9        | Azai      |          |
-| 10       | Liam      |          |
-| 11       | Okuda     |          |
-| 12       | Nana      |          |
-| 13       | Kana      |          |
-| 14       | Isa       |          |
-| 15       | Kushizu   |          |
-| 16       | Mine      |          |
-| 17       | Efren     |          |
-| 18       | Ishi      |          |
-| 19       | Toki      |          |
-| 20       | Masae     |          |
+| 1        |           |          |
+| 2        |           |          |
+| 3        |           |          |
+| 4        |           |          |
+| 5        |           |          |
+| 6        |           |          |
+| 7        |           |          |
+| 8        |           |          |
+| 9        |           |          |
+| 10       |           |          |
+| 11       |           |          |
+| 12       |           |          |
+| 13       |           |          |
+| 14       |           |          |
+| 15       |           |          |
+| 16       |           |          |
+| 17       |           |          |
+| 18       |           |          |
+| 19       |           |          |
+| 20       |           |          |
 
 ## Reittier Tabelle
 
