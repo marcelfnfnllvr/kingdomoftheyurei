@@ -4,7 +4,7 @@
 
 Schwierigkeit: 14 – kurzes Abenteuer – ein Abend
 
-Gesammelte Finsternispunkte: [   ]
+Gesammelte Finsternispunkte: [  0 ]
 
 #### Karte:
 
@@ -18,7 +18,7 @@ Das Monster in diesem Abenteuer ist nicht näher definiert. Das eigentlich Monst
 
 ### Fragestellung, Eskalation und Ehrung:
 
-Was für ein Wesen hat Herrn Botan Ryan angegriffen und ist Fräulein Kaho Ryan noch am Leben?
+Was ist passiert, was für ein Wesen hat Herrn Botan Ryan angegriffen und ist Fräulein Kaho Ryan noch am Leben?
 
 Falls die Situation eskaliert, verstirbt Fräulein Kaho Ryan unabhängig von der Erzählung. Die Gruppe wird von dem Wesen angegriffen, welches die Fureru erkennt. Es kann aufgehalten werden fängt aber mit der Schwierigkeit 14 an. Wird es nicht in der ersten Runde gestoppt findet die Gruppe auf Herrn Botan Ryan später tot bei seinem Karren.
 
@@ -30,7 +30,7 @@ Ihr seid seit Tagen auf der Straße durch den endlosen Wald. Im Zentrum soll es 
 
 *Was erhofft sich euer Charakter in der verlorenen Festung zu finden?*
 
-Am Horizont sehr ihr einen älteren Mann mit einem Ochsen und einem beschädigten Karren der diesen grade repariert. Als ihr näher tretet sehr ihr einen zweiten Ochsen der leblos neben dem Karren liegt. Neben dem Karren steht ein ältere Herr der sich als Botan Ryan vorstellt. Er berichtet das ein wildes Wesen aus dem Wald gestürmt sei, einen Ochsen sofort erschlug und mitsamt seiner Tochter in den Wald geflohen ist. Er kann ihre schreie immer noch in seinen Ohren hören. Er bittet die Gruppe zu helfen. Das Wesen scheint kein normales Tier zu sein
+Am Horizont sehr ihr einen älteren Mann mit einem Ochsen und einem beschädigten Karren der diesen grade repariert. Als ihr näher tretet sehr ihr einen zweiten Ochsen der leblos neben dem Karren liegt. Neben dem Karren steht ein älterer Herr der sich als Botan Ryan vorstellt. Er berichtet das ein wildes Wesen aus dem Wald gestürmt sei, einen Ochsen sofort erschlug und mitsamt seiner Tochter in den Wald geflohen ist. Er kann ihre schreie immer noch in seinen Ohren hören. Er bittet die Gruppe zu helfen. Das Wesen scheint kein normales Tier zu sein
 
 ### Gefahren:
 
@@ -72,7 +72,7 @@ Ein ruhiger Zeitgenosse der sich seine Überlegenheit im Wald gewiss ist. Er hat
 
 ?
 
-##### Toshitsugu Leonhard - Eigenbrötler im Wald - alter Fureru - Hexer
+##### Sayomi Leonhard - Eigenbrötler im Wald - alter Fureru - Hexer
 
 *Wortkarg mit tieferruhiger Stimme - Neutral - Hat ein stark vernarbtes Gesicht*
 
@@ -106,23 +106,23 @@ Herausforderung: Sich durch das Labyrinth zu bewegen ohne sich komplett zu Verla
 
 ### Hinweise:
 
-- [  ] Blut an einer Felswand.
-- [  ] Traumfänger im Baum hängend mit dämonischen Symbolen.
-- [  ] Es heißt da ein mächtiger Zauberer im Wald sein Unwesen treibt.
+- [ x ] Blut an einer Felswand.
+- [ x ] Traumfänger im Baum hängend mit dämonischen Symbolen.
+- [ x ] Es heißt da ein mächtiger Zauberer im Wald sein Unwesen treibt.
 - [  ] Ein Pfad, ausgetreten von Tieren, tiefer in den Wald. Es sind unregelmäßige abdrücke zu sehen wie verletzte Tiere sie hinterlassen.
 - [  ] Hier soll früher ein Volk im Wald gelebt haben.
-- [  ] Kleine Figuren aus Ästen. Sie stellen Menschen mit Veränderungen da.
-- [  ] Schreie lassen euch aufschrecken.
-- [  ] Große Krallenspuren an einem Baum.
-- [  ] Fallen im Labyrinth mit toten Tieren. Die Tiere sind nur noch Kadaver.
+- [ x ] Kleine Figuren aus Ästen. Sie stellen Menschen mit Veränderungen da.
+- [ x ] Schreie lassen euch aufschrecken.
+- [ x ] Große Krallenspuren an einem Baum.
+- [ x ] Fallen im Labyrinth mit toten Tieren. Die Tiere sind nur noch Kadaver.
 - [  ] Zeichen der Feste in der Waldmitte in einen Baum und/oder Stein geritzt.
-- [  ] Ein Schwarm Vögel steigt aus naheliegenden Bäumen auf.
-- [  ] Ein Loch bedeckt mit Stöcken und Ästen. Am Boden seht ihr Blut.
-- [  ] Ein Haufen Knochen. Überwiegend von Tieren aber ein paar Menschliche Knochen könnt ihr ausmachen.
-- [  ] Ihr hört eine Stimme direkt in euren Ohren: "Es ist gut. Riskiert nicht euer Leben für mich. Ich bin jetzt glücklicher als vorher."
-- [  ] Ein Haufen toter tiefschwarzer Würmer.
-- [  ] Eine ältere Leiche. Verfallen und verssetzt. Ein Brief ob sie nicht noch so ein Junges bringen könnten.
+- [ x ] Ein Schwarm Vögel steigt aus naheliegenden Bäumen auf.
+- [ x ] Ein Loch bedeckt mit Stöcken und Ästen. Am Boden seht ihr Blut.
+- [ x ] Ein Haufen Knochen. Überwiegend von Tieren aber ein paar Menschliche Knochen könnt ihr ausmachen.
+- [ x ] Ihr hört eine Stimme direkt in eurem Kopf: "Es ist gut. Riskiert nicht euer Leben für mich. Ich bin jetzt glücklicher als vorher."
+- [ x ] Ein Haufen toter tiefschwarzer Würmer.
+- [ x ] Eine ältere Leiche. Verfallen und zersetzt. Ein Brief ob sie nicht noch so einen Jungen bringen könnten.
 - [  ] Wandbemalung die zeigt wie ein Ritual durchgeführt wurde.
-- [  ] Nebel zieht auf und verursach ein starkes Unwohlsein.
-- [  ] Wisst ihr nicht das die fahrenden Händler Sklaventreiber sind und sich die Sklaven gerne für eine Weile als Gemahlin nehmen?
-- [  ] Der alte Weg der vor dem neuen genutzt wurde. Viel kleiner und angepasst an die Geografie des Waldes.
+- [ x ] Nebel zieht auf und verursach ein starkes Unwohlsein.
+- [ x ] Wisst ihr nicht das die fahrenden Händler Sklaventreiber sind und sich die Sklaven gerne für eine Weile als Gemahlin nehmen?
+- [ x ] Der alte Weg der vor dem neuen genutzt wurde. Viel kleiner und angepasst an die Geografie des Waldes.

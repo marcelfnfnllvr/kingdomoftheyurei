@@ -68,8 +68,4 @@ Hilf einem anderen Spieler indem du mit einem passenden Attributs Würfel würfe
 
 Um zu wissen, ob eure Lösung funktioniert, wirft der Älteste 2D6 und bildet die Summe. Diese muss das gesenkte Gefahrenlevel treffen oder übersteigen. Falls dies nicht der Fall ist, kommt es zum Endkampf. Hier kann das Level des Geistes mit Hilfe der übrig gebliebenen Hinweise gesenkt werden, wenn dies logisch begründet, werden kann.
 
-Außerdem darf jeder Spielende nach einem Abenteuer folgende Schritte durchführen:
-
-1. Du darfst aufgebaute Zustände durch den „Auf Reisen“ Spielzug abbauen, solange das Gefahrenlevel dies zulässt und du den Spielzug noch nicht im Abenteuer genutzt hast. 
-2. Du darfst deinen Titel wechseln.
-3. Du schaust ob die du ausgewählten Fragen beim Ende der Sitzung erfüllt hast und steigst eventuell auf.
+3. 

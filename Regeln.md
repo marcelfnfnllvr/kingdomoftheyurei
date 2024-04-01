@@ -114,3 +114,11 @@ Wenn du in einem Wurf zwei Einsen würfelst darfst du den Wurf nicht wiederholen
 - Es kommt sofort zu einer gefährlichen Situation. Diese kann eine Umweltgefahr oder einen Kampf darstellen.
 - Dein erstes Herkunftsattribut färbt sich dunkel. Es zählt ab jetzt für einen schwarzen und nicht mehr für einen weiße
 
+## Am Ende jedes Abends
+
+Außerdem darf jeder Spielende nach einem Abenteuer folgende Schritte durchführen:
+
+1. Du darfst noch die Frage des Abenteuers beantworten und einen Zustand abbauen. Der Spielzug Auf Reisen ist nur im Abenteuer nutzbar. 
+2. Du darfst deinen Titel wechseln.
+3. Du schaust ob die du ausgewählten Fragen beim Ende der Sitzung erfüllt hast und steigst eventuell auf.
+
