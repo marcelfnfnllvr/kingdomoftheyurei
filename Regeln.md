@@ -103,7 +103,6 @@ Du kannst Zustände auf drei verschieden Arten abbauen.
 
 Wenn du in einem Wurf zwei Sechsen würfelst, löst du folgende Effekte aus:
 
-- Ein Hinweis auf die Welt.
 - Einen Hinweis etablieren für das aktuelle Abenteuer. Der Hinweise darf nicht direkt zur Lösung führen.
 - Entferne einen Zustand.
 
