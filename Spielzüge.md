@@ -2,23 +2,27 @@
 
 ## Der „Etwas herausfinden“ Spielzug
 
-Wenn Du eine Person befragst, die dir wohlgesonnen ist oder einen Raum untersuchst würfelst du auf diesen Spielzug. Du bekommst einen weißen Würfel von diesem Spielzug.
+Wenn du eine Person befragst, die dir wohlgesonnen ist, oder einen Raum untersuchst, würfelst du auf diesen Spielzug. Du bekommst einen weißen Würfel für diesen Spielzug.
 
-*1-4 Die Spielleitung erhält einen Finsternispunkt.
+*1-4 Die Spielleitung erhält einen Verderbnis.
 
 *5-6 Du bekommst einen Hinweis.
 
+*Dieser Spielzug ist für jede Situation geeignet, in der die Spieler:innen etwas herausfinden möchten und die prinzipiell ungefährlich ist. Er ist nicht auf die Interaktion mit einer anderen Person beschränkt, sondern kann auch ganz allgemein zur Erkundung eines Raumes, einer Fährte oder eines Waldstückes eingesetzt werden.*
+
 ## Der „Etwas riskieren“ Spielzug
 
-Wenn dir eine Person misstrauisch gegenüber ist oder du etwas Riskantes machen möchtest würfel auf diesen Spielzug. Du bekommst einen schwarzen Würfel von diesem Spielzug.
+Wenn dir jemand misstraut oder wenn du etwas Riskantes tun willst, würfle auf diesen Spielzug. Du bekommst einen schwarzen Würfel von diesem Spielzug.
 
 *1-2 Es kommt sofort zu einer gefährlichen Situation.
 
-*3-4 Du scheiterst und die Spielleitung erhält einen Finsternispunkt.
+*3-4 Du scheiterst und die Spielleitung erhält einen Verderbnis.
 
-*5 Du machst genau was du dir vorgenommen hattest und behältst die Nerven.
+*5 Du machst genau was du dir vorgenommen hast und behältst die Nerven.
 
 *6 Du behältst die Nerven und bekommst einen Hinweis. 
+
+*Dieser Spielzug sollte verwendet werden, wenn die Situation potenziell gefährlich ist. Dies kann z.B. der Versuch sein, einen Felsvorsprung hinunterzuklettern, ein Labyrinth zu durchqueren oder eine aufgebrachte Person zu beruhigen. Außerdem ist es mit diesem Spielzug möglich sich auf seinen Dämon zu konzentrieren und dessen Kräfte zu nutzen. So können Fähigkeiten eingesetzt werden, die der Charakter nicht direkt besitzt. So ist es z.B. möglich, einen NSC wiederzubeleben, mit dem Dämonenreich zu kommunizieren oder besonders stark oder wendig zu sein.*
 
 ## Der „Eine Fähigkeit nutzen“ Spielzug
 
@@ -26,7 +30,7 @@ Besprich mit der Spielleitung welchen Effekt du mit deiner Fähigkeit erzielen m
 
 *Es passiert in jedem Fall, was du wolltest.
 
-*1-4 Die Spielleitung erhält einen Finsternispunkt.
+*1-4 Die Spielleitung erhält einen Verderbnis.
 
 *5-6 Du bekommst bei dem nächsten, zu dem Ereignis passenden, Wurf einen zusätzlichen weißen Würfel.
 
@@ -44,7 +48,7 @@ Es ist möglich das Erfolgslevel des Gegners mithilfe von Fähigkeiten zu senken
 
 Diese Spielzug darf pro Abenteuer einmalig genutzt werden. Erzählt von einem Moment auf Reisen, um alleine oder gemeinsam Zustände abzubauen. Dieser Spielzug gibt dir einen weißen Würfel. Um einen weiteren Würfel zu bekommen muss die Erzählung etwas mit dem Attribut zu tun haben.
 
-*1-2 Die Spielleitung bekommt einen Finsternispunkt.
+*1-2 Die Spielleitung bekommt einen Verderbnis.
 
 *3-4 Du darfst die letzten zwei Zustände entfernen. 
 
@@ -64,8 +68,6 @@ Hilf einem anderen Spieler indem du mit einem passenden Attributs Würfel würfe
 
 ## Der „Die Aufgabe lösen“ Spielzug
 
-Überlegt als Gruppe welcher Geist hier sein Unwesen treibt und welche Schritte ihr unternehmen müsst, um ihn zu befrieden. Inkludiert dabei so viele Hinweise wie möglich in die Erzählung. Jeder genutzte Hinweis senkt das Gefahrenlevel der Aufgabe um eins. Nicht genutzte Hinweise können euch im eventuellen Endkampf helfen. 
+Überlegt als Gruppe welcher Dämon hier sein Unwesen treibt und welche Schritte ihr unternehmen müsst, um ihn zu befrieden. Inkludiert dabei so viele Hinweise wie möglich in die Erzählung. Jeder genutzte Hinweis senkt das Gefahrenlevel der Aufgabe um eins. Nicht genutzte Hinweise können euch im eventuellen Endkampf helfen. 
 
-Um zu wissen, ob eure Lösung funktioniert, wirft der Älteste 2D6 und bildet die Summe. Diese muss das gesenkte Gefahrenlevel treffen oder übersteigen. Falls dies nicht der Fall ist, kommt es zum Endkampf. Hier kann das Level des Geistes mit Hilfe der übrig gebliebenen Hinweise gesenkt werden, wenn dies logisch begründet, werden kann.
-
-3. 
+Um zu wissen, ob eure Lösung funktioniert, wirft der Älteste 2D6 und bildet die Summe. Diese muss das gesenkte Gefahrenlevel treffen oder übersteigen. Falls dies nicht der Fall ist, kommt es zum Endkampf. Hier kann das Level des Geistes mit Hilfe der übrig gebliebenen Hinweise gesenkt werden, wenn dies logisch begründet, werden kann. Snake-Eyes, also zwei Einsen in diesem Wurf sind in jedem Fall ein Fehlschlag und führen dazu das keine friedliche Lösung herbeigeführt werden kann.

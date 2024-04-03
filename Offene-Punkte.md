@@ -20,24 +20,22 @@
 - [x] Wirkliche sterben und heilen und so abschaffen? Progression über die Abenteuer hinweg. Tod bzw auder Gefecht nur wichtig ob es ein schwarze oder ein weise Epoche des Charakters war?
 - [x] Doch vor dem Kampf den Würfel werfen aber mit einem Modifikator drauf? Also von +1 - -2 oder so.
 
+- [x] Einen Zustand heilen über eine spezifische Frage die nur für das Abenteuer ist
 
 
-- [ ] Allgemeine Erkläerungen und Einführungen fertigstellen
-- [ ] Weltbeschreibung hinzufügen
+
+- [ ] Allgemeine Erklärungen und Einführungen fertigstellen
+- [ ] Weltbeschreibung hinzufügen - das Japan in welchem wir spielen
 - [ ] Spielbeispiel erstellen 
   - [ ] Ablauf einer Session
 - [ ] Ablauf Spielabend / Abendteuer
 - [ ] Würfel und Proben bestehen
 - [ ] Abenteuer schreiben
-  - [ ] Der Wald
+  - [x] Der Wald
   - [ ] Die Aschegeister
   - [ ] Der Berg erwacht
-- [ ] Partywhipe
-  - [ ] Falls alle versterben
-  - [ ] Die Gruppe verstirbt 2x und das ganze Szenario nimmt den möglichst schlechtesten Asugang
 - [ ] Vogelfedern im Seitendesign/Layout
 - [ ] Lernt die Gruppe nach jedem Abenteuer etwas über die Welt? Darf ihre Welt gestalten
-- [ ] Einen Zustand heilen über eine spezifische Frage die nur für das Abenteuer ist
 - [ ] Fragen für die Rast
   - [ ] Erzähle eine Situation die die Gruppe zum lachen gebrach hat.
 - [ ] Adaption für Müllsammler im All
@@ -47,13 +45,7 @@
   - [ ] Pro Würfe
   - [ ] Königreich, Norden, Götzter, Dämonen
 - [ ] Jäger sollte ncoh in die Beschreibung im Regelwerk
-- [ ] Gameplay Loop soll Schematisch im REgelwerk abgebildet werden. Ein Diagramm.
-- [ ] Ein Badehausabenteuer Wie Shihiro
-- [ ] Götter wachen über diese Welt
-  - [ ] Sie senden Engel aus die in Personen oder Tieren wohnen und über diese wachen
-  - [ ] 8 Feste, selber ausgedachte Engel
-  - [ ] Es ist eine alte Welt. Viele Götzenstauen die halb verfallen überall rumstehen. Verstreuter glaube überall der immer anders interpretiert wird.
-- [ ] Dämonen verauchen in diese Welt vorzudringen
+- [ ] Gameplay Loop soll Schematisch im Regelwerk abgebildet werden. Ein Diagramm.
 - [ ] Alte Geschichten über die Welt abfragen als Move? Oder beim Heilen? Oder mhmmm
 - [ ] Frage 
   - [ ] Wie bist du in Kontakt mit deinem Dämon gekommen? Wie hast du überlebt?

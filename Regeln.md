@@ -19,12 +19,12 @@ Immer wenn ein Charakter eine doppelte Sechs würfelt, bekommt er einen Hinweise
 
 Wenn du mit dem Würfelergebnis nicht zufrieden bist und ein weißer Würfel der höchste Würfel des Wurfs ist, darfst du einmalig einen weiteren schwarzen Würfel dem Wurf hinzufügen. Würfel dann komplett neu. Das neue Ergebnis zählt.
 
-## Finsternispunkte
+## Verderbnispunkte
 
-Immer wenn die Spielerinnen schlecht würfeln sammelt die Spielleitung Finsternispunkte. Diese kann sie für bestimmte Ereignisse ausgeben um dem Spiel mehr würze zu verleihen.
+Immer wenn die Spielerinnen schlecht würfeln sammelt die Spielleitung Verderbnis. Diese kann sie für bestimmte Ereignisse ausgeben um dem Spiel mehr Spannung zu verleihen.
 
 *1-X Um die Schwierigkeit des Abenteuers zu erhöhen.
-*2 Ein gefährliches Ereignis. Aus einem gefährlichen Ereignis könnte ein Gegner der Stufe 8 werden.
+*2 Ein gefährliches Ereignis. Aus diesem könnte ein Gegner der Stufe 8 werden.
 *3 Einen Kampf gegen einen Gegner der Stufe 10.
 *4 Einen Kampf gegen einen Gegner der Stufe 12.
 
