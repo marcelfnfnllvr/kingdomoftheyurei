@@ -1,6 +1,6 @@
 # Regeln
 
-Hier findest du alle Regeln, die du zum Spielen von **Augen der Finsternis: Königreich der Yukai** benötigst. Den genauen Spielablauf findest du in den Spielbeispielen. 
+Hier findest du alle Regeln, die du zum Spielen von **Augen des Zwielichts: Königreich der Yokai** benötigst. Den genauen Spielablauf findest du in den Spielbeispielen. 
 
 
 ## Den Wurf verbessern
