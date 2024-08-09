@@ -61,4 +61,6 @@
   - [ ] Kapitel
   - [ ] Schlüsselmomente
   - [ ] Momente
+- [ ] Erklärung warum Hinweise so konkret und vergleich mit Brindlewood
+- [ ] Es sollte alles noch etwas Japanischer werden! Tokii, Schuhe, Häuse, Bräuche!
 

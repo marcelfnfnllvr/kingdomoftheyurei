@@ -57,3 +57,62 @@ Ich denke der Ton des Abends wird eher ein lockerer sein.
 **Safety-Tools**: Falls ihr Tabuthemen habt, teilt mir diese bitte vorher per Direktnachricht mit. Falls ihr keinen Spaß habt oder euch die Situation/Themen unangenehm sind, habt ihr natürlich jederzeit die Möglichkeit auszusteigen. Eine kurze Direktnachricht an mich wäre in diesem Fall nett, damit ich weiß das ihr nicht einfach aussteigt. 
 
 **Angemeldete Spielerinnen 29.03.2024 0/4**:
+
+
+
+**Abenteuername**: Ein individueller Hexcrawl
+
+**Regelwerk**: Mythic Bastionland
+
+**Voraussetzung**: Wir spielen über Foundry VTT. Ihr braucht nur einen Webbrowser und eine Internetverbindung.
+
+**Regelkenntnisse**: Nicht notwendig / Für Neueinsteiger geeignet
+
+**Abenteuerdauer**: Few-Shot / Mehrere Abende. 
+
+**Datum, Uhrzeit & Spieldauer**: 05.06., 12.06., 19.06., 26.06.2024 ab 19.30 Uhr bis ~22.30 Uhr 
+
+**Beschreibung**: Mythic Bastionland ist das neueste Spiel von Chris McDowall und basiert auf Into The Odd und Electric Bastionland. Die Regeln sind ähnlich einfach und intuitiv. Ihr seid eine Gruppe von Rittern, die in ein Königreich kommen, um Ruhm zu erlangen. Ihr jagt Mythen und erkundet gemeinsam die Welt von Mythic Bastionland.
+
+Das System ist wie ein Hexcrawl aufgebaut, der zum Teil zufällig, aber auch durch vorbereitete Ereignisse funktioniert, so dass eine zusammenhängende Geschichte erzählt wird, die für die Spielenden und die Spielleitung einzigartig ist.
+
+**Charaktererstellung**: Werden, wie bei allen Into The Odd Ablegern, gewürfelt. Es gibt 72 verschiedene Ritter die dafür als Basis dienen.
+
+**Was erwartet mich**? Ich möchte das System ausprobieren. Dazu brauche ich aber ein paar Sitzungen. Mythic Bastionland ist nicht immer actionreich, die Mythen entwickeln sich langsam, während die Ritter gemeinsam durch das Königreich ziehen.
+
+Der Ton des Spiels ist eher ernst.
+
+**Safety-Tools**: Falls ihr Tabuthemen habt, teilt mir diese bitte vorher per Direktnachricht mit. Falls ihr keinen Spaß habt oder euch die Situation/Themen unangenehm sind, habt ihr natürlich jederzeit die Möglichkeit auszusteigen. Eine kurze Direktnachricht an mich wäre in diesem Fall nett, damit ich weiß das ihr nicht einfach aussteigt. 
+
+**Angemeldete Spielerinnen 2/4**: 
+
+
+
+**Abenteuername**: Last Things Last
+
+**Regelwerk**: DELTA GREEN
+
+**Voraussetzung**: Wir spielen über Foundry VTT. Ihr braucht nur einen Webbrowser und eine Internetverbindung.
+
+**Regelkenntnisse**: Nicht notwendig / Für Neueinsteiger geeignet
+
+**Abenteuerdauer**: One-Shot
+
+**Datum, Uhrzeit & Spieldauer**: 24.06. ab 19.00 Uhr bis ~23.00 Uhr 
+
+**Beschreibung**: Den Grundstein für die Geheimorganisation **Delta Green** wurde 1928 nach der Einsatz der US-Regierung gegen die entartete Küstenstadt *Innsmouth* in Massachusetts gelegt. Die Organisation wurde gegründet, um sich ehrenhaft den Mächten der Dunkelheit entgegen zu stellen. Da dies im Geheimen geschehen soll, wird auf jeglichen Ruhm verzichtet. 
+Nach einer katastrophalen Operation in Kambodscha im Jahre 1969 wurden die Führung von Delta Green der Genehmigung durch die Regierung beraubt und es wurde in einem geheimen Pakt beschlossen die Arbeit ohne Unterstützung der Autorität und ohne Angst fortzusetzen. 
+Delta Green-Agenten schlüpfen durch das System und manipulieren die Bundesbürokratie, während sie darum kämpfen, die Menschheit vor dem unnatürlichen Grauen zu bewahren - oft zu erschütternden persönlichen Kosten.
+
+In **DELTA GREEN: The Role-Plaing Game** sind die Spieler diese Agenten. 
+Sie kämpfen, um das Leben und/oder die geistige Gesundheit von Menschen vor Bedrohungen jenseits von Raum und Zeit zu retten.
+
+**Charaktererstellung**: Werden im Vorfeld gemeinsam erstellt. 
+
+**Was erwartet mich**? Ich möchte gern DELTA GREEN als eines meiner Regelmäßig bespielten System etablieren. Dazu spielen wir erstmal das Schnellstarter-Abenteuer. Da es möglich ist immer wieder mit gewürfelten Teams zu spielen erstellen wir für jeden Spielenden einen eigenen Charakter. Dieser kann dann gerne in weiteren Abenteuern verwendet werden.
+
+Der Ton des Spiels ist eher ernst.
+
+**Safety-Tools**: Falls ihr Tabuthemen habt, teilt mir diese bitte vorher per Direktnachricht mit. Falls ihr keinen Spaß habt oder euch die Situation/Themen unangenehm sind, habt ihr natürlich jederzeit die Möglichkeit auszusteigen. Eine kurze Direktnachricht an mich wäre in diesem Fall nett, damit ich weiß das ihr nicht einfach aussteigt. 
+
+**Angemeldete Spielerinnen 0/4**: 
