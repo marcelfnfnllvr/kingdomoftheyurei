@@ -2,7 +2,11 @@
 
 Schwierigkeit: 18 - längeres Abenteuer - zwei Abende
 
-Gesammelte Verderbnispunkte: [   4-2=2+1=3-3=0   ]
+Gesammelte Verderbnispunkte: [  1  ]
+
+
+
+Stahl anstatt Eisen 
 
 ### Spielleiterhinweise:
 
@@ -74,7 +78,7 @@ Weitere Frauen die in der Eisenhütte arbeiten: Kiyo San, Tomika Sanadori, Kora 
 
 Versucht den mit Ito einen Stollen so weit durch den Berg zu treiben das er unterhalb der Hochebene auf dem das Dorf liegt herauskommt. So soll der Handel gestärkt werden. Er weiß natürlich das seine Handlanger noch im Berg sind und auch in welchen Gängen sich die Gefangenen verstecken. Er stellt natürlich alles so da das er nur die Handelsroute stärken will damit es dem Dorf noch besser geht
 
-Kure Nagahisa - Bardame beim Izakaya
+#### Kure Nagahisa - Bardame beim Izakaya
 
 ##### Hono - Der Gott der Flammen und des Feuers
 
@@ -125,26 +129,28 @@ Herausforderung: Die Gänge sind schwierig zu navigieren. Hier wäre ein Wurf au
 - [  ] Dokumente das der Stollen zu tief in den Berg vordringt und dieser einstürzen könnte.
 - [  ] Eine vor schwäche verstorbene Person auf den Straßen vom Dorf. Er sind helle Stellen an den Handgelenken und Knöcheln sichtbar. Niemand scheint diese Person zu kennen.
 - [  ] Eine Atemmaske aus Stoff. An der Innenseite klebt Blut.
-- [  ] Jmd. berichtet von eine Vision der er/sie von ein paar Wochen hatte. Der Berg erschien ihr in einer Muttergestalt und flehte um das Leben ihrer Kinder.
-- [  ] Ein toter Steingeist.
-- [  ] Die Legenden sagen das die Steingeister tief im Berg leben.
+- [ x ] Jmd. berichtet von eine Vision der er/sie von ein paar Wochen hatte. Der Berg erschien ihr in einer Muttergestalt und flehte um das Leben ihrer Kinder.
+- [ x ] Ein toter Steingeist.
+- [ x ] Die Legenden sagen das die Steingeister tief im Berg leben.
 - [  ] Personen die wegrennen nachdem sie Schaden anrichten wollten.
-- [  ] Ein edles Stück Stoff ist zwischen zwei Steinen eingeklemmt und abgerissen.
-- [  ] Pläne für einen neuen Weg durch den Stollen und bis zum Fuße der Hochebene.
-- [  ] Mit dem Feuer werden ehrenlose Waffen geschmiedet.
+- [ x ] Ein edles Stück Stoff ist zwischen zwei Steinen eingeklemmt und abgerissen.
+- [ x ] Pläne für einen neuen Weg durch den Stollen und bis zum Fuße der Hochebene.
+- [ x ] Mit dem Feuer werden ehrenlose Waffen geschmiedet.
 - [  ] Es werden in Toro keine Kinder geboren.
-- [  ] Auf den Straßen von Toro sind nur Männer zu sehen.
+- [ x ] Auf den Straßen von Toro sind nur Männer zu sehen.
 - [  ] Eine Frau soll nachts draußen gesehen worden sein. 
-- [  ] Erschütterungen und Bergrutsche werden immer häufiger. 
-- [  ] Markierungen am Boden. Wie ritualzeichen. 
+- [ x ] Erschütterungen und Bergrutsche werden immer häufiger. 
+- [ x ] Markierungen am Boden. Wie Ritualzeichen. 
 - [  ] Eine Frau ist im Traum erschienen und sie verwandelte sich in einem Dämon. 
 - [  ] Es heißt wer den Stollen betritt, muss die Schwelle zum Stollen küssen.
-- [  ] Eine Schusswaffe, wie ein Schwert, in ein Tuch gehüllt. 
+- [ x ] Eine Schusswaffe, wie ein Schwert, in ein Tuch gehüllt. 
 - [  ] Spuren eines mächtigen Rituals. 
 - [  ] Dokumente die den Preis für etwas Lebendes festlegen. 
-- [  ] Eine Todesdrohung an eine Hauswand geschmiert gegen den Bergwekschef. 
+- [ x ] Eine Todesdrohung an eine Hauswand geschmiert gegen den Bergwekschef. 
 - [  ] Ein in einer anderen Sprache aufgesetzter Brief. 
 - [  ] Ein Kraut welches dazu genutzt wird mit der anderen Ebene zu reden. Es kommt in dieser Gegend nicht natürlich vor. 
-- [  ] Es sind keine Stollenarbeiter gestorben. Der Tote der aufgespießt wurde scheint niemand zu kennen. 
-- [  ] Berggott und Feuergott sollen einen Jahrtausendalten Kampf gegeneinander führen dessen uhrsprung niemand mehr kennt.   
-- [   ] Eines der Geister arbeitet im Izakaya  als Bardame
+- [ x ] Es sind keine Stollenarbeiter gestorben. Der Tote der aufgespießt wurde scheint niemand zu kennen. 
+- [ x ] Berggott und Feuergott sollen einen Jahrtausendalten Kampf gegeneinander führen dessen uhrsprung niemand mehr kennt.   
+- [   ] Eines der Geister arbeitet im Izakaya / Badehaus  als Bardame / Badehausmutter
+- [ x  ] Der Stollen ändert seine Form.
+- [ x  ] Die Aufseherin scheint ein Dämon zu sein.

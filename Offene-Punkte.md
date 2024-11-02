@@ -62,5 +62,12 @@
   - [ ] Schlüsselmomente
   - [ ] Momente
 - [ ] Erklärung warum Hinweise so konkret und vergleich mit Brindlewood
-- [ ] Es sollte alles noch etwas Japanischer werden! Tokii, Schuhe, Häuse, Bräuche!
+- [ ] Es sollte alles noch etwas Japanischer werden! Tokii, Schuhe, Häuse, Bräuche
+- [ ] Es geht um Szenen und diese schön darzustellen!
+- [ ] Waffen und allgemein Japanische Beschreibungen im Regelwerk
+- [ ] Fremdabenteuer noch dazu?
+- [ ] Gruppe Doro, Mike und Dirk wünscht sich mehr Abenteuer zusammen.
+- [ ] Die Karpfen Papierfahnen
+- [ ] ;agische Szenen für Der Berg erwacht
+- [ ] Was macht das Japan in dem wir spielen aus? Wichtige Szenen und Dinge. Erzählungen. Wie bringt man das gefühlt am Besten rüber?
 

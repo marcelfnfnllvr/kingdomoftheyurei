@@ -116,3 +116,38 @@ Der Ton des Spiels ist eher ernst.
 **Safety-Tools**: Falls ihr Tabuthemen habt, teilt mir diese bitte vorher per Direktnachricht mit. Falls ihr keinen Spaß habt oder euch die Situation/Themen unangenehm sind, habt ihr natürlich jederzeit die Möglichkeit auszusteigen. Eine kurze Direktnachricht an mich wäre in diesem Fall nett, damit ich weiß das ihr nicht einfach aussteigt. 
 
 **Angemeldete Spielerinnen 0/4**: 
+
+
+
+
+
+**Abenteuername**: A Soft White Damn
+
+**Regelwerk**: DELTA GREEN
+
+**Voraussetzung**: Wir spielen über Foundry VTT. Ihr braucht nur einen Webbrowser und eine Internetverbindung.
+
+**Regelkenntnisse**: Nicht notwendig / Für Neueinsteiger geeignet
+
+**Abenteuerdauer**: One-Shot
+
+**Datum, Uhrzeit & Spieldauer**: 06.08. ab 18.30 Uhr bis ~24.00 Uhr 
+
+**Beschreibung**: Den Grundstein für die Geheimorganisation **Delta Green** wurde 1928 nach der Einsatz der US-Regierung gegen die entartete Küstenstadt *Innsmouth* in Massachusetts gelegt. Die Organisation wurde gegründet, um sich ehrenhaft den Mächten der Dunkelheit entgegen zu stellen. Da dies im Geheimen geschehen soll, wird auf jeglichen Ruhm verzichtet. 
+Nach einer katastrophalen Operation in Kambodscha im Jahre 1969 wurden die Führung von Delta Green der Genehmigung durch die Regierung beraubt und es wurde in einem geheimen Pakt beschlossen die Arbeit ohne Unterstützung der Autorität und ohne Angst fortzusetzen. 
+Delta Green-Agenten schlüpfen durch das System und manipulieren die Bundesbürokratie, während sie darum kämpfen, die Menschheit vor dem unnatürlichen Grauen zu bewahren - oft zu erschütternden persönlichen Kosten.
+
+In **DELTA GREEN: The Role-Plaing Game** sind die Spieler diese Agenten. 
+Sie kämpfen, um das Leben und/oder die geistige Gesundheit von Menschen vor Bedrohungen jenseits von Raum und Zeit zu retten.
+
+**Charaktererstellung**: Ich werde Pregens bereitstellen. 
+
+**Das Abenteuer**: Ein Freund der Agency hat Fotos mit einem auffälligen Symbol an einen unserer verschlüsselten Server geschickt. Die Fotos zeigen das Symbol auf dem Kofferraum eines Autos, das auf einem zugefrorenen See in einer kleinen Stadt im Norden von Minnesota geparkt ist. Es gibt Grund zu der Annahme, dass es sich um eine reale Bedrohung handelt. Sie sind mit unserem Freund in einer Hütte am See verabredet. 
+
+Ihre Ziele: Den Uhrsprung des Symbols herausfinden, alle Bedrohungen beseitigen und unsere Beteiligung vertuschen. 
+
+Und um Himmels willen, erfrieren Sie nicht..
+
+**Safety-Tools**: Falls ihr Tabuthemen habt, teilt mir diese bitte vorher per Direktnachricht mit. Falls ihr keinen Spaß habt oder euch die Situation/Themen unangenehm sind, habt ihr natürlich jederzeit die Möglichkeit auszusteigen. Eine kurze Direktnachricht an mich wäre in diesem Fall nett, damit ich weiß das ihr nicht einfach aussteigt. 
+
+**Angemeldete Spielerinnen 0/4**: 
