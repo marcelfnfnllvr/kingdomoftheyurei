@@ -129,7 +129,7 @@ Herausforderung: Der Weg nach Oben ist beschwerlich. Leicht können sich Lavastr
 -	[  ] Jemand hat einen älteren Mann grazil und wie ein Steinbock die Wände des Berges hochlaufen sehen.
 -	[  ] Die Quellen sollen früher wärmer gewesen sein.
 -	[  ] Ein zerbrochenes heiliges Schutzsymbol.
--	[  ] Natürliche Filteranlage die das Badewasser aussiebt. Sie ist mit einer merkwürdig schleimigen Substanz voll.
+-	[  ] Natürlicher Filter, der das Badewasser filtert. Er ist mit einer seltsam schleimigen Substanz gefüllt.
 -	[  ] Die Frau des Badehausbesitzers ist seit einer Weile verschwunden.
 -	[  ] Kurz vor dem Tod summt das Wesen ein Kinderlied
 -	[  ] Dunkelglüher sollen die Seelen der verstorbenen in den Himmel tragen.
