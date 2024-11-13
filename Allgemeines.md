@@ -42,5 +42,11 @@ Menschen können mit Geistern und Dämonen interagieren, aber wenn sie von Dämo
 
 > Ich gehe davon aus, dass die wenigsten, die "Augen des Zwielichts: Königreich der Yukei" spielen oder leiten, mehr über die japanische Kultur wissen als das popkulturelle Wissen, das durch Anime, Manga und das Internet suggeriert wird. Ich hätte dieses Rollenspiel natürlich auch in einer völlig fiktiven, von der Realität losgelösten Welt spielen lassen können, aber das wäre mir auch falsch vorgekommen. Die Orte, Schauplätze und Charaktere in diesem Rollenspiel sind zu nah an dem Japan, das wir kennen. Was wir versuchen können, ist, diese Welt, die natürlich fiktiv ist und die es nie gegeben hat, so respektvoll wie möglich darzustellen. Trotzdem wird dieses Regelwerk nicht allen Ansprüchen gerecht werden können. Das akzeptiere ich. Wer trotzdem seine Version des Japan in "Augen des Zwielichts: Königreich der Yukei" darzustellen dem haben wir hier ein paar Tipps zur Darstellung diese Welt zusammengetragen.
 
+##### Wohnhäuser
 
+Die Wohnhäuser hatten oft asymmetrische Grundrisse mit größeren und kleineren Räumen, die mit Tatamis (dämmenden und dämpfenden Matten aus Reisstroh) ausgelegt waren. Die Räume waren vielseitig nutzbar und dienten meist keinem bestimmten Zweck. Als Türen dienten Shoji (Schiebetüren aus Papier), die sich weit öffnen ließen. Dies ermöglichte eine gute Belichtung und vermittelte ein Gefühl von Offenheit und Naturverbundenheit. Charakteristisch sind auch die Engawa. Sie verlaufen an der Außenseite des Hauses und bilden einen großen Korridor, der eine Verlängerung des Bodens und der Decke in den Außenraum darstellt. Hier kann man sitzen und sich mit den Nachbarn auf eine Tasse Tee treffen.
+
+##### Stadthäuser
+
+Die Machiya (Stadthäuser) mussten sich schon damals dem Platzmangel in den Städten anpassen. So waren sie meist aneinander gereiht und eher schmal gebaut. Die vordere Fassade diente als Laden und die hinteren Räume eher als Wohnraum. An den Eingängen der Geschäfte befinden sich häufig die Noren (ein kurzer Vorhang), die anzeigen, ob das Geschäft geöffnet oder geschlossen ist.
 
