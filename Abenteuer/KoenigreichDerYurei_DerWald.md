@@ -28,27 +28,28 @@ Meister des Waldes - Überleben
 
 Ihr seid seit Tagen unterwegs durch den endlosen Wald. In der Mitte soll es eine fortschrittliche und wohlhabende Festung mit einer gnädigen Kaiserin geben. Ganz ohne Einfluss der Zentralregierung.
 
-> Was hofft euer Charakter in der verlorenen Festung zu finden?
+> Was hofft euer Charakter in der abgelegenen Festung zu finden?<!-- Sie ist ja nicht wirklich verloren, nur schwer zu erreichen? -->
 
-Am Horizont seht ihr einen älteren Mann mit einem Ochsen und einem kaputten Karren, den er gerade repariert. Als ihr näher kommt, seht ihr einen zweiten Ochsen, der leblos neben dem Karren liegt. Neben dem Karren steht der älterer Mann der sich als Botan Ryan vorstellt. Er erzählt, dass eine wilde Kreatur aus dem Wald gestürmt sei, den Ochsen sofort getötet habe und mit seiner Tochter in den Wald geflohen sei. Er kann ihre Schreie noch in seinen Ohren hören. Er bittet die Gruppe um Hilfe. Das Wesen scheint kein normales Tier zu sein.
+Am Horizont seht ihr einen älteren Mann mit einem Ochsen und einem kaputten Karren, den er gerade repariert. Als ihr näher kommt, seht ihr einen zweiten Ochsen, der leblos neben dem Karren liegt. Der Mann neben dem Karren stellt sich als Botan Ryan vor. Er erzählt, dass eine wilde Kreatur aus dem Wald gestürmt sei, den Ochsen sofort getötet habe und mit seiner Tochter in den Wald geflohen sei. Er kann ihre Schreie noch in seinen Ohren hören. Er bittet die Gruppe um Hilfe. Das Wesen scheint kein normales Tier zu sein.
 
 ### Gefahren:
 
-- Jäger sind immer auf der Suche nach markierten. Ihre Transformationen können meist gewinnbringend verkauft werden.
+- Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden.
 - Ein mit der Schwarzen Pest infiziertes Tier läuft auf die Gruppe zu.
 - Die Gruppe der Wildschweine könnte mittlerweile infiziert sein.
 
 ### Momente:
 
-- Wie von Zauberhand fällt das Licht durch die Baumkronen und taucht den Wald in ein tiefes, leuchtendes Rot. Für einen Moment verschmilzt euer Geist mit dem Wald und findet Frieden.
-- Eine mit Moss überwachsene Statur eine Pilzgeistes.
-- Kleine Wesen nicht größer als Kolibris fliegen als Schwarm durch den Wald. Sie bilden zusammen ein größeres Abbild ihrer selbst.
+- Wie von Zauberhand fällt das Licht durch die Baumkronen und taucht den Wald in ein tiefes, leuchtendes Rot. Für einen Moment verschmilzt euer Geist mit dem Wald und findet Frieden.<!-- Hmm, das ist 1:1 dieselbe Beschreibung wie beim Pilzbefall... Ich vermute zumindest der Wald hier dürfte nicht in rotes sondern eher in grünes oder grüngelbes Licht gehüllt werden? -->
+- Eine mit Moos überwachsene Statue eines Pilzgeistes.<!-- Sicher? Wieso? -->
+- Kleine Wesen - nicht größer als Kolibris - fliegen als Schwarm durch den Wald. Sie bilden zusammen ein größeres Abbild ihrer selbst.
+<!-- Evtl könnte man auch eine Begegnung mit einem oder mehreren Kodama hier gut einbringen? -->
 
 ### Personen:
 
 ##### Botan Ryan – Händler auf dem Weg
 
-*Spricht aufgeregt mit dünner Stimme - Wohlgesonnen - Trägt gelbe Roben die Edel aussehen*
+*Spricht aufgeregt mit dünner Stimme - Wohlgesonnen - Trägt gelbe Roben, die edel aussehen*
 
 Er tut sehr unwissend, aber er ist bei weitem nicht dumm. Er weiß, dass die große Straße dem Wald nicht gefällt. Natürlich weiß er auch vom Sklavenhandel in der Festung mitten im Wald. Ob seine Tochter wirklich seine Tochter ist oder ob er sie nur gekauft hat, bleibt der Gruppe überlassen. Zu den Fureru ist er nett, aber zur Suche kann er nicht viel beitragen.
 
@@ -59,9 +60,9 @@ Er tut sehr unwissend, aber er ist bei weitem nicht dumm. Er weiß, dass die gro
 
 ##### Faheem Den – Jäger der Nomaden des Waldes
 
-*Hochnäsig und eine sich überschlagende Stimme - Wohlgesonnen - Trägt einen Helm aus einem Tierschädel*
+*Hochnäsig und eine sich überschlagende Stimme - Wohlgesonnen - Trägt einen Tierschädel als Helm*
 
-> Aus welchem Tier ist der Helm den der Jäger trägt?
+> Von welchem Tier stammt der Helm, den der Jäger trägt?
 
 Ein ruhiger Zeitgenosse, der sich seiner Überlegenheit im Wald sicher ist. Er hat von Fureru gehört, hält sie aber für Zauberer der neuen Welt. Er kennt den Zauberer des Waldes aus der Ferne und weiß, wo sich die Höhle der Wildschweine und das Labyrinth befinden. Er ist auf der Jagd und will nicht weiter gestört werden. Wie viele es von seiner Art gibt, verrät er nicht. Den Fureru gegenüber ist er sehr hochnäsig.  
 
@@ -69,11 +70,11 @@ Ein ruhiger Zeitgenosse, der sich seiner Überlegenheit im Wald sicher ist. Er h
 
 *Wortkarg und redet gerne in Rätseln - Neutral - Sein Kopf ist weiß bemalt und er ist viel größer als alle anderen Wildschweine*
 
-?
+? <!-- ???? -->
 
 ##### Sayomi Leonhard - Eigenbrötlerin - alte Fureru - Hexe
 
-*Wortkarg mit tieferruhiger Stimme - Wohlgesonnen - Hat ein stark vernarbtes Gesicht*
+*Wortkarg mit tiefer, ruhiger Stimme - Wohlgesonnen - Hat ein stark vernarbtes Gesicht*
 
 Sie gibt nicht direkt zu, dass sie eine Fureru ist. Sie versteckt ihre äußerliche Veränderung gut. "Meine Kräfte schwinden. Der Wald wird immer unruhiger." Sie kann gut eingesetzt werden, um die Gruppe vor eine schwierige Wahl zu stellen. Sie wird sich immer für die Gesundheit des Waldes und das Gleichgewicht zwischen Menschen und Geistern einsetzen. Bis zu ihrem Tod.
 
@@ -97,11 +98,11 @@ Herausforderung: Wer oder was hier lebt, scheint nicht da zu sein. Aber für wie
 
 ##### Ein Labyrinth aus Felsen
 
-Es geht ein paar Meter bergab. Überall ist dichter Wald. Man wird durch Felsspalten wie durch ein Labyrinth geführt.
+Es geht ein paar Meter bergab. Überall ist dichter Wald. Man wird durch Felsspalten geführt wie durch ein Labyrinth.
 
-> Woher wisst ihr, dass ihr nicht die Ersten seid, die dieses Naturlabyrinth betreten?n?
+> Woher wisst ihr, dass ihr nicht die Ersten seid, die dieses Naturlabyrinth betreten?
 
-Herausforderung: Um durch das Labyrinth zu gelangen, ohne sich zu verlaufen, ist mindestens ein Wurf auf Sich der Gefahr stellen erforderlich.
+Herausforderung: Um durch das Labyrinth zu gelangen, ohne sich zu verlaufen, ist mindestens ein Wurf auf "Sich der Gefahr stellen" erforderlich.
 
 ### Hinweise:
 

@@ -40,7 +40,7 @@ Es kommen Väterchen und Mütterchen auf euch zugelaufen und begrüßen euch. Si
 
 ##### Yoshiteru Sugimoto – Reicher Besitzer des Anwesens
 
-Spricht mit ruhiger, etwas dünner aber gut zu verstehender Stimme. Der Gruppe wohlgesonnen.
+*Spricht mit ruhiger, etwas dünner aber gut zu verstehender Stimme - Der Gruppe wohlgesonnen*
 Ein netter, sehr alter Herr. Hat hier früher mit seiner Frau Hiroko gelebt. Sie verschwand eines Tages spurlos. Er besitzt Land und lässt Reis anbauen. Er sagt er sei gütig und er mag die Hausgeister. Sie leisten ihm immer Gesellschaft und sind nicht so unheimlich wie Mütterchen und Väterchen. 
 
 ##### Anwar Kazushige – unehelicher Sohn von Yoshiteru
@@ -49,33 +49,34 @@ Tot aufgefundener unehelicher Sohn des Yoshiteru. Er war auf dem Anwesen als Koc
 
 ##### Kyuso Sugimoto – Sohn von Yoshiteru
 
-Nasale Stimme, die leicht hochnäsig wirkt.
-Wohlgesonnen.
+*Nasale Stimme, die leicht hochnäsig wirkt - Wohlgesonnen*
+
 Er ist ca. 50-60 Jahre alt. Erst seit Kurzem wieder auf dem Anwesen. In den großen Städten ist es viel angenehmer und lukrativer zu wohnen. Möchte hier schnell wieder weg. Auf die Gesellschaft seiner Schwester kann er verzichten. An Geister glauben nur Kinder und Narren.
 
 ##### Najwa Sugimoto – Tochter von Yoshiteru
 
-Liebe ruhige Stimme. Wird schnell wütend, wenn sie auf ihren Bruder angesprochen wird.
-Misstrauisch
+*Liebe, ruhige Stimme - Wird schnell wütend, wenn sie auf ihren Bruder angesprochen wird - Misstrauisch*
+
 Sie ist ca. 50-60 Jahre alt. Sie reist durch das Land und kontrolliert die Ländereien ihres alten Herrn. Sie ist gerne draußen und beschäftigt sich mit den Problemen der Menschen. Sie löst gerne Probleme. Dass sie nach dem Tod von Anwar nicht abreisen konnte, passt ihr überhaupt nicht.
 
 ##### Väterchen Ephram und Mütterchen Eru – Versteckte Hausgeister
 
-Komisch Stimmen. Unregelmäßige Sprache. Wiederholen sich oft. 
-Wohlgesonnen
+*Komische Stimmen. Unregelmäßige Sprache - Wiederholen sich oft - Wohlgesonnen*
+
 Sind dankbar und haben jetzt mehr Arbeit, wo die Hausgeister fehlen. Waren schon immer hier. Vor dem alten Herrn. Lange vorher. Wiederholen sich.<!-- <-Diese Beschreibung wiederholt sich auch ^^ --> Sie können sich nicht mehr daran erinnern, dass sie mal Hausgeister waren.
 Die anderen Hausgeister denken, dass beim Ankommen des Herrn 10 von Ihnen verschwunden sind. Dabei haben sich jeweils fünf nur zu den Bediensteten verwandelt.<!-- Versteh ich das richtig, dass sich 5 Geister in Ephram und 5 weitere in Eru verwandelt haben? Finde den Satz etwas unklar. Vorschlag: Sie sind jedoch weder tot noch haben sie das Anwesen verlassen: 5 Geister haben sich zusammen in Ephram und 5 weitere Geister in Eru verwandelt. -->
 
 ##### Die Hausgeister
 
-Sie sprechen alle gleich, denn alle sind gleich.
-Misstrauisch
+*Sie sprechen alle gleich, denn alle sind gleich. - Misstrauisch*
+
 Sie werden nicht verraten, ob sie Anwar getötet haben oder nicht. Sie sagen aber es wäre nicht ihre Art. Es wurde allerdings Unrecht getan. 
 
 ##### Der alte Kater Ito
 
-Wohlgesonnen+1
-Dicker Kater kann an verschiedenen Stellen des Hauses angetroffen werden.
+*Wohlgesonnen+1*<!-- Was heißt +1? Hab das Regeldokument noch nicht gelesen, falls es da drin steht, ignorier die Frage ^^ -->
+
+Dicker Kater, kann an verschiedenen Stellen des Hauses angetroffen werden.
 Der Kater kann alles wissen, ist aber katzenmäßig eher mit Vorsicht anzufassen. Er ist ein Geist und kann mit den Fureru sprechen.
 
 ### Schauplätze:
