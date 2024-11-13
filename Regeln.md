@@ -9,12 +9,12 @@ Wenn du mit dem Würfelergebnis nicht zufrieden bist und ein weißer Würfel der
 
 ## Verderbnispunkte
 
-Jedes Mal, wenn die Spielerinnen schlecht würfeln, sammelt die Spielleitung Verderbnispunkte. Diese kann sie für besondere Ereignisse ausgeben, um das Spiel spannender zu machen.
+Jedes Mal, wenn die Spielenden schlecht würfeln <!-- würde "schlecht" noch präziser definieren, zB. also: wenn Wert x unterwürfelt wird -->, sammelt die Spielleitung Verderbnispunkte. Diese kann sie für besondere Ereignisse ausgeben, um das Spiel spannender zu machen.
 
-- Gebe 1-X Punkte aus, um die Schwierigkeit des Abenteuers am Ende der Sitzung zu erhöhen.
-- Gib 2 Punkte für ein gefährliches Ereignis. Es könnte sich zu einer Gefahr der Stufe 8 entwickeln.
-- Gib 3 Punkte für die Bekämpfung einer Gefahr der Stufe 10.
-- Gib 4 Punkte für die Bekämpfung einer Gefahr der Stufe 12.
+- Gebe 1-X Punkte aus, um die Schwierigkeit des Abenteuers am Ende der Sitzung um diese Anzahl Punkte zu erhöhen.
+- Gib 2 Punkte aus für ein gefährliches Ereignis. Es könnte sich zu einer Gefahr der Stufe 8 entwickeln.
+- Gib 3 Punkte aus für die Bekämpfung einer Gefahr der Stufe 10.
+- Gib 4 Punkte aus für die Bekämpfung einer Gefahr der Stufe 12.
 
 ## Würfel sammeln
 
@@ -28,21 +28,21 @@ Immer wenn die Augenzahl im Ergebnis des schwarzen Würfels größer oder gleich
 
 ## Außer Gefecht gesetzt
 
-Wenn ein Charakter sechs Zustände aufbaut, ist er außer Gefecht gesetzt. Es erfordert einen "Sich dem Risiko aussetzen"-Wurf eines anderen Spielers, um dem Spieler wieder aufzuhelfen. Während dieser Zeit verändert der Dämon den Charakter nachhaltig.
+Wenn ein Charakter sechs Zustände aufbaut, ist er außer Gefecht gesetzt. Es erfordert einen "Sich dem Risiko aussetzen"-Wurf eines anderen Spielenden, um dem Charakter wieder aufzuhelfen. Während dieser Zeit verändert der Dämon den Charakter nachhaltig.
 
 1. Der Körper und der Geist deines Charakters altern. Erhöhe den Abschnitt um eins.
-   1. Wenn dein Charakter jetzt im sechsten Lebensabschnitt ist, ist er zu müde und erschöpft, um weiterzumachen. Wie sieht der Lebensabend deines Charakters aus?
+   -	Wenn dein Charakter jetzt im sechsten Lebensabschnitt ist, ist er zu müde und erschöpft, um weiterzumachen. Wie sieht der Lebensabend deines Charakters aus?
 2. Beantworte die nächste Frage auf der Abschnittstabelle.
 3. Ändere eines der Attributfelder in ein schwarzes.
 4. Würfle jeweils einmal auf die Fähigkeitstabelle und würfle dann mit W3, welche Fähigkeit du gegen eine neue tauschen musst.
-5. Würfel erneut auf die Schwachpunkttabelle mit +2.
+5. Würfle erneut auf die Schwachpunkttabelle mit +2.
 6. Fehlende Ängste werden neu gewürfelt.
 7. Die Veränderung wird sichtbar stärker.
-8. Setzte deine Aufstiegspunkte wieder zurück.
+8. Setze deine Aufstiegspunkte wieder zurück.
 
 ## Der Stufenaufstieg
 
-Euer Charakter verdient sich nach jedem Abend Punkte. Diese werden gesammelt und können für einen Aufstieg der Stufe 1, 2 oder 3 ausgegeben werden. Bedenkt allerdings das solltet ihr außer Gefecht gesetzt werden alle gesammelten Punkte verloren gehen. Der Stufenaufstieg ist eine Art Alterungsprozess des Charakters. Kein Charakter ist für die Ewigkeit gemacht. Es wird nur die jeweilige Stufe abgehandelt.
+Euer Charakter verdient sich nach jedem Abend Punkte. Diese werden gesammelt und können für einen Aufstieg der Stufe 1, 2 oder 3 ausgegeben werden. Bedenkt allerdings, dass alle gesammelten Punkte verloren gehen falls ihr außer Gefecht gesetzt werden solltet. Der Stufenaufstieg ist eine Art Alterungsprozess des Charakters. Kein Charakter ist für die Ewigkeit gemacht. Es wird nur die jeweilige Stufe abgehandelt.
 
 Bei jedem Aufstieg:
 
@@ -56,20 +56,20 @@ Bei jedem Aufstieg:
 
 Stufe 1 - Bei 5 gesammelten Punkten:
 
-1. Würfel erneut auf die Schwachpunkttabelle mit -1. (Optional)
+1. Würfle erneut auf die Schwachpunkttabelle mit -1. (Optional)
 
 Stufe 2 - Bei 8 gesammelten Punkten:
 
-1. Würfel erneut auf die Schwachpunkttabelle mit -2. (Optional)
+1. Würfle erneut auf die Schwachpunkttabelle mit -2. (Optional)
 2. Du darfst, für eine passende Erzählung, eine Angst deiner Wahl verlieren. (Optional)
-3. Würfel jeweils einmal auf die Fähigkeiten Tabelle und tausche eine Fähigkeit gegen eine neue. Es darf jede bestehende Fähigkeit gegen eine neue getauscht werden. (Optional)
+3. Würfle jeweils einmal auf die Fähigkeiten-Tabelle und tausche eine Fähigkeit gegen eine neue. Es darf jede bestehende Fähigkeit gegen eine neue getauscht werden. (Optional)
 
 Stufe 3 - Bei 10 gesammelten Punkten:
 
-1. Würfel erneut auf die Schwachpunkttabelle mit -3. (Optional)
+1. Würfle erneut auf die Schwachpunkttabelle mit -3. (Optional)
 2. Du darfst, für eine passende Erzählung, eine Angst deiner Wahl verlieren. (Optional)
 3. Ändere ein weiteres Herkunftsattribut, Dämonenattribut oder Reittierattribut. (Optional)
-4. Würfel jeweils zweimal auf die Fähigkeiten Tabelle und tausche eine Fähigkeit gegen eine neue. Es darf jede bestehende Fähigkeit gegen eine neue getauscht werden. (Optional)
+4. Würfle jeweils zweimal auf die Fähigkeiten Tabelle und tausche eine Fähigkeit gegen eine neue. Es darf jede bestehende Fähigkeit gegen eine neue getauscht werden. (Optional)
 
 ## Korruption
 
@@ -105,7 +105,7 @@ Wenn du in einem Wurf zwei Einsen würfelst, darfst du den Wurf nicht wiederhole
 
 Jeder Spieler darf nach einem Abenteuer folgende Schritte ausführen:
 
-1. Du darfst noch die Frage des Abenteuers beantworten und einen Zustand abbauen. Der Spielzug "Auf Reisen" ist nur im Abenteuer möglich. 
+1. Du darfst noch die Frage des Abenteuers beantworten und einen Zustand abbauen. Der Spielzug "Auf Reisen" ist nur im Abenteuer möglich, nicht am Ende. 
 2. Du darfst deinen Titel wechseln.
 3. Du überprüfst am Ende der Sitzung, ob du die von dir gewählten Fragen beantworten kannst und steigst eventuell auf.
 
