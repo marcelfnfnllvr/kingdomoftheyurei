@@ -50,4 +50,4 @@ Die Wohnhäuser hatten oft asymmetrische Grundrisse mit größeren und kleineren
 
 Die Machiya (Stadthäuser) mussten sich schon damals dem Platzmangel in den Städten anpassen. So waren sie meist aneinander gereiht und eher schmal gebaut. Die vordere Fassade diente als Laden und die hinteren Räume eher als Wohnraum. An den Eingängen der Geschäfte befinden sich häufig die Noren (ein kurzer Vorhang), die anzeigen, ob das Geschäft geöffnet oder geschlossen ist.
 
-Testasdsad
+<!-- Text geschreibe -->

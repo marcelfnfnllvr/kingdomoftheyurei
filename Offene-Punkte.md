@@ -32,8 +32,8 @@
 - [ ] Würfel und Proben bestehen
 - [ ] Abenteuer schreiben
   - [x] Der Wald
-  - [ ] Die Aschegeister
-  - [ ] Der Berg erwacht
+  - [x] Die Aschegeister
+  - [x] Der Berg erwacht
 - [ ] Vogelfedern im Seitendesign/Layout
 - [ ] Lernt die Gruppe nach jedem Abenteuer etwas über die Welt? Darf ihre Welt gestalten
 - [ ] Fragen für die Rast
