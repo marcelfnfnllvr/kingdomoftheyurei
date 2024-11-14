@@ -4,7 +4,7 @@
 
 Wenn du eine Person befragst, die dir wohlgesonnen ist, oder einen Raum untersuchst, würfelst du auf diesen Spielzug. Du bekommst einen weißen Würfel für diesen Spielzug.
 
-- 1-4 Die Spielleitung erhält einen Verderbnis.
+- 1-4 Die Spielleitung erhält einen Verderbnispunkt.
 - 5-6 Du bekommst einen Hinweis.
 - 6&6 Du bekommst einen weiteren Hinweis.
 
@@ -15,10 +15,10 @@ Wenn du eine Person befragst, die dir wohlgesonnen ist, oder einen Raum untersuc
 Wenn dir jemand misstraut oder wenn du etwas Riskantes tun willst, würfle auf diesen Spielzug. Du bekommst einen schwarzen Würfel von diesem Spielzug.
 
 - 1-2 Es kommt sofort zu einer gefährlichen Situation.
-- 3-4 Du scheiterst und die Spielleitung erhält einen Verderbnis.
+- 3-4 Du scheiterst und die Spielleitung erhält einen Verderbnispunkt.
 - 5 Du machst genau was du dir vorgenommen hast und behältst die Nerven.
 - 6 Du behältst die Nerven und bekommst einen Hinweis. 
-- 6&6 Du bekommst bei dem nächsten, zu dem Ereignis passenden, Wurf einen zusätzlichen weißen Würfel.
+- 6&6 Du bekommst bei dem nächsten, zu dem Ereignis passenden, Wurf einen zusätzlichen weißen Würfel.<!-- gibt's den Hinweis dann zusätzlich zum zusätzlichen weißen Würfel? Oder ist das hier exklusiv?-->
 
 *Dieser Spielzug sollte verwendet werden, wenn die Situation potenziell gefährlich ist. Dies kann z.B. der Versuch sein, einen Felsvorsprung hinunterzuklettern, ein Labyrinth zu durchqueren oder eine aufgebrachte Person zu beruhigen. Außerdem ist es mit diesem Spielzug möglich sich auf seinen Dämon zu konzentrieren und dessen Kräfte zu nutzen. So können Fähigkeiten eingesetzt werden, die der Charakter nicht direkt besitzt. So ist es z.B. möglich, einen NSC wiederzubeleben, mit dem Dämonenreich zu kommunizieren oder besonders stark oder wendig zu sein.*
 
@@ -26,10 +26,10 @@ Wenn dir jemand misstraut oder wenn du etwas Riskantes tun willst, würfle auf d
 
 Besprich mit der Spielleitung, was deine Fähigkeit bewirken soll. Du bekommst einen schwarzen Würfel von diesem Spielzug.
 
-- Es passiert in jedem Fall, was du wolltest.
-- 1-4 Die Spielleitung erhält einen Verderbnis.
-- 5-6 Du bekommst bei dem nächsten, zu dem Ereignis passenden, Wurf einen zusätzlichen weißen Würfel.
-- 6&6 Du bekommst einen Hinweis.
+- Unabhängig vom Würfelergebnis passiert in jedem Fall, was du wolltest.
+- 1-4 Die Spielleitung erhält einen Verderbnispunkt.
+- 5-6 Du bekommst bei dem nächsten, zu dem Ereignis passenden Wurf einen zusätzlichen weißen Würfel.
+- 6&6 Du bekommst einen Hinweis.<!-- gibt's den Hinweis dann zusätzlich zum zusätzlichen weißen Würfel? Oder ist das hier exklusiv?-->
 
 *Dieser Spielzug wird verwendet, wenn die Spieler:innen eine Fähigkeit nutzen. Fähigkeiten, die die Spieler:innen so auslösen, können auf der erzählerischen Ebene nicht scheitern. Je nach Ergebnis des Wurfes kann es jedoch zu Verderbnispunkten oder Zuständen kommen.* 
 
@@ -45,9 +45,9 @@ Es ist möglich das Erfolgslevel des Gegners mithilfe von Fähigkeiten zu senken
 
 ## Der „Auf Reisen“ Spielzug
 
-Dieser Spielzug darf nur einmal pro Abenteuer verwendet werden. Erzählt von einem Moment auf der Reise, um allein oder gemeinsam Zustände abzubauen. Dieser Spielzug gibt einen weißen Würfel. Um einen weiteren Würfel zu erhalten, muss die Erzählung etwas mit dem Attribut zu tun haben.
+Dieser Spielzug darf pro Spieler:in nur einmal pro Abenteuer verwendet werden. Erzählt von einem Moment auf der Reise, um allein oder gemeinsam Zustände abzubauen. Dieser Spielzug gibt einen weißen Würfel. Um einen weiteren Würfel zu erhalten, muss die Erzählung etwas mit dem Attribut zu tun haben.
 
-- 1-2 Die Spielleitung bekommt einen Verderbnis.
+- 1-2 Die Spielleitung bekommt einen Verderbnispunkt.
 - 3-4 Du entfernst die letzten zwei Zustände. 
 - 5-6 Du entfernst die letzten drei Zustände. Die Spielleitung gibt dir einen Hinweis.
 - 6&6 Du entfernst alle deine Zustände.
@@ -56,7 +56,7 @@ Dieser Spielzug darf nur einmal pro Abenteuer verwendet werden. Erzählt von ein
 
 ## Der „Sich dem Kampf stellen“ Spielzug
 
-Ziel des Kampfes ist es, mit der Summe der beiden besten Würfel (xD6kh2) die Gefahrenstufe des Gegners zu erreichen oder zu übertreffen. Mit dem Spielzug "Gegner schwächen" kann die Gefahrenstufe des Gegners gesenkt werden. Dies ist sowohl vor Beginn des Kampfes als auch während des Kampfes möglich. Allerdings darf der Charakter während des Kampfes in dieser Kampfrunde keine Kampfwürfel werfen. Der Charakter kann sich nur durch einen erfolgreichen Wurf auf "Etwas riskieren" aus dem Kampf zurückziehen. Außerdem muss ein anderer Kampfteilnehmer seine Schwäche übernehmen. Um an einem Kampf teilnehmen zu können, benötigt der Charakter eine Waffe als Gegenstand oder eine entsprechende Fähigkeit.
+Ziel des Kampfes ist es, mit der Summe der beiden besten Würfel (xD6kh2) die Gefahrenstufe des Gegners zu erreichen oder zu übertreffen. Mit dem Spielzug "Gegner schwächen" kann die Gefahrenstufe des Gegners gesenkt werden. Dies ist sowohl vor Beginn des Kampfes als auch während des Kampfes möglich. Allerdings darf der Charakter während des Kampfes in dieser Kampfrunde keine Kampfwürfel werfen. Der Charakter kann sich nur durch einen erfolgreichen Wurf auf "Etwas riskieren" aus dem Kampf zurückziehen. Außerdem muss ein anderer Kampfteilnehmer seine Schwäche übernehmen. Um an einem Kampf teilnehmen zu können, benötigt der Charakter eine Waffe als Gegenstand oder eine entsprechende Fähigkeit. <!-- vielleicht bin ich auch einfach etwas zu begriffsstutzig, aber obwohl ich es selbst schon gespielt hab, so richtig durchblicke ich die Kampfmechanik immer noch nicht ^^; Wenn ich die Einzige bin, voll ok. Aber falls es anderen auch so geht, sollte man evtl die Formulierung noch anpassen. Evtl könnte man auch nochmal gesondert darauf eingehen was passiert, wenn der Gegner eine Stufe >12 hat? Ist "Den Gegner schwächen" dann die einzige Möglichkeit ihm beizukommen? -->
 
 1. Die Spielleitung teilt die zu erreichende Gefahrenstufe der Gegners oder der Gegnergruppe mit.
    1. Auch eine Gruppe von Gegnern hat nur eine Gefahrenstufe und wird erzählerisch als Einheit behandelt. Zum Beispiel kann ein dämonisches Wildschwein allein Level 9 haben, als Gruppe aber Level 12.
@@ -74,13 +74,13 @@ Ziel des Kampfes ist es, mit der Summe der beiden besten Würfel (xD6kh2) die Ge
 
 Wurde der Kampf erfolgreich beendet, würfelt der Spieler, der im letzten Kampfwurf den höchsten Wert hatte, mit so vielen W6, wie es der Erfolgsstufe des Gegners entspricht und erhält für jede gewürfelte 6 einen Hinweis.
 
-*Wenn sich durch einen Kampf eine Flut von Hinweisen ergibt, baue ich diese teilweise auch rückwirkend in bereits gespielte Szenen ein und teile sie den Spieler:innen mit. Es ist auch möglich, noch nicht gespielte Szenen kurz zu erzählen, um Hinweise passend zu platzieren. Generell sind hier der Kreativität keine Grenzen gesetzt. Ein Kampf ist für die Charaktere gefährlich und mehrere Hinweise belohnen zumindest für die erlebten Strapazen.* 
+*Wenn sich durch einen Kampf eine Flut von Hinweisen ergibt, baue ich diese teilweise auch rückwirkend in bereits gespielte Szenen ein und teile sie den Spieler:innen mit. Es ist auch möglich, noch nicht gespielte Szenen kurz zu erzählen, um Hinweise passend zu platzieren. Generell sind hier der Kreativität keine Grenzen gesetzt. Ein Kampf ist für die Charaktere gefährlich und mehrere Hinweise belohnen zumindest für die erlebten Strapazen.* <!-- ist das so optimal gebalanced? Theoretisch möglich wäre es dann ja, dass man auf einen Schlag >10 Hinweise bekommt. -->
 
 ## Der „Hilfe anbieten“ Spielzug
 
 Hilf einem Mitspieler, indem du mit einem passenden Attribut würfelst. Das Ergebnis zählt für den anderen Spieler. Triffst du das Ergebnis des schwarzen Würfels oder würfelst mit einem schwarzen Würfel, erhältst du einen Zustand.
 
-*Es ist überhaupt nicht verwerflich, als Spielleitung nicht immer "Hilfe anbieten" zu erlauben. Es sollte allerdings belohnt werden, wenn die Spieler:innen sich kreative Wege überlegen, wie sie in der Szene doch helfen können. Das mehr als eine Person hilft ist zwar regelkonform erlaubt, sollte aber nicht ausgenutzt werden und muss gut in die Szene passen.*
+*Es ist überhaupt nicht verwerflich, als Spielleitung nicht immer "Hilfe anbieten" zu erlauben. Es sollte allerdings belohnt werden, wenn die Spieler:innen sich kreative Wege überlegen, wie sie in der Szene doch helfen können. Dass mehr als eine Person hilft ist zwar regelkonform erlaubt, sollte aber nicht ausgenutzt werden und muss gut in die Szene passen.*
 
 ## Der „Die Aufgabe lösen“ Spielzug
 
