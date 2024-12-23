@@ -117,7 +117,35 @@ Der Ton des Spiels ist eher ernst.
 
 **Angemeldete Spielerinnen 0/4**: 
 
+Spezialagent Cornwell
+Ein FBI-Agent, der ein Experte im Lesen und Manipulieren von Menschen ist.
+Bonus-Fähigkeiten: Kriminologie, Ausweichen, HUMINT, Recht, Nahkampfwaffen, Okkultismus, Überreden, Psychotherapie. 
+Traumatischer Hintergrund: Harte Erfahrung, mit Boni auf Wachsamkeit, Antrieb, Forensik und
+Okkultismus.
 
+Dr. Kamaroff
+Ein brillanter forensischer Pathologe des FBI. 
+Bonusfähigkeiten: Schusswaffen, Erste Hilfe, Fremdsprache (Latein, zweimal), Forensik, Recht, Medizin, Okkultismus. 
+Traumatischer Hintergrund: Harte Erfahrung, mit Boni auf Erste Hilfe, Forensik, Medizin und Okkultismus.
+
+Kurtz
+Ein Computerwissenschaftler mit gefährlichen Interessen. 
+Bonusfähigkeiten: Informatik, Handwerk (Mikroelektronik), Ausweichen, Okkultismus, Wissenschaft (Mathematik), SIGINT, Schleichen (zweimal), Unbewaffneter Kampf. 
+Traumatischer Hintergrund: Gefangenschaft oder Einkerkerung.
+
+McMurtry
+Ein Spezialagent im Ruhestand mit umfangreicher Kampferfahrung Kampferfahrung (wahrscheinlich bei einer Truppe wie den U.S. Army Rangers), arbeitet jetzt als Sicherheitsunternehmer.
+Bonusfähigkeiten: Ausweichen (zweimal), Erste Hilfe, Fremdsprache Sprache (Arabisch), Fremdsprache (Paschtu), Fremdsprache (Urdu) Sprache (Urdu), Überreden, Schleichen. Traumatischer Hintergrund: extreme Gewalt.
+
+Dr. Palmer
+Anthropologieprofessor und Amateurfotograf mit großer Erfahrung im Okkulten. 
+Bonusfähigkeiten: Anthropologie, Kunst (Fotografie, zweimal), Dodge, Geschichte, HUMINT, Okkultismus, Suche. 
+Traumatischer Hintergrund: Dinge, die der Mensch nicht wissen sollte.
+
+Dr. Schell
+Ein Astrophysiker, der durch den Kontakt mit unnatürlichen Kräften. 
+Bonus-Fertigkeiten:Handwerk (Linsenherstellung), Navigieren (zweimal), Okkult (zweimal), Wissenschaft (Astronomie), SIGINT (zweimal). 
+Traumatischer Hintergrund: Dinge, die der Mensch nicht wissen sollte.
 
 
 
