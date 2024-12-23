@@ -46,8 +46,21 @@ Menschen können mit Geistern und Dämonen interagieren, aber wenn sie von Dämo
 
 Die Wohnhäuser hatten oft asymmetrische Grundrisse mit größeren und kleineren Räumen, die mit Tatamis (dämmenden und dämpfenden Matten aus Reisstroh) ausgelegt waren. Die Räume waren vielseitig nutzbar und dienten meist keinem bestimmten Zweck. Als Türen dienten Shoji (Schiebetüren aus Papier), die sich weit öffnen ließen. Dies ermöglichte eine gute Belichtung und vermittelte ein Gefühl von Offenheit und Naturverbundenheit. Charakteristisch sind auch die Engawa. Sie verlaufen an der Außenseite des Hauses und bilden einen großen Korridor, der eine Verlängerung des Bodens und der Decke in den Außenraum darstellt. Hier kann man sitzen und sich mit den Nachbarn auf eine Tasse Tee treffen. 
 
+> Links seht ihr ein kleines Bauernhaus. Auf dem Engawa sitzt eine Gruppe von Leuten und unterhält sich. Auf dem Weg davor spielen zwei Kinder. Die Shoji des Hauses sind weit geöffnet, so dass ein guter Luftzug ins Haus kommt. Praktisch, denn so kann man ohne Probleme hineinschauen.
+
 ##### Stadthäuser
 
 Die Machiya (Stadthäuser) mussten sich schon damals dem Platzmangel in den Städten anpassen. So waren sie meist aneinander gereiht und eher schmal gebaut. Die vordere Fassade diente als Laden und die hinteren Räume eher als Wohnraum. An den Eingängen der Geschäfte befinden sich häufig die Noren (ein kurzer Vorhang), die anzeigen, ob das Geschäft geöffnet oder geschlossen ist.
 
-<!-- Text geschreibe -->
+##### Tempel und Schreine
+
+Sie sind allgegenwärtig und fallen durch ihre großzügige Gestaltung auf. Große Zeremonienhallen, Pagoden, Torii-Tore an den Eingängen und Gärten vor den Tempeln waren typisch für diese Zeit. Obwohl es verschiedene religiöse Ausprägungen und Strömungen gab, beschränken wir uns hier auf den Shintoismus und den Buddhismus. Diese existierten zum Teil gleichzeitig in den Tempelanlagen und waren nicht unbedingt voneinander getrennt. Wichtiger für unsere Erzählungen sind jedoch lokale Volksglauben und Rituale, die typisch für die Regionen sind, in denen wir spielen. Diese sind meist völlig frei erfunden und haben mit dem realen Edo-Japan nichts zu tun. Und natürlich lassen wir das verbotene Christentum immer mal wieder in Gestalt von Menschen aus dem Westen auftauchen. Immer ein guter Grund, misstrauisch zu sein. 
+
+> Ihr seht einen in den Berg gehauenen Steinpfad, der einige Meter hoch zu einem kleinen Tempel führt. Ein Mönch tritt rechts durch das Torii-Tor und steigt vorsichtig die steinerne Treppe zum Tempel hinauf. Der Mönch achtet genau darauf, wo er durch das Tor geht, denn die Mitte ist für die Götter reserviert. Yūsuke konzentriert sich und verlagert seine Wahrnehmung halb in die Welt der Götter und Geister. Er sieht kleine Wesen, die durch die Mitte des Torii auf den Tempel zugehen, bevor seine Sicht wieder klar wird und die Geister verschwinden.
+>
+
+Burgen
+
+Gärten
+
+Geografie von der Insel Ōshima
