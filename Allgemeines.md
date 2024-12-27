@@ -2,15 +2,15 @@
 
 ## Worum geht es in diesem Rollenspiel?
 
-> In Augen des Zwielichts: Königreich der Yokai spielt man gezeichnete Wanderer, sogenannte Fureru, die durch die Welt ziehen und mit Hilfe dämonischer Kräfte versuchen, das Gleichgewicht zwischen Geistern und Menschen aufrechtzuerhalten.
+> In Augen des Zwielichts: Königreich der Yōkai spielt man gezeichnete Wanderer, sogenannte Fureru, die durch die Welt ziehen und mit Hilfe dämonischer Kräfte versuchen, das Gleichgewicht zwischen Geistern und Menschen aufrechtzuerhalten.
 
 Ihr schlüpft in die Rolle einer Gruppe, die durch das Königreich Soho zieht und ihre Kräfte einsetzt, um Geister aufzuhalten, die außer Kontrolle geraten sind. Dabei interagiert ihr mit den Einwohnern, der Umgebung und anderen Geistern und setzt so Stück für Stück eine Geschichte zusammen, die erklärt, warum sich die Geister verändert haben. Auf dem Weg zur Lösung warten Gefahren, die direkt mit dem jeweiligen Abenteuer zu tun haben, aber auch mit dem Verfall eures Charakters und seinem Kontakt mit der Dämonenwelt. Oberstes Ziel der Fureru ist immer eine friedliche Lösung des Problems.
 
-## Wie spielt sich Augen der Zwielichts: Königreich der Yokai?
+## Wie spielt sich Augen der Zwielichts: Königreich der Yōkai?
 
 > Eran interagiert mit einem NSC des Abenteuers und befragt ihn. Dazu würfelt er den Spielzug „Etwas herausfinden“. Dazu darf er einen weißen Würfel für den Spielzug und einen weißen Würfel für sein Attribut „Redegewandtheit“ nehmen. Einer der beiden Würfel zeigt als Ergebnis eine Sechs und Eran erhält dafür vom NPC einen vom Spielleiter ausgewählten Hinweis.
 
-In Augen des Zwielichts: Königreich der Yokai haben die Charaktere der Spielenden Attribute und lösen durch ihr Rollenspiel bestimmte Spielzüge aus. Wenn ein Spielzug ausgelöst wird, sammelt der Spieler die Attributswürfel ein und führt dann die der Situation entsprechende Aktion aus.
+In Augen des Zwielichts: Königreich der Yōkai haben die Charaktere der Spielenden Attribute und lösen durch ihr Rollenspiel bestimmte Spielzüge aus. Wenn ein Spielzug ausgelöst wird, sammelt der Spieler die Attributswürfel ein und führt dann die der Situation entsprechende Aktion aus.
 
 Wenn der SC zum Beispiel versucht, aus einem Fenster zu klettern, um auf einen Vorsprung zu gelangen, wäre dies der Spielzug „Risiko eingehen“. Da es sich um eine gefährliche Aktion handelt, erhält der SC einen schwarzen Würfel für seinen Würfelpool und könnte nun einen weiteren Würfel mit einem passenden Attribut nehmen. Der SC hat das Attribut "gewandt" und die SL erlaubt ihm, den zweiten Würfel zu nehmen.
 
@@ -20,13 +20,13 @@ Nun wird mit beiden Würfeln gewürfelt und das höhere Ergebnis zählt. Da der 
 
 > Die Gruppe glaubt, dass der alte Hausherr für das Verschwinden der Hausgeister verantwortlich ist. Er nutzt ihre Energie, indem er sie mit einem rituellen Dolch tötet. So muss er sein Geschäft nicht an seine Kinder weitergeben und ist inzwischen weit über 100 Jahre alt. Ein SC würfelt nun auf der reduzierten Abenteuerstufe, scheitert aber mit einer 4. Der Hausherr verwandelt sich in ein Monster aus Dutzenden von Hausgeistern und es kommt zum Endkampf.
 
-Die Abenteuer in Augen der Zwielichts: Königreich der Yokai haben keine vorgegebene Lösung. Es geht darum, eine Erklärung und Lösung für ein beschriebenes Problem zu finden. Dazu sammeln die Spielerinnen und Spieler Hinweise. Je mehr Hinweise sie zusammenfügen können, desto mehr senken sie die Gefahrenstufe des Abenteuers auf den Wert, auf den sie am Ende würfeln müssen. Die Gruppe würfelt aber nicht, ob ihre Erklärung richtig ist, sondern nur, ob die von ihr konstruierte Lösung so funktioniert. Lautet die Lösung z.B., dass ein Familienmitglied das Unrecht durch den Tausch von Leben ausgleichen kann, so würde dieses Familienmitglied im Erfolgsfall das Angebot annehmen und sich seinem Schicksal stellen. Schlägt die Lösung jedoch fehl, würde der Dämon von ihm Besitz ergreifen, ihn verwandeln und die Gruppe angreifen. Die Situationen können auf verschiedene Weise gelöst werden, aber auch eskalieren und in einem finalen Kampf enden.
+Die Abenteuer in Augen der Zwielichts: Königreich der Yōkai haben keine vorgegebene Lösung. Es geht darum, eine Erklärung und Lösung für ein beschriebenes Problem zu finden. Dazu sammeln die Spielerinnen und Spieler Hinweise. Je mehr Hinweise sie zusammenfügen können, desto mehr senken sie die Gefahrenstufe des Abenteuers auf den Wert, auf den sie am Ende würfeln müssen. Die Gruppe würfelt aber nicht, ob ihre Erklärung richtig ist, sondern nur, ob die von ihr konstruierte Lösung so funktioniert. Lautet die Lösung z.B., dass ein Familienmitglied das Unrecht durch den Tausch von Leben ausgleichen kann, so würde dieses Familienmitglied im Erfolgsfall das Angebot annehmen und sich seinem Schicksal stellen. Schlägt die Lösung jedoch fehl, würde der Dämon von ihm Besitz ergreifen, ihn verwandeln und die Gruppe angreifen. Die Situationen können auf verschiedene Weise gelöst werden, aber auch eskalieren und in einem finalen Kampf enden.
 
-## In welcher Welt spielt Augen der Zwielichts: Königreich der Yokai?
+## In welcher Welt spielt Augen der Zwielichts: Königreich der Yōkai?
 
 > Juna war auf der Suche nach den sehr seltenen Zubabeeren, die tief im Wald wachsen sollten. Die Alten hatten Juna gewarnt, nicht zu weit in den Wald vorzudringen. Dort lebten Dämonen, die sich der Tiere bemächtigt hatten und jeden verschlingen, der sich zu weit in den Wald wagt. Juna musste in den Wald. Es gab keinen anderen Weg. Das Unglück wollte es, dass sie mit dem Fuß in ein Erdloch geriet und dort stundenlang ohne ein Wort festsaß. Von wachsender Verzweiflung getrieben, schreit sie auf und verstummt sofort wieder. Unmittelbar vor ihr steht ein Wildschwein. Langsam tropft Geifer aus dem Maul des Ebers, das von riesigen, scharfen Hauern eingerahmt ist. Junas Hand ist längst am Griff des Messers, das an ihrem Gürtel hängt, und sie ist bereit, dem verdammten Dämon wenigstens einen guten Kampf zu liefern. Als Juna merkt, dass der Eber mit seinen riesigen Hauern nur die Wurzel angehoben hat und ihr Fuß wieder frei ist, ist das Unglück längst geschehen. Das Messer steckt bis zum Griff im Hals des Ebers, und langsam beginnt das Blut zu fließen. Das Gleichgewicht ist gestört.
 
-Das Königreich der Yokai spielt in einer Welt, die dem Japan des 15. Jahrhunderts nachempfunden ist. Der Kontinent, auf dem sich unser Abenteuer abspielt, ist in ein nördliches und ein südliches Königreich geteilt, wobei der Norden eher das europäische Hochmittelalter und der Süden eher das asiatische Mittelalter repräsentiert. Im Norden gibt es die ersten Schusswaffen und bereits viel mehr Kontrolle und Struktur in vielen Lebensbereichen. Eine starke Inspiration für das Regelwerk sind die Ghibli-Filme Prinzessin Mononoke, Nausicaä oder auch Die Chroniken von Erdsee. Trotz aller Anleihen ist die Welt fiktiv und erhebt keinen Anspruch auf historische Korrektheit.
+Das Königreich der Yōkai spielt in einer Welt, die dem Japan des 15. Jahrhunderts nachempfunden ist. Der Kontinent, auf dem sich unser Abenteuer abspielt, ist in ein nördliches und ein südliches Königreich geteilt, wobei der Norden eher das europäische Hochmittelalter und der Süden eher das asiatische Mittelalter repräsentiert. Im Norden gibt es die ersten Schusswaffen und bereits viel mehr Kontrolle und Struktur in vielen Lebensbereichen. Eine starke Inspiration für das Regelwerk sind die Ghibli-Filme Prinzessin Mononoke, Nausicaä oder auch Die Chroniken von Erdsee. Trotz aller Anleihen ist die Welt fiktiv und erhebt keinen Anspruch auf historische Korrektheit.
 
 ## Geister, Dämonen und Fureru
 
@@ -40,7 +40,7 @@ Menschen können mit Geistern und Dämonen interagieren, aber wenn sie von Dämo
 
 ## Darstellung der Welt
 
-> Ich gehe davon aus, dass die wenigsten, die "Augen des Zwielichts: Königreich der Yokai" spielen oder leiten, mehr über die japanische Kultur wissen als das popkulturelle Wissen, das durch Anime, Manga und das Internet suggeriert wird. Ich hätte dieses Rollenspiel natürlich auch in einer völlig fiktiven, von der Realität losgelösten Welt spielen lassen können, aber das wäre mir auch falsch vorgekommen. Die Orte, Schauplätze und Charaktere in diesem Rollenspiel sind zu nah an dem Japan, das wir kennen. Was wir versuchen können, ist, diese Welt, die natürlich fiktiv ist und die es nie gegeben hat, so respektvoll wie möglich darzustellen. Trotzdem wird dieses Regelwerk nicht allen Ansprüchen gerecht werden können. Das akzeptiere ich. Wer trotzdem seine Version des Japan in "Augen des Zwielichts: Königreich der Yokai" darstellen möchte, dem haben wir hier ein paar Tipps zur Darstellung diese Welt zusammengetragen.
+> Ich gehe davon aus, dass die wenigsten, die "Augen des Zwielichts: Königreich der Yōkai" spielen oder leiten, mehr über die japanische Kultur wissen als das popkulturelle Wissen, das durch Anime, Manga und das Internet suggeriert wird. Ich hätte dieses Rollenspiel natürlich auch in einer völlig fiktiven, von der Realität losgelösten Welt spielen lassen können, aber das wäre mir auch falsch vorgekommen. Die Orte, Schauplätze und Charaktere in diesem Rollenspiel sind zu nah an dem Japan, das wir kennen. Was wir versuchen können, ist, diese Welt, die natürlich fiktiv ist und die es nie gegeben hat, so respektvoll wie möglich darzustellen. Trotzdem wird dieses Regelwerk nicht allen Ansprüchen gerecht werden können. Das akzeptiere ich. Wer trotzdem seine Version des Japan in "Augen des Zwielichts: Königreich der Yōkai" darstellen möchte, dem haben wir hier ein paar Tipps zur Darstellung diese Welt zusammengetragen.
 
 ##### Wohnhäuser
 <!-- Bissl mehr Einheitlichkeit bei der Zeitform? ^^ -->
@@ -72,6 +72,17 @@ Da sie abgesehen vom Steinfundament hauptsächlich aus Holz gebaut sind, sind Fe
 -->
 
 Gärten
+<!--
+https://www.britannica.com/art/Japanese-garden/Ideals-and-aims-of-garden-design
+https://www.japanwelt.de/blog/japangarten
+https://www.japandigest.de/japan-in-deutschland/reise-kultur/japanische-gaerten-in-deutschland/
+https://japanobjects.com/features/garden-design
+Ein japanischer Garten ist nicht einfach eine Fläche mit Pflanzen darauf. Er ist ein Gesamtkunstwerk, ausgeplant bis ins letzte Detail, und stellt auf kleinem Raum ganze Landschaften dar. Die minimalistische Ästhetik dahinter ist direkt der Natur nachempfunden: statt oppulenter, von Farbe überbordender Beete und gerader Linien lädt er durch eine geschickte Komposition immergrüner Pflanzen in verschiedensten Grüntönen, Wasser und Steinen zur Meditation und Selbstreflektion ein.
+Häufige Elemente japanischer Gärten sind z.B. künstlich aufgeschüttete Hügel, Teiche, Bachläufe oder auch Wasserfälle, einzelne Steine und Kiesbeete oder auch Moose. In den Kiesbeeten kann durch wellenförmig geharkte Linien ein ausgetrockneter Flusslauf imitiert werden. In Teichen finden sich kleine bepflanzte Inseln oder Steinformationen und gerne führt eine Holzbrücke ans andere Ufer. Durch die geschickte Anordnung von Steinen und Pflanzen kann der Eindruck einer sich endlos in die Ferne ausbreitenden Landschaft entstehen.
+
+>Auf dem Rückweg von eurer Auftraggeberin passiert ihr eine Mauer mit einem offenen Tor darin. Ein erster Blick hindruch offenbart euch einen Kiesweg, der zwischen Gras und Bäumen schlängelnd zu einem Teich führt. Neugierig geht ihr den Weg entlang. Ein Mönch, der gerade in einem Kiesbeet mit einer Harke Linien durch die Steine zieht, blickt kurz auf, bevor er sich wieder dem Muster widmet. Der Weg zieht sich ein Stück an dem Teich entlang, bevor er über eine gebogene Holzbrücke verläuft und sich einen mit Kiefern bestandenen Hügel führt. Der Teich wird durch einen kleinen Wasserfall gespeist, an dem Shishi-odoshi steht - ein an einer Wippe befestigtes und an einem Ende geschlossenes Bambusrohr. Regelmäßig wird es durch den Wasserfall gefüllt bis es umwippt und sich das Wasser in den Teich ergießt. Dann wippt das Rohr wieder zurück und das Ende landet mit einem sanften Klopfen wieder auf dem Stein.
+>
+-->
 
 Geografie von der Insel Ōshima
 <!-- Uuuuuh, darf ich ne Karte machen??? :D -->

@@ -1,6 +1,6 @@
 **Abenteuername**: Das Anwesen
 
-**Regelwerk**: Königreich der Yurei (Selbstgeschrieben/Spieltest)
+**Regelwerk**: Königreich der Yōkai (Selbstgeschrieben/Spieltest)
 
 **Voraussetzung**: Wir spielen über Foundry VTT. Ihr braucht nur einen Webbrowser und eine Internetverbindung.
 
@@ -10,13 +10,13 @@
 
 **Datum, Uhrzeit & Spieldauer**: 08.03.2024 ab 18.30 Uhr bis ca. 22.30~23.00 Uhr 
 
-**Beschreibung**: In Königreich der Yurei schlüpft man in die Rolle von gezeichneten Wanderern, den Fureru, die durch die Welt ziehen und mit Hilfe dämonischer Kräfte versuchen, das Gleichgewicht zwischen Geistern und Menschen aufrechtzuerhalten.
+**Beschreibung**: In Königreich der Yōkai schlüpft man in die Rolle von gezeichneten Wanderern, den Fureru, die durch die Welt ziehen und mit Hilfe dämonischer Kräfte versuchen, das Gleichgewicht zwischen Geistern und Menschen aufrechtzuerhalten.
 
 Ihr schlüpft in die Rolle einer Gruppe, die durch das Königreich Soho zieht und ihre Kräfte einsetzt, um außer Kontrolle geratene Geister aufzuhalten. Ihr macht das indem ihr mit den Menschen vor Ort, der Umwelt oder auch mit anderen Geistern interagiert und so Stück für Stück eine Geschichte konstruiert, die erklärt, warum der Geist sich verändert hat. Auf dem Weg zur Lösung erwarten euch Gefahren, die direkt mit dem jeweiligen Abenteuer zu tun haben, aber auch mit dem Verfall eures Charakters und seinem Kontakt mit der Dämonenwelt. Oberstes Ziel der Fureru ist immer eine friedliche Lösung des Problems.
 
 **Charaktererstellung**: Bitte schickt mir vorher ein Bild eures Charakters und eures Reittiers. Euer Hintergrund, eure Zaubersprüche und der Dämon, der euch verwandelt hat, werden ausgewürfelt. Ihr habt die Möglichkeit, die Entwicklung eures Charakters durch Stufenaufstiege zu beeinflussen.
 
-**Was erwartet mich**? Das Regelwerk heißt vorläufig „Königreich der Yūrei - Augen des Zwielichts“ und spielt in einer Welt, die von den Ghibli-Filmen Prinzessin Mononoke, Spirited Away oder auch den Chroniken von Erdsee inspiriert ist. Die Würfelmechanik und der Charakterbau sind von Trophy Gold inspiriert. Die Abenteuerstruktur von Brindlewood Bay. Ihr spielt „Play to find out“ und versucht, eine Lösung für das aktuelle Problem zu finden. Dazu sammelt ihr Hinweise und baut später daraus eine Lösung. Es wird aber nicht gewürfelt, ob diese Lösung richtig ist, sondern nur, ob der von euch erdachte Weg zur Lösung des Problems auch so funktioniert. Wenn nicht, kommt es meist noch zu einer direkten Konfrontation.
+**Was erwartet mich**? Das Regelwerk heißt vorläufig „Augen des Zwielichts: Königreich der Yōkai“ und spielt in einer Welt, die von den Ghibli-Filmen Prinzessin Mononoke, Spirited Away oder auch den Chroniken von Erdsee inspiriert ist. Die Würfelmechanik und der Charakterbau sind von Trophy Gold inspiriert. Die Abenteuerstruktur von Brindlewood Bay. Ihr spielt „Play to find out“ und versucht, eine Lösung für das aktuelle Problem zu finden. Dazu sammelt ihr Hinweise und baut später daraus eine Lösung. Es wird aber nicht gewürfelt, ob diese Lösung richtig ist, sondern nur, ob der von euch erdachte Weg zur Lösung des Problems auch so funktioniert. Wenn nicht, kommt es meist noch zu einer direkten Konfrontation.
 
 Weitere Informationen gibt es hier (Link ist mit Steffen abgesprochen):
 https://github.com/marcelfnfnllvr/kingdomoftheyurei
@@ -104,12 +104,12 @@ Der Ton des Spiels ist eher ernst.
 Nach einer katastrophalen Operation in Kambodscha im Jahre 1969 wurden die Führung von Delta Green der Genehmigung durch die Regierung beraubt und es wurde in einem geheimen Pakt beschlossen die Arbeit ohne Unterstützung der Autorität und ohne Angst fortzusetzen. 
 Delta Green-Agenten schlüpfen durch das System und manipulieren die Bundesbürokratie, während sie darum kämpfen, die Menschheit vor dem unnatürlichen Grauen zu bewahren - oft zu erschütternden persönlichen Kosten.
 
-In **DELTA GREEN: The Role-Plaing Game** sind die Spieler diese Agenten. 
+In **DELTA GREEN: The Role-Playing Game** sind die Spieler diese Agenten. 
 Sie kämpfen, um das Leben und/oder die geistige Gesundheit von Menschen vor Bedrohungen jenseits von Raum und Zeit zu retten.
 
 **Charaktererstellung**: Werden im Vorfeld gemeinsam erstellt. 
 
-**Was erwartet mich**? Ich möchte gern DELTA GREEN als eines meiner Regelmäßig bespielten System etablieren. Dazu spielen wir erstmal das Schnellstarter-Abenteuer. Da es möglich ist immer wieder mit gewürfelten Teams zu spielen erstellen wir für jeden Spielenden einen eigenen Charakter. Dieser kann dann gerne in weiteren Abenteuern verwendet werden.
+**Was erwartet mich**? Ich möchte gern DELTA GREEN als eines meiner regelmäßig bespielten Systeme etablieren. Dazu spielen wir erstmal das Schnellstarter-Abenteuer. Da es möglich ist immer wieder mit gewürfelten Teams zu spielen erstellen wir für jeden Spielenden einen eigenen Charakter. Dieser kann dann gerne in weiteren Abenteuern verwendet werden.
 
 Der Ton des Spiels ist eher ernst.
 
@@ -134,17 +134,17 @@ Bonusfähigkeiten: Informatik, Handwerk (Mikroelektronik), Ausweichen, Okkultism
 Traumatischer Hintergrund: Gefangenschaft oder Einkerkerung.
 
 McMurtry
-Ein Spezialagent im Ruhestand mit umfangreicher Kampferfahrung Kampferfahrung (wahrscheinlich bei einer Truppe wie den U.S. Army Rangers), arbeitet jetzt als Sicherheitsunternehmer.
-Bonusfähigkeiten: Ausweichen (zweimal), Erste Hilfe, Fremdsprache Sprache (Arabisch), Fremdsprache (Paschtu), Fremdsprache (Urdu) Sprache (Urdu), Überreden, Schleichen. Traumatischer Hintergrund: extreme Gewalt.
+Ein Spezialagent im Ruhestand mit umfangreicher Kampferfahrung (wahrscheinlich bei einer Truppe wie den U.S. Army Rangers), arbeitet jetzt als Sicherheitsunternehmer.
+Bonusfähigkeiten: Ausweichen (zweimal), Erste Hilfe, Fremdsprache (Arabisch), Fremdsprache (Paschtu), Fremdsprache (Urdu), Überreden, Schleichen. Traumatischer Hintergrund: extreme Gewalt.
 
 Dr. Palmer
 Anthropologieprofessor und Amateurfotograf mit großer Erfahrung im Okkulten. 
-Bonusfähigkeiten: Anthropologie, Kunst (Fotografie, zweimal), Dodge, Geschichte, HUMINT, Okkultismus, Suche. 
+Bonusfähigkeiten: Anthropologie, Kunst (Fotografie, zweimal), Ausweichen, Geschichte, HUMINT, Okkultismus, Suche. 
 Traumatischer Hintergrund: Dinge, die der Mensch nicht wissen sollte.
 
 Dr. Schell
 Ein Astrophysiker, der durch den Kontakt mit unnatürlichen Kräften. 
-Bonus-Fertigkeiten:Handwerk (Linsenherstellung), Navigieren (zweimal), Okkult (zweimal), Wissenschaft (Astronomie), SIGINT (zweimal). 
+Bonus-Fertigkeiten: Handwerk (Linsenherstellung), Navigieren (zweimal), Okkult (zweimal), Wissenschaft (Astronomie), SIGINT (zweimal). 
 Traumatischer Hintergrund: Dinge, die der Mensch nicht wissen sollte.
 
 
@@ -165,14 +165,14 @@ Traumatischer Hintergrund: Dinge, die der Mensch nicht wissen sollte.
 Nach einer katastrophalen Operation in Kambodscha im Jahre 1969 wurden die Führung von Delta Green der Genehmigung durch die Regierung beraubt und es wurde in einem geheimen Pakt beschlossen die Arbeit ohne Unterstützung der Autorität und ohne Angst fortzusetzen. 
 Delta Green-Agenten schlüpfen durch das System und manipulieren die Bundesbürokratie, während sie darum kämpfen, die Menschheit vor dem unnatürlichen Grauen zu bewahren - oft zu erschütternden persönlichen Kosten.
 
-In **DELTA GREEN: The Role-Plaing Game** sind die Spieler diese Agenten. 
+In **DELTA GREEN: The Role-Playing Game** sind die Spieler diese Agenten. 
 Sie kämpfen, um das Leben und/oder die geistige Gesundheit von Menschen vor Bedrohungen jenseits von Raum und Zeit zu retten.
 
 **Charaktererstellung**: Ich werde Pregens bereitstellen. 
 
 **Das Abenteuer**: Ein Freund der Agency hat Fotos mit einem auffälligen Symbol an einen unserer verschlüsselten Server geschickt. Die Fotos zeigen das Symbol auf dem Kofferraum eines Autos, das auf einem zugefrorenen See in einer kleinen Stadt im Norden von Minnesota geparkt ist. Es gibt Grund zu der Annahme, dass es sich um eine reale Bedrohung handelt. Sie sind mit unserem Freund in einer Hütte am See verabredet. 
 
-Ihre Ziele: Den Uhrsprung des Symbols herausfinden, alle Bedrohungen beseitigen und unsere Beteiligung vertuschen. 
+Ihre Ziele: Den Ursprung des Symbols herausfinden, alle Bedrohungen beseitigen und unsere Beteiligung vertuschen. 
 
 Und um Himmels willen, erfrieren Sie nicht..
 
