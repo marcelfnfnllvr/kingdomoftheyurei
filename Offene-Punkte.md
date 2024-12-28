@@ -72,6 +72,7 @@
 - [ ] Was macht das Japan in dem wir spielen aus? Wichtige Szenen und Dinge. Erzählungen. Wie bringt man das gefühlt am Besten rüber?
 - [ ] Das ganze Buch über die drei gleichen Charaktere für Erklärungen hernehmen.
   - [ ] Yūsuke gespielt von XXX
-  - [ ] 
+- [ ] Magische Szenen die über alle Abenteuer hinwerg nutzbar sind.
+  - [ ] Auch nicht magische. :D
 
 
