@@ -180,7 +180,7 @@
 | 17       | Kodama      | Weiße Haut           | Wald         |            |
 | 18       | Tsukumogami | Gegenstand           | Versteckt    |            |
 | 19       | Amabie      | Schuppige Haut       | Wasserratte  |            |
-| 20       | Sadako      | Lange schwarze Haare | Klettern     |            |
+| 20       | Onryo       | Lange schwarze Haare | Klettern     |            |
 
 ## Ehrungen Tabelle
 
