@@ -82,7 +82,7 @@ Hilf einem Mitspieler, indem du mit einem passenden Attribut würfelst. Das Erge
 
 *Es ist überhaupt nicht verwerflich, als Spielleitung nicht immer "Hilfe anbieten" zu erlauben. Es sollte allerdings belohnt werden, wenn die Spieler:innen sich kreative Wege überlegen, wie sie in der Szene doch helfen können. Dass mehr als eine Person hilft ist zwar regelkonform erlaubt, sollte aber nicht ausgenutzt werden und muss gut in die Szene passen.*
 
-## Der „Die Aufgabe lösen“ Spielzug
+## Der „Das Abenteuer lösen“ Spielzug
 
 Überlegt in der Gruppe, welcher Dämon hier sein Unwesen treibt und welche Maßnahmen ihr ergreifen müsst, um ihn zu besänftigen. Baut so viele Hinweise wie möglich in die Geschichte ein. Jeder genutzte Hinweis senkt die Gefahrenstufe der Aufgabe um eins. Nicht genutzte Hinweise können euch in einem eventuellen Endkampf helfen. 
 
