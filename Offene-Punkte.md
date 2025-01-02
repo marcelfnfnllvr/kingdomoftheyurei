@@ -75,6 +75,8 @@
 - [ ] Magische Szenen die über alle Abenteuer hinwerg nutzbar sind.
   - [ ] Auch nicht magische. :D
 - [ ] Haiku als Mechanik?
+  - [ ] Eventuell für den Stufenaufstieg bzw. das "sterben/außer Gefecht gesetzt"
+
 - [ ] Keine Dämonen sondern die schwarze Saat? Sie wohnt allem Inne und kommt zum Vorschein wenn Dinge aus dem Glerichgewicht geraten..
 - [ ] Aufbau - Buch?
   - [ ] Worum geht es in diesem Rollenspiel?
