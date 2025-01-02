@@ -94,4 +94,5 @@
   - [ ] Darstellung der Welt und Begrifflichkeiten
     - [ ] Beispiele für Japanische Architektur, Geflogenheiten und Begriffe
 - [ ] Player Principells wie in Trophy?
+- [ ] Wichtige Japanische Begriffe für die Abenteuer am Anfang des Abenteuers erneut hervorheben
 

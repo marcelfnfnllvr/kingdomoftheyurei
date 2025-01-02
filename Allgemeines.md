@@ -30,9 +30,7 @@ Ein Beispiel ist eine Stadt, in der nachts immer wieder Kinder verschwinden. Die
 
 > Juna war auf der Suche nach den äußerst seltenen Zubabeeren, die tief im Wald wachsen sollten. Die Alten hatten Juna gewarnt, nicht zu weit in den Wald vorzudringen. Dort lebten Dämonen, die sich der Tiere bemächtigt hatten und jeden verschlingen, der sich zu weit in den Wald wagt. Juna aber musste in den Wald. Es gab für Sie keinen anderen Weg. Das Unglück wollte es, dass sie mit dem Fuß in ein Erdloch geriet und dort stundenlang ohne ein Wort zu sagen festsaß. Von wachsender Verzweiflung getrieben, schreit sie ei einziges Mal auf und verstummt sofort wieder. Unmittelbar vor ihr steht ein Wildschwein. Langsam tropft der Geifer aus dem Maul des Ebers, das von riesigen, scharfen Hauern eingerahmt ist. Junas Hand ist längst am Griff des Messers, das an ihrem Gürtel hängt, und sie ist bereit, dem verdammten Dämon wenigstens einen guten Kampf zu liefern. Bis Juna merkt, dass der Eber mit seinen riesigen Hauern nur die Wurzel angehoben hat und ihr Fuß wieder frei ist, ist das Unglück längst geschehen. Das Messer steckt bis zum Griff im Hals des Ebers, und langsam beginnt das Blut zu fließen. Das Gleichgewicht wurde gestört.
 
-Augen der Zwielichts: Königreich der Yōkai spielt in einer Welt, die dem Japan des 15. Jahrhunderts nachempfunden ist. Der Kontinent, auf dem sich unser Abenteuer abspielt, ist in ein nördliches und ein südliches Königreich geteilt, wobei der Norden eher das europäische Hochmittelalter und der Süden eher das asiatische Mittelalter ähnelt. Im Norden gibt es die ersten Schusswaffen und bereits viel mehr Kontrolle und Struktur in vielen Lebensbereichen. Eine starke Inspiration für das Regelwerk sind die Ghibli-Filme Prinzessin Mononoke, Nausicaä oder auch Die Chroniken von Erdsee. Trotz aller Anleihen ist die Welt fiktiv und erhebt keinen Anspruch auf historische Korrektheit.
-
-## Wie unterscheidet sich diese Welt vom Japan des 15. Jahrhunderts?
+Augen der Zwielichts: Königreich der Yōkai spielt in einer Welt, die dem Japan des 15. Jahrhunderts nachempfunden ist. Der Kontinent, auf dem sich unser Abenteuer abspielt, ist in ein nördliches und ein südliches Königreich geteilt, wobei der Norden eher das europäische Hochmittelalter und der Süden eher das asiatische Mittelalter ähnelt. Eine starke Inspiration für das Regelwerk sind die Ghibli-Filme Prinzessin Mononoke, Nausicaä oder auch Die Chroniken von Erdsee. Trotz aller Anleihen ist die Welt fiktiv und erhebt keinen Anspruch auf historische Korrektheit.
 
 ## Geister, Dämonen und Fureru
 
@@ -43,6 +41,14 @@ Die Bewohner des Königreichs leben in einer magischen Welt. Überall gibt es Ge
 Dämonen hingegen gelangen nur selten ohne Wirt in diese Welt. In der Regel ist es ein verwirrter Geist, der ihnen den Zugang ermöglicht und aus dem Körper, in dem er sich befindet, vertrieben wird. Götter verbinden sich mit ihrem Wirt, ohne ihn zu verdrängen. Der Dämon verdrängt beide. So kann das Wildschwein, das den Wald beschützt, zum tödlichen Feind des nahen Dorfes werden. Warum das so ist, müssen die Fureru herausfinden.
 
 Menschen können mit Geistern und Dämonen interagieren, aber wenn sie von Dämonen angegriffen und verletzt werden, sterben sie meistens. Diejenigen, die überleben, werden vom Königreich angeheuert, um Probleme mit Geistern und Dämonen in dieser Welt zu lösen und Frieden und Gleichgewicht wiederherzustellen. Wer einmal mit einem Dämon in Berührung gekommen ist, hat sein Leben lang mit den Folgen zu kämpfen. Ein Teil des Dämons lebt nun in ihm und versucht, Besitz von seinem Körper und seinem Geist zu ergreifen. Irgendwann wird es ihm wohl gelingen, aber bis dahin helfen die Fureru den Menschen im Reich.
+
+## Wie unterscheidet sich diese Welt vom Japan des 15. Jahrhunderts?
+
+Das Königreich Soho und die Fureru die dieses bereisen sollen in keiner Weise eine Historische Darstellung Japans im 15. Jahrhundert sein. Trotzdem nehmen wir natürlich viele Versatzstücke und bauen diese zu unserem Königreich Soho und unserer Welt zusammen. Einiges was ich speziell nicht übernehme möchte ich hier erwähnen.
+
+Soziale und gesellschaftliche Strukturen werden entweder ignoriert oder für spezifische Abenteuer entsprechend der jeweiligen Erfordernisse geschaffen. Diskriminierung spezifischer Bevölkerungsgruppen sowie Diskriminierung bestimmter Geschlechter oder Hautfarben werden nicht gespielt. Das Königreich Soho und die eure Helden im speziellen werden vor genügend Herrausforderungen gestellt und ich möchte nicht das die oben genannten dazugehören. Ich möchte und kann natürlich  niemanden verbieten bestimmte Strukturen in seiner Welt zu etablieren aber denkt sehr genau darüber nach welchen Aspekt ihr in eurem Spiel haben möchtet.  
+
+Worauf wir uns viel eher Konzentrieren in "Augen des Zwielichts: Königreich der Yōkai" ist die Landschaft, die Architektur und das Essen von Japan.
 
 ## Darstellung der Welt
 
