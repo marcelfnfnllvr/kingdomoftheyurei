@@ -74,5 +74,5 @@
   - [ ] Yūsuke gespielt von XXX
 - [ ] Magische Szenen die über alle Abenteuer hinwerg nutzbar sind.
   - [ ] Auch nicht magische. :D
-
+- [ ] Haiku als Mechanik?
 
