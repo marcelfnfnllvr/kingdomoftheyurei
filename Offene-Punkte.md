@@ -76,7 +76,6 @@
   - [ ] Auch nicht magische. :D
 - [ ] Haiku als Mechanik?
   - [ ] Eventuell für den Stufenaufstieg bzw. das "sterben/außer Gefecht gesetzt"
-
 - [ ] Keine Dämonen sondern die schwarze Saat? Sie wohnt allem Inne und kommt zum Vorschein wenn Dinge aus dem Glerichgewicht geraten..
 - [ ] Aufbau - Buch?
   - [ ] Worum geht es in diesem Rollenspiel?
@@ -87,12 +86,17 @@
     - [ ] Beispiel und Erklärung Abenteuer
   - [ ] In welcher Welt spielt Augen der Zwielichts: Königreich der Yōkai?
     - [ ] Erklärung der Welt
-  - [ ] Wie unterscheidet sich diese Welt vom Japan des 15. Jahrhunderts?
-    - [ ] Unterschiede und abgrenzung zum realen Japan
   - [ ] Geister, Dämonen und Fureru
     - [ ] Rolle des Übernatürlichen
+  - [ ] Wie unterscheidet sich diese Welt vom Japan des 15. Jahrhunderts?
+    - [ ] Unterschiede und abgrenzung zum realen Japan
   - [ ] Darstellung der Welt und Begrifflichkeiten
     - [ ] Beispiele für Japanische Architektur, Geflogenheiten und Begriffe
 - [ ] Player Principells wie in Trophy?
 - [ ] Wichtige Japanische Begriffe für die Abenteuer am Anfang des Abenteuers erneut hervorheben
+- [ ] Autorenkommentare hervorherben?
+- [ ] Klarstellung das die Fureru prinzipiell alles können auch wenn sie die Fähigkeit nicht besitzen oder es sie nicht gibt!
+- [ ] Die Regel kritischer Misserfolg und kritischer Erfolg weg und diese immer direkt in den Spielzug und spezifisch für den Spielzug passend!
+- [ ] Erklärung: im Kampf das Gegnerlevel die über 12 sind erste gesenkt werden müssen!
+- [ ] ZWeiter Gegenstand als eigene Tabelle?
 

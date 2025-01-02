@@ -2,7 +2,7 @@
 
 ## Worum geht es in diesem Rollenspiel?
 
-> In Augen des Zwielichts: Königreich der Yōkai spielt man gezeichnete Wanderer, sogenannte Fureru, die durch die Welt ziehen und mit Hilfe dämonischer Kräfte versuchen, das Gleichgewicht zwischen Geistern und Menschen aufrechtzuerhalten.
+> Minieinblick für ein Gefühl für das Regelwerk zu vermitteln 
 
 Ihr spielt eine Gruppe gezeichnete Wanderer, sogenannte Fureru, die durch das Königreich Soho ziehen und ihre Kräfte einsetzt, um Geister aufzuhalten, die außer Kontrolle geraten sind. Dabei interagiert ihr mit der Ortsansässigen Bevölkerung, eurer Umgebung und anderen Geistern und setzt so Stück für Stück eine Geschichte zusammen, die erklärt, warum sich die Geister verändert haben. Auf dem Weg zur Lösung warten Gefahren, die direkt mit dem jeweiligen Abenteuer zu tun haben, aber auch mit dem Verfall eures Charakters und seinem Kontakt mit der Dämonenwelt. Oberstes Ziel der Fureru ist immer eine friedliche Lösung des Problems herbeizuführen. Allerdings ist dies nicht immer Möglich.
 
@@ -55,7 +55,6 @@ Worauf wir uns viel eher Konzentrieren in "Augen des Zwielichts: Königreich der
 *Ich gehe davon aus, dass die wenigsten, die "Augen des Zwielichts: Königreich der Yōkai" spielen oder leiten, mehr über die japanische Kultur wissen als das popkulturelle Wissen, das durch Anime, Manga und das Internet suggeriert wird. Ich hätte dieses Rollenspiel natürlich auch in einer völlig fiktiven, von der Realität losgelösten Welt spielen lassen können, aber das wäre mir auch falsch vorgekommen. Die Orte, Schauplätze und Charaktere in diesem Rollenspiel sind zu nah an dem Japan, das wir kennen. Was wir versuchen können, ist, diese Welt, die natürlich fiktiv ist und die es nie gegeben hat, so respektvoll wie möglich darzustellen. Trotzdem wird dieses Regelwerk nicht allen Ansprüchen gerecht werden können. Das akzeptiere ich. Wer trotzdem seine Version des Japan in "Augen des Zwielichts: Königreich der Yōkai" darstellen möchte, dem haben wir hier ein paar Tipps zur Darstellung diese Welt zusammengetragen.*
 
 ##### Wohnhäuser
-<!-- Bissl mehr Einheitlichkeit bei der Zeitform? ^^ -->
 Die Wohnhäuser haben oft asymmetrische Grundrisse mit größeren und kleineren Räumen, die mit Tatamis (dämmenden und dämpfenden Matten aus Reisstroh) ausgelegt sind. Die Räume sind vielseitig nutzbar und besitzen meist keinen bestimmten Zweck. Als Türen dienen Shoji (Schiebetüren aus Papier), die sich weit öffnen lassen. Dies ermöglicht eine gute Belichtung und vermittelt ein Gefühl von Offenheit und Naturverbundenheit. Charakteristisch sind auch die Engawa. Sie verlaufen an der Außenseite des Hauses und bilden einen großen Korridor, der eine Verlängerung des Bodens und der Decke in den Außenraum darstellt. Hier kann man sitzen und sich mit den Nachbarn auf eine Tasse Tee treffen. 
 
 > Links seht ihr ein kleines Bauernhaus. Auf dem Engawa sitzt eine Gruppe von Leuten und unterhält sich. Auf dem Weg davor spielen zwei Kinder. Die Shoji des Hauses sind weit geöffnet, so dass ein guter Luftzug ins Haus kommt. Praktisch, denn so kann man ohne Probleme hineinschauen.
@@ -69,32 +68,44 @@ Die Machiya (Stadthäuser) müssen sich schon damals dem Platzmangel in den Stä
 Sie sind allgegenwärtig und fallen durch ihre großzügige Gestaltung auf. Große Zeremonienhallen, Pagoden, Torii-Tore an den Eingängen und Gärten vor den Tempeln sind typisch für diese Zeit. Obwohl es verschiedene religiöse Ausprägungen und Strömungen gibt, beschränken wir uns hier auf den Shintoismus und den Buddhismus. Diese existierten zum Teil gleichzeitig in den Tempelanlagen und sind nicht unbedingt voneinander getrennt. Wichtiger für unsere Erzählungen sind jedoch lokale Volksglauben und Rituale, die typisch für die Regionen sind, in denen wir spielen. Diese sind meist völlig frei erfunden und haben mit dem realen Edo-Japan nichts zu tun. Und natürlich lassen wir das verbotene Christentum immer mal wieder in Gestalt von Menschen aus dem Westen auftauchen. Immer ein guter Grund, misstrauisch zu sein. 
 
 > Ihr seht einen in den Berg gehauenen Steinpfad, der einige Meter hoch zu einem kleinen Tempel führt. Ein Mönch tritt rechts durch das Torii-Tor und steigt vorsichtig die steinerne Treppe zum Tempel hinauf. Der Mönch achtet genau darauf, wo er durch das Tor geht, denn die Mitte ist für die Götter reserviert. Yūsuke konzentriert sich und verlagert seine Wahrnehmung halb in die Welt der Götter und Geister. Er sieht kleine Wesen, die durch die Mitte des Torii auf den Tempel zugehen, bevor seine Sicht wieder klar wird und die Geister verschwinden.
->
 
-Burgen
-<!--
-https://de.wikipedia.org/wiki/Japanische_Burg
-https://www.japan.travel/de/de/story/burgen-schloesser-japan/
-https://www.japandigest.de/kulturerbe/geschichte/burgen/japanische-burg-aufbau-bautypen/
+**Izakaja**
+
+**Ryokan**
+
+##### Burgen
+
 In der Regel bestehen japanische Burgen aus einem hohen Steinfundament und je nach Bautyp aus einer Hauptburg (honmaru) und einer oder mehreren Zweigburgen. Auf der Hauptburg steht der Hauptturm (tenshu), der aus mehreren Stockwerken mit ihren typischen geschwungenen Dächern aufgebaut ist. Die früheren Burgen dienen hauptsächlich der Verteidigung, später aber auch als Verwaltungssitz und Handelszentrum. 
 Da sie abgesehen vom Steinfundament hauptsächlich aus Holz gebaut sind, sind Feuer und Blitzeinschläge für die Burggebäude eine große Gefahr.
 
 >Nach einer ersten Nacht im Ryokan begebt ihr euch ins Zentrum. Schon von weitem habt ihr den majestätischen weißen Hauptturm der Burg mit seinen vielen Stockwerken und dem geschwungenen Dach aus schwarzen Schindeln gesehen. Die Gasse führt euch direkt zum großen gepflasterten Vorplatz. Obwohl es noch früh am Tag ist, herrscht hier schon geschäftiges Treiben. Händler bieten lautstark ihre Waren an verschiedenen Ständen feil, umgeben von Schaulustigen und Kunden - alles unter den wachsamen Blicken der Soldaten, die auf jedem Absatz der großen Treppe stehen, die hoch zum Haupttor der Burg führt.
 >
--->
 
-Gärten
-<!--
-https://www.britannica.com/art/Japanese-garden/Ideals-and-aims-of-garden-design
-https://www.japanwelt.de/blog/japangarten
-https://www.japandigest.de/japan-in-deutschland/reise-kultur/japanische-gaerten-in-deutschland/
-https://japanobjects.com/features/garden-design
+**Gärten**
+
 Ein japanischer Garten ist nicht einfach eine Fläche mit Pflanzen darauf. Er ist ein Gesamtkunstwerk, ausgeplant bis ins letzte Detail, und stellt auf kleinem Raum ganze Landschaften dar. Die minimalistische Ästhetik dahinter ist direkt der Natur nachempfunden: statt oppulenter, von Farbe überbordender Beete und gerader Linien lädt er durch eine geschickte Komposition immergrüner Pflanzen in verschiedensten Grüntönen, Wasser und Steinen zur Meditation und Selbstreflektion ein.
 Häufige Elemente japanischer Gärten sind z.B. künstlich aufgeschüttete Hügel, Teiche, Bachläufe oder auch Wasserfälle, einzelne Steine und Kiesbeete oder auch Moose. In den Kiesbeeten kann durch wellenförmig geharkte Linien ein ausgetrockneter Flusslauf imitiert werden. In Teichen finden sich kleine bepflanzte Inseln oder Steinformationen und gerne führt eine Holzbrücke ans andere Ufer. Durch die geschickte Anordnung von Steinen und Pflanzen kann der Eindruck einer sich endlos in die Ferne ausbreitenden Landschaft entstehen.
 
 >Auf dem Rückweg von eurer Auftraggeberin passiert ihr eine Mauer mit einem offenen Tor darin. Ein erster Blick hindurch offenbart euch einen Kiesweg, der zwischen Gras und Bäumen schlängelnd zu einem Teich führt. Neugierig geht ihr den Weg entlang. Ein Mönch, der gerade in einem Kiesbeet mit einer Harke Linien durch die Steine zieht, blickt kurz auf, bevor er sich wieder dem Muster widmet. Der Weg zieht sich ein Stück an dem Teich entlang, bevor er über eine gebogene Holzbrücke verläuft und auf einen mit Kiefern bestandenen Hügel führt. Der Teich wird durch einen kleinen Wasserfall gespeist, an dem Shishi-odoshi steht - ein an einer Wippe befestigtes und an einem Ende geschlossenes Bambusrohr. Regelmäßig wird es durch den Wasserfall gefüllt bis es umwippt und sich das Wasser in den Teich ergießt. Dann wippt das Rohr wieder zurück und das Ende landet mit einem sanften Klopfen wieder auf dem Stein.
 >
--->
+
+Essen
+
+- Viel Essen
+
+- Sehr viel Essen
+
+- Essen Essen Essen
 
 Geografie von der Insel Ōshima
-<!-- Uuuuuh, darf ich ne Karte machen??? :D -->
+<!-- Uuuuuh, darf ich ne Karte machen??? - Ja! :D :D -->
+
+Quellen
+
+https://de.wikipedia.org/wiki/Japanische_Burg
+https://www.japan.travel/de/de/story/burgen-schloesser-japan/
+https://www.japandigest.de/kulturerbe/geschichte/burgen/japanische-burg-aufbau-bautypen/
+https://www.britannica.com/art/Japanese-garden/Ideals-and-aims-of-garden-design
+https://www.japanwelt.de/blog/japangarten
+https://www.japandigest.de/japan-in-deutschland/reise-kultur/japanische-gaerten-in-deutschland/
+https://japanobjects.com/features/garden-design

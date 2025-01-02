@@ -1,9 +1,12 @@
 # Spielzüge
 
+<!-- Wie ließt man Spielzüge? Einordnung das die Doppelsechs zusätzlich zu dem normalen 6er Ergbnis ausgelößt wird. -->
+
 ## Der „Etwas herausfinden“ Spielzug
 
 Wenn du eine Person befragst, die dir wohlgesonnen ist, oder einen Raum untersuchst, würfelst du auf diesen Spielzug. Du bekommst einen weißen Würfel für diesen Spielzug.
 
+- 1&1 
 - 1-4 Die Spielleitung erhält einen Verderbnispunkt.
 - 5-6 Du bekommst einen Hinweis.
 - 6&6 Du bekommst einen weiteren Hinweis.
@@ -18,7 +21,7 @@ Wenn dir jemand misstraut oder wenn du etwas Riskantes tun willst, würfle auf d
 - 3-4 Du scheiterst und die Spielleitung erhält einen Verderbnispunkt.
 - 5 Du machst genau was du dir vorgenommen hast und behältst die Nerven.
 - 6 Du behältst die Nerven und bekommst einen Hinweis. 
-- 6&6 Du bekommst bei dem nächsten, zu dem Ereignis passenden, Wurf einen zusätzlichen weißen Würfel.<!-- gibt's den Hinweis dann zusätzlich zum zusätzlichen weißen Würfel? Oder ist das hier exklusiv?-->
+- 6&6 Du bekommst einen weißen Bonuswürfel den du frei einsetzen darfst.<!-- gibt's den Hinweis dann zusätzlich zum zusätzlichen weißen Würfel? Oder ist das hier exklusiv?-->
 
 *Dieser Spielzug sollte verwendet werden, wenn die Situation potenziell gefährlich ist. Dies kann z.B. der Versuch sein, einen Felsvorsprung hinunterzuklettern, ein Labyrinth zu durchqueren oder eine aufgebrachte Person zu beruhigen. Außerdem ist es mit diesem Spielzug möglich sich auf seinen Dämon zu konzentrieren und dessen Kräfte zu nutzen. So können Fähigkeiten eingesetzt werden, die der Charakter nicht direkt besitzt. So ist es z.B. möglich, einen NSC wiederzubeleben, mit dem Dämonenreich zu kommunizieren oder besonders stark oder wendig zu sein.*
 
@@ -56,29 +59,38 @@ Dieser Spielzug darf pro Spieler:in nur einmal pro Abenteuer verwendet werden. E
 
 ## Der „Sich dem Kampf stellen“ Spielzug
 
-Ziel des Kampfes ist es, mit der Summe der beiden besten Würfel (xD6kh2) die Gefahrenstufe des Gegners zu erreichen oder zu übertreffen. Mit dem Spielzug "Gegner schwächen" kann die Gefahrenstufe des Gegners gesenkt werden. Dies ist sowohl vor Beginn des Kampfes als auch während des Kampfes möglich. Allerdings darf der Charakter während des Kampfes in dieser Kampfrunde keine Kampfwürfel werfen. Der Charakter kann sich nur durch einen erfolgreichen Wurf auf "Etwas riskieren" aus dem Kampf zurückziehen. Außerdem muss ein anderer Kampfteilnehmer seine Schwäche übernehmen. Um an einem Kampf teilnehmen zu können, benötigt der Charakter eine Waffe als Gegenstand oder eine entsprechende Fähigkeit. <!-- vielleicht bin ich auch einfach etwas zu begriffsstutzig, aber obwohl ich es selbst schon gespielt hab, so richtig durchblicke ich die Kampfmechanik immer noch nicht ^^; Wenn ich die Einzige bin, voll ok. Aber falls es anderen auch so geht, sollte man evtl die Formulierung noch anpassen. Evtl könnte man auch nochmal gesondert darauf eingehen was passiert, wenn der Gegner eine Stufe >12 hat? Ist "Den Gegner schwächen" dann die einzige Möglichkeit ihm beizukommen? -->
+Jeder Spielercharakter der an dem Kampf teilnimmt hat pro Runde einen W6 als Kampfwürfel zur Verfügung. Ziel des Kampfes ist es, mit der Summe der beiden höchsten Augenzahlen, aller Kampfteilnehmer, die Gefahrenstufe des Gegners zu erreichen oder zu übertreffen. Sobald die Gruppe dies in einer Runde erreicht ist der Gegner besiegt. Mit dem Spielzug "Gegner schwächen" kann die Gefahrenstufe des Gegners gesenkt werden. Bei Gegnern, die eine höhrere Gefahrenstufe als 12 haben, ist es zwigend notwendig diese zu senken. Dies ist sowohl vor Beginn des Kampfes als auch während des Kampfes möglich. Allerdings darf der Charakter während des Kampfes, wenn er den Spielzug "Gegener schwächen" einsetzt, keinen Kampfwürfel in dieser Runde werfen. Sollte es Mal brenzlich werden kann der Charakter sich nur durch einen erfolgreichen Wurf auf "Etwas riskieren" aus dem Kampf zurückziehen. Außerdem muss ein anderer Kampfteilnehmer seine Schwäche übernehmen. Um an einem Kampf teilnehmen zu können, benötigt der Charakter eine Waffe als Gegenstand oder eine entsprechende Fähigkeit. 
 
-1. Die Spielleitung teilt die zu erreichende Gefahrenstufe der Gegners oder der Gegnergruppe mit.
-   1. Auch eine Gruppe von Gegnern hat nur eine Gefahrenstufe und wird erzählerisch als Einheit behandelt. Zum Beispiel kann ein dämonisches Wildschwein allein Level 9 haben, als Gruppe aber Level 12.
-2. Wenn es die Zeit erlaubt, kann die Gefahrenstufe durch den Spielzug "Den Gegner schwächen" verringert werden.
-3. Alle Charaktere, die direkt am Kampf teilnehmen, würfeln ihren Schwachpunkt. Sie tun dies mit einem W6, von dem sie ihren Schwachpunkt-Modifikator subtrahieren oder addieren.
-4. Dann wirft jeder am Kampf teilnehmende Charakter einen W6 Kampfwürfel. Es wird in aufsteigender Reihenfolge der Schwäche der Beteiligten gewürfelt. Die beiden besten W6 werden addiert und müssen die Gefahrenstufe des Gegners erreichen oder übertreffen.
-   1. Nun muss noch geprüft werden, ob einer der gewürfelten W6 eine Schwachstelle eines Charakters trifft. Ist dies der Fall, so erhält der Charakter pro Treffer einen Zustand.
-5. Nun erzählt die Gruppe aufsteigend nach dem Kampfwürfelergebnis, wie der Charakter angreift, ob und wie er eventuell verletzt wird und wie der Gegner schließlich erledigt wird.
-6. Wenn das Ergebnis der beiden besten W6 nicht der Gefahrenstufe des Gegners entspricht, beginnt eine neue Kampfrunde. Die Person mit dem höchsten W6 aus dem Kampfwurf erhält nun einen weiteren W6. Sie darf beide werfen und nur das bessere Ergebnis wird für die neue Runde gewertet. Dies zählt sowohl für das Erreichen des Gefahrenlevels als auch für das Treffen von Schwachstellen.
-7. Dieser Vorgang wird so lange wiederholt, bis der Gegner besiegt ist. Fahre dann mit dem Spielzug "Der Kampf ist vorbei" fort.
+Ablauf eines Kampfes:
 
-*Die Spieler:innen sollten ermutigt werden, den Kampf szeneastisch darzustellen und die Besonderheiten zu berücksichtigen, die ihre Charaktere haben. Nehmt euch Zeit für die Erzählung und hetzt nicht durch den Kampf. In den meisten Fällen ist ein Kampf nach einer oder zwei Runden vorbei, also genießt die Spannung und die Action, die ein Kampf mit sich bringt.* 
+1. Vorbereitung
+   1. Die Spielleitung teilt die zu erreichende Gefahrenstufe des Gegners oder der Gegnergruppe mit.
+      1. Auch eine Gruppe von Gegnern hat nur eine Gefahrenstufe und wird regeltechnisch als Einheit behandelt. Zum Beispiel kann ein dämonisches Wildschwein allein Gefahrenstufe 9 haben, als Gruppe aber Gefahrenstufe 12.
 
-## Der „Der Kampf ist vorbei“ Spielzug
+   2. Mit dem Spielzug "Gegner schwächen" kann die Gefahrenstufe des Gegners gesenkt werden.
+      1. 
 
-Wurde der Kampf erfolgreich beendet, würfelt der Spieler, der im letzten Kampfwurf den höchsten Wert hatte, mit so vielen W6, wie es der Erfolgsstufe des Gegners entspricht und erhält für jede gewürfelte 6 einen Hinweis.
+   3. Alle Charaktere, die direkt am Kampf teilnehmen, würfeln ihren Schwachpunkt. Sie tun dies mit einem W6, von dem sie ihren Schwachpunkt-Modifikator, -2 bis +2,  subtrahieren oder addieren. Der Schwachpunkt ändert sich während des Kampf nicht. <!-- Formulierung und eventuell Entwicklerkommentar warum der Modifikator eine wirkliche Rolle spielt! -->
+      1. Schwachpunkt-Modifiktor: Charakterbogen Schwächen -> Schwachpunkt Numerisch
+      2. Der Schwachpunkt kann maximal 6 und minimal 1 sein.
 
-*Wenn sich durch einen Kampf eine Flut von Hinweisen ergibt, baue ich diese teilweise auch rückwirkend in bereits gespielte Szenen ein und teile sie den Spieler:innen mit. Es ist auch möglich, noch nicht gespielte Szenen kurz zu erzählen, um Hinweise passend zu platzieren. Generell sind hier der Kreativität keine Grenzen gesetzt. Ein Kampf ist für die Charaktere gefährlich und mehrere Hinweise belohnen zumindest für die erlebten Strapazen.* <!-- ist das so optimal gebalanced? Theoretisch möglich wäre es dann ja, dass man auf einen Schlag >10 Hinweise bekommt. -->
+2. Kampfrunde
+   1. Folgend <!-- Formulierung! --> wirft jeder am Kampf teilnehmende Charakter seinen W6 Kampfwürfel. Es wird in aufsteigender Reihenfolge des numerischen Schwachpunkt der Beteiligten gewürfelt. Die beiden höchsten Augenzahlen der geworfenen W6 werden addiert und müssen die Gefahrenstufe des Gegners erreichen oder übertreffen.
+   2. Nun muss noch geprüft werden, ob einer der gewürfelten W6 Kampfwürfel den Schwachpunkt eines, am Kampf teilnehmenden, Charakters trifft. Hierbei werden nicht nur die beiden höchsten Augenzahlen betrachtet, sondern alle geworfenen W6 Kampfwürfel. Ist dies der Fall, so erhält der Charakter pro Treffer einen Zustand.
+   3. Nun erzählen die Spielenden aufsteigend nach der Augenzahlen des von Ihnen geworfenen W6 Kampfwürfels, wie der Charakter angreift, ob und wie er eventuell verletzt wird und wie der Gegner, falls die Gruppe die Gefahrenstufe des Gegners erreich oder übertroffen hat, schließlich erledigt wird.
+   4. Wenn das Ergebnis der beiden besten W6 nicht der Gefahrenstufe des Gegners entspricht, beginnt eine neue Kampfrunde. Die Person mit dem höchsten W6 aus dem Kampfwurf erhält nun einen weiteren W6. Sie darf beide werfen und nur das bessere Ergebnis wird für die neue Runde gewertet. Dies zählt sowohl für das Erreichen des Gefahrenlevels als auch für das Treffen von Schwachstellen. <!-- Formulierung und eventuell Entwicklerkommentar ob es bei zwei gleichen höchsten Augen auch zwei weitere Würfel gibt. Ich tendiere grade dazu das der SPielleitung zu überlassen. Beides hat Vor- und Nachteile. -->
+   5. Dieser Vorgang wird so lange wiederholt, bis der Gegner besiegt ist. Für jede absolvierte Kampfrunde bekommt die Gruppe einen Hinweise nach erfolgreicher beendigung des Kampfes.
+
+
+*Die Spielenden sollten ermutigt werden, den Kampf cineastisch darzustellen und die Besonderheiten zu berücksichtigen, die ihre Charaktere haben. Nehmt euch Zeit für die Erzählung und hetzt nicht durch den Kampf. In den meisten Fällen ist ein Kampf nach einer oder zwei Runden vorbei, also genießt die Spannung und die Action, die ein Kampf mit sich bringt.* 
+
+<!-- Formulierung und eventuell Entwicklerkommentar für den Fall des wirklich Mal alles Charaktere in einem Kampf die maximalen ZUstände erreichen -->
 
 ## Der „Hilfe anbieten“ Spielzug
 
-Hilf einem Mitspieler, indem du mit einem passenden Attribut würfelst. Das Ergebnis zählt für den anderen Spieler. Triffst du das Ergebnis des schwarzen Würfels oder würfelst mit einem schwarzen Würfel, erhältst du einen Zustand.
+Hilf einem Mitspieler, indem du mit einem passenden Attribut würfelst. Das Ergebnis zählt für den anderen Spieler. Falls die zu helfende Person einen schwarzen Würfel in Ihrem Würfelpool hat und du dessen Augenzahl mit deinen "Hilfe anbieten" Spielzug triffst erhältst du einen Zustand. Außerdem erhälst du automatisch einen Zustand wenn du mit einem scharzen Attribut oder Gegenstand hilfst. Du kann im Spielzug "Hilfe anbieten" nur maximal einen Zustand bekommen.
+
+Der Spielzug "Hilfe anbieten" wird genutzt nachdem die zu helfende Person den ersten Wurf mit seinem eigenen Würfelpool absolviert hat. In der Erzählung der Spielenden dürfen Charaktere sich natürlich immer, falls logisch möglich, helfen. Trotzdem würfelt die helfende Person erst nach der aktive agierenden Person.
 
 *Es ist überhaupt nicht verwerflich, als Spielleitung nicht immer "Hilfe anbieten" zu erlauben. Es sollte allerdings belohnt werden, wenn die Spieler:innen sich kreative Wege überlegen, wie sie in der Szene doch helfen können. Dass mehr als eine Person hilft ist zwar regelkonform erlaubt, sollte aber nicht ausgenutzt werden und muss gut in die Szene passen.*
 

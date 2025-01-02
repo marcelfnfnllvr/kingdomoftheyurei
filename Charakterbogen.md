@@ -34,9 +34,9 @@
 | ------- | ------- |
 |         |         |
 
-| Schwachpunkt Numerik | Schwachpunkt Beschreibung |
-| -------------------- | ------------------------- |
-|                      |                           |
+| Schwachpunkt Numerisch | Schwachpunkt Beschreibung |
+| ---------------------- | ------------------------- |
+|                        |                           |
 
 ### Reittier
 

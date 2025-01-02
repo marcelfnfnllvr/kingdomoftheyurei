@@ -157,30 +157,32 @@
 | 19       | Toki         |
 | 20       | Masae        |
 
-## Dämonen Tabelle
+## Dämonen Tabelle 
 
-| **1d20** | **Dämon**   | **Zeichnung**        | **Attribut** | Gegenstand |
-| -------- | ----------- | -------------------- | ------------ | ---------- |
-| 1        | Hirsch      | Hirschgeweih         | Stechend     |            |
-| 2        | Fuchs       | Fuchsschwanz         | Balanciert   |            |
-| 3        | Bär         | Bärenfell            | Warm         |            |
-| 4        | Widder      | Widdergeweih         | Stechend     |            |
-| 5        | Eule        | Eulenaugen           | Dunkelsicht  |            |
-| 6        | Adler       | Adleraugen           | Weitsicht    |            |
-| 7        | Katze       | Katzenohren          | Aufmerksam   |            |
-| 8        | Käfer       | Chitinpanzer         | Robust       |            |
-| 9        | Stier       | Hörner               | Bedrohlich   |            |
-| 10       | Chamäleon   | Hypnotisches Muster  | Bezaubernd   |            |
-| 11       | Vogel       | Geräumiger Kehlsack  | Melodisch    |            |
-| 12       | Vogel       | Federhaare           | Leicht       |            |
-| 13       | Kappa       | Kiemen               | Atmen        |            |
-| 14       | Tengu       | Flügel               | Leicht       |            |
-| 15       | Kitsune     | Rote Zeichnungen     | Gewand       |            |
-| 16       | Tanuki      | Bauch                | Geschützt    |            |
-| 17       | Kodama      | Weiße Haut           | Wald         |            |
-| 18       | Tsukumogami | Gegenstand           | Versteckt    |            |
-| 19       | Amabie      | Schuppige Haut       | Wasserratte  |            |
-| 20       | Onryo       | Lange schwarze Haare | Klettern     |            |
+<!-- 10 zu 10 - 10 Tiere und 10 Yokai? Durchmischen? Zeichnungen sollen mehr als anregung gesehen werden. -->
+
+| **1d20** | **Dämon**        | **Zeichnung**                                  | **Attribut** |
+| -------- | ---------------- | ---------------------------------------------- | ------------ |
+| 1        | Hirsch           | Hirschgeweih                                   | Stechend     |
+| 2        | Kitsune          | Rote Zeichnungen, Fuchsohren, Fuchsschwanz     | Gewandtheit  |
+| 3        | Bär              | Bärenfell                                      | Warm         |
+| 4        | Steinbock        | Hufe                                           | Klettern     |
+| 5        | Affe             | Fell                                           | Klettern     |
+| 6        | Koi              | Schuppen                                       | Aussehen     |
+| 7        | Katze            | Katzenaugen, Katzenohren                       | Aufmerksam   |
+| 8        | Insekt           | Chitinpanzer                                   | Robust       |
+| 9        | Yuki Onna        | bleiche Haut                                   | Kälte        |
+| 10       | Nure Onna        | Vampirzähne, Schlangenschuppen, Schlangenzunge | Aussehen     |
+| 11       | Hyakume          | Augen überall                                  | Aufmerksam   |
+| 12       | Vogel            | Federhaare                                     | Leicht       |
+| 13       | Kappa            | Kiemen                                         | Atmen        |
+| 14       | Tengu            | Flügel                                         | Leicht       |
+| 15       | Riesensalamander | Schuppen, Schwanz, Breitmaul                   | Wasserratte  |
+| 16       | Tanuki           | Bauch                                          | Geschützt    |
+| 17       | Kodama           | Weiße Haut                                     | Wald         |
+| 18       | Tsukumogami      | Gegenstand                                     | Versteckt    |
+| 19       | Amabie           | Schuppige Haut                                 | Wasserratte  |
+| 20       | Onryo            | Lange schwarze Haare                           | Bedrohlich   |
 
 ## Ehrungen Tabelle
 
@@ -211,23 +213,23 @@
 
 | **1d20** | **Tier** | Attribut |
 | -------- | -------- | -------- |
-| 1        | Toby     |          |
-| 2        | Iwa      |          |
-| 3        | Gabriel  |          |
-| 4        | Fiora    |          |
-| 5        | Kira     |          |
-| 6        | Marie    |          |
-| 7        | Eran     |          |
-| 8        | Koga     |          |
-| 9        | Azai     |          |
-| 10       | Liam     |          |
-| 11       | Okuda    |          |
-| 12       | Nana     |          |
-| 13       | Kana     |          |
-| 14       | Isa      |          |
-| 15       | Kushizu  |          |
-| 16       | Mine     |          |
-| 17       | Efren    |          |
-| 18       | Ishi     |          |
-| 19       | Toki     |          |
-| 20       | Masae    |          |
+| 1        |          |          |
+| 2        |          |          |
+| 3        |          |          |
+| 4        |          |          |
+| 5        |          |          |
+| 6        |          |          |
+| 7        |          |          |
+| 8        |          |          |
+| 9        |          |          |
+| 10       |          |          |
+| 11       |          |          |
+| 12       |          |          |
+| 13       |          |          |
+| 14       |          |          |
+| 15       |          |          |
+| 16       |          |          |
+| 17       |          |          |
+| 18       |          |          |
+| 19       |          |          |
+| 20       |          |          |

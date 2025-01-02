@@ -14,7 +14,7 @@ Es gibt keinen direkten Wert für das Alter eines Charakters. Allerdings zeigt d
 
 ## Der Dämon
 
-Der Dämon ist seit dem Vorfall teil der Charakters. Er wohnt in ihm und versucht ständig, ihn zu beeinflussen.
+Der Dämon ist seit dem Vorfall teil der Charakters. Er wohnt in ihm und versucht ständig, ihn zu beeinflussen. Der Dämon stellt den ersten Zustand des Charakters da.
 
 ## Mechanik und Fluff
 
@@ -99,7 +99,7 @@ Korruption beschreibt, wie sehr der Dämon von eurem Charakter besitzt ergreift 
 
 | Stufe      |                                                              |
 | ---------- | ------------------------------------------------------------ |
-| 1 - [ x ]  | **Zustände**                                                 |
+| 1 - [ x ]  | **Zustände** - Dieser Zustand ist gegeben und stellt den Dämon der dem Charakter innewohnt dar. |
 | 2 - [    ] | Einen Zustand den der SL für zusätzliche schwarze Würfel nutzen kann. |
 | 3 - [    ] | Zustände können zum Beispiel sein:                           |
 | 4 - [    ] | Verängstigt                                                  |

@@ -2,11 +2,13 @@
 
 Hier findest du alle Regeln, die du zum Spielen von **Augen des Zwielichts: Königreich der Yokai** benötigst. Den genauen Spielablauf findest du in den Spielbeispielen. 
 
+Introtext? Würfelpool? Schwarze oder weiße Würfel? Es werden nur die zwei höchsten Augenzahlen betrachtet!
+
 ## Würfel sammeln
 
 Für jeden Spielzug erhältst du einen Würfel. Für ungefährliche Spielzüge gibt es einen weißen Würfel, für gefährliche einen schwarzen. Für ein passendes Attribut bekommst du einen zweiten Würfel. Je nach Attribut kann dieser weiß oder schwarz sein. Den dritten Würfel bekommst du entweder für eine Angst oder einen Zustand. Außerdem kannst du durch bestimmte Aktionen Bonuswürfel sammeln, die du zusätzlich einsetzen kannst.
 
-1D6 [Spielzug - Weiss oder Schwarz] +1D6 [Attribut - Weiss oder Schwarz] + 1D6 [Angst oder Zustand - Schwarz] + 1D6 [Bonuswürfel - Weiss] + (1D6 Den Wurf verbessern - Schwarz)
+1D6 [Spielzug - Weiss oder Schwarz] +1D6 [Attribut oder Equipment - Weiss oder Schwarz] + 1D6 [Angst oder Zustand - Schwarz] + 1D6 [Bonuswürfel - Weiss] + (1D6 Den Wurf verbessern - Schwarz)
 
 ## Den Wurf verbessern
 
@@ -14,9 +16,9 @@ Wenn du mit dem Würfelergebnis nicht zufrieden bist und ein weißer Würfel der
 
 ## Verderbnispunkte
 
-Jedes Mal, wenn die Spielenden schlecht würfeln <!-- würde "schlecht" noch präziser definieren, zB. also: wenn Wert x unterwürfelt wird -->, sammelt die Spielleitung Verderbnispunkte. Diese kann sie für besondere Ereignisse ausgeben, um das Spiel spannender zu machen.
+Die Spielleitung sammelt Verderbnispunkte im Spielverlauf wenn die Spielenden Spielzüge nutzen und dort niedrige Würfelergebnisse erzielen. Siehe dazu Kapitel Spielzüge. Diese kann die Spielleitung für besondere Ereignisse ausgeben, um das Spiel spannender zu gestalten.
 
-- Gebe 1-X Punkte aus, um die Schwierigkeit des Abenteuers am Ende der Sitzung um diese Anzahl Punkte zu erhöhen.
+- Gebe 1-X Punkte aus, um die Schwierigkeit des Abenteuers am Ende um diese Anzahl Punkte zu erhöhen.
 - Gib 2 Punkte aus für ein gefährliches Ereignis. Es könnte sich zu einer Gefahr der Stufe 8 entwickeln.
 - Gib 3 Punkte aus für die Bekämpfung einer Gefahr der Stufe 10.
 - Gib 4 Punkte aus für die Bekämpfung einer Gefahr der Stufe 12.
@@ -86,19 +88,23 @@ Zustände können auf drei verschiedene Arten reduziert werden.
 2. Reduziere einen Zustand, indem du einen Sechser-Pasch würfelst.
 3. Benutze einmal im Abenteuer den Spielzug "Auf Reisen".
 
-## Die Doppelsechs – Der Sechserpasch
+<!-- das hier kommt weg! -->
+
+## Die Doppelsechs – Kritischer Erfolg
 
 Zwei Sechsen in einem Wurf lösen folgende Effekte aus:
 
 - Einen Hinweis für das aktuelle Abenteuer erstellen. Der Hinweis muss nicht direkt zur Lösung führen.
 - Entferne einen Zustand.
 
-## Die Doppeleins – Snakeeyes
+## Die Doppeleins – Kritischer Misserfolg
 
-Wenn du in einem Wurf zwei Einsen würfelst, darfst du den Wurf nicht wiederholen und dir darf nicht geholfen werden. Snakeeyes zählen als kritischer Fehlschlag.
+Wenn du in einem Wurf als höchste Augenzahl zwei oder mehr Einsen würfelst, darfst du den Wurf nicht wiederholen und dir darf nicht geholfen werden.
 
 - Es entsteht eine unmittelbare Gefahrensituation. Dabei kann es sich um eine Umweltgefährdung oder um einen Kampf handeln.
 - Bekomme sofort einen Zustand.
+
+<!-- das hier kommt weg! -->
 
 ## Am Ende eines jeden Abends
 
