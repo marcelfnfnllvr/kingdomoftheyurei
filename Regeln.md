@@ -2,6 +2,11 @@
 
 Hier findest du alle Regeln, die du zum Spielen von **Augen des Zwielichts: Königreich der Yokai** benötigst. Den genauen Spielablauf findest du in den Spielbeispielen. 
 
+## Würfel sammeln
+
+Für jeden Spielzug erhältst du einen Würfel. Für ungefährliche Spielzüge gibt es einen weißen Würfel, für gefährliche einen schwarzen. Für ein passendes Attribut bekommst du einen zweiten Würfel. Je nach Attribut kann dieser weiß oder schwarz sein. Den dritten Würfel bekommst du entweder für eine Angst oder einen Zustand. Außerdem kannst du durch bestimmte Aktionen Bonuswürfel sammeln, die du zusätzlich einsetzen kannst.
+
+1D6 [Spielzug - Weiss oder Schwarz] +1D6 [Attribut - Weiss oder Schwarz] + 1D6 [Angst oder Zustand - Schwarz] + 1D6 [Bonuswürfel - Weiss] + (1D6 Den Wurf verbessern - Schwarz)
 
 ## Den Wurf verbessern
 
@@ -15,12 +20,6 @@ Jedes Mal, wenn die Spielenden schlecht würfeln <!-- würde "schlecht" noch pr�
 - Gib 2 Punkte aus für ein gefährliches Ereignis. Es könnte sich zu einer Gefahr der Stufe 8 entwickeln.
 - Gib 3 Punkte aus für die Bekämpfung einer Gefahr der Stufe 10.
 - Gib 4 Punkte aus für die Bekämpfung einer Gefahr der Stufe 12.
-
-## Würfel sammeln
-
-Für jeden Spielzug erhältst du einen Würfel. Für ungefährliche Spielzüge gibt es einen weißen Würfel, für gefährliche einen schwarzen. Für ein passendes Attribut bekommst du einen zweiten Würfel. Je nach Attribut kann dieser weiß oder schwarz sein. Den dritten Würfel bekommst du entweder für eine Angst oder einen Zustand. Außerdem kannst du durch bestimmte Aktionen Bonuswürfel sammeln, die du zusätzlich einsetzen kannst.
-
-1D6 [Spielzug] +1D6 [Attribut] + 1D6 [Angst oder Zustand] + 1D6 [Bonuswürfel]
 
 ## Der schwarze Würfel
 

@@ -68,7 +68,7 @@ Ziel des Kampfes ist es, mit der Summe der beiden besten Würfel (xD6kh2) die Ge
 6. Wenn das Ergebnis der beiden besten W6 nicht der Gefahrenstufe des Gegners entspricht, beginnt eine neue Kampfrunde. Die Person mit dem höchsten W6 aus dem Kampfwurf erhält nun einen weiteren W6. Sie darf beide werfen und nur das bessere Ergebnis wird für die neue Runde gewertet. Dies zählt sowohl für das Erreichen des Gefahrenlevels als auch für das Treffen von Schwachstellen.
 7. Dieser Vorgang wird so lange wiederholt, bis der Gegner besiegt ist. Fahre dann mit dem Spielzug "Der Kampf ist vorbei" fort.
 
-*Die Spieler:innen sollten ermutigt werden, den Kampf szenisch darzustellen und die Besonderheiten zu berücksichtigen, die ihre Charaktere haben. Nehmt euch Zeit für die Erzählung und hetzt nicht durch den Kampf. In den meisten Fällen ist ein Kampf nach einer oder zwei Runden vorbei, also genießt die Spannung und die Action, die ein Kampf mit sich bringt.* 
+*Die Spieler:innen sollten ermutigt werden, den Kampf szeneastisch darzustellen und die Besonderheiten zu berücksichtigen, die ihre Charaktere haben. Nehmt euch Zeit für die Erzählung und hetzt nicht durch den Kampf. In den meisten Fällen ist ein Kampf nach einer oder zwei Runden vorbei, also genießt die Spannung und die Action, die ein Kampf mit sich bringt.* 
 
 ## Der „Der Kampf ist vorbei“ Spielzug
 

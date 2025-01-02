@@ -75,4 +75,21 @@
 - [ ] Magische Szenen die über alle Abenteuer hinwerg nutzbar sind.
   - [ ] Auch nicht magische. :D
 - [ ] Haiku als Mechanik?
+- [ ] Keine Dämonen sondern die schwarze Saat? Sie wohnt allem Inne und kommt zum Vorschein wenn Dinge aus dem Glerichgewicht geraten..
+- [ ] Aufbau - Buch?
+  - [ ] Worum geht es in diesem Rollenspiel?
+    - [ ] Einordnung des Regelwerks
+  - [ ] Wie spielt sich Augen der Zwielichts: Königreich der Yōkai?
+    - [ ] Beispiel und Erklärung der Prinzipien
+  - [ ] Wie sind die Abenteuer aufgebaut?
+    - [ ] Beispiel und Erklärung Abenteuer
+  - [ ] In welcher Welt spielt Augen der Zwielichts: Königreich der Yōkai?
+    - [ ] Erklärung der Welt
+  - [ ] Wie unterscheidet sich diese Welt vom Japan des 15. Jahrhunderts?
+    - [ ] Unterschiede und abgrenzung zum realen Japan
+  - [ ] Geister, Dämonen und Fureru
+    - [ ] Rolle des Übernatürlichen
+  - [ ] Darstellung der Welt und Begrifflichkeiten
+    - [ ] Beispiele für Japanische Architektur, Geflogenheiten und Begriffe
+- [ ] Player Principells wie in Trophy?
 
