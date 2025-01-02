@@ -99,4 +99,5 @@
 - [ ] Die Regel kritischer Misserfolg und kritischer Erfolg weg und diese immer direkt in den Spielzug und spezifisch für den Spielzug passend!
 - [ ] Erklärung: im Kampf das Gegnerlevel die über 12 sind erste gesenkt werden müssen!
 - [ ] ZWeiter Gegenstand als eigene Tabelle?
+- [ ] Karte zu Abenteuern vereinheitliche oder erstellen?
 
