@@ -50,7 +50,7 @@
 
 ### Soziale Fähigkeiten
 
-1. Charm – Du wirkst charmant auf Personen in deinem direkten Umfeld.
+1. Charme – Du wirkst charmant auf Personen in deinem direkten Umfeld.
 2. Gedankenmanipulation – Ändert jemandes Gedanken für einen kurzen Zeitraum.
 3. Aufmerksam – Analysiere einen Raum.
 4. Ruf des Vergangenen – Lässt dich eine Szene oder einen Gegenstand untersuchen und seine Vergangenheit erleben.
@@ -85,11 +85,11 @@
 | 8        | Schmied                           | Kraft          | Präzision           | Schmiedehammer                             |                                         |
 | 9        | Schreiner                         | Geschick       | Präzision           |                                            |                                         |
 | 10       | Weber / Färber / Töpfer / Keramik | Geschick       |                     |                                            |                                         |
-| 11       | Fischer                           | Ausdauer       | Geschick            | Messer                                     |                                         |
+| 11       | Fischer / Perlentaucher           | Ausdauer       | Geschick            | Messer                                     |                                         |
 | 12       | Händler / Geldleiher              | Feilschen      | Schätzen            |                                            |                                         |
 | 13       | Gärtner                           | Pflanzen       |                     | Dünger                                     |                                         |
 | 14       | Gerber / Lederarbeiter            |                |                     | Gerbmesser                                 |                                         |
-| 15       | Totengräber                       |                |                     |                                            |                                         |
+| 15       | Totengräber                       |                |                     | Schaufel                                   |                                         |
 | 16       | Henker                            | Gewalt         | Einzelgänger        | Schwert                                    |                                         |
 | 17       | Bettler / Straßenkind             | Schleichen     | Nahrungssuche       | Zwille                                     |                                         |
 | 18       | Geisha                            | Athletik       | Verführung          | Edle Kleidung                              |                                         |
