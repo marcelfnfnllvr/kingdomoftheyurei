@@ -20,13 +20,13 @@ Ein langer und anstrengender Aufstieg liegt hinter euch. Der Pass hier hinauf wa
 
 > Wie gut habt ihr den schwierigen Aufstieg überstanden?
 
-Es kommen Väterchen und Mütterchen auf euch zugelaufen und begrüßen euch. Sie bringen euch zum Anwesen. Beim Versuch das Gebäude zu betreten, bricht ein oberhalb des Eingangs liegender Balkon <!-- Balkon oder Balken --> ab und die Gruppe muss verhindern getroffen zu werden. 
+Es kommen Väterchen und Mütterchen auf euch zugelaufen und begrüßen euch. Sie bringen euch zum Anwesen. Beim Versuch das Gebäude zu betreten, bricht ein oberhalb des Eingangs liegender Balkon ab und die Gruppe muss verhindern getroffen zu werden. 
 
 ### Gefahren:
 
--	Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden. Gefahrenstufe 12.<!-- Evtl sollte man auch hier die Begrifflichkeiten vereinheitlichen. Im Moment sehe ich Schwierigkeit/Stärke/Stufe und nehme an alles spielt auf dieselbe Mechanik an. -->
--	Hausgeister greifen die Gruppe an. Stufe 8 allein und 12 zusammen. 
--	Die Tochter oder der Sohn drehen durch. Stufe 8.
+-	Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden. Gefahrenstufe 12.
+-	Hausgeister greifen die Gruppe an. Gefahrenstufe 8 allein und 12 zusammen. 
+-	Die Tochter oder der Sohn drehen durch. Gefahrenstufe 8.
 -	Ein Raum, in dem sich die Gruppe befindet, kippt und stürzt in die Tiefe. Die Abwesenheit der Hausgeister lässt das Gebäude schneller zerfallen.
 -	Alte Samurai-Rüstungen in dem Haus, welche durch die Geister belebt werden.
 
@@ -49,7 +49,7 @@ Tot aufgefundener unehelicher Sohn des Yoshiteru. Er war auf dem Anwesen als Koc
 
 ##### Kyuso Sugimoto – Sohn von Yoshiteru
 
-*Nasale Stimme, die leicht hochnäsig wirkt - Wohlgesonnen*
+*Nasale Stimme, die leicht hochnäsig wirkt - Wohlgesonnen - trägt edle Gewänder die teuer aussehen*
 
 Er ist ca. 50-60 Jahre alt. Erst seit Kurzem wieder auf dem Anwesen. In den großen Städten ist es viel angenehmer und lukrativer zu wohnen. Möchte hier schnell wieder weg. Auf die Gesellschaft seiner Schwester kann er verzichten. An Geister glauben nur Kinder und Narren.
 

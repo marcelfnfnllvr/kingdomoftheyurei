@@ -73,28 +73,28 @@
 
 ## Herkunft Tabelle  & Attributstabelle
 
-| **1d20** | **Herkunft**          | **Attribut 1** | **Attribut 2**      | Gegenstand 1          |
-| -------- | --------------------- | -------------- | ------------------- | --------------------- |
-| 1        | Führer                | Wegfindung     | Nahrungssuche       |                       |
-| 2        | Wache                 | Ausdauer       | Kraft               | Schild                |
-| 3        | Händler               | Feilschen      | Schätzen            |                       |
-| 4        | Wirt                  | Soziales       | Kraft               |                       |
-| 5        | Unterhaltungskünstler | Akrobatik      | Geschichtenerzähler |                       |
-| 6        | Nomade                | Geschick       | Zähigkeit           |                       |
-| 7        | Apotheker             | Okkultes       | Kräuterkunde        |                       |
-| 8        | Kleriker              | Symbolik       | Wissen              |                       |
-| 9        | Leibeigener           | Kraft          | Loyal               | Angestellten Kleidung |
-| 10       | Farmer                | Tiere          | Pflanzen            |                       |
-| 11       | Adliger               | Fechten        | Reichtum            | Degen                 |
-| 12       | Scharfrichter         | Gewalt         | Einzelgänger        | Schwert               |
-| 13       | Straßenkind           | Schleichen     | Nahrungssuche       | Zwille                |
-| 14       | Geisha                | Athletik       | Verführung          | Edle Kleidung         |
-| 15       | Gärtner               | Pflanzen       |                     | Dünger                |
-| 16       | Schlachter            | Gewalt         | Abgebrüht           | Fleischmesser         |
-| 17       | Samurai               | Bedrohlich     | Gewand              | Schwert               |
-| 18       | Handwerker            | Geschick       | Kraft               | Säge                  |
-| 19       | Koch                  | Geschick       | Kochen              | Rezeptsammlung        |
-| 20       | Fischer               | Ausdauer       | Geschick            | Messer                |
+| **1d20** | **Herkunft**                      | **Attribut 1** | **Attribut 2**      | Gegenstand 1        | Gegenstand 2 |
+| -------- | --------------------------------- | -------------- | ------------------- | ------------------- | ------------ |
+| 1        | Krieger - Samurai                 | Disziplin      | Kraft               | Katana              |              |
+| 2        | Lehrer der Kampfkünste            | Erzählen       | Ausdauert           | Holzschwert         |              |
+| 3        | Lehrer der Philosophie / Dichter  | Verstand       | Inspiration         |                     |              |
+| 4        | Führer                            | Wegfindung     | Nahrungssuche       |                     |              |
+| 5        | Teebauer / Reisbauer              | Pflanzen       | Umwelt              | Sichel              |              |
+| 6        | Priester / Mönch                  |                |                     |                     |              |
+| 7        | Theaterdarsteller                 | Akrobatik      | Geschichtenerzähler |                     |              |
+| 8        | Schmied                           | Kraft          | Präzision           | Schmiedehammer      |              |
+| 9        | Schreiner                         | Geschick       | Präzision           |                     |              |
+| 10       | Weber / Färber / Töpfer / Keramik | Geschick       |                     |                     |              |
+| 11       | Fischer                           | Ausdauer       | Geschick            | Messer              |              |
+| 12       | Händler / Geldleiher              | Feilschen      | Schätzen            |                     |              |
+| 13       | Gärtner                           | Pflanzen       |                     | Dünger              |              |
+| 14       | Gerber / Lederarbeiter            |                |                     | Gerbmesser          |              |
+| 15       | Totengräber                       |                |                     |                     |              |
+| 16       | Henker                            | Gewalt         | Einzelgänger        | Schwert             |              |
+| 17       | Bettler / Straßenkind             | Schleichen     | Nahrungssuche       | Zwille              |              |
+| 18       | Geisha                            | Athletik       | Verführung          | Edle Kleidung       |              |
+| 19       | Krieger - Ronin                   | Zäh            | Heimlich            | Tanto - Kurzschwert |              |
+| 20       | Koch                              | Geschick       | Kochen              | Rezeptsammlung      |              |
 
 ## Ängste Tabelle
 

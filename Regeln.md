@@ -12,7 +12,7 @@ Für jeden Spielzug erhältst du einen Würfel. Für ungefährliche Spielzüge g
 
 ## Der Wurf
 
-Nachdem der Spielende seine Würfelpool hat würfelt er. Ziel ist eine möglichs hohe Augenzahl zu erreichen. Der Spielende hat zwei weiße und einen schwarzen Würfel in seinem Pool. Er würfelt eine weiße 4, eine weiße 3 und eine schwarze 3. Damit steht als vorläufiges Ergebnise die weiße 4. Wenn wir uns jetzt zum Beispiel den Spielzug "Etwas herrausfinden" betrachten dann wäre eine 4 das Ergebnis: 1-4 Die Spielleitung erhält einen Verderbnispunkt. Sollte der Spielende damit nicht zufrieden sein kann er seinen Wurf verbessern. Das neue Ergebnis zählt.
+Nachdem der Spielende seine Würfelpool hat würfelt er. Ziel ist eine möglichs hohe Augenzahl, mit einem der Würfel, zu erreichen. Der Spielende hat zwei weiße und einen schwarzen Würfel in seinem Pool. Er würfelt eine weiße 4, eine weiße 3 und eine schwarze 3. Damit steht als vorläufiges Ergebnise die weiße 4. Wenn wir uns jetzt zum Beispiel den Spielzug "Etwas herrausfinden" betrachten dann wäre eine 4 das Ergebnis: 1-4 Die Spielleitung erhält einen Verderbnispunkt. Sollte der Spielende damit nicht zufrieden sein kann er seinen Wurf verbessern. Das neue Ergebnis zählt.
 
 ## Den Wurf verbessern
 
