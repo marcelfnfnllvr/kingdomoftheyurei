@@ -4,11 +4,15 @@ Hier findest du alle Regeln, die du zum Spielen von **Augen des Zwielichts: Kön
 
 Introtext? Würfelpool? Schwarze oder weiße Würfel? Es werden nur die zwei höchsten Augenzahlen betrachtet!
 
-## Würfel sammeln
+## Der Würfelpool - Würfel sammeln
 
-Für jeden Spielzug erhältst du einen Würfel. Für ungefährliche Spielzüge gibt es einen weißen Würfel, für gefährliche einen schwarzen. Für ein passendes Attribut bekommst du einen zweiten Würfel. Je nach Attribut kann dieser weiß oder schwarz sein. Den dritten Würfel bekommst du entweder für eine Angst oder einen Zustand. Außerdem kannst du durch bestimmte Aktionen Bonuswürfel sammeln, die du zusätzlich einsetzen kannst.
+Für jeden Spielzug erhältst du einen Würfel. Für ungefährliche Spielzüge gibt es einen weißen Würfel, für gefährliche einen schwarzen. Für ein passendes Attribut bekommst du einen zweiten Würfel. Je nach Attribut kann dieser weiß oder schwarz sein. Den dritten Würfel bekommst du entweder für eine Angst oder einen Zustand. Außerdem kannst du durch bestimmte Aktionen Bonuswürfel sammeln, die du zusätzlich einsetzen kannst. Maximal kann der Würfelpool, beim ersten Wurf, vier Würfel beinhalten.
 
-1D6 [Spielzug - Weiss oder Schwarz] +1D6 [Attribut oder Equipment - Weiss oder Schwarz] + 1D6 [Angst oder Zustand - Schwarz] + 1D6 [Bonuswürfel - Weiss] + (1D6 Den Wurf verbessern - Schwarz)
+1D6 [Spielzug - Weiss oder Schwarz] +1D6 [Attribut oder Equipment - Weiss oder Schwarz] + 1D6 [Angst oder Zustand - Schwarz] + 1D6 [Bonuswürfel - Weiss]
+
+## Der Wurf
+
+Nachdem der Spielende seine Würfelpool hat würfelt er. Ziel ist eine möglichs hohe Augenzahl zu erreichen. Der Spielende hat zwei weiße und einen schwarzen Würfel in seinem Pool. Er würfelt eine weiße 4, eine weiße 3 und eine schwarze 3. Damit steht als vorläufiges Ergebnise die weiße 4. Wenn wir uns jetzt zum Beispiel den Spielzug "Etwas herrausfinden" betrachten dann wäre eine 4 das Ergebnis: 1-4 Die Spielleitung erhält einen Verderbnispunkt. Sollte der Spielende damit nicht zufrieden sein kann er seinen Wurf verbessern. Das neue Ergebnis zählt.
 
 ## Den Wurf verbessern
 
@@ -87,24 +91,6 @@ Zustände können auf drei verschiedene Arten reduziert werden.
 1. Beantworte die Zustandsfrage des Abenteuers.
 2. Reduziere einen Zustand, indem du einen Sechser-Pasch würfelst.
 3. Benutze einmal im Abenteuer den Spielzug "Auf Reisen".
-
-<!-- das hier kommt weg! -->
-
-## Die Doppelsechs – Kritischer Erfolg
-
-Zwei Sechsen in einem Wurf lösen folgende Effekte aus:
-
-- Einen Hinweis für das aktuelle Abenteuer erstellen. Der Hinweis muss nicht direkt zur Lösung führen.
-- Entferne einen Zustand.
-
-## Die Doppeleins – Kritischer Misserfolg
-
-Wenn du in einem Wurf als höchste Augenzahl zwei oder mehr Einsen würfelst, darfst du den Wurf nicht wiederholen und dir darf nicht geholfen werden.
-
-- Es entsteht eine unmittelbare Gefahrensituation. Dabei kann es sich um eine Umweltgefährdung oder um einen Kampf handeln.
-- Bekomme sofort einen Zustand.
-
-<!-- das hier kommt weg! -->
 
 ## Am Ende eines jeden Abends
 
