@@ -73,28 +73,28 @@
 
 ## Herkunft Tabelle & Attributstabelle
 
-| **1d20** | **Herkunft**                      | **Attribut 1** | **Attribut 2**      | Gegenstand 1        | Gegenstand 2 |
-| -------- | --------------------------------- | -------------- | ------------------- | ------------------- | ------------ |
-| 1        | Krieger - Samurai                 | Disziplin      | Kraft               | Katana              |              |
-| 2        | Lehrer der Kampfkünste            | Erzählen       | Ausdauert           | Holzschwert         |              |
-| 3        | Lehrer der Philosophie / Dichter  | Verstand       | Inspiration         |                     |              |
-| 4        | Führer                            | Wegfindung     | Nahrungssuche       |                     |              |
-| 5        | Teebauer / Reisbauer              | Pflanzen       | Umwelt              | Sichel              |              |
-| 6        | Priester / Mönch                  |                |                     |                     |              |
-| 7        | Theaterdarsteller                 | Akrobatik      | Geschichtenerzähler |                     |              |
-| 8        | Schmied                           | Kraft          | Präzision           | Schmiedehammer      |              |
-| 9        | Schreiner                         | Geschick       | Präzision           |                     |              |
-| 10       | Weber / Färber / Töpfer / Keramik | Geschick       |                     |                     |              |
-| 11       | Fischer                           | Ausdauer       | Geschick            | Messer              |              |
-| 12       | Händler / Geldleiher              | Feilschen      | Schätzen            |                     |              |
-| 13       | Gärtner                           | Pflanzen       |                     | Dünger              |              |
-| 14       | Gerber / Lederarbeiter            |                |                     | Gerbmesser          |              |
-| 15       | Totengräber                       |                |                     |                     |              |
-| 16       | Henker                            | Gewalt         | Einzelgänger        | Schwert             |              |
-| 17       | Bettler / Straßenkind             | Schleichen     | Nahrungssuche       | Zwille              |              |
-| 18       | Geisha                            | Athletik       | Verführung          | Edle Kleidung       |              |
-| 19       | Krieger - Ronin                   | Zäh            | Heimlich            | Tanto - Kurzschwert |              |
-| 20       | Koch                              | Geschick       | Kochen              | Rezeptsammlung      |              |
+| **1d20** | **Herkunft**                      | **Attribut 1** | **Attribut 2**      | Gegenstand 1                               | Gegenstand 2                            |
+| -------- | --------------------------------- | -------------- | ------------------- | ------------------------------------------ | --------------------------------------- |
+| 1        | Krieger - Samurai                 | Disziplin      | Kraft               | Katana & Wakizashi - Lang- und Kurzschwert | Kabuto & Do - Die Rüstung eines Samurai |
+| 2        | Lehrer der Kampfkünste            | Erzählen       | Ausdauert           | Holzschwert                                |                                         |
+| 3        | Lehrer der Philosophie / Dichter  | Verstand       | Inspiration         |                                            |                                         |
+| 4        | Führer                            | Wegfindung     | Nahrungssuche       |                                            |                                         |
+| 5        | Teebauer / Reisbauer              | Pflanzen       | Umwelt              | Sichel                                     |                                         |
+| 6        | Priester / Mönch                  |                |                     |                                            |                                         |
+| 7        | Theaterdarsteller                 | Akrobatik      | Geschichtenerzähler |                                            |                                         |
+| 8        | Schmied                           | Kraft          | Präzision           | Schmiedehammer                             |                                         |
+| 9        | Schreiner                         | Geschick       | Präzision           |                                            |                                         |
+| 10       | Weber / Färber / Töpfer / Keramik | Geschick       |                     |                                            |                                         |
+| 11       | Fischer                           | Ausdauer       | Geschick            | Messer                                     |                                         |
+| 12       | Händler / Geldleiher              | Feilschen      | Schätzen            |                                            |                                         |
+| 13       | Gärtner                           | Pflanzen       |                     | Dünger                                     |                                         |
+| 14       | Gerber / Lederarbeiter            |                |                     | Gerbmesser                                 |                                         |
+| 15       | Totengräber                       |                |                     |                                            |                                         |
+| 16       | Henker                            | Gewalt         | Einzelgänger        | Schwert                                    |                                         |
+| 17       | Bettler / Straßenkind             | Schleichen     | Nahrungssuche       | Zwille                                     |                                         |
+| 18       | Geisha                            | Athletik       | Verführung          | Edle Kleidung                              |                                         |
+| 19       | Krieger - Ronin                   | Zäh            | Heimlich            | Tanto - Kurzschwert                        |                                         |
+| 20       | Koch                              | Geschick       | Kochen              | Rezeptsammlung                             |                                         |
 
 ## Ängste Tabelle
 
