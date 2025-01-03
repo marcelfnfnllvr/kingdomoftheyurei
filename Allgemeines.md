@@ -54,26 +54,26 @@ Worauf wir uns viel eher konzentrieren in "Augen des Zwielichts: Königreich der
 
 *Ich gehe davon aus, dass die wenigsten, die "Augen des Zwielichts: Königreich der Yōkai" spielen oder leiten, mehr über die japanische Kultur wissen als das popkulturelle Wissen, das durch Anime, Manga und das Internet suggeriert wird. Ich hätte dieses Rollenspiel natürlich auch in einer völlig fiktiven, von der Realität losgelösten Welt spielen lassen können, aber das wäre mir auch falsch vorgekommen. Die Orte, Schauplätze und Charaktere in diesem Rollenspiel sind zu nah an dem Japan, das wir kennen. Was wir versuchen können, ist, diese Welt, die natürlich fiktiv ist und die es nie gegeben hat, so respektvoll wie möglich darzustellen. Trotzdem wird dieses Regelwerk nicht allen Ansprüchen gerecht werden können. Das akzeptiere ich. Wer trotzdem seine Version des Japan in "Augen des Zwielichts: Königreich der Yōkai" darstellen möchte, dem haben wir hier ein paar Tipps zur Darstellung diese Welt zusammengetragen.*
 
-##### Wohnhäuser
+#### Wohnhäuser
 Die Wohnhäuser haben oft asymmetrische Grundrisse mit größeren und kleineren Räumen, die mit Tatamis (dämmenden und dämpfenden Matten aus Reisstroh) ausgelegt sind. Die Räume sind vielseitig nutzbar und besitzen meist keinen bestimmten Zweck. Als Türen dienen Shoji (Schiebetüren aus Papier), die sich weit öffnen lassen. Dies ermöglicht eine gute Belichtung und vermittelt ein Gefühl von Offenheit und Naturverbundenheit. Charakteristisch sind auch die Engawa. Sie verlaufen an der Außenseite des Hauses und bilden einen großen Korridor, der eine Verlängerung des Bodens und der Decke in den Außenraum darstellt. Hier kann man sitzen und sich mit den Nachbarn auf eine Tasse Tee treffen. 
 
 > Links seht ihr ein kleines Bauernhaus. Auf dem Engawa sitzt eine Gruppe von Leuten und unterhält sich. Auf dem Weg davor spielen zwei Kinder. Die Shoji des Hauses sind weit geöffnet, so dass ein guter Luftzug ins Haus kommt. Praktisch, denn so kann man ohne Probleme hineinschauen.
 
-##### Stadthäuser
+#### Stadthäuser
 
 Die Machiya (Stadthäuser) müssen sich schon damals dem Platzmangel in den Städten anpassen. So sind sie meist aneinander gereiht und eher schmal gebaut. Die vordere Fassade dient dabei als Laden und die hinteren Räume eher als Wohnraum. An den Eingängen der Geschäfte befinden sich häufig die Noren (ein kurzer Vorhang), die anzeigen, ob das Geschäft geöffnet oder geschlossen ist.
 
-##### Tempel und Schreine
+#### Tempel und Schreine
 
 Sie sind allgegenwärtig und fallen durch ihre großzügige Gestaltung auf. Große Zeremonienhallen, Pagoden, Torii-Tore an den Eingängen und Gärten vor den Tempeln sind typisch für diese Zeit. Obwohl es verschiedene religiöse Ausprägungen und Strömungen gibt, beschränken wir uns hier auf den Shintoismus und den Buddhismus. Diese existierten zum Teil gleichzeitig in den Tempelanlagen und sind nicht unbedingt voneinander getrennt. Wichtiger für unsere Erzählungen sind jedoch lokale Volksglauben und Rituale, die typisch für die Regionen sind, in denen wir spielen. Diese sind meist völlig frei erfunden und haben mit dem realen Edo-Japan nichts zu tun. Und natürlich lassen wir das verbotene Christentum immer mal wieder in Gestalt von Menschen aus dem Westen auftauchen. Immer ein guter Grund, misstrauisch zu sein. 
 
 > Ihr seht einen in den Berg gehauenen Steinpfad, der einige Meter hoch zu einem kleinen Tempel führt. Ein Mönch tritt rechts durch das Torii-Tor und steigt vorsichtig die steinerne Treppe zum Tempel hinauf. Der Mönch achtet genau darauf, wo er durch das Tor geht, denn die Mitte ist für die Götter reserviert. Yūsuke konzentriert sich und verlagert seine Wahrnehmung halb in die Welt der Götter und Geister. Er sieht kleine Wesen, die durch die Mitte des Torii auf den Tempel zugehen, bevor seine Sicht wieder klar wird und die Geister verschwinden.
 
-##### Izakaja
+#### Izakaja
 
-##### Ryokan
+#### Ryokan
 
-##### Burgen
+#### Burgen
 
 In der Regel bestehen japanische Burgen aus einem hohen Steinfundament und je nach Bautyp aus einer Hauptburg (honmaru) und einer oder mehreren Zweigburgen. Auf der Hauptburg steht der Hauptturm (tenshu), der aus mehreren Stockwerken mit ihren typischen geschwungenen Dächern aufgebaut ist. Die früheren Burgen dienen hauptsächlich der Verteidigung, später aber auch als Verwaltungssitz und Handelszentrum. 
 Da sie abgesehen vom Steinfundament hauptsächlich aus Holz gebaut sind, sind Feuer und Blitzeinschläge für die Burggebäude eine große Gefahr.
@@ -81,7 +81,7 @@ Da sie abgesehen vom Steinfundament hauptsächlich aus Holz gebaut sind, sind Fe
 >Nach einer ersten Nacht im Ryokan begebt ihr euch ins Zentrum. Schon von weitem habt ihr den majestätischen weißen Hauptturm der Burg mit seinen vielen Stockwerken und dem geschwungenen Dach aus schwarzen Schindeln gesehen. Die Gasse führt euch direkt zum großen gepflasterten Vorplatz. Obwohl es noch früh am Tag ist, herrscht hier schon geschäftiges Treiben. Händler bieten lautstark ihre Waren an verschiedenen Ständen feil, umgeben von Schaulustigen und Kunden - alles unter den wachsamen Blicken der Soldaten, die auf jedem Absatz der großen Treppe stehen, die hoch zum Haupttor der Burg führt.
 >
 
-##### Gärten
+#### Gärten
 
 Ein japanischer Garten ist nicht einfach eine Fläche mit Pflanzen darauf. Er ist ein Gesamtkunstwerk, ausgeplant bis ins letzte Detail, und stellt auf kleinem Raum ganze Landschaften dar. Die minimalistische Ästhetik dahinter ist direkt der Natur nachempfunden: statt oppulenter, von Farbe überbordender Beete und gerader Linien lädt er durch eine geschickte Komposition immergrüner Pflanzen in verschiedensten Grüntönen, Wasser und Steinen zur Meditation und Selbstreflektion ein.
 Häufige Elemente japanischer Gärten sind z.B. künstlich aufgeschüttete Hügel, Teiche, Bachläufe oder auch Wasserfälle, einzelne Steine und Kiesbeete oder auch Moose. In den Kiesbeeten kann durch wellenförmig geharkte Linien ein ausgetrockneter Flusslauf imitiert werden. In Teichen finden sich kleine bepflanzte Inseln oder Steinformationen und gerne führt eine Holzbrücke ans andere Ufer. Durch die geschickte Anordnung von Steinen und Pflanzen kann der Eindruck einer sich endlos in die Ferne ausbreitenden Landschaft entstehen.
@@ -89,8 +89,42 @@ Häufige Elemente japanischer Gärten sind z.B. künstlich aufgeschüttete Hüge
 >Auf dem Rückweg von eurer Auftraggeberin passiert ihr eine Mauer mit einem offenen Tor darin. Ein erster Blick hindurch offenbart euch einen Kiesweg, der zwischen Gras und Bäumen schlängelnd zu einem Teich führt. Neugierig geht ihr den Weg entlang. Ein Mönch, der gerade in einem Kiesbeet mit einer Harke Linien durch die Steine zieht, blickt kurz auf, bevor er sich wieder dem Muster widmet. Der Weg zieht sich ein Stück an dem Teich entlang, bevor er über eine gebogene Holzbrücke verläuft und auf einen mit Kiefern bestandenen Hügel führt. Der Teich wird durch einen kleinen Wasserfall gespeist, an dem Shishi-odoshi steht - ein an einer Wippe befestigtes und an einem Ende geschlossenes Bambusrohr. Regelmäßig wird es durch den Wasserfall gefüllt bis es umwippt und sich das Wasser in den Teich ergießt. Dann wippt das Rohr wieder zurück und das Ende landet mit einem sanften Klopfen wieder auf dem Stein.
 >
 
-Essen
+#### Essen
 
+**Onigiri**  
+Onigiri sind meist dreieckig oder kugelig geformte Reisbälle aus weißem Reis. Sie sind ein einfaches Essen, das sich auch für unterwegs gut eignet. In der schlichtesten Form wird der Reis lediglich mit Salz gewürzt, sie können aber auch z.B. mit getrockneten Thunfisch-Flocken oder fermentierten Pflaumen gefüllt werden. Die heute typische Umwicklung mit Nori-Algen entstand erst später.
+
+**Nattō**  
+Soja gehört zu den Grundnahrungsmitteln in der japanischen Küche und wird vielseitig eingesetzt. Nattō ist dabei eine eher gewöhnungsbedürftige Form: die Sojabohnen werden erst gekocht und dann durch Hinzugabe des Bakteriums Bacillus subtilis ssp. natto fermentiert. Traditionell geschieht dies, indem die Bohnen in Reisstroh eingewickelt werden, auf dem der Bacillus lebt. Dadurch entwickeln die Bohnen nicht nur einen starken Geruch, sondern werden mit einem fädenziehenden Schleim überzogen. 
+
+**Miso-Suppe**  
+Grundsätzlich besteht Miso-Suppe aus Miso-Paste, die mit einer Dashi-Brühe angerührt wird. Miso-Paste wird ebenfalls aus Sojabohnen gewonnen, diese werden mit einem bestimmten Pilz (kōji) und Salz fermentiert. Für die Dashi-Brühe wird Wasser mit getrockneten, fermentierten Thunfisch-Flocken (katsuobushi) und essbarem Kelp aufgekocht. Die weiteren Zutaten für eine Miso-Suppe variieren je nach Geschmack, Region und Jahreszeit. Weit verbreitet ist sie mit Tofuwürfeln und Kelp (wakame), aber es können z.B. auch Pilze, Meeresfrüchte oder Gemüse hinzugegeben werden.
+
+**Unagi/Kabayaki**  
+Bei Unagi handelt es sich um frischen Süßwasser-Aal. Traditionell wird dieser gegrillt und mit einer süßlich-würzigen Soße glasiert. Oft wird dieser Kabayaki auf einem Reisbett serviert.
+
+**Sushi**  
+Zunächst war Sushi einfach Fisch, der mit einer Lage aus Essig, Salz und Reis fermentiert und damit haltbar gemacht wurde. Vor dem Verzehr wurde der Reis dabei entfernt und landete im Abfall. Erst später wurde der Reis tatsächlich Bestandteil der Mahlzeit. Dieses Gericht wurde Namanare genannt und hatte eine deutlich kürzere Fermentierungszeit als zuvor.
+Sushi, wie man es heute kennt - also gepresster Reis mit Essig und einer Scheibe Fisch darauf - wurde erst nach 1800 erfunden. 
+
+**Dango**  
+Reis hat in der japanischen Küche unglaublich viele verschiedene Formen - eine Süßspeise auf Reisbasis ist Dango. Hierbei werden aus einem Teig aus Reismehl und Wasser kleine Kugeln geformt, die auf Holstäbe aufgespießt und gedämpft werden. Es gibt sie in vielen verschiedenen Sorten und Belägen, z.B. mit Sirup aus Sojasoße, getrockneten Nori oder umhüllt mit Adzukibohnenpaste.    
+
+**Mochi**  
+Auch Mochi ist eine Süßspeise, die aus Reis hergestellt wird. Der Klebreis wird gedämpft und dann mit großen Stößeln in einem Holzmörser (usu) geschlagen und gewendet bis er die richtige Konsistenz hat. Danach wird er auf verschiedene Arten weiterverarbeitet: gefüllt mit süßer Adzukibohnenpaste (Daifuku), bestreut mit geröstetem Sojabohnenmehl (Kinako Mochi) oder geröstet und als Beilage in Suppen oder anderen Gerichten verwendet.   
+
+<!-- das hier kennt man natürlich eher, ist aber scheinbar erst später erfunden worden ¯\_(ツ)_/¯ :
+	"richtiges" Sushi (Nigiri, Maki) - ab 1600
+	Ramen - frühes 20. Jh.
+	Okonomiyaki - 1930er
+	Taiyaki - 1909
+	Takoyaki - 1935
+	Shabu Shabu - 20. Jh.
+	Yakitori - 1880er
+	Gyoza - 1940er
+	Tempura - 16. Jh.
+	Tamagoyaki - 1600
+	-->
 - Viel Essen
 
 - Sehr viel Essen
