@@ -76,11 +76,11 @@
 | **1d20** | **Herkunft**                      | **Attribut 1** | **Attribut 2**      | Gegenstand 1                               | Gegenstand 2                            |
 | -------- | --------------------------------- | -------------- | ------------------- | ------------------------------------------ | --------------------------------------- |
 | 1        | Krieger - Samurai                 | Disziplin      | Kraft               | Katana & Wakizashi - Lang- und Kurzschwert | Kabuto & Do - Die Rüstung eines Samurai |
-| 2        | Lehrer der Kampfkünste            | Erzählen       | Ausdauert           | Holzschwert                                |                                         |
+| 2        | Lehrer der Kampfkünste            | Erzählen       | Ausdauer            | Holzschwert                                |                                         |
 | 3        | Lehrer der Philosophie / Dichter  | Verstand       | Inspiration         |                                            |                                         |
 | 4        | Führer                            | Wegfindung     | Nahrungssuche       |                                            |                                         |
 | 5        | Teebauer / Reisbauer              | Pflanzen       | Umwelt              | Sichel                                     |                                         |
-| 6        | Priester / Mönch                  |                |                     |                                            |                                         |
+| 6        | Priester / Mönch                  | Inspiration    | Erzählen            | Standesgemäße Kleidung                     |                                         |
 | 7        | Theaterdarsteller                 | Akrobatik      | Geschichtenerzähler |                                            |                                         |
 | 8        | Schmied                           | Kraft          | Präzision           | Schmiedehammer                             |                                         |
 | 9        | Schreiner                         | Geschick       | Präzision           |                                            |                                         |
@@ -89,7 +89,7 @@
 | 12       | Händler / Geldleiher              | Feilschen      | Schätzen            |                                            |                                         |
 | 13       | Gärtner                           | Pflanzen       |                     | Dünger                                     |                                         |
 | 14       | Gerber / Lederarbeiter            |                |                     | Gerbmesser                                 |                                         |
-| 15       | Totengräber                       |                |                     | Schaufel                                   |                                         |
+| 15       | Totengräber / Steinmetz           | Kraft          |                     | Schaufel / Hammer und Schlageisen          |                                         |
 | 16       | Henker                            | Gewalt         | Einzelgänger        | Schwert                                    |                                         |
 | 17       | Bettler / Straßenkind             | Schleichen     | Nahrungssuche       | Zwille                                     |                                         |
 | 18       | Geisha                            | Athletik       | Verführung          | Edle Kleidung                              |                                         |
