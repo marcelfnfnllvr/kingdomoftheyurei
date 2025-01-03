@@ -2,11 +2,13 @@
 
 <!-- Wie ließt man Spielzüge? Einordnung das die Doppelsechs zusätzlich zu dem normalen 6er Ergbnis ausgelößt wird. -->
 
+Spielzüge nutzen die Spielenden im Spielverlauf um Hinweise von NSCs zu bekommen, Hindernissen zu überwinden, Zustände abzubauen, Kämpfe zu bestreiten oder um Ihre Fähigkeiten einzusetzen. Ein Spielzug gibt dir entweder einen weißen oder einen schwarzen Würfel für den Würfelpool. Dies ist in der Beschreibung des Spielzug angegeben. Die kritischen Erfolge und Misserfolge zählen zusätzlichen zum Ergebnis des Spielzug. Das heißt im Fall von eine doppel Sechs im Spielzug "Etwas herrausfinden" bekommt der Spielende zwei Hinweise von der Spielleitung mitgeteilt.
+
 ## Der „Etwas herausfinden“ Spielzug
 
-Wenn du eine Person befragst, die dir wohlgesonnen ist, oder einen Raum untersuchst, würfelst du auf diesen Spielzug. Du bekommst einen weißen Würfel für diesen Spielzug.
+Wenn du eine Person befragst oder einen Raum untersuchst, würfelst du auf diesen Spielzug. Du bekommst einen weißen Würfel für diesen Spielzug.
 
-- 1&1 
+- 1&1 Die Spielleitung erhält einen zusätzlichen Verderbnispunkt.
 - 1-4 Die Spielleitung erhält einen Verderbnispunkt.
 - 5-6 Du bekommst einen Hinweis.
 - 6&6 Du bekommst einen weiteren Hinweis.
@@ -17,12 +19,11 @@ Wenn du eine Person befragst, die dir wohlgesonnen ist, oder einen Raum untersuc
 
 Wenn dir jemand misstraut oder wenn du etwas Riskantes tun willst, würfle auf diesen Spielzug. Du bekommst einen schwarzen Würfel von diesem Spielzug.
 
-<!-- 1&1 es kommt direkt zum Kampf und die SL kriegt einen Verderbnispunkt?-->
-- 1-2 Es kommt sofort zu einer gefährlichen Situation.
+- 1&1 Die Spielleitung erhält zwei Verderbnispunkte.
+- 1-2 Du scheiterst und es kommt sofort zu einer gefährlichen Situation.
 - 3-4 Du scheiterst und die Spielleitung erhält einen Verderbnispunkt.
-- 5 Du machst genau was du dir vorgenommen hast und behältst die Nerven.
-- 6 Du behältst die Nerven und bekommst einen Hinweis. 
-- 6&6 Du bekommst einen weißen Bonuswürfel, den du frei einsetzen darfst.<!-- gibt's den Hinweis dann zusätzlich zum zusätzlichen weißen Würfel? Oder ist das hier exklusiv?-->
+- 5-6 Du machst genau was du dir vorgenommen hast und behältst die Nerven.
+- 6&6 Du bekommst einen Hinweis und einen weißen Bonuswürfel, den du frei einsetzen darfst.
 
 *Dieser Spielzug sollte verwendet werden, wenn die Situation potenziell gefährlich ist. Dies kann z.B. der Versuch sein, einen Felsvorsprung hinunterzuklettern, ein Labyrinth zu durchqueren oder eine aufgebrachte Person zu beruhigen. Außerdem ist es mit diesem Spielzug möglich sich auf seinen Dämon zu konzentrieren und dessen Kräfte zu nutzen. So können Fähigkeiten eingesetzt werden, die der Charakter nicht direkt besitzt. Damit ist es z.B. möglich, einen NSC wiederzubeleben, mit dem Dämonenreich zu kommunizieren oder besonders stark oder wendig zu sein.*
 
@@ -31,9 +32,10 @@ Wenn dir jemand misstraut oder wenn du etwas Riskantes tun willst, würfle auf d
 Besprich mit der Spielleitung, was deine Fähigkeit bewirken soll. Du bekommst einen schwarzen Würfel von diesem Spielzug.
 
 - Unabhängig vom Würfelergebnis passiert in jedem Fall, was du wolltest.
+- 1&1 Die Spielleitung erhält einen weiteren Verderbnispunkte.
 - 1-4 Die Spielleitung erhält einen Verderbnispunkt.
-- 5-6 Du bekommst bei dem nächsten, zu dem Ereignis passenden Wurf einen zusätzlichen weißen Würfel.
-- 6&6 Du bekommst einen Hinweis.<!-- gibt's den Hinweis dann zusätzlich zum zusätzlichen weißen Würfel? Oder ist das hier exklusiv?-->
+- 5-6 Du bekommst einen weißen Bonuswürfel, den du frei einsetzen darfst.
+- 6&6 Du bekommst einen Hinweis.
 
 *Dieser Spielzug wird verwendet, wenn die Spielenden eine Fähigkeit nutzen. Fähigkeiten, die die Spielenden so auslösen, können auf der erzählerischen Ebene nicht scheitern. Je nach Ergebnis des Wurfes kann es jedoch zu Verderbnispunkten oder Zuständen kommen.* 
 
@@ -41,6 +43,7 @@ Besprich mit der Spielleitung, was deine Fähigkeit bewirken soll. Du bekommst e
 
 Es ist möglich im Kampf die Gefahrenstufe des Gegners mithilfe von Fähigkeiten zu senken. Du bekommst einen schwarzen Würfel von diesem Spielzug.
 
+- 1&1 Die Gefahrenstufe des Gegners steigt um 1.
 - 1-2 Die Gefahrenstufe des Gegners steigt um 1.
 - 5-6 Du senkst die Gefahrenstufe um 1.
 - 6&6 Du senkst die Gefahrenstufe um 3.
@@ -49,8 +52,9 @@ Es ist möglich im Kampf die Gefahrenstufe des Gegners mithilfe von Fähigkeiten
 
 ## Der „Auf Reisen“ Spielzug
 
-Dieser Spielzug darf pro Spielendem nur einmal pro Abenteuer verwendet werden. Erzählt von einem Moment auf der Reise, um allein oder gemeinsam Zustände abzubauen. Dieser Spielzug gibt einen weißen Würfel. Um einen weiteren Würfel zu erhalten, muss die Erzählung etwas mit dem Attribut zu tun haben. <!-- mit DEM Attribut (welches genau) mit EINEM Attribut des Charakters?-->
+Dieser Spielzug darf pro Spielendem nur einmal pro Abenteuer verwendet werden. Erzählt von einem Moment auf der Reise, um allein oder gemeinsam Zustände abzubauen. Dieser Spielzug gibt einen weißen Würfel. Um einen weiteren Würfel zu erhalten, muss die Erzählung etwas mit dem Attribut, von dem der Charakter den Würfel für diesen Spielzug bekommt, zu tun haben. <!-- mit DEM Attribut (welches genau) mit EINEM Attribut des Charakters? -- Besser ? -->
 
+- 1&1 Die Spielleitung bekommt einen weiteren Verderbnispunkt.
 - 1-2 Die Spielleitung bekommt einen Verderbnispunkt.
 - 3-4 Du entfernst die letzten zwei Zustände. 
 - 5-6 Du entfernst die letzten drei Zustände. Die Spielleitung gibt dir einen Hinweis.
@@ -75,7 +79,7 @@ Ablauf eines Kampfes:
       2. Der Schwachpunkt kann maximal 6 und minimal 1 sein.
 
 2. Kampfrunde
-   1. Folgend <!-- Danach? Zunächst? Formulierung! --> wirft jeder am Kampf teilnehmende Charakter seinen W6 Kampfwürfel. Es wird in aufsteigender Reihenfolge des numerischen Schwachpunkts der Beteiligten gewürfelt. Die beiden höchsten Augenzahlen der geworfenen W6 werden addiert und müssen die Gefahrenstufe des Gegners erreichen oder übertreffen.
+   1. Danach wirft jeder am Kampf teilnehmende Charakter seinen W6 Kampfwürfel. Es wird in aufsteigender Reihenfolge des numerischen Schwachpunkts der Beteiligten gewürfelt. Die beiden höchsten Augenzahlen der geworfenen W6 werden addiert und müssen die Gefahrenstufe des Gegners erreichen oder übertreffen.
    2. Nun muss noch geprüft werden, ob einer der gewürfelten W6 Kampfwürfel den Schwachpunkt eines am Kampf teilnehmenden Charakters trifft. Hierbei werden nicht nur die beiden höchsten Augenzahlen betrachtet, sondern *alle* geworfenen W6 Kampfwürfel. Ist dies der Fall, so erhält der Charakter pro Treffer einen Zustand.
    3. Nun erzählen die Spielenden aufsteigend nach der Augenzahl des von ihnen geworfenen W6 Kampfwürfels, wie ihr Charakter angreift, ob und wie er eventuell verletzt wird und wie der Gegner, falls die Gruppe die Gefahrenstufe des Gegners erreicht oder übertroffen hat, schließlich erledigt wird.
    4. Wenn das Ergebnis der beiden besten W6 Kampfwürfel nicht der Gefahrenstufe des Gegners entspricht, beginnt eine neue Kampfrunde. Die Person mit dem höchsten W6 aus dem Kampfwurf der vorherigen Runde erhält nun einen weiteren W6. Sie darf beide werfen und nur das bessere Ergebnis wird für die neue Runde gewertet. Dies zählt sowohl für das Erreichen des Gefahrenlevels als auch für das Treffen von Schwachpunkten. <!-- Formulierung und eventuell Entwicklerkommentar ob es bei zwei gleichen höchsten Augen auch zwei weitere Würfel gibt. Ich tendiere grade dazu das der SPielleitung zu überlassen. Beides hat Vor- und Nachteile. -->
