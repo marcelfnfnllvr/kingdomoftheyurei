@@ -4,7 +4,7 @@ Schwierigkeit: 14 – ein kurzes und eher einfaches Abenteuer
 
 ### Spielleiterhinweise:
 
-Die Gruppe befindet sich in einem riesigen Haus auf einem Berg. Die Gruppe wurde zu dem Anwesen von Yoshiteru Sugimoto gerufen. Dort wurde ein Bediensteter des Herrn namens Anwar Kazushige tot aufgefunden. Der Herr hatte gerade noch die Familie mit seinen beiden Kindern gefeiert und trauert nun um einen seiner ältesten angestellten. Die Bediensteten machen die Hausgeister für den Tod verantwortlich welche seit dem Tag verschwunden sind.
+Die Gruppe befindet sich in einem riesigen Haus auf einem Berg. Die Gruppe wurde zu dem Anwesen von Yoshiteru Sugimoto gerufen. Dort wurde ein Bediensteter des Herrn namens Anwar Kazushige tot aufgefunden. Der Herr hatte gerade noch die Familie mit seinen beiden Kindern gefeiert und trauert nun um einen seiner ältesten Angestellten. Die Bediensteten machen die Hausgeister für den Tod verantwortlich, welche seit dem Tag verschwunden sind.
 
 ### Fragestellung, Eskalation und Ehrung:
 
@@ -16,7 +16,7 @@ Ehrung: Freund der Hausgeister - Einfühlsam
 
 ### Eröffnung:
 
-Ein langer und anstrengender Aufstieg liegt hinter euch. Der Pass hier hinauf war teilweise so eng und eingeschneit, dass ihr zu Fuß gehen musstet und nicht eure Reittiere nutzen konntet. Die letzten Meter zum Anwesen führen über eine mit grünen Wiesen bestechend schönen Hochebene. 
+Ein langer und anstrengender Aufstieg liegt hinter euch. Der Pass hier hinauf war teilweise so eng und eingeschneit, dass ihr zu Fuß gehen musstet und nicht eure Reittiere nutzen konntet. Die letzten Meter zum Anwesen führen über eine mit grünen Wiesen bestechend schöne Hochebene. 
 
 > Wie gut habt ihr den schwierigen Aufstieg überstanden?
 
@@ -40,16 +40,16 @@ Es kommen Väterchen und Mütterchen auf euch zugelaufen und begrüßen euch. Si
 
 ##### Yoshiteru Sugimoto – Reicher Besitzer des Anwesens
 
-*Spricht mit ruhiger, etwas dünner aber gut zu verstehender Stimme - Der Gruppe wohlgesonnen*
+*Spricht mit ruhiger, etwas dünner aber gut zu verstehender Stimme - Wohlgesonnen*
 Ein netter, sehr alter Herr. Hat hier früher mit seiner Frau Hiroko gelebt. Sie verschwand eines Tages spurlos. Er besitzt Land und lässt Reis anbauen. Er sagt er sei gütig und er mag die Hausgeister. Sie leisten ihm immer Gesellschaft und sind nicht so unheimlich wie Mütterchen und Väterchen. 
 
 ##### Anwar Kazushige – unehelicher Sohn von Yoshiteru
 
-Tot aufgefundener unehelicher Sohn des Yoshiteru. Er war auf dem Anwesen als Koch angestellt.<!-- Wäre es evtl noch interessant zu wissen ob die Geschwister wussten, dass das der uneheliche Sohn war? Also für die SL zumindest? -->
+Tot aufgefundener unehelicher Sohn des Yoshiteru. Er war auf dem Anwesen als Koch angestellt.<!-- Wäre es evtl noch interessant zu wissen ob die Geschwister wussten, dass das der uneheliche Sohn war? Also für die SL zumindest? Oder überlässt du das dem Lauf der Geschichte? -->
 
 ##### Kyuso Sugimoto – Sohn von Yoshiteru
 
-*Nasale Stimme, die leicht hochnäsig wirkt - Wohlgesonnen - trägt edle Gewänder die teuer aussehen*
+*Nasale Stimme, die leicht hochnäsig wirkt - Wohlgesonnen - Trägt edle Gewänder, die teuer aussehen*
 
 Er ist ca. 50-60 Jahre alt. Erst seit Kurzem wieder auf dem Anwesen. In den großen Städten ist es viel angenehmer und lukrativer zu wohnen. Möchte hier schnell wieder weg. Auf die Gesellschaft seiner Schwester kann er verzichten. An Geister glauben nur Kinder und Narren.
 
