@@ -71,7 +71,7 @@
 19. -
 20. -
 
-## Herkunft Tabelle  & Attributstabelle
+## Herkunft Tabelle & Attributstabelle
 
 | **1d20** | **Herkunft**                      | **Attribut 1** | **Attribut 2**      | Gegenstand 1        | Gegenstand 2 |
 | -------- | --------------------------------- | -------------- | ------------------- | ------------------- | ------------ |
