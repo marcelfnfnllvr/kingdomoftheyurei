@@ -80,15 +80,15 @@
 | 3        | Lehrer der Philosophie / Dichter                           | Verstand         | Inspiration         | Schreibwerkzeug                            |                                         |
 | 4        | Führer                                                     | Wegfindung       | Nahrungssuche       | Wanderstab                                 | Karten                                  |
 | 5        | Teebauer / Reisbauer                                       | Pflanzen         | Umwelt              | Sichel                                     |                                         |
-| 6        | Priester / Mönch                                           | Inspiration      | Erzählen            | Standesgemäße Kleidung                     |                                         |
+| 6        | Priester / Mönch / Miko?                                   | Inspiration      | Erzählen            | Standesgemäße Kleidung                     |                                         |
 | 7        | Theaterdarsteller                                          | Akrobatik        | Geschichtenerzähler | Kabuki (Maske)                             | Shamisen                                |
 | 8        | Schmied / Schreiner                                        | Kraft / Geschick | Präzision           | Schmiedehammer                             |                                         |
 | 9        | Shinobi                                                    | Heimlich         | Verstand            | Kunai                                      | Senbon                                  |
 | 10       | Weber / Färber / Töpfer / Keramik / Gerber / Lederarbeiter | Geschick         | Pflanzen            | Gerbmesser                                 |                                         |
 | 11       | Fischer / Perlentaucher                                    | Ausdauer         | Geschick            | Messer                                     |                                         |
-| 12       | Händler / Geldleiher                                       | Feilschen        | Schätzen            |                                            |                                         |
+| 12       | Händler / Geldleiher                                       | Feilschen        | Schätzen            | Waage                                      |                                         |
 | 13       | Gärtner                                                    | Pflanzen         | Umwelt              | Dünger                                     |                                         |
-| 14       | Dieb                                                       | Aufmerksam       | Verschlagen         |                                            |                                         |
+| 14       | Dieb                                                       | Aufmerksam       | Verschlagen         | Rauchbombe                                 |                                         |
 | 15       | Totengräber / Steinmetz                                    | Kraft            | Präzision           | Schaufel / Hammer und Schlageisen          |                                         |
 | 16       | Henker                                                     | Gewalt           | Einzelgänger        | Schwert                                    |                                         |
 | 17       | Bettler / Straßenkind                                      | Heimlich         | Nahrungssuche       | Zwille                                     |                                         |

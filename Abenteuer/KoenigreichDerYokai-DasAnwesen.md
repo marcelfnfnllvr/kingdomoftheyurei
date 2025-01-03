@@ -2,6 +2,8 @@
 
 Schwierigkeit: 14 – ein kurzes und eher einfaches Abenteuer
 
+Finstinernispunkte: 4
+
 ### Spielleiterhinweise:
 
 Die Gruppe befindet sich in einem riesigen Haus auf einem Berg. Die Gruppe wurde zu dem Anwesen von Yoshiteru Sugimoto gerufen. Dort wurde ein Bediensteter des Herrn namens Anwar Kazushige tot aufgefunden. Der Herr hatte gerade noch die Familie mit seinen beiden Kindern gefeiert und trauert nun um einen seiner ältesten Angestellten. Die Bediensteten machen die Hausgeister für den Tod verantwortlich, welche seit dem Tag verschwunden sind.
@@ -74,7 +76,7 @@ Sie werden nicht verraten, ob sie Anwar getötet haben oder nicht. Sie sagen abe
 
 ##### Der alte Kater Ito
 
-*Wohlgesonnen+1*<!-- Was heißt +1? Hab das Regeldokument noch nicht gelesen, falls es da drin steht, ignorier die Frage ^^ -->
+*Wohlgesonnen*
 
 Dicker Kater, kann an verschiedenen Stellen des Hauses angetroffen werden.
 Der Kater kann alles wissen, ist aber katzenmäßig eher mit Vorsicht anzufassen. Er ist ein Geist und kann mit den Fureru sprechen.
@@ -117,23 +119,23 @@ Herausforderung: Der Keller wird von den Hausgeister verschlossen gehalten. Es m
 
 ### Hinweise:
 
--	[   ] Ein Brief mit einem Geständnis der verstorbenen Ehefrau einen Hausgeist aus Versehen getötet zu haben. Er ist ungeöffnet.
--	[   ] Silberbesteck mit Blut darauf.
+-	[  x ] Ein Brief mit einem Geständnis der verstorbenen Ehefrau einen Hausgeist aus Versehen getötet zu haben. Er ist ungeöffnet.
+-	[ x  ] Silberbesteck mit Blut darauf.
 -	[   ] Ein unecht wirkendes Testament, welches die Hausgeister aus dem Erbe streicht.
 -	[   ] Die Geister nehmen ein Leben für ein Leben.
--	[   ] Geburtsurkunde des Toten, welche Yoshiteru als Vater ausweist.
+-	[  x ] Geburtsurkunde des Toten, welche Yoshiteru als Vater ausweist.
 -	[   ] Eine vergiftete Flasche Wein.
--	[   ] Ein Brief von Hiroko: „Ich liebe dich, mein Gatte, aber ich muss die Schuld bezahlen.“
--	[   ] Gespräch: Der Reichtum ist vorbei. Die Hausgeister entwenden zu viel. Sie sind gierig. Das muss enden. Sofort. (Person ist nur zu belauschen und verschwindet sofort.)
--	[   ] Der tote Hausgeist. (Nur im Keller zu finden)
+-	[ x  ] Ein Brief von Hiroko: „Ich liebe dich, mein Gatte, aber ich muss die Schuld bezahlen.“
+-	[ x  ] Gespräch: Der Reichtum ist vorbei. Die Hausgeister entwenden zu viel. Sie sind gierig. Das muss enden. Sofort. (Person ist nur zu belauschen und verschwindet sofort.)
+-	[ x  ] Der tote Hausgeist. (Nur im Keller zu finden)
 -	[   ] Ein zerrissener Brief, laut dem Geschäftsleute aus dem Norden einen hohen Preis für das Land des Herrn zahlen wollen.
--	[   ] Ein altes Tagebuch: „Die Hausgeister piesacken und schikanieren mich. Vater hört mir nicht zu.“
+-	[  x ] Ein altes Tagebuch: „Die Hausgeister piesacken und schikanieren mich. Vater hört mir nicht zu.“
 -	[   ] Es heißt das Haus bricht zusammen, wenn die Geister verschwinden. Es heißt es gibt einen Vertrag darüber.
--	[   ] Schwester hasst die Mutter, den Vater und den Bruder.
--	[   ] Ein Ritualmesser, das magisch überzogen wurde. Das Blut eines Geistes klebt an der Klinge.
--	[   ] Der Hausherr ist über 120 Jahre alt.
--	[   ] Die Erben hassen die Hausgeister.
--	[   ] Das Zeichen der Hausgeister auf dem Nacken des Toten.
+-	[ x  ] Schwester hasst die Mutter, den Vater und den Bruder.
+-	[ x  ] Ein Ritualmesser, das magisch überzogen wurde. Das Blut eines Geistes klebt an der Klinge.
+-	[  x ] Der Hausherr ist über 120 Jahre alt.
+-	[ x ] Die Erben hassen die Hausgeister.
+-	[  x ] Das Zeichen der Hausgeister auf dem Nacken des Toten.
 -	[   ] Vor Jahrzehnten, als der alte Herr das Haus übernommen hat, verschwanden 10 Hausgeister spurlos. 
--	[   ] Ein Buch, in dem beschrieben wird, dass das Konsumieren eines Geistes das eigene Leben verlängert. Es gibt dort auch Anleitungen.
--	[   ] Mütterchen und Väterchen haben eine geisterhafte Aura.
+-	[  x ] Ein Buch, in dem beschrieben wird, dass das Konsumieren eines Geistes das eigene Leben verlängert. Es gibt dort auch Anleitungen.
+-	[  x ] Mütterchen und Väterchen haben eine geisterhafte Aura.
