@@ -58,7 +58,7 @@
 6. Hilfe naht – Lässt ein Wesen oder eine Person erscheinen.
 7. Die Aura spüren – Zeigt Emotionen und wahre Absichten auf. 
 8. Schrecken – Zeige etwas seine tiefste Angst auf.
-9. Schleier – Zeige das wahre ich eines Wesen auf. Psychisch/Physisch
+9. Schleier – Zeige das wahre ich eines Wesen auf.
 10. -
 11. –
 12. –

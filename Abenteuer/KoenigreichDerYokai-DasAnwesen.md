@@ -24,7 +24,7 @@ Es kommen Väterchen und Mütterchen auf euch zugelaufen und begrüßen euch. Si
 
 ### Gefahren:
 
--	Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden. Stärke 12.<!-- Evtl sollte man auch hier die Begrifflichkeiten vereinheitlichen. Im Moment sehe ich Schwierigkeit/Stärke/Stufe und nehme an alles spielt auf dieselbe Mechanik an. -->
+-	Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden. Gefahrenstufe 12.<!-- Evtl sollte man auch hier die Begrifflichkeiten vereinheitlichen. Im Moment sehe ich Schwierigkeit/Stärke/Stufe und nehme an alles spielt auf dieselbe Mechanik an. -->
 -	Hausgeister greifen die Gruppe an. Stufe 8 allein und 12 zusammen. 
 -	Die Tochter oder der Sohn drehen durch. Stufe 8.
 -	Ein Raum, in dem sich die Gruppe befindet, kippt und stürzt in die Tiefe. Die Abwesenheit der Hausgeister lässt das Gebäude schneller zerfallen.

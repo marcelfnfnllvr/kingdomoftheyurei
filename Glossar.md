@@ -4,12 +4,13 @@
   - Fureru
   - Soho
   - Wanderer
+  - Jäger
 - Rollenspielbegriffe
   - SL
   - SC
   - NSC
-  - D6
+  - W6
 - Allgemeine Begriffe aus dem Japanischen
   - Dämonen (zumindest die aus den Zufallstabellen)
   - die Begriffe aus der Weltbeschreibung in Allgemeines (Kurzfassung)?
-  - *Nara*-Rehe
+  - Nara-Rehe

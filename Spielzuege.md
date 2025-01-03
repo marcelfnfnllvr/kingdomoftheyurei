@@ -2,7 +2,7 @@
 
 <!-- Wie ließt man Spielzüge? Einordnung das die Doppelsechs zusätzlich zu dem normalen 6er Ergbnis ausgelößt wird. -->
 
-Spielzüge nutzen die Spielenden im Spielverlauf um Hinweise von NSCs zu bekommen, Hindernissen zu überwinden, Zustände abzubauen, Kämpfe zu bestreiten oder um Ihre Fähigkeiten einzusetzen. Ein Spielzug gibt dir entweder einen weißen oder einen schwarzen Würfel für den Würfelpool. Dies ist in der Beschreibung des Spielzug angegeben. Die kritischen Erfolge und Misserfolge zählen zusätzlichen zum Ergebnis des Spielzug. Das heißt im Fall von eine doppel Sechs im Spielzug "Etwas herrausfinden" bekommt der Spielende zwei Hinweise von der Spielleitung mitgeteilt.
+Im Verlauf des Spiels nutzen die Spielenden Spielzüge, um Hinweise von NSCs zu erhalten, Hindernissen zu begegnen, Zustände abzubauen, Kämpfe auszutragen oder ihre Fähigkeiten einzusetzen. Ein Spielzug gibt entweder einen weißen oder einen schwarzen Würfel für den Würfelpool. Dies ist in der Beschreibung des Spielzug angegeben. Die kritischen Erfolge und Misserfolge zählen zusätzlichen zum Ergebnis des Spielzug.So bedeutet eine Doppel-Sechs im Spielzug "Etwas herausfinden", dass dem Spielenden zwei Hinweise von der Spielleitung mitgeteilt werden.
 
 ## Der „Etwas herausfinden“ Spielzug
 

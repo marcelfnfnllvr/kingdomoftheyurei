@@ -100,4 +100,5 @@
 - [ ] Erklärung: im Kampf das Gegnerlevel die über 12 sind erste gesenkt werden müssen!
 - [ ] ZWeiter Gegenstand als eigene Tabelle?
 - [ ] Karte zu Abenteuern vereinheitliche oder erstellen?
+- [ ] Erklärung das Fähigkeiten nicht das Einzige sind das die Charaktere können.
 
