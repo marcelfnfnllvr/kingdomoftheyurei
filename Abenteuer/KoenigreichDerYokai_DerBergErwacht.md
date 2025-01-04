@@ -20,7 +20,7 @@ Falls es eskaliert, bricht ein riesiger Steingolem aus dem Fels über dem Dorf u
 
 Bergwächter - Dunkelsicht
 
-### Zustandsfrage
+### Abenteuerfrage
 
 > Wenn dein Charakter einen Wunsch frei hätte, was würde er/sie sich dann schmieden lassen?
 

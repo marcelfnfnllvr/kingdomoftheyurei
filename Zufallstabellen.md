@@ -84,8 +84,8 @@
 | 7        | Theaterdarsteller                                          | Akrobatik        | Geschichtenerzähler | Kabuki (Maske)                             | Shamisen                                |
 | 8        | Schmied / Schreiner                                        | Kraft / Geschick | Präzision           | Schmiedehammer                             |                                         |
 | 9        | Shinobi                                                    | Heimlich         | Verstand            | Kunai                                      | Senbon                                  |
-| 10       | Weber / Färber / Töpfer / Keramik / Gerber / Lederarbeiter | Geschick         | Pflanzen            | Gerbmesser                                 |                                         |
-| 11       | Fischer / Perlentaucher                                    | Ausdauer         | Geschick            | Messer                                     |                                         |
+| 10       | Weber / Färber / Töpfer / Keramik / Gerber / Lederarbeiter | Geschick         | Pflanzen            | Gerbmesser / Lackware / Färbemittel                          |                                         |
+| 11       | Fischer / Perlentaucher                                    | Ausdauer         | Geschick            | Messer                                     |Netz/Angel                               |
 | 12       | Händler / Geldleiher                                       | Feilschen        | Schätzen            |                                            |                                         |
 | 13       | Gärtner                                                    | Pflanzen         | Umwelt              | Dünger                                     |                                         |
 | 14       | Dieb                                                       | Aufmerksam       | Verschlagen         |                                            |                                         |
@@ -94,7 +94,7 @@
 | 17       | Bettler / Straßenkind                                      | Heimlich         | Nahrungssuche       | Zwille                                     |                                         |
 | 18       | Geisha                                                     | Athletik         | Verführung          | Edle Kleidung                              | Shamisen                                |
 | 19       | Krieger - Ronin                                            | Zäh              | Heimlich            | Tanto - Kurzschwert                        |                                         |
-| 20       | Koch                                                       | Geschick         | Kochen              | Rezeptsammlung                             |                                         |
+| 20       | Koch                                                       | Geschick         | Kochen              | Rezeptsammlung                             | Küchenmesser                                         |
 
 ## Ängste Tabelle
 
@@ -125,12 +125,12 @@
 
 | **1d6 / 1d**3 | Modifikator | **Schwachpunkt** 1                    | Schwachpunkt 2         | **Schwachpunkt** 3     |
 | ------------- | ----------- | ------------------------------------- | ---------------------- | ---------------------- |
-| 1             | -2          | Ungünstige Kriegsnarbe                | Wetterfühligkeit       | Schmerzender Knöchel   |
-| 2             | -1          | Ein fauler Zahn der unangenehm riecht | Ungünstige Ausrüstung  |                        |
+| 1             | +2          | Ungünstige Kriegsnarbe                | Wetterfühligkeit       | Schmerzender Knöchel   |
+| 2             | +1          | Ein fauler Zahn der unangenehm riecht | Ungünstige Ausrüstung  |                        |
 | 3             | 0           | Angeknackste Knöchel                  | Eine zitternde Hand    |                        |
 | 4             | 0           | Ausgekugelte Schulter                 | Suchtentzug            |                        |
-| 5             | +1          | Eine gebrochene Rippe                 | Gehirnerschütterung    |                        |
-| 6             | +2          | Eine offenliegende Wunde              | Eine schwere Krankheit | Eine schwere Infektion |
+| 5             | -1          | Eine gebrochene Rippe                 | Gehirnerschütterung    |                        |
+| 6             | -2          | Eine offenliegende Wunde              | Eine schwere Krankheit | Eine schwere Infektion |
 
 ## Namen Tabelle
 

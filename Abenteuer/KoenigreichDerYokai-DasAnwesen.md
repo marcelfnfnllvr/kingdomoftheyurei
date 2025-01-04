@@ -1,6 +1,6 @@
 # Das Anwesen
 
-Schwierigkeit: 14 – ein kurzes und eher einfaches Abenteuer
+Schwierigkeit: 14 – ein kurzes und eher einfaches Abenteuer - ein Abend
 
 ### Spielleiterhinweise:
 
@@ -12,7 +12,11 @@ Eine Fragestellung, die es zu lösen gibt: Warum wurde Anwar Kazushige getötet 
 
 Falls die Situation eskaliert, mutiert der alte Herr zu einer riesigen Gestalt mit sechs Armen und packt nach jedem und schlingt ihn einfach hinunter. Der Einfluss der Hausgeister scheint ihn stark verändert zu haben. Er kann aufgehalten werden, fängt aber mit der Schwierigkeit 14 an.
 
-Ehrung: Freund der Hausgeister - Einfühlsam
+Freund der Hausgeister - Einfühlsam
+
+### Abenteuerfrage:
+
+Kann sich dein Charakter vorstellen in so einem Anwesen seinen Ruhestand zu verbringen? Warum oder warum nicht?
 
 ### Eröffnung:
 
