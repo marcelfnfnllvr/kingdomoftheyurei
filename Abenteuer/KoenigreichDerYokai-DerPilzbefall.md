@@ -6,13 +6,23 @@ Schwierigkeit: 18 – längeres Abenteuer – zwei bis drei Abende
 
 Das Dorf Haran ist bekannt für seine delikaten Shiitake-Pilze und deren koordinierte Produktion. Seit einiger Zeit ist das Dorf jedoch befallen. Zwei Menschen sind gestorben, weil sie von infizierten Pilzen gegessen haben und es sind zwei Schweine mutiert und durchgedreht. Sie haben dabei zwei weitere Menschen getötet. Die betroffene Pilzkolonie wurde isoliert und alle Pilze drumherum verbrannt. Nur den infizierten Pilzen scheint das Feuer und jede Bemühung sie zu beseitigen nichts auszumachen. Im Dorf sind Frauen und Männer strikt getrennt. Es wird sich nur zur Fortpflanzung getroffen. Die Frauen ziehen gemeinsam die Kinder groß. Männer spielen nur eine untergeordnete Rolle.
 
-### Fragestellung, Eskalation und Titel:<!-- Im Abenteuer "Das Anwesen" heißt es statt Titel -> Ehrung. Einheitlichkeit? -->
+### Fragestellung, Eskalation und Ehrung:
 
 Was hat das Ungleichgewicht ausgelöst und den Dämon erschaffen? Wie kann der Pilzgeist wieder verbannt werden? 
 
 Falls die Situation eskaliert, brechen überall Schläferpilze aus dem Menschen. Er kann aufgehalten werden, fängt aber mit der Schwierigkeit 18 an.
 
-Verliehen wird der Titel „Pilzbefall ade“ mit dem Attribut Pflanzen.
+„Pilzbefall ade“ - Pflanzen <!-- das tut mir nur ein ganz bisschen weh, dass hier Pilze mit Pflanzen gleichgesetzt werden ^^; Also vielleicht doch eher Umwelt? Schließlich gibt es nicht nur das Pilzthema, sondern auch die Tiere und Pflanzen im angrenzenden Wald, die ja auch durchaus eine gewisse Rolle zu spielen haben -->
+
+### Abenteuerfrage:
+
+<!--Vorschläge (mir gefällt der erste am besten ^^):
+Dein Charakter hatte schon einmal die Möglichkeit die berühmten Pilze aus Haran zu probieren. Bei welcher Gelegenheit war das und wie haben sie geschmeckt?
+
+Wenn dein Charakter noch eine Sache an diesem Dorf ändern könnte, was wäre das?
+
+Den nächsten Vorschlag sollte man sich gut überlegen wg Lines&Veils und Ton insgesamt:
+Auch an einem anderen Ort hat dein Charakter bereits in der Vegangenheit Diskriminierung wie hier erlebt. Wie hat er darauf reagiert? -->
 
 ### Eröffnung:
 
@@ -50,7 +60,7 @@ Ist erst seit einem Jahr in dem Dorf. Berichtet, dass ihr beim Aufbau des alten 
 
 ##### Svenja Iho - Tochter und kleines Mädchen
 
-*Misstrauisch - blickt häufig zu Boden* <!-- nur ein Vorschlag, weil sie schüchtern sein soll -->
+*Misstrauisch - blickt häufig zu Boden - spricht stockend mit leiser Stimme* <!-- nur ein Vorschlag, weil sie schüchtern sein soll -->
 
 Ein kleines Mädchen. Etwas schüchtern, verspielt und auf ihre Art wild. Sie kann sich in einen Wolf verwandeln. Ihre Mutter hat gesagt, dass sie sich den Pilzen auf keinen Fall nähern darf. Dort lauert der Tod. Sie ging allerdings trotzdem und konnte in ihrer Wolfsform mit dem Pilz reden. Sie hat sich über ihn lustig gemacht. Er ist so bewegungslos.
 
@@ -58,13 +68,13 @@ Ein kleines Mädchen. Etwas schüchtern, verspielt und auf ihre Art wild. Sie ka
 
 *Wohlgesonnen*
 
-Es werden keine Tiere gehalten in Haran. Zumindest nicht um sie zu schlachten. Alle Tiere hier sind heilig. Es zieht allerdings regelmäßig eine Horde Nara-Rehe durch das Dorf<!-- Ich persönlich finde die Schreibweise Nara-Rehe mit Bindestrich besser. Bin mir hier aber unsicher, auch weil das nicht der Artname ist, das wäre der Sikahirsch.  -->. Die Schlachterin spricht jedes Mal mit Ihnen und nimmt sich dann ein oder zwei Tiere, um sie für das Dorf zu schlachten. Es ist ein jahrhundertealtes Abkommen, welches die Rehe mit den Menschen geschlossen haben. Die Schlachterin gehört ebenfalls zu den Wolfsmenschen und deren geheimen Bund an.
+Es werden keine Tiere gehalten in Haran. Zumindest nicht um sie zu schlachten. Alle Tiere hier sind heilig. Es zieht allerdings regelmäßig eine Horde Nara-Rehe durch das Dorf. Die Schlachterin spricht jedes Mal mit Ihnen und nimmt sich dann ein oder zwei Tiere, um sie für das Dorf zu schlachten. Es ist ein jahrhundertealtes Abkommen, welches die Rehe mit den Menschen geschlossen haben. Die Schlachterin gehört ebenfalls zu den Wolfsmenschen und deren geheimen Bund an.
 
-##### Koto Tono (Herbert Schmidt) - Westler <!-- Westen oder Norden? -->
+##### Koto Tono (Herbert Schmidt) - Nordling 
 
 *Misstrauisch*
 
-Seine runden blauen Augen könnten ihn verraten. Er trägt eine Sonnenbrille, um seine Farbe zu verstecken, und spricht die Sprache gut. Er kommt aus dem Westen und möchte dem Osten die Industrialisierung und den Handel bringen. Diese Werte sind vom Kaiser verboten und sein Kopf wird gefordert sollte jmd. rausfinden, dass er im Land ist. Er wird von Taki Arima versteckt gehalten. Sie erhofft sich von ihm bessere Pilzernten und Handel. Wenn er entdeckt wird, gibt er sich als Einheimischer aus. 
+Seine runden blauen Augen könnten ihn verraten. Er trägt eine Sonnenbrille, um ihre Farbe zu verstecken, und spricht die Sprache gut. Er kommt aus dem Norden und möchte dem Königreich Soho die Industrialisierung und den Handel bringen. Diese Werte sind vom König verboten und sein Kopf wird gefordert sollte jmd. rausfinden, dass er im Land ist. Er wird von Taki Arima versteckt gehalten. Sie erhofft sich von ihm bessere Pilzernten und Handel. Wenn er entdeckt wird, gibt er sich als Einheimischer aus. 
 
 ##### Mouri Kusuyo - Prostituierter im Dorf
 
@@ -74,7 +84,7 @@ Er sieht sehr gut aus, ist aber eher von einfacherem Gemüt. Er behauptet noch n
 
 ##### Hotaru Iwa - Dorfarzt aus dem Reich
 
-*Misstrauisch - weiße Haare - geht leicht gebückt* <!-- Nur ein Vorschlag, da ich annehme er ist recht alt -->
+*Misstrauisch - weiße Haare - geht leicht gebückt - redet mit brüchiger Stimme* <!-- Nur ein Vorschlag, da ich annehme er ist recht alt -->
 
 Lebte früher in der großen Stadt. Kam zum Dorf, um sich zur Ruhe zu setzen und hat dann wieder angefangen zu arbeiten. Er mag die Dorfälteste, aber sie mag ihn nicht. Er hat mit den Pilzen experimentiert, um ein Potenzmittel zu finden, da das Geweih von Wanderern rar geworden ist und nur noch selten zur Verfügung steht. Sein Haus ist etwas abseits im Dorf.
 

@@ -24,11 +24,15 @@ Wenn die Situation eskaliert, stirbt Fräulein Kaho Ryan unabhängig von der Erz
 
 Meister des Waldes - Überleben
 
+### Abenteuerfrage:
+
+
+
 ### Eröffnung:
 
 Ihr seid seit Tagen unterwegs durch den endlosen Wald. In der Mitte soll es eine fortschrittliche und wohlhabende Festung mit einer gnädigen Kaiserin geben. Ganz ohne Einfluss der Zentralregierung.
 
-> Was hofft euer Charakter in der abgelegenen Festung zu finden?<!-- Sie ist ja nicht wirklich verloren, nur schwer zu erreichen? -->
+> Was hofft euer Charakter in der abgelegenen Festung zu finden? <!-- ich glaube das war hier die Abenteuerfrage, oder? -->
 
 Am Horizont seht ihr einen älteren Mann mit einem Ochsen und einem kaputten Karren, den er gerade repariert. Als ihr näher kommt, seht ihr einen zweiten Ochsen, der leblos neben dem Karren liegt. Der Mann neben dem Karren stellt sich als Botan Ryan vor. Er erzählt, dass eine wilde Kreatur aus dem Wald gestürmt sei, den Ochsen sofort getötet habe und mit seiner Tochter in den Wald geflohen sei. Er kann ihre Schreie noch in seinen Ohren hören. Er bittet die Gruppe um Hilfe. Das Wesen scheint kein normales Tier zu sein.
 

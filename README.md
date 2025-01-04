@@ -1,4 +1,4 @@
-# Königreich der Yurei
+# Königreich der Yōkai
 
 Willkommen Wanderer!
 
@@ -6,7 +6,7 @@ Du findest hier ein Regelwerk, an dem ich seit geraumer Zeit schraube. Die grund
 
 Nach einigen Testsessions lässt sich das Ganze zumindest schon ganz gut spielen. Wenn du interessiert bist, lies dir gerne die Allgemeine Übersicht, die Regeln und die Spielzüge durch. Bitte beachte, dass hier noch aktiv gearbeitet wird und das vieles noch nicht fertig ist.
 
-Inwiefern ich wirklich eine der beiden Lizenzen nutze ändert sich ständig. Ich finde, dass "Königreich der Yokai" schon viel mehr als ein Hack der beiden System ist. Dennoch erwähne ich beide Systeme sehr gerne, allein schon, weil es zwei meiner absoluten Favoriten sind.
+Inwiefern ich wirklich eine der beiden Lizenzen nutze ändert sich ständig. Ich finde, dass "Königreich der Yōkai" schon viel mehr als ein Hack der beiden System ist. Dennoch erwähne ich beide Systeme sehr gerne, allein schon, weil es zwei meiner absoluten Favoriten sind.
 
 ###### Carved From Brindlewood
 

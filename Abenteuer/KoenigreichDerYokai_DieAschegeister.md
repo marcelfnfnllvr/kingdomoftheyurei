@@ -22,7 +22,7 @@ Das ganze Dorf wird von den Aschegeistern überrannt, die jeden mit sich reißen
 
 Aschegeist - Feuerfest
 
-### Zustandsfrage
+### Abenteuerfrage
 
 Wann war dein Charakter das erste Mal in einem Onsen und wie war es für ihn?
 
