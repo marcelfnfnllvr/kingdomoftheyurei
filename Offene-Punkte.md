@@ -103,4 +103,7 @@
 - [ ] Erklärung das Fähigkeiten nicht das Einzige sind das die Charaktere können.
 - [ ] Zustand in die Modifkator Tabelle ändern
 - [ ] Welthinweise komplett entfernen
+- [ ] Modifikatoren weg?
+- [ ] Hilfewurf abändern? Mehr erlauben? Mehr Kreativität?
+- [ ] Ein freier Gegenstandslot
 
