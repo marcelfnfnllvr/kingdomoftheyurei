@@ -17,7 +17,7 @@
 |              |         |
 |              |         |
 
-### Welthinweise
+### Welthinweise <!-- nicht mehr aktuell-->
 
 | **Welthinweise** | Benutzt |
 | ---------------- | ------- |
@@ -29,7 +29,7 @@
 
 ### Zustände abbauen
 
-Habt einen ruhigen Moment oder erzählt von einem auf Reisen, um alleine oder gemeinsam Korruption abzubauen. Ihr könnt nur so viel Korruption abbauen, wie durch das Gefahrenlevel freigeschaltet ist.
+Habt einen ruhigen Moment oder erzählt von einem auf Reisen, um alleine oder gemeinsam Korruption abzubauen. Ihr könnt nur so viel Korruption abbauen, wie durch das Gefahrenlevel freigeschaltet ist.<!-- auch nicht mehr aktuell so -->
 
 | Level     | Beschreibung |
 | --------- | ------------ |
@@ -60,4 +60,4 @@ Habt einen ruhigen Moment oder erzählt von einem auf Reisen, um alleine oder ge
 | Hast du einer Person ein Geheimnis entlockt?             |         |
 | Hast du eine Situation friedlich deeskaliert?            |         |
 | Hast du dich einem Kampf gestellt und diesen gemeistert? |         |
-| Hast du einen Hinweis auf die Welt erhalten?             |         |
+| Hast du einen Hinweis auf die Welt erhalten?             |         |<!-- auch nicht mehr aktuell - ganz raus oder durch etwas anderes ersetzen? Also z.B. kritischen Erfolg gewürfelt? Ist ja eigentlich äquivalent-->
