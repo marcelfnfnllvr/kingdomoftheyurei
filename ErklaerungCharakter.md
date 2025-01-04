@@ -14,7 +14,7 @@ Es gibt keinen direkten Wert für das Alter eines Charakters. Allerdings zeigt d
 
 ## Der Dämon
 
-Der Dämon ist seit dem Vorfall teil der Charakters. Er wohnt in ihm und versucht ständig, ihn zu beeinflussen. Der Dämon stellt den ersten Zustand des Charakters da.
+Der Dämon ist seit dem Vorfall Teil deS CharakterS. Er wohnt in ihm und versucht ständig, ihn zu beeinflussen und mehr Macht über ihn zu erlangen. Der Dämon stellt den ersten Zustand des Charakters dar.
 
 ## Mechanik und Fluff
 
