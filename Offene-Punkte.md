@@ -107,4 +107,5 @@
 - [ ] Hilfewurf abändern? Mehr erlauben? Mehr Kreativität?
 - [ ] Ein freier Gegenstandslot
 - [ ] Eine Fähigkeit direkt über den Dämon?
+- [ ] Klarstellung Sitzung vs Abenteuer (Regeln --> Am Ende des Abends)
 
