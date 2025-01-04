@@ -69,17 +69,28 @@ Sie sind allgegenwärtig und fallen durch ihre großzügige Gestaltung auf. Gro�
 
 > Ihr seht einen in den Berg gehauenen Steinpfad, der einige Meter hoch zu einem kleinen Tempel führt. Ein Mönch tritt rechts durch das Torii-Tor und steigt vorsichtig die steinerne Treppe zum Tempel hinauf. Der Mönch achtet genau darauf, wo er durch das Tor geht, denn die Mitte ist für die Götter reserviert. Yūsuke konzentriert sich und verlagert seine Wahrnehmung halb in die Welt der Götter und Geister. Er sieht kleine Wesen, die durch die Mitte des Torii auf den Tempel zugehen, bevor seine Sicht wieder klar wird und die Geister verschwinden.
 
-#### Izakaja
+#### Izakaya
+
+Viele Menschen genießen ihren Feierabend gerne in gemütlicher Runde mit ein paar alkoholischen Getränken und Kleinigkeiten zum Essen. Sie treffen sich hierzu in der japanischen Version einer Kneipe, dem Izakaya. Hier gibt es nicht nur verschiedene alkoholische Getränke wie Sake (meist serviert in kleinen Holzwürfen oder flachen Trinkschalen) oder Shōchū (Branntwein), sondern dazu auch immer kleinere Snacks wie eingelegtes Gemüse, Tofu mit Garnierung (Hiyayakko) oder Edamame (unreife, gekochte Sojabohnen). Die Atmosphäre ist dabei entspannt und lädt zum längeren Verweilen ein. Die Gäste sitzen meist auf dem Boden auf Tatami an niedrigen Tischen und teilen sich das Essen, ähnlich wie in einer spanischen Tapas-Bar.
+
+ > Ihr habt eure Aufgabe gelöst und dabei auch gefährliche Situationen erfolgreich gemeistert - das muss gefeiert werden! Bevor ihr also am nächsten Morgen aufbrecht, begebt ihr euch nach getaner Arbeit in das Izakaya des Dorfes. Dort werdet ihr freundlich begrüßt und zu einem Tisch geführt, nachdem ihr euch mit den gereichten feuchten Handtüchern die Hände abgewischt und eure Schuhe ausgezogen habt. Am Tisch bekommt ihr direkt einen ersten kleinen Snack (Otōshi) und lest euch dann das an der Wand hängende Angebot durch. Der Abend schreitet voran und ihr teilt beim einen oder anderen Schluck Sake nicht nur euer Essen, sondern auch Geschichten von euren Reisen und vergangenen Aufträgen. 
 
 #### Ryokan
 
+Wer nicht zuhause oder draußen in der Kälte übernachten möchte, der geht ins Gasthaus - das Ryokan. Wie in anderen Häusern auch werden schon im Eingangsbereich die Straßenschuhe ausgezogen und durch Hausschuhe ersetzt. Die Zimmer sind eingerichtet mit Tatami und Schiebetüren (Shōji), geschlafen wird auf dem Futon, einer faltbaren weichen Matratze, die auf direkt auf die Tatami gelegt wird.  Badezimmer gehören nicht zu den einzelnen Zimmern, sondern werden gemeinschaftlich, aber nach Geschlechtern getrennt genutzt. Oftmals kommt das Wasser dort aus benachbarten heißen Quellen. In der Regel gehört zum Aufenthalt in einem Ryokan sowohl das Abendessen wie auch ein Frühstück.
+
+> Die Reise in die Stadt war anstrengend und hängt euch noch in den Knochen, als ihr am Ryokan ankommt. Eure Reittiere lasst ihr vorerst draußen und begebt euch ins Foyer. Ihr zieht eure Schuhe an der Stufe aus und werden von einem Angestellten in Empfang genommen. Er bringt euch zu euren Zimmern, wo bereits auf einem niedrigen Tisch grüner Tee und eine kleine Süßigkeit bereitstehen. Die Hausschuhe lasst ihr vor der Schiebetür stehen, bevor ihr auf die Tatami tretet. Es ist noch etwas Zeit vor dem Abendessen, also nutzt ihr die Gelegenheit, um im Gemeinschaftsbad den Schmutz und die Müdigkeit der Reise abzuwaschen. 
+
 #### Burgen
 
-In der Regel bestehen japanische Burgen aus einem hohen Steinfundament und je nach Bautyp aus einer Hauptburg (honmaru) und einer oder mehreren Zweigburgen. Auf der Hauptburg steht der Hauptturm (tenshu), der aus mehreren Stockwerken mit ihren typischen geschwungenen Dächern aufgebaut ist. Die früheren Burgen dienen hauptsächlich der Verteidigung, später aber auch als Verwaltungssitz und Handelszentrum. 
+In der Regel bestehen japanische Burgen aus einem hohen Steinfundament und je nach Bautyp aus einer Hauptburg (Honmaru) und einer oder mehreren Zweigburgen. Auf der Hauptburg steht der Hauptturm (Tenshu), der aus mehreren Stockwerken mit ihren typischen geschwungenen Dächern aufgebaut ist. Die früheren Burgen dienen hauptsächlich der Verteidigung, später aber auch als Verwaltungssitz und Handelszentrum. 
 Da sie abgesehen vom Steinfundament hauptsächlich aus Holz gebaut sind, sind Feuer und Blitzeinschläge für die Burggebäude eine große Gefahr.
 
->Nach einer ersten Nacht im Ryokan begebt ihr euch ins Zentrum. Schon von weitem habt ihr den majestätischen weißen Hauptturm der Burg mit seinen vielen Stockwerken und dem geschwungenen Dach aus schwarzen Schindeln gesehen. Die Gasse führt euch direkt zum großen gepflasterten Vorplatz. Obwohl es noch früh am Tag ist, herrscht hier schon geschäftiges Treiben. Händler bieten lautstark ihre Waren an verschiedenen Ständen feil, umgeben von Schaulustigen und Kunden - alles unter den wachsamen Blicken der Soldaten, die auf jedem Absatz der großen Treppe stehen, die hoch zum Haupttor der Burg führt.
->
+> Nach einer ersten Nacht im Ryokan begebt ihr euch ins Zentrum. Schon von weitem habt ihr den majestätischen weißen Hauptturm der Burg mit seinen vielen Stockwerken und dem geschwungenen Dach aus schwarzen Schindeln gesehen. Die Gasse führt euch direkt zum großen gepflasterten Vorplatz. Obwohl es noch früh am Tag ist, herrscht hier schon geschäftiges Treiben. Händler bieten lautstark ihre Waren an verschiedenen Ständen feil, umgeben von Schaulustigen und Kunden - alles unter den wachsamen Blicken der Soldaten, die auf jedem Absatz der großen Treppe stehen, die hoch zum Haupttor der Burg führt.
+
+#### Onsen
+
+Nicht nur Capybaras und Makaken wissen ein gemütliches heißes Bad zu schätzen. Auch Menschen genießen die Entspannung beim Baden und nutzen dafür das Onsen, ein Thermalbad mit vulkanisch erhitztem Wasser. Bevor man aber tatsächlich ins heiße Wasserbecken steigen darf, gibt es einige Regeln zu beachten. Erst legt man die Straßenkleidung in der Umkleide in einen Korb ab und geht dann zum Duschen, damit das Onsenwasser nicht verschmutzt wird. Geduscht und gewaschen wird dabei im Sitzen auf kleinen Hockern. Badekleidung gibt es keine, aber dafür ein kleines Handtuch (Tenugui), das man sich für den Weg von der Dusche ins Becken um die Hüfte schlingt. Auch das Handtuch darf das Onsenwasser nicht berühren und wir hierzu meist beim Gang ins Becken auf den Kopf gelegt.   
 
 #### Gärten
 
@@ -87,7 +98,6 @@ Ein japanischer Garten ist nicht einfach eine Fläche mit Pflanzen darauf. Er is
 Häufige Elemente japanischer Gärten sind z.B. künstlich aufgeschüttete Hügel, Teiche, Bachläufe oder auch Wasserfälle, einzelne Steine und Kiesbeete oder auch Moose. In den Kiesbeeten kann durch wellenförmig geharkte Linien ein ausgetrockneter Flusslauf imitiert werden. In Teichen finden sich kleine bepflanzte Inseln oder Steinformationen und gerne führt eine Holzbrücke ans andere Ufer. Durch die geschickte Anordnung von Steinen und Pflanzen kann der Eindruck einer sich endlos in die Ferne ausbreitenden Landschaft entstehen.
 
 >Auf dem Rückweg von eurer Auftraggeberin passiert ihr eine Mauer mit einem offenen Tor darin. Ein erster Blick hindurch offenbart euch einen Kiesweg, der zwischen Gras und Bäumen schlängelnd zu einem Teich führt. Neugierig geht ihr den Weg entlang. Ein Mönch, der gerade in einem Kiesbeet mit einer Harke Linien durch die Steine zieht, blickt kurz auf, bevor er sich wieder dem Muster widmet. Der Weg zieht sich ein Stück an dem Teich entlang, bevor er über eine gebogene Holzbrücke verläuft und auf einen mit Kiefern bestandenen Hügel führt. Der Teich wird durch einen kleinen Wasserfall gespeist, an dem Shishi-odoshi steht - ein an einer Wippe befestigtes und an einem Ende geschlossenes Bambusrohr. Regelmäßig wird es durch den Wasserfall gefüllt bis es umwippt und sich das Wasser in den Teich ergießt. Dann wippt das Rohr wieder zurück und das Ende landet mit einem sanften Klopfen wieder auf dem Stein.
->
 
 #### Essen
 
@@ -98,7 +108,7 @@ Onigiri sind meist dreieckig oder kugelig geformte Reisbälle aus weißem Reis. 
 Soja gehört zu den Grundnahrungsmitteln in der japanischen Küche und wird vielseitig eingesetzt. Nattō ist dabei eine eher gewöhnungsbedürftige Form: die Sojabohnen werden erst gekocht und dann durch Hinzugabe des Bakteriums Bacillus subtilis ssp. natto fermentiert. Traditionell geschieht dies, indem die Bohnen in Reisstroh eingewickelt werden, auf dem der Bacillus lebt. Dadurch entwickeln die Bohnen nicht nur einen starken Geruch, sondern werden mit einem fädenziehenden Schleim überzogen. 
 
 **Miso-Suppe**  
-Grundsätzlich besteht Miso-Suppe aus Miso-Paste, die mit einer Dashi-Brühe angerührt wird. Miso-Paste wird ebenfalls aus Sojabohnen gewonnen, diese werden mit einem bestimmten Pilz (kōji) und Salz fermentiert. Für die Dashi-Brühe wird Wasser mit getrockneten, fermentierten Thunfisch-Flocken (katsuobushi) und essbarem Kelp aufgekocht. Die weiteren Zutaten für eine Miso-Suppe variieren je nach Geschmack, Region und Jahreszeit. Weit verbreitet ist sie mit Tofuwürfeln und Kelp (wakame), aber es können z.B. auch Pilze, Meeresfrüchte oder Gemüse hinzugegeben werden.
+Grundsätzlich besteht Miso-Suppe aus Miso-Paste, die mit einer Dashi-Brühe angerührt wird. Miso-Paste wird ebenfalls aus Sojabohnen gewonnen, diese werden mit einem bestimmten Pilz (Kōji) und Salz fermentiert. Für die Dashi-Brühe wird Wasser mit getrockneten, fermentierten Thunfisch-Flocken (Katsuobushi) und essbarem Kelp aufgekocht. Die weiteren Zutaten für eine Miso-Suppe variieren je nach Geschmack, Region und Jahreszeit. Weit verbreitet ist sie mit Tofuwürfeln und Kelp (Wakame), aber es können z.B. auch Pilze, Meeresfrüchte oder Gemüse hinzugegeben werden.
 
 **Unagi/Kabayaki**  
 Bei Unagi handelt es sich um frischen Süßwasser-Aal. Traditionell wird dieser gegrillt und mit einer süßlich-würzigen Soße glasiert. Oft wird dieser Kabayaki auf einem Reisbett serviert.
@@ -111,7 +121,7 @@ Sushi, wie man es heute kennt - also gepresster Reis mit Essig und einer Scheibe
 Reis hat in der japanischen Küche unglaublich viele verschiedene Formen - eine Süßspeise auf Reisbasis ist Dango. Hierbei werden aus einem Teig aus Reismehl und Wasser kleine Kugeln geformt, die auf Holstäbe aufgespießt und gedämpft werden. Es gibt sie in vielen verschiedenen Sorten und Belägen, z.B. mit Sirup aus Sojasoße, getrockneten Nori oder umhüllt mit Adzukibohnenpaste.    
 
 **Mochi**  
-Auch Mochi ist eine Süßspeise, die aus Reis hergestellt wird. Der Klebreis wird gedämpft und dann mit großen Stößeln in einem Holzmörser (usu) geschlagen und gewendet bis er die richtige Konsistenz hat. Danach wird er auf verschiedene Arten weiterverarbeitet: gefüllt mit süßer Adzukibohnenpaste (Daifuku), bestreut mit geröstetem Sojabohnenmehl (Kinako Mochi) oder geröstet und als Beilage in Suppen oder anderen Gerichten verwendet.   
+Auch Mochi ist eine Süßspeise, die aus Reis hergestellt wird. Der Klebreis wird gedämpft und dann mit großen Stößeln in einem Holzmörser (Usu) geschlagen und gewendet bis er die richtige Konsistenz hat. Danach wird er auf verschiedene Arten weiterverarbeitet: gefüllt mit süßer Adzukibohnenpaste (Daifuku), bestreut mit geröstetem Sojabohnenmehl (Kinako Mochi) oder geröstet und als Beilage in Suppen oder anderen Gerichten verwendet.   
 
 <!-- das hier kennt man natürlich eher, ist aber scheinbar erst später erfunden worden ¯\_(ツ)_/¯ :
 	"richtiges" Sushi (Nigiri, Maki) - ab 1600
@@ -143,3 +153,9 @@ https://www.britannica.com/art/Japanese-garden/Ideals-and-aims-of-garden-design
 https://www.japanwelt.de/blog/japangarten
 https://www.japandigest.de/japan-in-deutschland/reise-kultur/japanische-gaerten-in-deutschland/
 https://japanobjects.com/features/garden-design
+https://www.tokyolocalized.com/post/what-is-izakaya
+https://en.sake-times.com/learn/a-short-history-of-izakaya
+https://wanderweib.de/izakaya/#Izakaya_betreten
+https://www.japan-guide.com/e/e2029.html
+https://wanderweib.de/tipps-onsen-in-japan-besuchen/
+https://homejapan.de/blogs/japan/onsen
