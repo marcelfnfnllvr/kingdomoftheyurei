@@ -3,8 +3,9 @@
 - Spezifische Begriffe aus "Königreich der Yōkai"
   - Fureru
   - Soho
-  - Wanderer
+  - Wanderer <!-- sind das nicht die Furero? Also dann einfach Verweis "Siehe "Furero""?-->
   - Jäger
+  - Reittiere
 - Rollenspielbegriffe
   - SL
   - SC
@@ -12,5 +13,15 @@
   - W6
 - Allgemeine Begriffe aus dem Japanischen
   - Dämonen (zumindest die aus den Zufallstabellen)
+     - Tengu
+     - Yuki Onna
+     - Nure Onna
+     - Hyakume
+     - Kappa
+     - Tanuki
+     - Kodama
+     - Tsukumogami
+     - Amabie
+     - Onryo
   - die Begriffe aus der Weltbeschreibung in Allgemeines (Kurzfassung)?
-  - Nara-Rehe
+  - Nara-Rehe <!-- die vielleicht dann doch eher zu den Erklärungen zu dem spezifischen Abenteuer? -->
