@@ -6,34 +6,34 @@ Introtext? Würfelpool? Schwarze oder weiße Würfel? Es werden nur die zwei hö
 
 ## Der Würfelpool - Würfel sammeln
 
-Für jeden Spielzug erhältst du einen Würfel. Für ungefährliche Spielzüge gibt es einen weißen Würfel, für gefährliche einen schwarzen. Für ein passendes Attribut bekommst du einen zweiten Würfel. Je nach Attribut kann dieser weiß oder schwarz sein. Den dritten Würfel bekommst du entweder für eine Angst oder einen Zustand. Außerdem kannst du durch bestimmte Aktionen Bonuswürfel sammeln, die du zusätzlich einsetzen kannst. Maximal kann der Würfelpool, beim ersten Wurf, vier Würfel beinhalten.
+Für jeden Spielzug erhältst du einen Würfel. Für ungefährliche Spielzüge gibt es einen weißen Würfel, für gefährliche einen schwarzen. Für ein passendes Attribut bekommst du einen zweiten Würfel. Je nach Attribut kann dieser weiß oder schwarz sein. Den dritten Würfel bekommst du entweder für eine Angst oder einen Zustand. Außerdem kannst du durch bestimmte Aktionen Bonuswürfel sammeln, die du zusätzlich einsetzen kannst. Maximal kann der Würfelpool beim ersten Wurf auf einen Spielzug vier Würfel beinhalten.
 
 1D6 [Spielzug - Weiss oder Schwarz] +1D6 [Attribut oder Equipment - Weiss oder Schwarz] + 1D6 [Angst oder Zustand - Schwarz] + 1D6 [Bonuswürfel - Weiss]
 
 ## Der Wurf
 
-Nachdem der Spielende seine Würfelpool hat würfelt er. Ziel ist eine möglichs hohe Augenzahl, mit einem der Würfel, zu erreichen. Der Spielende hat zwei weiße und einen schwarzen Würfel in seinem Pool. Er würfelt eine weiße 4, eine weiße 3 und eine schwarze 3. Damit steht als vorläufiges Ergebnise die weiße 4. Wenn wir uns jetzt zum Beispiel den Spielzug "Etwas herrausfinden" betrachten dann wäre eine 4 das Ergebnis: 1-4 Die Spielleitung erhält einen Verderbnispunkt. Sollte der Spielende damit nicht zufrieden sein kann er seinen Wurf verbessern. Das neue Ergebnis zählt.
+Nachdem der Spielende seinen Würfelpool zusammengestellt hat, würfelt er. Ziel ist eine möglichst hohe Augenzahl mit einem der Würfel zu erreichen. Beispielsweise hat der Spielende zwei weiße und einen schwarzen Würfel in seinem Pool. Er würfelt eine weiße 4, eine weiße 3 und eine schwarze 3. Damit steht als vorläufiges Ergebnis die weiße 4. Wenn wir jetzt zum Beispiel den Spielzug "Etwas herausfinden" betrachten, dann wäre eine 4 das Ergebnis: 1-4 -> Die Spielleitung erhält einen Verderbnispunkt. Sollte der Spielende damit nicht zufrieden sein, kann er seinen Wurf verbessern. Das neue Ergebnis zählt.
 
 ## Den Wurf verbessern
 
-Wenn du mit dem Würfelergebnis nicht zufrieden bist und ein weißer Würfel der höchste Würfel im Wurf ist, darfst du einmalig einen weiteren schwarzen Würfel in den Wurf geben. Dann würfelst du komplett neu. Das neue Ergebnis zählt. Bei gleicher Augenzahl von schwarzem und weißem Würfel zählt immer der schwarze Würfel als höchster Würfel. 
+Wenn du mit dem Würfelergebnis nicht zufrieden bist und ein weißer Würfel die höchste Augenzahl im Wurf hat, darfst du einmalig einen weiteren schwarzen Würfel in den Wurf geben. Dann würfelst du komplett neu. Das neue Ergebnis zählt. Bei gleicher Augenzahl von schwarzem und weißem Würfel zählt immer der schwarze Würfel als höchster Würfel. 
+
+## Der schwarze Würfel
+
+Immer wenn die Augenzahl eines schwarzen Würfels im Ergebnis größer oder gleich der höchsten Augenzahl eines weißen Würfels ist, erhält dein Charakter einen Zustand. Hat er sechs Zustände gesammelt, ist er außer Gefecht gesetzt.
 
 ## Verderbnispunkte
 
-Die Spielleitung sammelt Verderbnispunkte im Spielverlauf wenn die Spielenden Spielzüge nutzen und dort niedrige Würfelergebnisse erzielen. Siehe dazu Kapitel Spielzüge. Diese kann die Spielleitung für besondere Ereignisse ausgeben, um das Spiel spannender zu gestalten.
+Die Spielleitung sammelt Verderbnispunkte im Spielverlauf wenn die Spielenden Spielzüge nutzen und dort niedrige Würfelergebnisse erzielen. Siehe dazu Kapitel Spielzüge. Die Verderbnispunkte kann die Spielleitung für besondere Ereignisse ausgeben, um das Spiel spannender zu gestalten.
 
 - Gebe 1-X Punkte aus, um die Schwierigkeit des Abenteuers am Ende um diese Anzahl Punkte zu erhöhen.
 - Gib 2 Punkte aus für ein gefährliches Ereignis. Es könnte sich zu einer Gefahr der Stufe 8 entwickeln.
 - Gib 3 Punkte aus für die Bekämpfung einer Gefahr der Stufe 10.
 - Gib 4 Punkte aus für die Bekämpfung einer Gefahr der Stufe 12.
 
-## Der schwarze Würfel
-
-Immer wenn die Augenzahl im Ergebnis des schwarzen Würfels größer oder gleich der Augenzahl des weißen Würfels ist, erhält dein Charakter einen Zustand. Hat er sechs Zustände gesammelt, ist er außer Gefecht gesetzt.
-
 ## Außer Gefecht gesetzt
 
-Wenn ein Charakter sechs Zustände aufbaut, ist er außer Gefecht gesetzt. Es erfordert einen "Sich dem Risiko aussetzen"-Wurf eines anderen Spielenden, um dem Charakter wieder aufzuhelfen. Während dieser Zeit verändert der Dämon den Charakter nachhaltig.
+Wenn ein Charakter sechs Zustände aufbaut, ist er außer Gefecht gesetzt. Es erfordert einen "Etwas riskieren"-Wurf eines anderen Spielenden, um dem Charakter wieder aufzuhelfen. Während dieser Zeit verändert der Dämon den Charakter nachhaltig.
 
 1. Der Körper und der Geist deines Charakters altern. Erhöhe den Abschnitt um eins.
    -	Wenn dein Charakter jetzt im sechsten Lebensabschnitt ist, ist er zu müde und erschöpft, um weiterzumachen. Wie sieht der Lebensabend deines Charakters aus?
@@ -88,8 +88,8 @@ Wenn die Korruption zunimmt, bekommst du auch einen Zustand. Zustände zeigen de
 
 Zustände können auf drei verschiedene Arten reduziert werden.
 
-1. Beantworte die Zustandsfrage des Abenteuers.
-2. Reduziere einen Zustand, indem du einen Sechser-Pasch würfelst.
+1. Beantworte die Abenteuerfrage.
+2. Reduziere einen Zustand, indem du einen Sechser-Pasch würfelst. <!-- Ich glaub das ist nicht mehr aktuell, oder? -->
 3. Benutze einmal im Abenteuer den Spielzug "Auf Reisen".
 
 ## Am Ende eines jeden Abends
