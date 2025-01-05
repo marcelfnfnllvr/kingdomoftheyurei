@@ -13,9 +13,9 @@
 
 ### Rollenspielbegriffe
   - **NSC**  
-    Nicht-Spielercharakter. Von den Spielleitenden gesteuerte Charaktere, mit denen die Spielenden während eines Abenteuers interagieren können. Dabei kann es sich sowohl um Mneschen und Tiere als auch um Geister und Dämonen handeln.
+    Nicht-Spielercharakter. Von den Spielleitenden gesteuerte Charaktere, mit denen die Spielenden während eines Abenteuers interagieren können. Dabei kann es sich sowohl um Menschen und Tiere als auch um Geister und Dämonen handeln.
   - **SC**  
-    Spielercharakter. Alle Spielenden in der Runde besitzen je einen fiktiven Spielercharakter, den sie erdacht und mit den Zufallstabellen gebaut haben und mit dem sie die Abenteuer bestreiten. Grundsätzlich kann ein Spielercharakter nur dessen Besitzer oder Besitzerin steuern.
+    Spielercharakter. Alle Spielenden in der Runde besitzen je einen fiktiven Spielercharakter, den sie erdacht und mithilfe der Zufallstabellen gebaut haben und mit dem sie die Abenteuer bestreiten. Grundsätzlich kann einen Spielercharakter nur dessen Besitzer oder Besitzerin steuern.
   - **SL**    
     Der oder die Spielleitende. Gibt die Rahmenhandlung für das Abenteuer vor, spielt die Nicht-Spieler-Charaktere (NSC), verteilt Hinweise für erfolgreiche Würfe und gestaltet so gemeinsam mit den Spielenden die Runde.
   - **W6**  
@@ -23,7 +23,7 @@
     
 ### Allgemeine Begriffe aus dem Japanischen
   - **Yōkai**  
-    Übernatürliche Wesen aus der japanischen Folklore, meist mit magischen Fähigkeiten. Können Menschen gegenüber bösartig, gleichgültig oder sogar wohlwollend gegenüber auftreten. Das Spektrum ist sehr weit und umfasst zum Beispiel:
+    Übernatürliche Wesen aus der japanischen Folklore, meist mit magischen Fähigkeiten. Können Menschen gegenüber bösartig, gleichgültig oder sogar wohlwollend auftreten. Das Spektrum ist sehr weit und umfasst zum Beispiel:
      - Amabie  
        Ähnelt grob einer Meerjungfrau und soll vor Krankheiten schützen. Besitzt lange Haare, einen schnabelartigen Mund, Fischschuppen und drei Beine.  
      - Hyakume ("Einhundert Augen")  
