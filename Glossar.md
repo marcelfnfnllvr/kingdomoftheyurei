@@ -30,6 +30,8 @@
        Ein in verlassenen Gebäuden und anderen düsteren Orten lebendes Wesen mit annähernd menschlichem Körper, der über und über bedeckt ist mit gelben Augen. Bewacht seinen auserkorenen Wohnort vor Dieben, ist generell aber scheu. Einzelne Augen können sich auch vom Körper lösen und eine zeitlang unabhängig herumschweben, um beispielsweise Eindringlinge zu beobachten.
      - Kappa ("Flusskind")  
        Ehrenhafter Wasser-Yōkai, etwa kindsgroß, aber sehr stark, mit reptilienartigen Zügen, grüner Haut, Schwimmhäuten und auf dem Kopf einer schalenartigen Einbuchtung. Die Kuhle auf dem Kopf muss immer mit Wasser gefüllt sein, aus diesem zieht der Kappa seine Macht. Sehr intelligent und in der Lage die menschliche Sprahce zu lernen. Mal hilsbereit und gern unter Menschen gesehen, mal eher spitzbübisch und zu Streichen aufgelegt oder aber gewalttätig und tödlich.
+     - Kitsune ("Fuchs")  
+       Fuchs mit sehr mächtigen magischen Fähigkeiten. Sehr intelligente Gestaltwandler, die entweder als verehrte Götterboten fungieren oder als zu Streichen aufgelegte Störenfriede. Können auch menschliche Form annehmen und leben teilweise sogar als Mensch. Je mehr Fuchsschwänze ein Kitsune hat (maximal 9), desto mächtiger ist er.
      - Kodama ("Baumgeist")  
        Verehrte Schutzgeister von Wäldern, die die Seele eines Baumes darstellen. Sind entweder unsichtbar, als kleine Lichtkugeln in der Ferne zu sehen oder erscheinen als kleine, menschenähnliche, aber merkwürdig geformte Gestalten. Die Lebenskraft eines Kodama ist direkt an seinen Baum gebunden: stirbt der Baum, stirbt auch der Kodama.  
      - Nure Onna ("Nasse Frau")  
@@ -41,7 +43,7 @@
      - Tengu ("Göttlicher Hund")  
        Mischwesen mit Zügen von Vögeln (häufig Krähen) und Menschen. Meist dargestellt mit menschlichem Körper, roter Haut, normaler menschlicher Kleidung und sehr langer Nase, dazu Vogelflügel auf dem Rücken.
      - Tsukumogami ("Artefakt-Geist")  
-       Gegenstand, der besellt und zum Yokai wurde, nachdem er achtlos entsorgt wurde und 100 Jahre alt geworden ist. Kann sowohl rachsüchtig als auch nur unruhestiftend sein. Gegenstände sind beispielsweise Regenschirm, Laterne, Teekessel, Mantel, Schuhe oder ein Musikinstrument.   
+       Gegenstand, der beseelt und zum Yōkai wurde, nachdem er achtlos entsorgt wurde und 100 Jahre alt geworden ist. Ist häufig eher ein Unruhestifter als tatsächlich böse und kann manchmal sogar Glück bringen. Gegenstände sind beispielsweise Regenschirm, Laterne, Teekessel, Mantel, Schuhe oder ein Musikinstrument.   
      - Yuki Onna ("Schneefrau")  
        Wunderschöne Frau mit schwarzen Haaren, schneeweißer Haut und weißer Kleidung, aber eisig kalt. Lauert in der Kälte Menschen auf, die sie mit einem Atemhauch einfriert und ihnen ihre Lebensenergie entzieht.
   - die Begriffe aus der Weltbeschreibung in Allgemeines (Kurzfassung)?
