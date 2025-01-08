@@ -1,5 +1,106 @@
 # Offene Punkte
 
+## 1 Änderungen/Ergänzungen für Regeln u. Spielzüge
+- [ ] Die Regel kritischer Misserfolg und kritischer Erfolg weg und diese immer direkt in den Spielzug und spezifisch für den Spielzug passend!
+- [ ] Erklärung: im Kampf das Gegnerlevel die über 12 sind erste gesenkt werden müssen!
+- [ ] Modifikatoren weg?
+- [ ] Hilfewurf abändern? Mehr erlauben? Mehr Kreativität?
+- [ ] Klarstellung Sitzung vs Abenteuer (Regeln --> Am Ende des Abends)
+- [ ] Fragen für die Rast
+  - [ ] Erzähle eine Situation, die die Gruppe zum Lachen gebracht hat.
+- [ ] Haiku als Mechanik?
+  - [ ] Eventuell für den Stufenaufstieg bzw. das "sterben/außer Gefecht gesetzt"
+- [ ] Zustand in die Modifikator Tabelle ändern
+- [ ] Welthinweise komplett entfernen
+- [ ] Eine Fähigkeit direkt über den Dämon?
+- [ ] Zweiter Gegenstand als eigene Tabelle?
+- [ ] Ein freier Gegenstandslot
+- [ ] Alte Geschichten über die Welt abfragen als Move? Oder beim Heilen? Oder mhmmm
+- [ ] Frage 
+  - [ ] Wie bist du in Kontakt mit deinem Dämon gekommen? Wie hast du überlebt?
+- [ ] Fragen geteilt in Persönliche, Reisen und Camp?
+- [ ] Besser Episoden als Abschnitt?
+- [ ] Lernt die Gruppe nach jedem Abenteuer etwas über die Welt? Darf ihre Welt gestalten
+- [ ] Player Principells wie in Trophy?
+
+## 2 Texte ergänzen/schreiben für's Regelwerk
+### 2.1 Systembeschreibung
+- [ ] Allgemeine Erklärungen und Einführungen fertigstellen
+- [ ] Erklärung, dass Fähigkeiten nicht das Einzige sind das die Charaktere können.
+- [ ] Spielbeispiel erstellen 
+  - [ ] Ablauf einer Session
+- [ ] Ablauf Spielabend / Abenteuer
+- [ ] Würfel und Proben bestehen
+- [ ] Gameplay Loop soll Schematisch im Regelwerk abgebildet werden. Ein Diagramm.
+- [ ] Erklärung: Es wird Phasen im Spiel geben wo ihr Rollenspielen könnt, Phasen wo mehr gewürfelt wird und Phasen wo ihr Erzählen dürft was grade passiert.
+- [ ] Erwartungshaltung managen: Ein Bild eures Charakters, wie ihr ihn euch vorstellt, ehe er vom Dämon gezeichnet wurde. Der Dämon und die Zeichnung wird ausgewürfelt und wird das Aussehen eures Charakters beeinflussen.
+- [ ] Was erwartet mich?
+  - [ ] Die Welt
+  - [ ] Die Mechanik
+    - [ ] Ein D6 Würfelsystem, welches mit Spielzügen arbeitet und auf Attribute und nicht auf klassisch numerische Werte setzt.
+- [ ] Abschnitt
+  - [ ] Kapitel
+  - [ ] Schlüsselmomente
+  - [ ] Momente
+- [ ] Erklärung warum Hinweise so konkret und Vergleich mit Brindlewood
+- [ ] Es geht um Szenen und diese schön darzustellen!
+- [ ] Klarstellung das die Fureru prinzipiell alles können auch wenn sie die Fähigkeit nicht besitzen oder es sie nicht gibt!
+
+### 2.2 Weltbeschreibung
+- [ ] Keine Dämonen sondern die schwarze Saat? Sie wohnt allem Inne und kommt zum Vorschein wenn Dinge aus dem Gleichgewicht geraten..
+- [ ] Weltbeschreibung hinzufügen - das Japan in welchem wir spielen
+- [ ] Jäger sollte noch in die Beschreibung im Regelwerk
+- [ ] Es sollte alles noch etwas Japanischer werden! Tokii, Schuhe, Häuser, Bräuche
+- [ ] Was macht das Japan in dem wir spielen aus? Wichtige Szenen und Dinge. Erzählungen. Wie bringt man das gefühlt am Besten rüber?
+- [ ] Waffen und allgemein Japanische Beschreibungen im Regelwerk
+- [ ] Abenteuer schreiben
+  - [x] Der Wald
+  - [x] Die Aschegeister
+  - [x] Der Berg erwacht
+  - [ ] Etwas in/mit einer Festung
+  - [ ] was am Meer/Strand
+  - [ ] was zum Spielen, mit Schokolade
+- [ ] Fremdabenteuer noch dazu?
+- [ ] Die Karpfen Papierfahnen
+- [ ] Magische Szenen für Der Berg erwacht
+- [ ] Magische Szenen die über alle Abenteuer hinwerg nutzbar sind.
+  - [ ] Auch nicht magische. :D
+- [ ] Wichtige Japanische Begriffe für die Abenteuer am Anfang des Abenteuers erneut hervorheben
+- [ ] Karte zu Abenteuern vereinheitliche oder erstellen?
+- [ ] Das ganze Buch über die drei gleichen Charaktere für Erklärungen hernehmen.
+  - [ ] Yūsuke gespielt von XXX
+
+## 3 Das *BUCH*
+- [ ] Autorenkommentare hervorheben?
+- [ ] Vogelfedern im Seitendesign/Layout
+- [ ] Aufbau - Buch?
+  - [ ] Worum geht es in diesem Rollenspiel?
+    - [ ] Einordnung des Regelwerks
+  - [ ] Wie spielt sich Augen der Zwielichts: Königreich der Yōkai?
+    - [ ] Beispiel und Erklärung der Prinzipien
+  - [ ] Wie sind die Abenteuer aufgebaut?
+    - [ ] Beispiel und Erklärung Abenteuer
+  - [ ] In welcher Welt spielt Augen der Zwielichts: Königreich der Yōkai?
+    - [ ] Erklärung der Welt
+  - [ ] Geister, Dämonen und Fureru
+    - [ ] Rolle des Übernatürlichen
+  - [ ] Wie unterscheidet sich diese Welt vom Japan des 15. Jahrhunderts?
+    - [ ] Unterschiede und Abgrenzung zum realen Japan
+  - [ ] Darstellung der Welt und Begrifflichkeiten
+    - [ ] Beispiele für Japanische Architektur, Geflogenheiten und Begriffe
+
+
+## 4 Zukunftsmusik?
+- [ ] Adaption für Müllsammler im All
+  - [ ] Mehr soziale Interaktion	
+- [ ] Kampagnenstyle
+  - [ ] Welt zusammen bauen am Abend
+  - [ ] Pro Würfe
+  - [ ] Königreich, Norden, Götter, Dämonen
+- [ ] Gruppe Doro, Mike und Dirk wünscht sich mehr Abenteuer zusammen.
+
+
+## erledigt
 - [x] Charaktererstellung und Konzept
 - [x] Abenteueraufbau
 - [x] Änderung der Levelmechanik
@@ -19,93 +120,9 @@
 
 - [x] Wirkliche sterben und heilen und so abschaffen? Progression über die Abenteuer hinweg. Tod bzw auder Gefecht nur wichtig ob es ein schwarze oder ein weise Epoche des Charakters war?
 - [x] Doch vor dem Kampf den Würfel werfen aber mit einem Modifikator drauf? Also von +1 - -2 oder so.
-
 - [x] Einen Zustand heilen über eine spezifische Frage die nur für das Abenteuer ist
 
 
 
-- [ ] Allgemeine Erklärungen und Einführungen fertigstellen
-- [ ] Weltbeschreibung hinzufügen - das Japan in welchem wir spielen
-- [ ] Spielbeispiel erstellen 
-  - [ ] Ablauf einer Session
-- [ ] Ablauf Spielabend / Abendteuer
-- [ ] Würfel und Proben bestehen
-- [ ] Abenteuer schreiben
-  - [x] Der Wald
-  - [x] Die Aschegeister
-  - [x] Der Berg erwacht
-- [ ] Vogelfedern im Seitendesign/Layout
-- [ ] Lernt die Gruppe nach jedem Abenteuer etwas über die Welt? Darf ihre Welt gestalten
-- [ ] Fragen für die Rast
-  - [ ] Erzähle eine Situation die die Gruppe zum lachen gebrach hat.
-- [ ] Adaption für Müllsammler im All
-  - [ ] Mehr soziale Interatktion	
-- [ ] Kampagnenstyle
-  - [ ] Welt zusammen bauen am Abend
-  - [ ] Pro Würfe
-  - [ ] Königreich, Norden, Götzter, Dämonen
-- [ ] Jäger sollte ncoh in die Beschreibung im Regelwerk
-- [ ] Gameplay Loop soll Schematisch im Regelwerk abgebildet werden. Ein Diagramm.
-- [ ] Alte Geschichten über die Welt abfragen als Move? Oder beim Heilen? Oder mhmmm
-- [ ] Frage 
-  - [ ] Wie bist du in Kontakt mit deinem Dämon gekommen? Wie hast du überlebt?
-- [ ] Fragen geteilt in Persönliche, Reisen und Camp?
-- [ ] Besser Episoden als Abschnitt?
-- [ ] Erklärung: Es wird Phasen im Spiel geben wo ihr Rollenspielen könnt, Phasen wo mehr gewürfelt wird und Phasen wo ihr Erzählen dürft was grade passiert.
-- [ ] Erwartungshaltung managen: Ein Bild eures Charakters, wie ihr ihn euch vorstellt, ehe er vom Dämon gezeichnet wurde. Der Dämon und die Zeichnung wird ausgewürfelt und wird das Aussehen eures Charakters beeinflussen.
-- [ ] Was erwartet mich?
-  - [ ] Die Welt
-  - [ ] Die Mechanik
-    - [ ] Ein D6 Würfelsystem welches mit Spielzügen arbeitet und auf Attribute und nicht auf klassisch numerische Werte setzt.
-- [ ] Abschnitt
-  - [ ] Kapitel
-  - [ ] Schlüsselmomente
-  - [ ] Momente
-- [ ] Erklärung warum Hinweise so konkret und vergleich mit Brindlewood
-- [ ] Es sollte alles noch etwas Japanischer werden! Tokii, Schuhe, Häuse, Bräuche
-- [ ] Es geht um Szenen und diese schön darzustellen!
-- [ ] Waffen und allgemein Japanische Beschreibungen im Regelwerk
-- [ ] Fremdabenteuer noch dazu?
-- [ ] Gruppe Doro, Mike und Dirk wünscht sich mehr Abenteuer zusammen.
-- [ ] Die Karpfen Papierfahnen
-- [ ] ;agische Szenen für Der Berg erwacht
-- [ ] Was macht das Japan in dem wir spielen aus? Wichtige Szenen und Dinge. Erzählungen. Wie bringt man das gefühlt am Besten rüber?
-- [ ] Das ganze Buch über die drei gleichen Charaktere für Erklärungen hernehmen.
-  - [ ] Yūsuke gespielt von XXX
-- [ ] Magische Szenen die über alle Abenteuer hinwerg nutzbar sind.
-  - [ ] Auch nicht magische. :D
-- [ ] Haiku als Mechanik?
-  - [ ] Eventuell für den Stufenaufstieg bzw. das "sterben/außer Gefecht gesetzt"
-- [ ] Keine Dämonen sondern die schwarze Saat? Sie wohnt allem Inne und kommt zum Vorschein wenn Dinge aus dem Glerichgewicht geraten..
-- [ ] Aufbau - Buch?
-  - [ ] Worum geht es in diesem Rollenspiel?
-    - [ ] Einordnung des Regelwerks
-  - [ ] Wie spielt sich Augen der Zwielichts: Königreich der Yōkai?
-    - [ ] Beispiel und Erklärung der Prinzipien
-  - [ ] Wie sind die Abenteuer aufgebaut?
-    - [ ] Beispiel und Erklärung Abenteuer
-  - [ ] In welcher Welt spielt Augen der Zwielichts: Königreich der Yōkai?
-    - [ ] Erklärung der Welt
-  - [ ] Geister, Dämonen und Fureru
-    - [ ] Rolle des Übernatürlichen
-  - [ ] Wie unterscheidet sich diese Welt vom Japan des 15. Jahrhunderts?
-    - [ ] Unterschiede und abgrenzung zum realen Japan
-  - [ ] Darstellung der Welt und Begrifflichkeiten
-    - [ ] Beispiele für Japanische Architektur, Geflogenheiten und Begriffe
-- [ ] Player Principells wie in Trophy?
-- [ ] Wichtige Japanische Begriffe für die Abenteuer am Anfang des Abenteuers erneut hervorheben
-- [ ] Autorenkommentare hervorherben?
-- [ ] Klarstellung das die Fureru prinzipiell alles können auch wenn sie die Fähigkeit nicht besitzen oder es sie nicht gibt!
-- [ ] Die Regel kritischer Misserfolg und kritischer Erfolg weg und diese immer direkt in den Spielzug und spezifisch für den Spielzug passend!
-- [ ] Erklärung: im Kampf das Gegnerlevel die über 12 sind erste gesenkt werden müssen!
-- [ ] ZWeiter Gegenstand als eigene Tabelle?
-- [ ] Karte zu Abenteuern vereinheitliche oder erstellen?
-- [ ] Erklärung das Fähigkeiten nicht das Einzige sind das die Charaktere können.
-- [ ] Zustand in die Modifkator Tabelle ändern
-- [ ] Welthinweise komplett entfernen
-- [ ] Modifikatoren weg?
-- [ ] Hilfewurf abändern? Mehr erlauben? Mehr Kreativität?
-- [ ] Ein freier Gegenstandslot
-- [ ] Eine Fähigkeit direkt über den Dämon?
-- [ ] Klarstellung Sitzung vs Abenteuer (Regeln --> Am Ende des Abends)
+
 
