@@ -24,8 +24,8 @@
 ### Allgemeine Begriffe aus dem Japanischen
   - **Yōkai**  
     Übernatürliche Wesen aus der japanischen Folklore, meist mit magischen Fähigkeiten. Können Menschen gegenüber bösartig, gleichgültig oder sogar wohlwollend auftreten. Das Spektrum ist sehr weit und umfasst zum Beispiel:
-     - Amabie  
-       Ähnelt grob einer Meerjungfrau und soll vor Krankheiten schützen. Besitzt lange Haare, einen schnabelartigen Mund, Fischschuppen und drei Beine.  
+     - Iwana bōzu (Saibling-Mönch")  
+       Sehr großer Süßwasserfisch (Japan-Saibling) auf Menschenbeinen in Priestergewand. Lebt in Flüssen und bittet Angler, dass sie aufhören Fische zu fangen. Belehrt über die Probleme von Überfischung und dagegen, sinnlos Leben zu nehmen. Durch seine Körperform, Kleidung und ehrwürdige Ausdrucksform sehr gut getarnt.  
      - Hyakume ("Einhundert Augen")  
        Ein in verlassenen Gebäuden und anderen düsteren Orten lebendes Wesen mit annähernd menschlichem Körper, der über und über bedeckt ist mit gelben Augen. Bewacht seinen auserkorenen Wohnort vor Dieben, ist generell aber scheu. Einzelne Augen können sich auch vom Körper lösen und eine zeitlang unabhängig herumschweben, um beispielsweise Eindringlinge zu beobachten.
      - Kappa ("Flusskind")  
