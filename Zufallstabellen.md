@@ -97,7 +97,7 @@ Discord
 2. Soziale Fähigkeit:  
    1. Willensstark: Dein Will ist wie ein mentaler Schild. Einschüchterungen und Furcht lassen dich kalt 
    2. Farben des Gesangs: Dein Publikum wird von dir in seinen Bann gezogen und ändert seine aktuelle Stimmung in eine andere Emotion 
-   3. Etikete: Passe dich den Ständen und Kasten der aktuellen Gebietes an. 
+   3. Etikette: Passe dich den Ständen und Kasten der aktuellen Gebietes an. 
    4. Schwur - Ringe jemanden ein Versprechen ab.
    5. In Köpfe schauen: Erkenne die momentanen Gedanken einer Person.
    6. Dominanz: Anderen deinen Willen aufzwingen
@@ -135,18 +135,19 @@ Discord
    4. Vergeltung - Lasse einem Unrecht Gerechtigkeit folgen 
    5. Todgeweiht - Vernehme drohende Gefahr für eine Person in der Nähe oder ddie Person die als nächstes Sterben wird. 
    6. Traummahl - Dringe in die Träume oder Gedanken des Gegenübers ein um mehr über ihn zu erfahren.
-   7. Wurzeln - nimm Kontakt zur Natur um dich auf und mach sie dir zu Nutzen. (andere Elementarkräfte wie, Erde-Steine werfen, Spalten entstehen lassen, Feuer-Flammen erzeugen, Wind und Wasser ... du weißt schon ![😏]
+   7. Wurzeln - nimm Kontakt zur Natur um dich auf und mach sie dir zu Nutzen. (andere Elementarkräfte wie, Erde-Steine werfen, Spalten entstehen lassen, Feuer-Flammen erzeugen, Wind und Wasser 
    8. Fuchsflammen: Erschaffe eine kleine schwebende Flamme, die auf Menschen eine unwiderstehliche anziehende Wirkung ausübt
    9. Pflanzenfreund: Nimm Kontakt zu den Pflanzen in deiner Umgebung auf und bringe sie z.B. zu schnellem Wachstum
    10. Tierbeschwörer: Für 2 Stunden lässt du alle 10 Minuten ein Tier deiner Wahl dort wo du bist erscheinen
    11. Frost: Für die nächste Stunde friert alles Wasser im Umkreis von 10m um dich herum zu Eis
-   12. Wärme spenden - Du spendest deine eigene Seelenwärme an jemanden in deiner Nähe die sie braucht.  Schwarm herbeirufen - Du befeligst einige Kleintiere, für x gehorchen sie deinem Befehl, in deiner Nähe. 
-   13. Tierische Lieferung: ein Kranich erscheint und lässt etwas vor dir fallen
-   14. Nebelmaschine: Du kannst von dir ausgehend einen Nebel erzeugen, der nur für dich und Personen die du berührst durchsichtig ist.  
-   15. Telekinet: Rufe Gegenstände zu dir oder schicke sie weg, als würdest du sie mit der Hand greifen. 
-   16. Magneto: Dein Körper zieht Metall an. Du kannst die Stärke verändern, von nichts bis Erdkern.
-   17. Alpha: Tiere wollen dir gehorchen und gefällig sein.
-   18. Magiesicht - Dein Begleiter hat magische Augen, bei besonders starker Magischer Quelle verändern sich diese.
+   12. Wärme spenden - Du spendest deine eigene Seelenwärme an jemanden in deiner Nähe die sie braucht.
+   13. Schwarm herbeirufen - Du befeligst einige Kleintiere, für x gehorchen sie deinem Befehl, in deiner Nähe. 
+   14. Tierische Lieferung: ein Kranich erscheint und lässt etwas vor dir fallen
+   15. Nebelmaschine: Du kannst von dir ausgehend einen Nebel erzeugen, der nur für dich und Personen die du berührst durchsichtig ist.  
+   16. Telekinet: Rufe Gegenstände zu dir oder schicke sie weg, als würdest du sie mit der Hand greifen. 
+   17. Magneto: Dein Körper zieht Metall an. Du kannst die Stärke verändern, von nichts bis Erdkern.
+   18. Alpha: Tiere wollen dir gehorchen und gefällig sein.
+   19. Magiesicht - Dein Begleiter hat magische Augen, bei besonders starker Magischer Quelle verändern sich diese.
 
 
 
@@ -199,6 +200,26 @@ Discord
 | 18   | Angst vor Berührungen                                 |
 | 19   | Angst vor Wahnsinn                                    |
 | 20   | Angst vor dem Altern                                  |
+| 21   | Angst vor Löchern                                     |
+| 22   | Angst vor spitzen Gegenständen und Nadeln             |
+| 23   | Angst vor Brücken                                     |
+| 24   | Angst vor Reptilien                                   |
+| 25   | Angst vor Blitz und Donner                            |
+| 26   | Angst vor Dreck                                       |
+| 27   | Angst vor Mäusen und Ratten                           |
+| 28   | Angst vor Priestern und heiligen Dingen               |
+| 29   | Angst vor plötzlichen, lauten Geräuschen              |
+| 30   | Angst vor Kindern                                     |
+| 31   | Angst vor Kälte                                       |
+| 32   | Angst vor Spiegeln                                    |
+| 33   | Angst vor Friedhöfen                                  |
+| 34   | Angst davor, angestarrt zu werden                     |
+| 35   | Angst vor Licht                                       |
+| 36   | Angst vor Vögeln                                      |
+| 37   | Angst vor Leichen                                     |
+| 38   | Angst vor Alkohol                                     |
+| 39   | Angst vor Wind und Stürmen                            |
+| 40   | Angst vor Nebel                                       |
 
 ## Schwachpunkt Tabelle
 
@@ -245,18 +266,18 @@ Discord
 | 1        | Hirsch           | Hirschgeweih                                   | Stechend     | Widerstandskraft – Die Kraft der Jugend                      |
 | 2        | Kitsune          | Rote Zeichnungen, Fuchsohren, Fuchsschwanz     | Gewandtheit  | Fuchsflammen: Erschaffe eine kleine schwebende Flamme, die auf Menschen eine unwiderstehliche anziehende Wirkung ausübt |
 | 3        | Bär              | Bärenfell                                      | Warm         | Bärenstark: Du bist so stark wie 10 Menschen                 |
-| 4        | Steinbock        | Hufe                                           | Klettern     |                                                              |
-| 5        | Affe             | Fell                                           | Klettern     |                                                              |
-| 6        | Koi              | Schuppen                                       | Aussehen     |                                                              |
-| 7        | Katze            | Katzenaugen, Katzenohren                       | Aufmerksam   | Nachtsicht                                                   |
-| 8        | Insekt           | Chitinpanzer                                   | Robust       |                                                              |
+| 4        | Steinbock        | Hufe                                           | Klettern     | Wurzeln                                                      |
+| 5        | Affe             | Fell                                           | Klettern     | Schauspieltalent                                             |
+| 6        | Koi              | Schuppen                                       | Aussehen     | Verflüssigen?                                                |
+| 7        | Katze            | Katzenaugen, Katzenohren                       | Aufmerksam   | Nachtsicht / Zwielichtpfad                                   |
+| 8        | Insekt           | Chitinpanzer                                   | Robust       | Zuflucht                                                     |
 | 9        | Yuki Onna        | bleiche Haut                                   | Kälte        | Frost: Du kannst die Temperatur senken                       |
 | 10       | Nure Onna        | Vampirzähne, Schlangenschuppen, Schlangenzunge | Aussehen     | Dominanz: Anderen deinen Willen aufzwingen                   |
-| 11       | Hyakume          | Augen überall                                  | Aufmerksam   | Wächter                                                      |
-| 12       | Vogel            | Federhaare                                     | Leicht       |                                                              |
+| 11       | Hyakume          | Augen überall                                  | Aufmerksam   | Wächter: Deinen Augen entgeht kein Verbrechen                |
+| 12       | Vogel            | Federhaare                                     | Leicht       | Zeit                                                         |
 | 13       | Kappa            | Kiemen                                         | Atmen        | Allesfresser / Kampfsportler / Profispieler / Taktiker       |
 | 14       | Tengu            | Flügel                                         | Leicht       | Wutanfall - ?                                                |
-| 15       | Riesensalamander | Schuppen, Schwanz, Breitmaul                   | Wasserratte  |                                                              |
+| 15       | Riesensalamander | Schuppen, Schwanz, Breitmaul                   | Wasserratte  | Wärme spenden - Du spendest deine eigene Seelenwärme an jemanden in deiner Nähe die sie braucht|
 | 16       | Tanuki           | Bauch                                          | Geschützt    | Gestaltwandler / Gastfreundschaft                            |
 | 17       | Kodama           | Weiße Haut                                     | Wald         | Irrlicht - ? / ? - Du lässt Pflanzen schneller Wachsen / ? - Ein guter Draht zu Pflanzen |
 | 18       | Tsukumogami      | Gegenstand                                     | Versteckt    | Unscheinbar - Falle nicht auf                                |
