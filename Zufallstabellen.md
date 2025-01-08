@@ -7,7 +7,7 @@
 1. Wie der Wind – Du bewegst dich flink.
 2. Kein Verzeihen – Deine Klinge ist tödlich.
 3. Impulsiv – Du handelst vor allen anderen.
-4. Widerstandkraft – Die Kraft der Jugend.
+4. Widerstandskraft – Die Kraft der Jugend.
 5. Dämon – Verwandelt dich teilweise in deinen Dämon und gibt dir Kraft.
 6. Federleicht – Etwas das du berührst verliert sein Gewicht.
 7. Versteckt – Bewege dich unentdeckt durch die Schatten.
@@ -146,6 +146,7 @@ Discord
    15. Telekinet: Rufe Gegenstände zu dir oder schicke sie weg, als würdest du sie mit der Hand greifen. 
    16. Magneto: Dein Körper zieht Metall an. Du kannst die Stärke verändern, von nichts bis Erdkern.
    17. Alpha: Tiere wollen dir gehorchen und gefällig sein.
+   18. Magiesicht - Dein Begleiter hat magische Augen, bei besonders starker Magischer Quelle verändern sich diese.
 
 
 
@@ -239,28 +240,28 @@ Discord
 
 <!-- 10 zu 10 - 10 Tiere und 10 Yokai? Durchmischen? Zeichnungen sollen mehr als anregung gesehen werden. -->
 
-| **1d20** | **Dämon**        | **Zeichnung**                                  | **Attribut** |
-| -------- | ---------------- | ---------------------------------------------- | ------------ |
-| 1        | Hirsch           | Hirschgeweih                                   | Stechend     |
-| 2        | Kitsune          | Rote Zeichnungen, Fuchsohren, Fuchsschwanz     | Gewandtheit  |
-| 3        | Bär              | Bärenfell                                      | Warm         |
-| 4        | Steinbock        | Hufe                                           | Klettern     |
-| 5        | Affe             | Fell                                           | Klettern     |
-| 6        | Koi              | Schuppen                                       | Aussehen     |
-| 7        | Katze            | Katzenaugen, Katzenohren                       | Aufmerksam   |
-| 8        | Insekt           | Chitinpanzer                                   | Robust       |
-| 9        | Yuki Onna        | bleiche Haut                                   | Kälte        |
-| 10       | Nure Onna        | Vampirzähne, Schlangenschuppen, Schlangenzunge | Aussehen     |
-| 11       | Hyakume          | Augen überall                                  | Aufmerksam   |
-| 12       | Vogel            | Federhaare                                     | Leicht       |
-| 13       | Kappa            | Kiemen                                         | Atmen        |
-| 14       | Tengu            | Flügel                                         | Leicht       |
-| 15       | Riesensalamander | Schuppen, Schwanz, Breitmaul                   | Wasserratte  |
-| 16       | Tanuki           | Bauch                                          | Geschützt    |
-| 17       | Kodama           | Weiße Haut                                     | Wald         |
-| 18       | Tsukumogami      | Gegenstand                                     | Versteckt    |
-| 19       | Amabie           | Schuppige Haut                                 | Wasserratte  |
-| 20       | Onryo            | Lange schwarze Haare                           | Bedrohlich   |
+| **1d20** | **Dämon**        | **Zeichnung**                                  | **Attribut** | Fähigkeiten                                                  |
+| -------- | ---------------- | ---------------------------------------------- | ------------ | ------------------------------------------------------------ |
+| 1        | Hirsch           | Hirschgeweih                                   | Stechend     | Widerstandskraft – Die Kraft der Jugend                      |
+| 2        | Kitsune          | Rote Zeichnungen, Fuchsohren, Fuchsschwanz     | Gewandtheit  | Fuchsflammen: Erschaffe eine kleine schwebende Flamme, die auf Menschen eine unwiderstehliche anziehende Wirkung ausübt |
+| 3        | Bär              | Bärenfell                                      | Warm         | Bärenstark: Du bist so stark wie 10 Menschen                 |
+| 4        | Steinbock        | Hufe                                           | Klettern     |                                                              |
+| 5        | Affe             | Fell                                           | Klettern     |                                                              |
+| 6        | Koi              | Schuppen                                       | Aussehen     |                                                              |
+| 7        | Katze            | Katzenaugen, Katzenohren                       | Aufmerksam   | Nachtsicht                                                   |
+| 8        | Insekt           | Chitinpanzer                                   | Robust       |                                                              |
+| 9        | Yuki Onna        | bleiche Haut                                   | Kälte        | Frost: Du kannst die Temperatur senken                       |
+| 10       | Nure Onna        | Vampirzähne, Schlangenschuppen, Schlangenzunge | Aussehen     | Dominanz: Anderen deinen Willen aufzwingen                   |
+| 11       | Hyakume          | Augen überall                                  | Aufmerksam   | Wächter                                                      |
+| 12       | Vogel            | Federhaare                                     | Leicht       |                                                              |
+| 13       | Kappa            | Kiemen                                         | Atmen        | Allesfresser / Kampfsportler / Profispieler / Taktiker       |
+| 14       | Tengu            | Flügel                                         | Leicht       | Wutanfall - ?                                                |
+| 15       | Riesensalamander | Schuppen, Schwanz, Breitmaul                   | Wasserratte  |                                                              |
+| 16       | Tanuki           | Bauch                                          | Geschützt    | Gestaltwandler / Gastfreundschaft                            |
+| 17       | Kodama           | Weiße Haut                                     | Wald         | Irrlicht - ? / ? - Du lässt Pflanzen schneller Wachsen / ? - Ein guter Draht zu Pflanzen |
+| 18       | Tsukumogami      | Gegenstand                                     | Versteckt    | Unscheinbar - Falle nicht auf                                |
+| 19       | Iwanabouzu       | Schuppige Haut                                 | Ehrwürdig    | Gastfreundschaft — Du deeskalierst eine Situation            |
+| 20       | Onryo            | Lange schwarze Haare                           | Bedrohlich   | Fluch / Wahnsinn / Schrecken 8.                              |
 
 ## Ehrungen Tabelle
 
