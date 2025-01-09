@@ -1,8 +1,7 @@
 # Spielzüge
 
-<!-- Wie ließt man Spielzüge? Einordnung das die Doppelsechs zusätzlich zu dem normalen 6er Ergbnis ausgelößt wird. -->
-
-Im Verlauf des Spiels nutzen die Spielenden Spielzüge, um Hinweise von NSCs zu erhalten, Hindernissen zu begegnen, Zustände abzubauen, Kämpfe auszutragen oder ihre Fähigkeiten einzusetzen. Ein Spielzug gibt entweder einen weißen oder einen schwarzen Würfel für den Würfelpool. Dies ist in der Beschreibung des Spielzug angegeben. Die kritischen Erfolge und Misserfolge zählen zusätzlichen zum Ergebnis des Spielzug.So bedeutet eine Doppel-Sechs im Spielzug "Etwas herausfinden", dass dem Spielenden zwei Hinweise von der Spielleitung mitgeteilt werden.
+<!-- Wie liest man Spielzüge? -->
+Im Verlauf des Spiels nutzen die Spielenden Spielzüge, um Hinweise von NSCs zu erhalten, Hindernissen zu begegnen, Zustände abzubauen, Kämpfe auszutragen oder ihre Fähigkeiten einzusetzen. Ein Spielzug gibt entweder einen weißen oder einen schwarzen Würfel für den Würfelpool. Dies ist in der Beschreibung des Spielzugs angegeben. Die kritischen Erfolge (6&6) und Misserfolge (1&1) zählen zusätzlichen zum Ergebnis des Spielzugs. So bedeutet eine Doppel-Sechs im Spielzug "Etwas herausfinden", dass den Spielenden zwei Hinweise von der Spielleitung mitgeteilt werden.
 
 ## Der „Etwas herausfinden“ Spielzug
 
@@ -70,21 +69,23 @@ Ablauf eines Kampfes:
 
 1. Vorbereitung
    1. Die Spielleitung teilt die zu erreichende Gefahrenstufe des Gegners oder der Gegnergruppe mit.
-      1. Auch eine Gruppe von Gegnern hat nur eine Gefahrenstufe und wird regeltechnisch als Einheit behandelt. Zum Beispiel kann ein dämonisches Wildschwein allein Gefahrenstufe 9 haben, als Gruppe aber Gefahrenstufe 12.
+      - Auch eine Gruppe von Gegnern hat nur eine Gefahrenstufe und wird regeltechnisch als Einheit behandelt. Zum Beispiel kann ein dämonisches Wildschwein allein Gefahrenstufe 9 haben, als Gruppe aber Gefahrenstufe 12.
 
-   2. Mit dem Spielzug "Gegner schwächen" kann die Gefahrenstufe des Gegners gesenkt werden.
+   2. Mit dem Spielzug "Gegner schwächen" kann die Gefahrenstufe des Gegners gesenkt werden. Wenn die Stufe des Gegners höher als 12 ist, muss dieser erst mit diesem Spielzug geschwächt werden, ansonsten ist es nicht möglich für die Gruppe den Kampf zu gewinnen.
 
-   3. Alle Charaktere, die direkt am Kampf teilnehmen, würfeln ihren Schwachpunkt. Sie tun dies mit einem W6, von dem sie ihren Schwachpunkt-Modifikator (-2 bis +2)  subtrahieren oder addieren. Der Schwachpunkt ändert sich während des Kampf nicht. <!-- Formulierung und eventuell Entwicklerkommentar warum der Modifikator eine wirkliche Rolle spielt! - Viel Erfolg dabei...-->
-      1. Schwachpunkt-Modifikator: Charakterbogen -> Schwächen -> Schwachpunkt Numerisch
-      2. Der Schwachpunkt kann maximal 6 und minimal 1 sein.
+   3. Alle Charaktere, die direkt am Kampf teilnehmen, würfeln ihren Schwachpunkt. Sie tun dies mit
+      - 1W6, wenn ihr Charakter noch keinen Abschnittswechsel hatte,
+      - 2W6 und behalten den höheren von beiden, wenn der letzte Abschnittswechsel ihres Charakters durch einen Stufenaufstieg lief oder
+      - 2W6 und behalten den niedrigeren von beiden, wenn ihr letzter Abschnittswechsel durch einen sechsten Zustand und damit einem Durchbrechen des Dämons verursacht wurde.  
+
+      Der Schwachpunkt ändert sich während des Kampfes nicht. Er kann maximal 6 und minimal 1 sein.
 
 2. Kampfrunde
-   1. Danach wirft jeder am Kampf teilnehmende Charakter seinen W6 Kampfwürfel. Es wird in aufsteigender Reihenfolge des numerischen Schwachpunkts der Beteiligten gewürfelt. Die beiden höchsten Augenzahlen der geworfenen W6 werden addiert und müssen die Gefahrenstufe des Gegners erreichen oder übertreffen.
+   1. Danach wirft jeder am Kampf teilnehmende Charakter seinen W6 Kampfwürfel. Es wird in aufsteigender Reihenfolge des numerischen Schwachpunkts der Beteiligten gewürfelt. Die beiden höchsten Augenzahlen der geworfenen W6 werden addiert und müssen die Gefahrenstufe des Gegners erreichen oder übertreffen. Die Kampfwürfel der Charaktere, die in dieser Runde den Spielzug "Gegner schwächen" ausgeführt haben, werden hierbei in dieser Kampfrunde nicht mitgezählt. 
    2. Nun muss noch geprüft werden, ob einer der gewürfelten W6 Kampfwürfel den Schwachpunkt eines am Kampf teilnehmenden Charakters trifft. Hierbei werden nicht nur die beiden höchsten Augenzahlen betrachtet, sondern *alle* geworfenen W6 Kampfwürfel. Ist dies der Fall, so erhält der Charakter pro Treffer einen Zustand.
    3. Nun erzählen die Spielenden aufsteigend nach der Augenzahl des von ihnen geworfenen W6 Kampfwürfels, wie ihr Charakter angreift, ob und wie er eventuell verletzt wird und wie der Gegner, falls die Gruppe die Gefahrenstufe des Gegners erreicht oder übertroffen hat, schließlich erledigt wird.
-   4. Wenn das Ergebnis der beiden besten W6 Kampfwürfel nicht der Gefahrenstufe des Gegners entspricht, beginnt eine neue Kampfrunde. Die Person mit dem höchsten W6 aus dem Kampfwurf der vorherigen Runde erhält nun einen weiteren W6. Sie darf beide werfen und nur das bessere Ergebnis wird für die neue Runde gewertet. Dies zählt sowohl für das Erreichen des Gefahrenlevels als auch für das Treffen von Schwachpunkten. <!-- Formulierung und eventuell Entwicklerkommentar ob es bei zwei gleichen höchsten Augen auch zwei weitere Würfel gibt. Ich tendiere grade dazu das der SPielleitung zu überlassen. Beides hat Vor- und Nachteile. -->
+   4. Wenn das Ergebnis der beiden besten W6 Kampfwürfel nicht mindestens so hoch ist wie die Gefahrenstufe des Gegners, beginnt eine neue Kampfrunde. Die Person mit dem höchsten W6 aus dem Kampfwurf der vorherigen Runde erhält nun einen weiteren W6. Sie darf beide werfen und nur das bessere Ergebnis wird für die neue Runde gewertet. Dies zählt sowohl für das Erreichen des Gefahrenlevels als auch für das Treffen von Schwachpunkten. Wenn mehrere Mitspielende die höchste Augenzahl geworfen haben, ist es der SL überlassen ob dafür alle Mitspielenden einen weiteren W6 bekommen oder nicht.
    5. Dieser Vorgang wird so lange wiederholt, bis der Gegner besiegt ist. Für jede absolvierte Kampfrunde bekommt die Gruppe einen Hinweis, nachdem sie den Kampf erfolgreich beendet hat.
-
 
 *Die Spielenden sollten ermutigt werden, den Kampf cineastisch darzustellen und die Besonderheiten zu berücksichtigen, die ihre Charaktere haben. Nehmt euch Zeit für die Erzählung und hetzt nicht durch den Kampf. In den meisten Fällen ist ein Kampf nach einer oder zwei Runden vorbei, also genießt die Spannung und die Action, die ein Kampf mit sich bringt.* 
 
