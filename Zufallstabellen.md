@@ -221,17 +221,7 @@ Discord
 | 39   | Angst vor Wind und Stürmen                            |
 | 40   | Angst vor Nebel                                       |
 
-## Schwachpunkt Tabelle
-
-| **1d6 / 1d**3 | Modifikator | **Schwachpunkt** 1                    | Schwachpunkt 2         | **Schwachpunkt** 3     |
-| ------------- | ----------- | ------------------------------------- | ---------------------- | ---------------------- |
-| 1             | -2          | Ungünstige Kriegsnarbe                | Wetterfühligkeit       | Schmerzender Knöchel   |
-| 2             | -1          | Ein fauler Zahn der unangenehm riecht | Ungünstige Ausrüstung  |                        |
-| 3             | 0           | Angeknackste Knöchel                  | Eine zitternde Hand    |                        |
-| 4             | 0           | Ausgekugelte Schulter                 | Suchtentzug            |                        |
-| 5             | +1          | Eine gebrochene Rippe                 | Gehirnerschütterung    |                        |
-| 6             | +2          | Eine offenliegende Wunde              | Eine schwere Krankheit | Eine schwere Infektion |
-
+<!-- Schwachpunkt Tabelle braucht niemand mehr!  -->
 ## Namen Tabelle
 
 | **1d20** | **Vornamen** |
