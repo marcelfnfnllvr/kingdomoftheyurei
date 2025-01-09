@@ -281,6 +281,6 @@ Discord
 | 16       | Tanuki           | Bauch                                          | Geschützt    | Gestaltwandler / Gastfreundschaft                            |
 | 17       | Kodama           | Weiße Haut                                     | Wald         | Irrlicht - ? / ? - Du lässt Pflanzen schneller Wachsen / ? - Ein guter Draht zu Pflanzen |
 | 18       | Tsukumogami      | Gegenstand                                     | Versteckt    | Unscheinbar - Falle nicht auf                                |
-| 19       | Iwanabouzu       | Schuppige Haut                                 | Ehrwürdig    | Gastfreundschaft — Du deeskalierst eine Situation            |
-| 20       | Onryo            | Lange schwarze Haare                           | Bedrohlich   | Fluch / Wahnsinn / Schrecken 8.                              |
+| 19       | Iwana bōzu       | Schuppige Haut                                 | Ehrwürdig    | Gastfreundschaft — Du deeskalierst eine Situation            |
+| 20       | Onryō            | Lange schwarze Haare                           | Bedrohlich   | Fluch / Wahnsinn / Schrecken 8.                              |
 
