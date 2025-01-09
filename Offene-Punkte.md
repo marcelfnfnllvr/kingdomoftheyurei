@@ -1,10 +1,10 @@
 # Offene Punkte
 
 ## 1 Änderungen/Ergänzungen für Regeln u. Spielzüge
-- [ ] Die Regel kritischer Misserfolg und kritischer Erfolg weg und diese immer direkt in den Spielzug und spezifisch für den Spielzug passend!
-- [ ] Erklärung: im Kampf das Gegnerlevel die über 12 sind erste gesenkt werden müssen!
-- [ ] Modifikatoren weg?
-- [ ] Hilfewurf abändern? Mehr erlauben? Mehr Kreativität?
+- [x] Die Regel kritischer Misserfolg und kritischer Erfolg weg und diese immer direkt in den Spielzug und spezifisch für den Spielzug passend!
+- [x] Erklärung: im Kampf das Gegnerlevel die über 12 sind erste gesenkt werden müssen!
+- [x] Modifikatoren weg?
+- [x] Hilfewurf abändern? Mehr erlauben? Mehr Kreativität? <!-- Textvorschlag steht jetzt drin-->
 - [ ] Klarstellung Sitzung vs Abenteuer (Regeln --> Am Ende des Abends)
 - [ ] Fragen für die Rast
   - [ ] Erzähle eine Situation, die die Gruppe zum Lachen gebracht hat.
@@ -49,7 +49,7 @@
 ### 2.2 Weltbeschreibung
 - [ ] Keine Dämonen sondern die schwarze Saat? Sie wohnt allem Inne und kommt zum Vorschein wenn Dinge aus dem Gleichgewicht geraten..
 - [ ] Weltbeschreibung hinzufügen - das Japan in welchem wir spielen
-- [ ] Jäger sollte noch in die Beschreibung im Regelwerk
+- [x] Jäger sollte noch in die Beschreibung im Regelwerk
 - [ ] Es sollte alles noch etwas Japanischer werden! Tokii, Schuhe, Häuser, Bräuche
 - [ ] Was macht das Japan in dem wir spielen aus? Wichtige Szenen und Dinge. Erzählungen. Wie bringt man das gefühlt am Besten rüber?
 - [ ] Waffen und allgemein Japanische Beschreibungen im Regelwerk
