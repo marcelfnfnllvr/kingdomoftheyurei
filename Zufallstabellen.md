@@ -253,24 +253,24 @@ Discord
 
 | **1d20** | **Dämon**        | **Zeichnung**                                  | **Attribut** | Fähigkeiten                                                  |
 | -------- | ---------------- | ---------------------------------------------- | ------------ | ------------------------------------------------------------ |
-| 1        | Hirsch           | Hirschgeweih                                   | Stechend     | Widerstandskraft – Die Kraft der Jugend                      |
-| 2        | Kitsune          | Rote Zeichnungen, Fuchsohren, Fuchsschwanz     | Gewandtheit  | Fuchsflammen: Erschaffe eine kleine schwebende Flamme, die auf Menschen eine unwiderstehliche anziehende Wirkung ausübt |
-| 3        | Bär              | Bärenfell                                      | Warm         | Bärenstark: Du bist so stark wie 10 Menschen                 |
-| 4        | Steinbock        | Hufe                                           | Klettern     | Wurzeln / Geländegängig - Bewege dich durch schwergängiges Gelände |
-| 5        | Affe             | Fell                                           | Klettern     | Schauspieltalent                                             |
-| 6        | Koi              | Schuppen                                       | Aussehen     | Verflüssigen?                                                |
-| 7        | Katze            | Katzenaugen, Katzenohren                       | Aufmerksam   | Nachtsicht / Zwielichtpfad                                   |
-| 8        | Insekt           | Chitinpanzer                                   | Robust       | Zuflucht / Schutz - Schütze dich und diejenigen in deiner Nähe |
+| 1        | Hirsch           | Hirschgeweih                                   | Stechend     | Widerstandskraft - Die Kraft der Jugend                      |
+| 2        | Kitsune          | Rote Zeichnungen, Fuchsohren, Fuchsschwanz     | Gewandtheit  | Fuchsflammen - Erschaffe eine kleine schwebende Flamme, die auf Menschen eine unwiderstehliche anziehende Wirkung ausübt |
+| 3        | Bär              | Bärenfell                                      | Warm         | Bärenstark - Du bist so stark wie 10 Menschen                |
+| 4        | Steinbock        | Hufe                                           | Stoisch      | Geländegängig - Bewege dich durch schwergängiges Gelände     |
+| 5        | Affe             | Fell                                           | Klettern     | Schauspieltalent - Arme jemanden nach                        |
+| 6        | Koi              | Schuppen                                       | Aussehen     | Glück - Fortuna ist dir hold                                 |
+| 7        | Katze            | Katzenaugen, Katzenohren                       | Aufmerksam   | Zwielichtpfad - Leg eine kurze Strecke durch die Geisterwelt zurück um schneller und ungesehen von A nach B zu kommen |
+| 8        | Insekt           | Chitinpanzer                                   | Robust       | Schutz - Schütze dich und diejenigen in deiner Nähe          |
 | 9        | Yuki Onna        | bleiche Haut                                   | Kälte        | Frost: Du kannst die Temperatur senken                       |
-| 10       | Nure Onna        | Vampirzähne, Schlangenschuppen, Schlangenzunge | Aussehen     | Dominanz: Anderen deinen Willen aufzwingen                   |
-| 11       | Hyakume          | Augen überall                                  | Aufmerksam   | Wächter: Deinen Augen entgeht kein Verbrechen                |
-| 12       | Vogel            | Federhaare                                     | Leicht       | Zeit / Flugfertig: Du kannst einen Moment lang fliegen       |
-| 13       | Kappa            | Kiemen                                         | Atmen        | Allesfresser / Kampfsportler / Profispieler / Taktiker       |
-| 14       | Tengu            | Flügel                                         | Leicht       | Wutanfall - ?                                                |
+| 10       | Nure Onna        | Vampirzähne, Schlangenschuppen, Schlangenzunge | Aussehen     | Dominanz - Anderen deinen Willen aufzwingen                  |
+| 11       | Hyakume          | Augen überall                                  | Aufmerksam   | Wächter -  Deinen Augen entgeht kein Verbrechen              |
+| 12       | Vogel            | Federhaare                                     | Leicht       | Flugfertig - Du kannst einen Moment lang fliegen             |
+| 13       | Kappa            | Kiemen                                         | Atmen        | Gerissen - führe jemanden an der Nase herum                  |
+| 14       | Tengu            | Flügel                                         | Leicht       | Wutanfall - Schlage um dich                                  |
 | 15       | Riesensalamander | Schuppen, Schwanz, Breitmaul                   | Wasserratte  | Wärme spenden - Du spendest deine eigene Seelenwärme an jemanden in deiner Nähe die sie braucht |
-| 16       | Tanuki           | Bauch                                          | Geschützt    | Gestaltwandler / Gastfreundschaft                            |
-| 17       | Kodama           | Weiße Haut                                     | Wald         | Irrlicht - ? / ? - Du lässt Pflanzen schneller Wachsen / ? - Ein guter Draht zu Pflanzen |
+| 16       | Tanuki           | Bauch                                          | Geschützt    | Gestaltwandler - Imitiere etwas dir bekanntes                |
+| 17       | Kodama           | Weiße Haut                                     | Wald         | Grüner Daumen - Ein guter Draht zu Pflanzen                  |
 | 18       | Tsukumogami      | Gegenstand                                     | Versteckt    | Unscheinbar - Falle nicht auf                                |
-| 19       | Iwana bōzu       | Schuppige Haut                                 | Ehrwürdig    | Gastfreundschaft — Du deeskalierst eine Situation            |
-| 20       | Onryō            | Lange schwarze Haare                           | Bedrohlich   | Fluch / Wahnsinn / Schrecken 8.                              |
+| 19       | Iwana bōzu       | Schuppige Haut                                 | Ehrwürdig    | Gastfreundschaft - Du deeskalierst eine Situation            |
+| 20       | Onryō            | Lange schwarze Haare                           | Bedrohlich   | Schrecken - Zeige etwas seine tiefste Angst auf              |
 
