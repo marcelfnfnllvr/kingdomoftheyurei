@@ -2,152 +2,112 @@
 
 ## Fähigkeiten Tabellen
 
-### Physische Fähigkeiten
+### Fähigkeiten
 
-1. Wie der Wind – Du bewegst dich flink.
-2. Kein Verzeihen – Deine Klinge ist tödlich.
-3. Impulsiv – Du handelst vor allen anderen.
-4. Widerstandskraft – Die Kraft der Jugend.
-5. Dämon – Verwandelt dich teilweise in deinen Dämon und gibt dir Kraft.
-6. Federleicht – Etwas das du berührst verliert sein Gewicht.
-7. Versteckt – Bewege dich unentdeckt durch die Schatten.
-8. Spiegel – Nimmt die Gestalt einer Person oder Kreatur an.
-9. Dicke Haut – Schütz dich vor einem Angriff im Kampf oder physischem Schaden.
-10. –
-11. –
-12. -
-13. -
-14. -
-15. -
-16. -
-17. -
-18. -
-19. -
-20. -
+1. Oktopus - Verschwimmen mit deiner Umgebung
+2. Wie der Wind – Du bewegst dich flink.
+3. Kein Verzeihen – Deine Klinge ist tödlich.
+4. Impulsiv – Du handelst vor allen anderen.
+5. Federleicht – Etwas das du berührst verliert sein Gewicht.
+6. Gefäß – Lass einen Geist durch dich sprechen.
+7. Zeit – Lässt die Zeit in einem kleine Gebiet schneller oder langsamer ablaufen.
+8. Zurück – Drehe die Zeit für eine Kreatur, Person oder ein Objekt ein Stück zurück.
+9. Ruf des Vergangenen – Lässt dich eine Szene oder einen Gegenstand untersuchen und seine Vergangenheit erleben.
+10. Charme – Du wirkst charmant auf Personen in deinem direkten Umfeld.
+11. Stille – Unterdrücke alle Geräusche in deiner näheren Umgebung.
+12. Leidfresser – Nimm das Leid einer Person oder eines Wesens als dein eigenes.
+13. Doppelgänger - Erschaffe ein Abbild von dir.
+14. Die Aura spüren – Zeigt Emotionen und wahre Absichten auf. 
 
-### Magische Fähigkeiten
+### Raus
+
+1. Welk: Du siehst aus als wärst du 99 Jahre alt
+2. Behaart: Dein Körper wächst überall mit Haaren/Fell zu
+3. Tief durchatmen – Heile sofort eine Zustand. Im Kampf anwendbar.
+4. Dämon – Verwandelt dich teilweise in deinen Dämon und gibt dir Kraft.
+5. Spiegel – Nimmt die Gestalt einer Person oder Kreatur an.
+6. Versteckt – Bewege dich unentdeckt durch die Schatten.
+
+### Optionen
+
+1. Dicke Haut – Schütz dich vor einem Angriff im Kampf oder physischem Schaden.-
 
 1. Ein ruhiger Geist – Lässt dich auf deinen inneren Geist hören. 
-2. Tief durchatmen – Heile sofort eine Zustand. Im Kampf anwendbar.
-3. Durch die Augen des Zwielichts – Sehe was die Bedrohung sah/sieht.
-4. Elementarbändiger - Manipuliert die Elemente Feuer, Erde, Wasser oder Luft.
-5. Leidfresser – Nimm das Leid einer Person oder eines Wesens als dein eigenes.
-6. Gestaltwandler – Du nimmst für kurze Zeit die physische Form eines anderen Lebewesen an.
-7. Gefäß – Lass einen Geist durch dich sprechen.
-8. Zeit – Lässt die Zeit in einem kleine Gebiet schneller oder langsamer ablaufen.
-9. Zurück – Drehe die Zeit für eine Kreatur, Person oder ein Objekt ein Stück zurück.
-10. Schutz – Errichte einen Schild aus Energie.
-11. Stille – Unterdrücke alle Geräusche in deiner näheren Umgebung.
+2. Durch die Augen des Zwielichts – Sehe was die Bedrohung sah/sieht.
+3. Elementarbändiger - Manipuliert die Elemente Feuer, Erde, Wasser oder Luft.
 12. Ablenkung – Lass deine Stimme an einer anderen Stellen erscheinen.
-13. -
-14. -
-15. -
-16. -
-17. -
-18. -
-19. -
-20. -
 
-### Soziale Fähigkeiten
+1. Gedankenmanipulation – Ändert jemandes Gedanken für einen kurzen Zeitraum.
+2. Aufmerksam – Analysiere einen Raum.
+3. Hilfe naht – Lässt ein Wesen oder eine Person erscheinen.
+4. Schleier – Zeige das wahre ich eines Wesen auf.
+5. Schlangenmensch: Kleine Spalte sind kein Problem
 
-1. Charme – Du wirkst charmant auf Personen in deinem direkten Umfeld.
-2. Gedankenmanipulation – Ändert jemandes Gedanken für einen kurzen Zeitraum.
-3. Aufmerksam – Analysiere einen Raum.
-4. Ruf des Vergangenen – Lässt dich eine Szene oder einen Gegenstand untersuchen und seine Vergangenheit erleben.
-5. Gastfreundschaft — Du deeskalierst eine Situation.
-6. Hilfe naht – Lässt ein Wesen oder eine Person erscheinen.
-7. Die Aura spüren – Zeigt Emotionen und wahre Absichten auf. 
-8. Schrecken – Zeige etwas seine tiefste Angst auf.
-9. Schleier – Zeige das wahre ich eines Wesen auf.
-10. -
-11. –
-12. –
-13. –
-14. -
-15. -
-16. -
-17. -
-18. -
-19. -
-20. -
+1. Riesenwuchs: Besonders Groß erreichst du auch höhere Sachen 
+2. Große Lunge: halte besonders lange den Atem an oder komm mit wenig oder greinger Luft aus 
+3. Treffsicher: Entfernung einschätzen mit Fernkampfwaffen treffen 
+4. Genügsam: Deine körperlichen Bedrüfnisse beschränken sich auf das minimum, du benötigst weniger Schlaf, nahrung und trinken. 
+5. Duplikat (Doppelgänger) - ???
+6. Verflüssigen
+7. Geschickt: Klettern und andere Kunststücke fallen dir sehr leicht
+8. Klein und stark: Du schrumpfst auf die Hälfte deiner Körpergröße zusammen, bist dafür aber doppelt so stark
+9. Körpertausch - Du nutzt die Kraft deines Gegenübers.
+10. Katzenaugen: Du siehst überall, wo auch nur eine Spur Licht ist.
+11. Hundenase: Du kannst jeder Duftspur folgen. Wähle einen Stoff oder Geruch, den du immer und überall erkennst. 
+12. Fledermausohren: Du hörst die leistesten Geräusche und sogar Frequenzen, die für deine Mitmenschen unhörbar sind. 
+13. Wärmesicht: Du kannst Wärme Unterschiede sehen.  
+14. Adlerblick: Deine Augen sehen weiter als ein Fernglas. 
+15. Eulenaugen: Du hast stets seine gesamte Umgebung im Blick. Niemand kann dich überraschen.
 
-Discord
+1. Willensstark: Dein Will ist wie ein mentaler Schild. Einschüchterungen und Furcht lassen dich kalt 
+2. Farben des Gesangs: Dein Publikum wird von dir in seinen Bann gezogen und ändert seine aktuelle Stimmung in eine andere Emotion 
+3. Etikette: Passe dich den Ständen und Kasten der aktuellen Gebietes an. 
+4. Schwur - Ringe jemanden ein Versprechen ab.
+5. In Köpfe schauen: Erkenne die momentanen Gedanken einer Person.
+7. Empathie: erkenne auch kleinste Mimiken und Gefühlsregungen am Äußeren von Personen oder Lebewesen
+8. Furchteinflößend: Eine Person in deiner Nähe hat auf einmal Angst vor dir
+9. Lügendetektor: Eine Lüge wird dir plötzlich klar
+11. Fels: man fühlt sich in deiner Nähe sicher 
+12. Zuhörer: man vertraut sich dir gerne an 
+13. Kompetent: du vermittelst immer den Eindruck die Lage im Griff zu haben 
+14. Anführer: man folgt dir blind 
+15. Machtgespür: fühle wer in einer Gruppe wirklich das Sagen hat Ansteckende 
+16. Emotionen: andere werden von deinen Emotionen angesteckt/mitgerissen
+17. Einsicht: erkenne die Wünsche und Motivationen von anderen
+18. Bürokrat: Mit Formularen, Gesetzen und Vorschriften lässt du die Obrigkeit für dich tanzen.  
+19. Heiratsvermittler: Du erkennst auf Anhieb, ob zwei Menschen eine harmonische Beziehung führen. Mit etwas Suchen findest du für jeden den richtigen Partner.  
+20. Alte Freunde: Du warst für eine Szene deiner Wahl sehr aktiv und kannst Gefallen einfordern, die man besser nicht ablehnt. (Zb Mafia, Polizei, Militär, Pferdezucht, Hunderennen, Hahnenkämpfe, ...)  
+21. Rivale: Du hast einen Rivalen der versucht, dich in allem zu übertreffen, was du tust.  Gönner: Du stehst in der Gunst eines (einfluss)reichen Gönners. 
+22. Erbe: Alle tot, wie tragisch. Deine nie endenden Geldmittel sind nur ein schwacher Trost. 
+23. Adel: Dein Name ist allseits bekannt und öffnet dir Tür und Tor. Wofür steht deine Familie?  5 Minuten Ruhm: Du standest kurzzeitig im Rampenlicht der Öffentlichkeit. Jeder erinnert sich daran - spätestens, wenn du davon erzählst.  
+24. Schillernde Vergangenheit: Wenn du eine spezifische Fähigkeit brauchst erzähle von der Episode deiner Vergangenheit, in der du sie erworben hast. 
+25. Berufserfahrung: Du hast lange einen Beruf ausgeübt. Das damit verbundene Wissen und die Fähigkeiten sind dir in Fleisch und Blut übergegangen.
+26. Vergangenheitsbewältigung - Ändere einen Aspekt in der Vergangenheit der Person dir gegenüber zum besseren oder schlechteren ab. 
+27. Einsicht - Du schenkst jemandem einen Einblick in deine Gedanken, Gefühle oder Seele, du kannst auch zwei andere Personen mit einander verbinden. 
+28. Erkenntnis - Du stellst dinge richtig die vor dir verschleiert wurden. 
+29. Erhaben - Du wirkst auf andere einen kurzen Zeitraum größer, lauter, stärker. Klein machen - dein Eindruck auf andere schrumpft. Für sie bist du eine kurze Zeit fast nur Luft. 
+30. Kalte Schulter - Du bleibst kalt, egal wie herzzereißend die Situation ist du bleibst stark und unberührt. 
+31. Mantra - Du kannst alles schaffen. (Das is wahrscheinlich zu OP, Man kömnte dann auch sagen) 
+32. Mantra 2 - Deine ruhige Art hüllt den ganzen Raum in Entspannung.
+33. Mantra - Du kannst in jedem noch so aufgeregten oder zugedröhnten Zustand einen kühlen Kopf bekommen, wenn du einen Moment Zeit hast, dich zu sammeln. 
 
-1. Körperlich: 
-   1. Schlangenmensch: Kleine Spalte sind kein Problem
-   2. Riesenwuchs: Besonders Groß erreichst du auch höhere Sachen 
-   3. Große Lunge: halte besonders lange den Atem an oder komm mit wenig oder greinger Luft aus 
-   4. Treffsicher: Entfernung einschätzen mit Fernkampfwaffen treffen 
-   5. Genügsam: Deine körperlichen Bedrüfnisse beschränken sich auf das minimum, du benötigst weniger Schlaf, nahrung und trinken. 
-   6. Unsichtbar
-   7. Duplikat (Doppelgänger)
-   8. Verflüssigen
-   9. Bärenstark: Du bist so stark wie 10 Menschen
-   10. Geschickt: Klettern und andere Kunststücke fallen dir sehr leicht
-   11. Welk: Du siehst aus als wärst du 99 Jahre alt
-   12. Behaart: Dein Körper wächst überall mit Haaren/Fell zu
-   13. Klein und stark: Du schrumpfst auf die Hälfte deiner Körpergröße zusammen, bist dafür aber doppelt so stark
-   14. Körpertausch - Du nutzt die Kraft deines Gegenübers.
-   15. Katzenaugen: Du siehst überall, wo auch nur eine Spur Licht ist.
-   16. Hundenase: Du kannst jeder Duftspur folgen. Wähle einen Stoff oder Geruch, den du immer und überall erkennst. 
-   17. Fledermausohren: Du hörst die leistesten Geräusche und sogar Frequenzen, die für deine Mitmenschen unhörbar sind. 
-   18. Wärmesicht: Du kannst Wärme Unterschiede sehen.  
-   19. Adlerblick: Deine Augen sehen weiter als ein Fernglas. 
-   20. Eulenaugen: Du hast stets seine gesamte Umgebung im Blick. Niemand kann dich überraschen.
-2. Soziale Fähigkeit:  
-   1. Willensstark: Dein Will ist wie ein mentaler Schild. Einschüchterungen und Furcht lassen dich kalt 
-   2. Farben des Gesangs: Dein Publikum wird von dir in seinen Bann gezogen und ändert seine aktuelle Stimmung in eine andere Emotion 
-   3. Etikette: Passe dich den Ständen und Kasten der aktuellen Gebietes an. 
-   4. Schwur - Ringe jemanden ein Versprechen ab.
-   5. In Köpfe schauen: Erkenne die momentanen Gedanken einer Person.
-   6. Dominanz: Anderen deinen Willen aufzwingen
-   7. Empathie: erkenne auch kleinste Mimiken und Gefühlsregungen am Äußeren von Personen oder Lebewesen
-   8. Furchteinflößend: Eine Person in deiner Nähe hat auf einmal Angst vor dir
-   9. Lügendetektor: Eine Lüge wird dir plötzlich klar
-   10. Schauspieler: Du kannst in jede Rolle schlüpfen, Stimme und Verhalten verändern, Ticks vorspielen und vieles mehr. Eine Person die du studiert hast, kannst du gezielt nachahmen. 
-   11. Fels: man fühlt sich in deiner Nähe sicher 
-   12. Zuhörer: man vertraut sich dir gerne an 
-   13. Kompetent: du vermittelst immer den Eindruck die Lage im Griff zu haben 
-   14. Anführer: man folgt dir blind 
-   15. Machtgespür: fühle wer in einer Gruppe wirklich das Sagen hat Ansteckende 
-   16. Emotionen: andere werden von deinen Emotionen angesteckt/mitgerissen
-   17. Einsicht: erkenne die Wünsche und Motivationen von anderen
-   18. Bürokrat: Mit Formularen, Gesetzen und Vorschriften lässt du die Obrigkeit für dich tanzen.  
-   19. Heiratsvermittler: Du erkennst auf Anhieb, ob zwei Menschen eine harmonische Beziehung führen. Mit etwas Suchen findest du für jeden den richtigen Partner.  
-   20. Alte Freunde: Du warst für eine Szene deiner Wahl sehr aktiv und kannst Gefallen einfordern, die man besser nicht ablehnt. (Zb Mafia, Polizei, Militär, Pferdezucht, Hunderennen, Hahnenkämpfe, ...)  
-   21. Rivale: Du hast einen Rivalen der versucht, dich in allem zu übertreffen, was du tust.  Gönner: Du stehst in der Gunst eines (einfluss)reichen Gönners. 
-   22. Erbe: Alle tot, wie tragisch. Deine nie endenden Geldmittel sind nur ein schwacher Trost. 
-   23. Adel: Dein Name ist allseits bekannt und öffnet dir Tür und Tor. Wofür steht deine Familie?  5 Minuten Ruhm: Du standest kurzzeitig im Rampenlicht der Öffentlichkeit. Jeder erinnert sich daran - spätestens, wenn du davon erzählst.  
-   24. Schillernde Vergangenheit: Wenn du eine spezifische Fähigkeit brauchst erzähle von der Episode deiner Vergangenheit, in der du sie erworben hast. 
-   25. Berufserfahrung: Du hast lange einen Beruf ausgeübt. Das damit verbundene Wissen und die Fähigkeiten sind dir in Fleisch und Blut übergegangen.
-   26. Vergangenheitsbewältigung - Ändere einen Aspekt in der Vergangenheit der Person dir gegenüber zum besseren oder schlechteren ab. 
-   27. Einsicht - Du schenkst jemandem einen Einblick in deine Gedanken, Gefühle oder Seele, du kannst auch zwei andere Personen mit einander verbinden. 
-   28. Erkenntnis - Du stellst dinge richtig die vor dir verschleiert wurden. 
-   29. Erhaben - Du wirkst auf andere einen kurzen Zeitraum größer, lauter, stärker. Klein machen - dein Eindruck auf andere schrumpft. Für sie bist du eine kurze Zeit fast nur Luft. 
-   30. Kalte Schulter - Du bleibst kalt, egal wie herzzereißend die Situation ist du bleibst stark und unberührt. 
-   31. Mantra - Du kannst alles schaffen. (Das is wahrscheinlich zu OP, Man kömnte dann auch sagen) 
-   32. Mantra 2 - Deine ruhige Art hüllt den ganzen Raum in Entspannung.
-   33. Mantra - Du kannst in jedem noch so aufgeregten oder zugedröhnten Zustand einen kühlen Kopf bekommen, wenn du einen Moment Zeit hast, dich zu sammeln. 
-3. Magische Fähigkeit 
-   1. Zwielichtpfad - Leg eine kurze Strecke durch die Geisterwelt zurück um schneller und ungesehen von A nach B zu kommen  
-   2. Zuflucht - Lege eine Pause in einem geschützten Raum ein und heile euch von einem Zustand.  
-   3. Nieder Diener - Befehlige einen niederen Geist eine kleine Aufgabe zu erledigen (wie Magehand oder so) Nicht im Kampf anwendbar 
-   4. Vergeltung - Lasse einem Unrecht Gerechtigkeit folgen 
-   5. Todgeweiht - Vernehme drohende Gefahr für eine Person in der Nähe oder ddie Person die als nächstes Sterben wird. 
-   6. Traummahl - Dringe in die Träume oder Gedanken des Gegenübers ein um mehr über ihn zu erfahren.
-   7. Wurzeln - nimm Kontakt zur Natur um dich auf und mach sie dir zu Nutzen. (andere Elementarkräfte wie, Erde-Steine werfen, Spalten entstehen lassen, Feuer-Flammen erzeugen, Wind und Wasser 
-   8. Fuchsflammen: Erschaffe eine kleine schwebende Flamme, die auf Menschen eine unwiderstehliche anziehende Wirkung ausübt
-   9. Pflanzenfreund: Nimm Kontakt zu den Pflanzen in deiner Umgebung auf und bringe sie z.B. zu schnellem Wachstum
-   10. Tierbeschwörer: Für 2 Stunden lässt du alle 10 Minuten ein Tier deiner Wahl dort wo du bist erscheinen
-   11. Frost: Für die nächste Stunde friert alles Wasser im Umkreis von 10m um dich herum zu Eis
-   12. Wärme spenden - Du spendest deine eigene Seelenwärme an jemanden in deiner Nähe die sie braucht.
-   13. Schwarm herbeirufen - Du befeligst einige Kleintiere, für x gehorchen sie deinem Befehl, in deiner Nähe. 
-   14. Tierische Lieferung: ein Kranich erscheint und lässt etwas vor dir fallen
-   15. Nebelmaschine: Du kannst von dir ausgehend einen Nebel erzeugen, der nur für dich und Personen die du berührst durchsichtig ist.  
-   16. Telekinet: Rufe Gegenstände zu dir oder schicke sie weg, als würdest du sie mit der Hand greifen. 
-   17. Magneto: Dein Körper zieht Metall an. Du kannst die Stärke verändern, von nichts bis Erdkern.
-   18. Alpha: Tiere wollen dir gehorchen und gefällig sein.
-   19. Magiesicht - Dein Begleiter hat magische Augen, bei besonders starker Magischer Quelle verändern sich diese.
+1. Zuflucht - Lege eine Pause in einem geschützten Raum ein und heile euch von einem Zustand.  
+2. Nieder Diener - Befehlige einen niederen Geist eine kleine Aufgabe zu erledigen (wie Magehand oder so) Nicht im Kampf anwendbar 
+3. Vergeltung - Lasse einem Unrecht Gerechtigkeit folgen 
+4. Todgeweiht - Vernehme drohende Gefahr für eine Person in der Nähe oder ddie Person die als nächstes Sterben wird. 
+5. Traummahl - Dringe in die Träume oder Gedanken des Gegenübers ein um mehr über ihn zu erfahren.
+6. Wurzeln - nimm Kontakt zur Natur um dich auf und mach sie dir zu Nutzen. (andere Elementarkräfte wie, Erde-Steine werfen, Spalten entstehen lassen, Feuer-Flammen erzeugen, Wind und Wasser 
+7. Fuchsflammen: Erschaffe eine kleine schwebende Flamme, die auf Menschen eine unwiderstehliche anziehende Wirkung ausübt
+8. Pflanzenfreund: Nimm Kontakt zu den Pflanzen in deiner Umgebung auf und bringe sie z.B. zu schnellem Wachstum
+9. Tierbeschwörer: Für 2 Stunden lässt du alle 10 Minuten ein Tier deiner Wahl dort wo du bist erscheinen
+10. Frost: Für die nächste Stunde friert alles Wasser im Umkreis von 10m um dich herum zu Eis
+11. Schwarm herbeirufen - Du befeligst einige Kleintiere, für x gehorchen sie deinem Befehl, in deiner Nähe. 
+12. Tierische Lieferung: ein Kranich erscheint und lässt etwas vor dir fallen
+13. Nebelmaschine: Du kannst von dir ausgehend einen Nebel erzeugen, der nur für dich und Personen die du berührst durchsichtig ist.  
+14. Telekinet: Rufe Gegenstände zu dir oder schicke sie weg, als würdest du sie mit der Hand greifen. 
+15. Magneto: Dein Körper zieht Metall an. Du kannst die Stärke verändern, von nichts bis Erdkern.
+16. Alpha: Tiere wollen dir gehorchen und gefällig sein.
+17. Magiesicht - Dein Begleiter hat magische Augen, bei besonders starker Magischer Quelle verändern sich diese.
 
 
 
@@ -249,15 +209,13 @@ Discord
 
 ## Dämonen Tabelle 
 
-<!-- 10 zu 10 - 10 Tiere und 10 Yokai? Durchmischen? Zeichnungen sollen mehr als anregung gesehen werden. -->
-
 | **1d20** | **Dämon**        | **Zeichnung**                                  | **Attribut** | Fähigkeiten                                                  |
 | -------- | ---------------- | ---------------------------------------------- | ------------ | ------------------------------------------------------------ |
 | 1        | Hirsch           | Hirschgeweih                                   | Stechend     | Widerstandskraft - Die Kraft der Jugend                      |
 | 2        | Kitsune          | Rote Zeichnungen, Fuchsohren, Fuchsschwanz     | Gewandtheit  | Fuchsflammen - Erschaffe eine kleine schwebende Flamme, die auf Menschen eine unwiderstehliche anziehende Wirkung ausübt |
 | 3        | Bär              | Bärenfell                                      | Warm         | Bärenstark - Du bist so stark wie 10 Menschen                |
 | 4        | Steinbock        | Hufe                                           | Stoisch      | Geländegängig - Bewege dich durch schwergängiges Gelände     |
-| 5        | Affe             | Fell                                           | Klettern     | Schauspieltalent - Arme jemanden nach                        |
+| 5        | Affe             | Fell                                           | Klettern     | Schauspieltalent - Ahme jemanden nach                        |
 | 6        | Koi              | Schuppen                                       | Aussehen     | Glück - Fortuna ist dir hold                                 |
 | 7        | Katze            | Katzenaugen, Katzenohren                       | Aufmerksam   | Zwielichtpfad - Leg eine kurze Strecke durch die Geisterwelt zurück um schneller und ungesehen von A nach B zu kommen |
 | 8        | Insekt           | Chitinpanzer                                   | Robust       | Schutz - Schütze dich und diejenigen in deiner Nähe          |
@@ -268,7 +226,7 @@ Discord
 | 13       | Kappa            | Kiemen                                         | Atmen        | Gerissen - führe jemanden an der Nase herum                  |
 | 14       | Tengu            | Flügel                                         | Leicht       | Wutanfall - Schlage um dich                                  |
 | 15       | Riesensalamander | Schuppen, Schwanz, Breitmaul                   | Wasserratte  | Wärme spenden - Du spendest deine eigene Seelenwärme an jemanden in deiner Nähe die sie braucht |
-| 16       | Tanuki           | Bauch                                          | Geschützt    | Gestaltwandler - Imitiere etwas dir bekanntes                |
+| 16       | Tanuki           | Bauch                                          | Geschützt    | Gestaltwandler – Du nimmst für kurze Zeit die physische Form von etwas an. |
 | 17       | Kodama           | Weiße Haut                                     | Wald         | Grüner Daumen - Ein guter Draht zu Pflanzen                  |
 | 18       | Tsukumogami      | Gegenstand                                     | Versteckt    | Unscheinbar - Falle nicht auf                                |
 | 19       | Iwana bōzu       | Schuppige Haut                                 | Ehrwürdig    | Gastfreundschaft - Du deeskalierst eine Situation            |
