@@ -77,4 +77,20 @@ Diese Interaktion von dem S1 und dem SL veranschaulicht wie eine Fähigkeit für
 >S3. Bei mir ist es ne 3, upsi.  
 >SL: Alles klar, ihr greift alle an und mit einer Summe von 10 könnt ihr den Gegner diese Runde besiegen! Allerdings kriegen SC1 und SC2 jeweils einen Zustand, weil ihr Schwachpunkt getroffen wurde. Dann erzählt mir mal wie ihr eure Widersacher alle platt macht. Erst ist S3 dran, dann S1 und das Grand Finale darf S2 beschreiben.  
 >*Wieder beschreiben S1, S2 und S3 wie ihre Charaktere tapfer die Feinde bekämpfen und diese schließlich töten oder in die Flucht schlagen können.*  
->SL: Sehr schön, das habt ihr doch gut hingekriegt. Ihr habt zwei Runden lang gekämpft, also bekommt ihr jetzt noch zwei Hinweise von mir. Ihr durchstöbert ein wenig das Chaos nach der Schlacht und findet...  
+>SL: Sehr schön, das habt ihr doch gut hingekriegt. Ihr habt zwei Runden lang gekämpft, also bekommt ihr jetzt noch zwei Hinweise von mir. Ihr durchstöbert ein wenig das Chaos nach der Schlacht und findet...
+
+Kämpfe dauern in der Regel nur eine bis wenige Runden. Dabei würfeln wie im restlichen Spielverlauf nur die Spielenden. Den Gegner zu schwächen ist sinnvoll und kann eine große Wirkung haben, wenn er eine Gefahrenstufe von 9 oder höher hat - ab einer Gefahrenstufe von mindestens 13 ist es sogar notwendig, da die Gruppe ihn sonst nicht besiegen kann. Wie detailliert Gewaltbeschreibungen und wie blutig die Kämpfe beschrieben werden sollen, das sollte die Gruppe in der Session 0 gemeinsam klären.
+
+
+## Auf Reisen
+
+>S1: Ich habe mittlerweile drei Zustände und würde sie gerne mal abbauen.  
+>SL: Ist gut, ihr seid gerade nicht an einem gefährlichen Ort, also kannst du entweder den Spielzug "Auf Reisen" verwenden oder du beantwortest die Abenteuerfrage.  
+>S1: Dann versuche ich es mal mit "Auf Reisen".  
+>SL: Ok. Ihr bewegt euch gerade weg vom Tempel und geht gemächlich zurück Richtung Dorf. Dann erzähl doch mal, SC1, über die Vergangenheit von deinem Charakter und seinem Bär.  
+>*S1 erzählt in Character*: Wisst ihr, dieser Tempel gerade, das hat mich an mein Heimatdorf erinnert. Als Jiro noch ein ganz kleiner Bär war, da ist er manchmal ausgebüxt und ich musste ihn dann wiederfinden. Einmal hatte ich schon das gesamte Dorf abgesucht, aber Renji nirgends gesehen. Ich war gerade auf dem Rückweg, da hielt mich unser Priester an. Er war wirklich ein sehr ruhiger Zeitgenosse, sehr ehrwürdig. Zumindest normalerweise, denn dieses Mal konnte er sich gerade noch beherrschen, so aufgeregt war er. Hatte einen hochroten Kopf und zeigte in Richtung des kleinen Gartens hinter dem Tempel. Ich bin also schnell nach hinten gelaufen und da war Jiro! Er hatte sich im Gartenteich einen der teuren Koi gefangen und spielte mit dem zappelnden Fisch am Ufer. Ich nahm Jiro hoch und der arme Karpfen ist wieder zurück in den Teich gehüpft. Ich glaube er hat sich gut von dem Schreck erholt, aber ich musste danach drei Tage lang den Zulauf zum Teich schrubben...   
+>SL: Sehr schön, die Geschichte. Fisch mag er ja scheinbar immer noch gerne. Hast du denn auch ein Attribut, das zu der Story passt?  
+>S1: Wie wäre es mit "Wasserratte", wegen dem Teich und so?  
+>SL: Na gut, ich bin mal nicht so. Dann würfel mal mit zwei weißen W6.  
+>S1: Wow, ich hab' sogar eine Doppel-Sechs geworfen!  
+>SL: Cool, damit kannst du dann drei Zustände heilen. Der erste Zustand bleibt allerdings permanent, das ist ja dein Dämon. Aber die anderen beiden Zustände kannst du jetzt streichen.   
