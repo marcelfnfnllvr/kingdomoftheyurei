@@ -20,10 +20,10 @@
 14. Die Aura spüren – Zeigt Emotionen und wahre Absichten auf. 
 15. Ablenkung – Lass deine Stimme an einer anderen Stellen erscheinen.
 16. Farben des Gesangs - Ein Publikum wird von dir in seinen Bann gezogen.
-17. ??? – Zeige das wahre ich eines Wesen auf. <!-- ? -->
+17. ??? – Zeige das wahre Ich eines Wesens auf. <!-- ? -->
 18. Elementarbändiger - Herrsche über die Elemente.
 19. Ein ruhiger Geist – Lässt dich auf deinen inneren Geist hören. 
-20. Tierfreund - Kuschel einen Corgi. <!-- ? -->
+20. Tierfreund - Tiere vertrauen und helfen dir. <!-- Kuschel deinen Corgi. -->
 
 ### **Fähigkeiten II**
 
@@ -44,9 +44,17 @@
 15. Gedankenmanipulation – Ändert jemandes Gedanken für einen kurzen Zeitraum.
 16. Todgeweiht - Vernehme drohende Gefahr.
 17. Schattentheater - Illusioniere etwas, was nicht existiert.  <!-- ? -->
-18. .
-19. .
+18. Tuschemeister - Erschaffe Dinge aus Tinte <!-- wenn's Marcel nicht passt, kann er's immer noch ändern :P -->
+19. 
 20. .
+
+### **Optionen**
+
+1. Morgengrauen - Spende Licht und Hoffnung.
+2. Seelenwandler - Streife die Bürde deines Körpers für kurze Zeit ab. <!-- alternativ kann man das bei jemand anderem machen?-->
+3. Auszehren - Entziehe jemand oder etwas Energie.
+4. Keigo - Du findest den richtigen Umgangston <!-- https://de.wikipedia.org/wiki/Japanische_H%C3%B6flichkeitssprache -->
+5. Hellsehen
 
 ### Raus
 
