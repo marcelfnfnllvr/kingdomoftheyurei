@@ -10,7 +10,7 @@
   - [ ] Erzähle eine Situation, die die Gruppe zum Lachen gebracht hat.
 - [ ] Haiku als Mechanik?
   - [ ] Eventuell für den Stufenaufstieg bzw. das "sterben/außer Gefecht gesetzt"
-- [ ] Zustand in die Modifikator Tabelle ändern
+- [x] Zustand in die Modifikator Tabelle ändern
 - [ ] Welthinweise komplett entfernen
 - [ ] Eine Fähigkeit direkt über den Dämon?
 - [ ] Zweiter Gegenstand als eigene Tabelle?

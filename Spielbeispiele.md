@@ -47,7 +47,9 @@ Grundsätzlich ist der Spielzug "Etwas herausfinden" nicht sehr gefährlich, abe
 
 Diese Interaktion von dem S1 und dem SL veranschaulicht wie eine Fähigkeit für das Suchen von Hinweisen verwendet werden kann. In jedem Fall hätte der Spielleitende dem Spielenden die Geschichte erzählt wie der Wald verbrannt wurde, aber ohne einen weiteren Wurf auf "Etwas herausfinden" hätte der Spielende dafür keinen Hinweis erhalten. So hat der SL den Spielenden direkt nach dem Wurf "Eine Fähigkeit nutzen" auf "Etwas herausfinden" werfen lassen und der SC hat dabei auch noch den weißen Bonuswürfel aus seinem erfolgreichen "Eine Fähigkeit nutzen" Spielzug verwendet. 
 
-## Kampf
+## Kampf 
+
+<!-- muss noch angepasst werden -->
 
 >SL: Ich gebe jetzt meine 3 Verderbnispunkte aus, damit hier mal ein bisschen mehr Spannung aufkommt! Ihr biegt gerade in eine ene Gasse ein, da lauert euch eine Gruppe Jäger auf. Finstere Gestalten mit einem Sammelsurium verschiedener Waffen wollen euch von vorne und von hinten einkesseln. Sie sind auf eure besonderen dämonischen Merkmale aus und blicken gierig auf dein Geweih, SC1, deine Federn und die Schuppen von SC3.  
 >S1: Wir stellen uns natürlich dem Kampf!  

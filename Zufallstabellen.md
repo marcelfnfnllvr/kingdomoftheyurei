@@ -256,18 +256,18 @@ Discord
 | 1        | Hirsch           | Hirschgeweih                                   | Stechend     | Widerstandskraft – Die Kraft der Jugend                      |
 | 2        | Kitsune          | Rote Zeichnungen, Fuchsohren, Fuchsschwanz     | Gewandtheit  | Fuchsflammen: Erschaffe eine kleine schwebende Flamme, die auf Menschen eine unwiderstehliche anziehende Wirkung ausübt |
 | 3        | Bär              | Bärenfell                                      | Warm         | Bärenstark: Du bist so stark wie 10 Menschen                 |
-| 4        | Steinbock        | Hufe                                           | Klettern     | Wurzeln                                                      |
+| 4        | Steinbock        | Hufe                                           | Klettern     | Wurzeln / Geländegängig - Bewege dich durch schwergängiges Gelände |
 | 5        | Affe             | Fell                                           | Klettern     | Schauspieltalent                                             |
 | 6        | Koi              | Schuppen                                       | Aussehen     | Verflüssigen?                                                |
 | 7        | Katze            | Katzenaugen, Katzenohren                       | Aufmerksam   | Nachtsicht / Zwielichtpfad                                   |
-| 8        | Insekt           | Chitinpanzer                                   | Robust       | Zuflucht                                                     |
+| 8        | Insekt           | Chitinpanzer                                   | Robust       | Zuflucht / Schutz - Schütze dich und diejenigen in deiner Nähe |
 | 9        | Yuki Onna        | bleiche Haut                                   | Kälte        | Frost: Du kannst die Temperatur senken                       |
 | 10       | Nure Onna        | Vampirzähne, Schlangenschuppen, Schlangenzunge | Aussehen     | Dominanz: Anderen deinen Willen aufzwingen                   |
 | 11       | Hyakume          | Augen überall                                  | Aufmerksam   | Wächter: Deinen Augen entgeht kein Verbrechen                |
-| 12       | Vogel            | Federhaare                                     | Leicht       | Zeit                                                         |
+| 12       | Vogel            | Federhaare                                     | Leicht       | Zeit / Flugfertig: Du kannst einen Moment lang fliegen       |
 | 13       | Kappa            | Kiemen                                         | Atmen        | Allesfresser / Kampfsportler / Profispieler / Taktiker       |
 | 14       | Tengu            | Flügel                                         | Leicht       | Wutanfall - ?                                                |
-| 15       | Riesensalamander | Schuppen, Schwanz, Breitmaul                   | Wasserratte  | Wärme spenden - Du spendest deine eigene Seelenwärme an jemanden in deiner Nähe die sie braucht|
+| 15       | Riesensalamander | Schuppen, Schwanz, Breitmaul                   | Wasserratte  | Wärme spenden - Du spendest deine eigene Seelenwärme an jemanden in deiner Nähe die sie braucht |
 | 16       | Tanuki           | Bauch                                          | Geschützt    | Gestaltwandler / Gastfreundschaft                            |
 | 17       | Kodama           | Weiße Haut                                     | Wald         | Irrlicht - ? / ? - Du lässt Pflanzen schneller Wachsen / ? - Ein guter Draht zu Pflanzen |
 | 18       | Tsukumogami      | Gegenstand                                     | Versteckt    | Unscheinbar - Falle nicht auf                                |

@@ -1,6 +1,5 @@
 # Spielzüge
 
-<!-- Wie liest man Spielzüge? -->
 Im Verlauf des Spiels nutzen die Spielenden Spielzüge, um Hinweise von NSCs zu erhalten, Hindernissen zu begegnen, Zustände abzubauen, Kämpfe auszutragen oder ihre Fähigkeiten einzusetzen. Ein Spielzug gibt entweder einen weißen oder einen schwarzen Würfel für den Würfelpool. Dies ist in der Beschreibung des Spielzugs angegeben. Die kritischen Erfolge (6&6) und Misserfolge (1&1) zählen zusätzlichen zum Ergebnis des Spielzugs. So bedeutet eine Doppel-Sechs im Spielzug "Etwas herausfinden", dass den Spielenden zwei Hinweise von der Spielleitung mitgeteilt werden.
 
 ## Der „Etwas herausfinden“ Spielzug
@@ -74,12 +73,11 @@ Ablauf eines Kampfes:
    2. Mit dem Spielzug "Gegner schwächen" kann die Gefahrenstufe des Gegners gesenkt werden. Wenn die Stufe des Gegners höher als 12 ist, muss dieser erst mit diesem Spielzug geschwächt werden, ansonsten ist es nicht möglich für die Gruppe den Kampf zu gewinnen.
 
    3. Alle Charaktere, die direkt am Kampf teilnehmen, würfeln ihren Schwachpunkt. Sie tun dies mit
-      - 1W6, wenn ihr Charakter noch keinen Abschnittswechsel hatte,
-      - 2W6 und behalten den höheren von beiden, wenn der letzte Abschnittswechsel ihres Charakters durch einen Stufenaufstieg lief oder
+      - 2W6 und behalten den höheren von beiden, wenn der letzte Abschnittswechsel ihres Charakters durch einen Stufenaufstieg lief oder der Charakter grad am Beginn seiner Reise ist
       - 2W6 und behalten den niedrigeren von beiden, wenn ihr letzter Abschnittswechsel durch einen sechsten Zustand und damit einem Durchbrechen des Dämons verursacht wurde.  
-
-      Der Schwachpunkt ändert sich während des Kampfes nicht. Er kann maximal 6 und minimal 1 sein.
-
+      
+      Der Schwachpunkt ändert sich während des Kampfes nicht.
+   
 2. Kampfrunde
    1. Danach wirft jeder am Kampf teilnehmende Charakter seinen W6 Kampfwürfel. Es wird in aufsteigender Reihenfolge des numerischen Schwachpunkts der Beteiligten gewürfelt. Die beiden höchsten Augenzahlen der geworfenen W6 werden addiert und müssen die Gefahrenstufe des Gegners erreichen oder übertreffen. Die Kampfwürfel der Charaktere, die in dieser Runde den Spielzug "Gegner schwächen" ausgeführt haben, werden hierbei in dieser Kampfrunde nicht mitgezählt. 
    2. Nun muss noch geprüft werden, ob einer der gewürfelten W6 Kampfwürfel den Schwachpunkt eines am Kampf teilnehmenden Charakters trifft. Hierbei werden nicht nur die beiden höchsten Augenzahlen betrachtet, sondern *alle* geworfenen W6 Kampfwürfel. Ist dies der Fall, so erhält der Charakter pro Treffer einen Zustand.
@@ -93,7 +91,6 @@ Ablauf eines Kampfes:
 
 ## Der „Hilfe anbieten“ Spielzug
 
-<!-- Das ist die alte Version: Hilf einem Mitspieler, indem du mit einem passenden Attribut würfelst. Das Ergebnis zählt für den anderen Spieler. Falls die zu helfende Person einen schwarzen Würfel in ihrem Würfelpool hat und du dessen Augenzahl mit deinem "Hilfe anbieten" Spielzug triffst, erhältst du einen Zustand. Außerdem erhätlst du automatisch einen Zustand, wenn du mit einem scharzen Attribut oder Gegenstand hilfst. Du kannst im Spielzug "Hilfe anbieten" nur maximal einen Zustand bekommen.-->
 Hilf einem Mitspielenden bei einem "Etwas herausfinden" oder "Etwas riskieren" Spielzug, indem du mit einem W6 würfelst. Das Ergebnis zählt für den Mitspielenden, dem du helfen möchtest. Hast du ein passendes Attribut für die Hilfestellung, dann richtet sich die Farbe des Würfels nach der Farbe des Attributs. Du kannst auch einen weißen Bonus-W6 aus einem vorangegangenen Wurf als Würfel für die Hilfestellung verwenden. Hast du kein passendes Attribut oder einen Bonus-W6, aber eine andere für die Szene passende Idee, wirfst du mit einem schwarzen W6. Allerdings erhältst du automatisch einen Zustand, wenn du mit einem schwarzen W6 würfelst. Falls die zu helfende Person einen schwarzen Würfel in ihrem Würfelpool hat und du dessen Augenzahl mit deinem "Hilfe anbieten" Spielzug triffst, erhältst du ebenfalls einen Zustand. Du kannst in einem "Hilfe anbieten" Spielzug maximal einen Zustand erhalten.
 
 Der Spielzug "Hilfe anbieten" wird genutzt, nachdem die zu helfende Person den ersten Wurf mit ihrem eigenen Würfelpool absolviert hat. In der Erzählung der Spielenden dürfen Charaktere sich natürlich immer helfen - falls logisch möglich. Trotzdem würfelt die helfende Person erst nach der aktiv agierenden Person.
