@@ -5,14 +5,14 @@
 - [x] Erklärung: im Kampf das Gegnerlevel die über 12 sind erste gesenkt werden müssen!
 - [x] Modifikatoren weg?
 - [x] Hilfewurf abändern? Mehr erlauben? Mehr Kreativität? <!-- Textvorschlag steht jetzt drin-->
-- [ ] Klarstellung Sitzung vs Abenteuer (Regeln --> Am Ende des Abends)
+- [x] Klarstellung Sitzung vs Abenteuer (Regeln --> Am Ende des Abends)
 - [ ] Fragen für die Rast
   - [ ] Erzähle eine Situation, die die Gruppe zum Lachen gebracht hat.
 - [ ] Haiku als Mechanik?
   - [ ] Eventuell für den Stufenaufstieg bzw. das "sterben/außer Gefecht gesetzt"
 - [x] Zustand in die Modifikator Tabelle ändern
-- [ ] Welthinweise komplett entfernen
-- [ ] Eine Fähigkeit direkt über den Dämon?
+- [x] Welthinweise komplett entfernen
+- [x] Eine Fähigkeit direkt über den Dämon?
 - [ ] Zweiter Gegenstand als eigene Tabelle?
 - [ ] Ein freier Gegenstandslot
 - [ ] Alte Geschichten über die Welt abfragen als Move? Oder beim Heilen? Oder mhmmm
