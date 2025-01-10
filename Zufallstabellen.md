@@ -43,7 +43,7 @@
 14. Vergeltung - Lasse einem Unrecht Gerechtigkeit folgen. 
 15. Gedankenmanipulation – Ändert jemandes Gedanken für einen kurzen Zeitraum.
 16. Todgeweiht - Vernehme drohende Gefahr.
-17. .
+17. Schattentheater - Illusioniere etwas, was nicht existiert.  <!-- ? -->
 18. .
 19. .
 20. .
