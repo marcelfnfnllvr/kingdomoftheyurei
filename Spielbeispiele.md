@@ -49,8 +49,6 @@ Diese Interaktion von dem S1 und dem SL veranschaulicht wie eine Fähigkeit für
 
 ## Kampf 
 
-<!-- muss noch angepasst werden -->
-
 >SL: Ich gebe jetzt meine 3 Verderbnispunkte aus, damit hier mal ein bisschen mehr Spannung aufkommt! Ihr biegt gerade in eine ene Gasse ein, da lauert euch eine Gruppe Jäger auf. Finstere Gestalten mit einem Sammelsurium verschiedener Waffen wollen euch von vorne und von hinten einkesseln. Sie sind auf eure besonderen dämonischen Merkmale aus und blicken gierig auf dein Geweih, SC1, deine Federn und die Schuppen von SC3.  
 >S1: Wir stellen uns natürlich dem Kampf!  
 >SL: Ich habe 3 Verderbnispunkte ausgegeben, also hat der Gegner die Gefahrenstufe 10. Wenn ihr wollt, könnt ihr versuchen den Gegner zu schwächen.  
@@ -59,10 +57,10 @@ Diese Interaktion von dem S1 und dem SL veranschaulicht wie eine Fähigkeit für
 >S2: Mein Reittier hat das Attribut "stark", vielleicht könnte mein Bär mir helfen?  
 >SL: In Ordnung, für das Attribut bekommst du noch einen weißen W6 dazu. Dann würfel mal.  
 >S2: Ich habe eine weiße 5 und eine schwarze 3.  
->SL: Damit senkst du die Gefahrenstufe des Gegners um 1. Sie ist jetzt also insgesamt bei 9. Wir sind ja ganz am Anfang vom Kampf, deshalb würfelt jetzt bitte alle mal euren jeweiligen Schwachpunkt für diesen Kampf aus. Da eure Charaktere alle noch keinen Stufenaufstieg oder anderen Abschnittswechsel hatten, werft ihr mit einem W6.  
->S1: Ich habe eine 3.  
->S2: Ich hab' auch eine 3.  
->S3: Ich habe eine 5.  
+>SL: Damit senkst du die Gefahrenstufe des Gegners um 1. Sie ist jetzt also insgesamt bei 9. Wir sind ja ganz am Anfang vom Kampf, deshalb würfelt jetzt bitte alle mal euren jeweiligen Schwachpunkt für diesen Kampf aus. Da eure Charaktere alle noch keinen Abschnittswechsel hatten, seid ihr in einem hellen Lebensabschnitt. Das heißt ihr werft mit 2W6 und behaltet den höheren Wert.  
+>S1: Ich habe eine 1 und eine 3.  
+>S2: Ich hab' zwei 3er.  
+>S3: Meine Würfel sind eine 4 und eine 5.  
 >SL: Also 3, 3 und 5. Gut, dann beginnt jetzt die erste richtige Kampfrunde. Würfelt bitte alle nochmal einen W6, das ist euer Kampfwürfel für diese Runde. Um den Gegner zu besiegen, braucht ihr mit euren beiden höchsten Würfeln zusammen mindestens eine 9.  
 >S1: Ich habe eine 2.  
 >S2: Ich hab' 'ne 5!  
