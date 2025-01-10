@@ -1,6 +1,6 @@
 # Regeln
 
-Hier findest du alle Regeln, die du zum Spielen von **Augen des Zwielichts: Königreich der Yokai** benötigst. Den genauen Spielablauf findest du in den Spielbeispielen. 
+Hier findest du alle Regeln, die du zum Spielen von **Augen des Zwielichts: Königreich der Yōkai** benötigst. Den genauen Spielablauf findest du in den Spielbeispielen. 
 
 Introtext? Würfelpool? Schwarze oder weiße Würfel? Es werden nur die zwei höchsten Augenzahlen betrachtet!
 
@@ -39,42 +39,39 @@ Wenn ein Charakter sechs Zustände aufbaut, ist er außer Gefecht gesetzt. Es er
    -	Wenn dein Charakter jetzt im sechsten Lebensabschnitt ist, ist er zu müde und erschöpft, um weiterzumachen. Wie sieht der Lebensabend deines Charakters aus?
 2. Beantworte die nächste Frage auf der Abschnittstabelle.
 3. Ändere eines der Attributfelder in ein schwarzes.
-4. Würfle jeweils einmal auf die Fähigkeitstabelle und würfle dann mit W3, welche Fähigkeit du gegen eine neue tauschen musst.
-5. Würfle erneut auf die Schwachpunkttabelle mit +2.
-6. Fehlende Ängste werden neu gewürfelt.
-7. Die Veränderung wird sichtbar stärker.
-8. Setze deine Aufstiegspunkte wieder zurück.
+4. Würfle jeweils einmal auf die Fähigkeitstabelle und würfle dann mit W3, welche Fähigkeit du gegen eine neue tauschen musst. Die Dämonenfähigkeit kann nicht getauscht werden. 
+5. Fehlende Ängste werden neu gewürfelt.
+6. Die Veränderung wird sichtbar stärker.
+7. Setze deine Aufstiegspunkte wieder zurück.
+8. Du bist jetzt in einem Lebensabschnitt in dem du langsam die Kontrolle über deinen Dämon verlierst.
 
 ## Der Stufenaufstieg
 
-Euer Charakter verdient sich nach jedem Abend Punkte. Diese werden gesammelt und können für einen Aufstieg der Stufe 1, 2 oder 3 ausgegeben werden. Bedenkt allerdings, dass alle gesammelten Punkte verloren gehen falls ihr außer Gefecht gesetzt werden solltet. Der Stufenaufstieg ist eine Art Alterungsprozess des Charakters. Kein Charakter ist für die Ewigkeit gemacht. Es wird nur die jeweilige Stufe abgehandelt.
+Euer Charakter verdient sich nach jedem Abend Aufstiegtspunkte. Diese werden gesammelt und können für einen Aufstieg der Stufe 1, 2 oder 3 ausgegeben werden. Bedenkt allerdings, dass alle gesammelten Punkte verloren gehen falls ihr außer Gefecht gesetzt werden solltet. Der Stufenaufstieg ist eine Art Alterungsprozess des Charakters. Kein Charakter ist für die Ewigkeit gemacht. Es werden die Punkte "Bei jedem Aufstieg" und die Punkte zugehörig zur jeweilige Stufe abgehandelt.
 
 Bei jedem Aufstieg:
 
 1. Der Aufstiegspunktezähler wird zurückgesetzt.
 2. Deine Zustände werden zurückgesetzt. 
-3. Wenn du es schaffst, es mit dem Abenteuer in Einklang zu bringen, verlierst du eine Angst.
+3. Wenn du es schaffst, es mit dem aktuellen Abenteuer in Einklang zu bringen, verlierst du eine Angst.
 4. Beantworte die nächste Frage auf der Abschnittstabelle.
 5. Der Körper und der Geist deines Charakters altern. Erhöhe den Abschnitt um eins.
-6. Ändere ein Herkunftsattribut, Dämonenattribut oder Reittierattribut. (Optional)
+   1. Wenn dein Charakter jetzt im sechsten Lebensabschnitt ist, ist er zu müde und erschöpft, um weiterzumachen. Wie sieht der Lebensabend deines Charakters aus?
+
+6. Ändere ein Attribut oder einen Gegenstand. (Optional)
 7. Ändere das Aussehen deiner Änderung. (Optional)
-
-Stufe 1 - Bei 5 gesammelten Punkten:
-
-1. Würfle erneut auf die Schwachpunkttabelle mit -1. (Optional)
+8. Du bist jetzt in einem Lebensabschnitt in dem du deinen Dämon gut unter Kontrolle hast.
 
 Stufe 2 - Bei 8 gesammelten Punkten:
 
-1. Würfle erneut auf die Schwachpunkttabelle mit -2. (Optional)
 2. Du darfst, für eine passende Erzählung, eine Angst deiner Wahl verlieren. (Optional)
-3. Würfle jeweils einmal auf die Fähigkeiten-Tabelle und tausche eine Fähigkeit gegen eine neue. Es darf jede bestehende Fähigkeit gegen eine neue getauscht werden. (Optional)
+3. Würfle jeweils einmal auf die Fähigkeiten-Tabelle und tausche eine Fähigkeit gegen eine neue. Die Dämonenfähigkeit kann nicht getauscht werden. (Optional)
 
 Stufe 3 - Bei 10 gesammelten Punkten:
 
-1. Würfle erneut auf die Schwachpunkttabelle mit -3. (Optional)
-2. Du darfst, für eine passende Erzählung, eine Angst deiner Wahl verlieren. (Optional)
-3. Ändere ein weiteres Herkunftsattribut, Dämonenattribut oder Reittierattribut. (Optional)
-4. Würfle jeweils zweimal auf die Fähigkeiten Tabelle und tausche eine Fähigkeit gegen eine neue. Es darf jede bestehende Fähigkeit gegen eine neue getauscht werden. (Optional)
+1. Du darfst, für eine passende Erzählung, eine Angst deiner Wahl verlieren. (Optional)
+2. Ändere ein weiteres Attribut oder einen Gegenstand. (Optional)
+3. Würfle jeweils zweimal auf die Fähigkeiten Tabelle und tausche eine Fähigkeit gegen eine neue. Die Dämonenfähigkeit kann nicht getauscht werden. (Optional)
 
 ## Korruption
 
@@ -89,14 +86,13 @@ Wenn die Korruption zunimmt, bekommst du auch einen Zustand. Zustände zeigen de
 Zustände können auf drei verschiedene Arten reduziert werden.
 
 1. Beantworte die Abenteuerfrage.
-2. Reduziere einen Zustand, indem du einen Sechser-Pasch würfelst. <!-- Ich glaub das ist nicht mehr aktuell, oder? -->
 3. Benutze einmal im Abenteuer den Spielzug "Auf Reisen".
 
 ## Am Ende eines jeden Abends
 
 Jeder Spieler darf nach einem Abenteuer folgende Schritte ausführen:
 
-1. Du darfst noch die Frage des Abenteuers beantworten und einen Zustand abbauen. Der Spielzug "Auf Reisen" ist nur im Abenteuer möglich, nicht am Ende. 
+1. Du darfst noch die Frage des Abenteuers beantworten, falls nicht schon geschehen und einen Zustand abbauen. Der Spielzug "Auf Reisen" ist nur im Abenteuer möglich, nicht am Ende. 
 2. Du darfst deinen Titel wechseln.
-3. Du überprüfst am Ende der Sitzung, ob du die von dir gewählten Fragen beantworten kannst und steigst eventuell auf.
+3. Du überprüfst am Ende der Sitzung, ob du die von dir gewählten Fragen beantworten kannst und kannst einen Stufenaufstieg durchführen.
 
