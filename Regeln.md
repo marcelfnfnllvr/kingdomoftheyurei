@@ -47,7 +47,7 @@ Wenn ein Charakter sechs Zustände aufbaut, ist er außer Gefecht gesetzt. Es er
 
 ## Der Stufenaufstieg
 
-Euer Charakter verdient sich nach jedem Abend Aufstiegtspunkte. Diese werden gesammelt und können für einen Aufstieg der Stufe 1, 2 oder 3 ausgegeben werden. Bedenkt allerdings, dass alle gesammelten Punkte verloren gehen falls ihr außer Gefecht gesetzt werden solltet. Der Stufenaufstieg ist eine Art Alterungsprozess des Charakters. Kein Charakter ist für die Ewigkeit gemacht. Es werden die Punkte "Bei jedem Aufstieg" und die Punkte zugehörig zur jeweilige Stufe abgehandelt.
+Euer Charakter verdient sich nach jeder Spielsession Aufstiegtspunkte. Diese werden gesammelt und können für einen Aufstieg der Stufe 1, 2 oder 3 ausgegeben werden. Bedenkt allerdings, dass alle gesammelten Punkte verloren gehen falls ihr außer Gefecht gesetzt werden solltet. Der Stufenaufstieg ist eine Art Alterungsprozess des Charakters. Kein Charakter ist für die Ewigkeit gemacht. Es werden die Punkte "Bei jedem Aufstieg" und die Punkte zugehörig zur jeweilige Stufe abgehandelt.
 
 Bei jedem Aufstieg:
 
@@ -83,14 +83,14 @@ Wenn die Korruption zunimmt, bekommst du auch einen Zustand. Zustände zeigen de
 
 ## Zustände abbauen
 
-Zustände können auf drei verschiedene Arten reduziert werden.
+Die Zustände können auf zwei verschiedene Arten reduziert werden. Dies ist einmal pro Abenteuer möglich.
 
 1. Beantworte die Abenteuerfrage.
-3. Benutze einmal im Abenteuer den Spielzug "Auf Reisen".
+3. Benutze den Spielzug "Auf Reisen".
 
-## Am Ende eines jeden Abends
+## Am Ende einer Spielsession
 
-Jeder Spieler darf nach einem Abenteuer folgende Schritte ausführen:
+Jeder Spieler darf am Ende einer Spielsession folgende Schritte ausführen:
 
 1. Du darfst noch die Frage des Abenteuers beantworten, falls nicht schon geschehen und einen Zustand abbauen. Der Spielzug "Auf Reisen" ist nur im Abenteuer möglich, nicht am Ende. 
 2. Du darfst deinen Titel wechseln.
