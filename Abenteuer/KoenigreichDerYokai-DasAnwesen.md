@@ -2,7 +2,7 @@
 
 Schwierigkeit: 14 – ein kurzes und eher einfaches Abenteuer - ein Abend
 
-Finstinernispunkte: 4
+Finsternispunkte: 4
 
 ### Spielleiterhinweise:
 
