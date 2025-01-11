@@ -38,8 +38,8 @@ Ihr seht zwei Personen, die dem Hund hinterhereilen und hektisch winken und rufe
 
 - Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden.
 - Jede NSC kann vom Virus befallen sein und mutieren.
-- Infizierter Hund mit der Schwierigkeit 8.
-- Ihr seht eine Wildschweinsau mit ihren Frischlingen ein paar Meter von euch entfernt. Die Sau fällt zu Boden und es fangen langsam an tentakelartige Pilze aus ihrem Maul zu sprießen. Diese packen sofort die Frischlinge und die Sau schaut mit rotglühenden Augen in eure Richtung. Schwierigkeit 10.
+- Infizierter Hund mit der Gefahrenstufe 8.
+- Ihr seht eine Wildschweinsau mit ihren Frischlingen ein paar Meter von euch entfernt. Die Sau fällt zu Boden und es fangen langsam an tentakelartige Pilze aus ihrem Maul zu sprießen. Diese packen sofort die Frischlinge und die Sau schaut mit rotglühenden Augen in eure Richtung. Gefahrenstufe 10.
 
 ### Momente:
 
