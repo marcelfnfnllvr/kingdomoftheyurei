@@ -139,17 +139,17 @@ Auch wenn ein Charakter keine Fähigkeit besitzt, die ganz genau zur Situation p
 
 ### Auf Reisen
 
->**Lydia**: Ich habe mittlerweile drei Zustände und würde sie gerne mal abbauen.  
+>**Ralph**: Ich habe mittlerweile drei Zustände und würde sie gerne mal abbauen.  
 >**Martina**: Ist gut, ihr seid gerade nicht an einem gefährlichen Ort, also kannst du entweder den Spielzug "Auf Reisen" verwenden oder du beantwortest die Abenteuerfrage.  
->**Lydia**: Dann versuche ich es mal mit "Auf Reisen".  
->**Martina**: Ok. Ihr bewegt euch gerade weg vom Tempel und geht gemächlich zurück Richtung Dorf. Dann erzähl doch mal was aus der Vergangenheit von Ayane und ihrem Bär Jiro.  
->**Lydia**: Wisst ihr, dieser Tempel gerade, das hat mich an mein Heimatdorf erinnert. Als Jiro noch ein ganz kleiner Bär war, da ist er manchmal ausgebüxt und ich musste ihn dann wiederfinden. Einmal hatte ich schon das gesamte Dorf abgesucht, aber Jiro nirgends gesehen. Ich war gerade auf dem Rückweg, da hielt mich unser Priester an. Er war wirklich ein sehr ruhiger Zeitgenosse, sehr ehrwürdig. Zumindest normalerweise, denn dieses Mal konnte er sich gerade noch beherrschen, so aufgeregt war er. Hatte einen hochroten Kopf und zeigte in Richtung des kleinen Gartens hinter dem Tempel. Ich bin also schnell nach hinten gelaufen und da war Jiro! Er hatte sich im Gartenteich einen der teuren Koi gefangen und spielte mit dem zappelnden Fisch am Ufer. Ich nahm Jiro hoch und der arme Karpfen ist wieder zurück in den Teich gehüpft. Ich glaube er hat sich gut von dem Schreck erholt, aber ich musste danach drei Tage lang den Zulauf zum Teich schrubben...
->**Hannes**: Ach, deshalb hat Ayane immer so eine Angst vor Priestern? Haha!  
->**Lydia**: Jedenfalls hat sie seitdem mindestens einen gesunden Respekt, ja.    
->**Martina**: Sehr schön, die Geschichte. Fisch mag er ja scheinbar immer noch gerne. Hast du denn auch ein Attribut, das zu der Story passt?  
->**Lydia**: Wie wäre es mit "Wasserratte", wegen dem Teich und so?  
->**Martina**: Na gut, ich bin mal nicht so. Dann würfel mal mit zwei weißen W6.  
->**Lydia**: Wow, ich hab' sogar eine Doppel-Sechs geworfen!  
+>**Ralph**: Dann versuche ich es mal mit "Auf Reisen".  
+>**Martina**: Ok. Ihr bewegt euch gerade weg vom Tempel und geht gemächlich zurück Richtung Dorf. Dann erzähl doch mal was aus der Vergangenheit von Yūsuke und seinem Wasserbüffel Ken.  
+>**Lydia**: Wisst ihr, dieser Tempel gerade, das hat mich an mein Heimatdorf erinnert. Als Ken noch ein kleines Kalb war, da ist er manchmal ausgebüxt und ich musste ihn dann wiederfinden. Einmal hatte ich schon das gesamte Dorf abgesucht, aber Ken nirgends gesehen. Nicht in den Reisfeldern und auch nicht in unserem Garten. Ich war gerade auf dem Rückweg, da hielt mich unser Priester an. Er war wirklich ein sehr ruhiger Zeitgenosse, sehr ehrwürdig. Zumindest normalerweise, denn dieses Mal konnte er sich gerade noch beherrschen, so aufgeregt war er. Hatte einen hochroten Kopf und zeigte in Richtung des kleinen Gartens hinter dem Tempel. Ich bin also schnell nach hinten gelaufen und da war Ken! Er hatte sich in den Gartenteich gelegt und kaute da genüsslich an irgendeiner Wasserpflanze. Er war vorher offensichtlich auf den Reisfeldern gewesen, denn im Teich schwammen ein paar Reissetzlinge und das Wasser war ganz schlammig. Ich musste reinsteigen und ihn da rausschieben. Und dann hat mich der Priester auch noch dazu verdonnert, den kompletten Teich zu säubern und den Schlamm aus dem Wasser zu bekommen...  
+>**Hannes**: Ach, deshalb hat Yūsuke immer so eine Angst vor Priestern? Haha!  
+>**Ralph**: Jedenfalls hat er seitdem mindestens einen gesunden Respekt, ja.    
+>**Martina**: Sehr schön, die Geschichte. Baden mag Ken ja scheinbar immer noch gerne. Hast du denn auch ein Attribut, das zu der Story passt?  
+>**Ralph**: Wie wäre es mit "Wasserratte", wegen dem Teich und so?  
+>**Martina**: Ja das passt doch gut. Dann würfel mal mit zwei weißen W6.  
+>**Ralph**: Wow, ich hab' sogar eine Doppel-Sechs geworfen!  
 >**Martina**: Cool, damit kannst du dann drei Zustände heilen. Der erste Zustand bleibt allerdings permanent, das ist ja dein Dämon. Aber die anderen beiden Zustände kannst du jetzt streichen.
 
 ### Das Abenteuer lösen
