@@ -2,7 +2,7 @@
 
 Schwierigkeit: 18 – längeres Abenteuer – zwei bis drei Abende
 
-### Spielleiterhinweise:<!-- Wie willst du's mit genderneutraler Sprache handhaben? Evtl ersetzen durch "Spielleitungshinweise"? -->
+### Spielleiterhinweise:
 
 Das Dorf Haran ist bekannt für seine delikaten Shiitake-Pilze und deren koordinierte Produktion. Seit einiger Zeit ist das Dorf jedoch befallen. Zwei Menschen sind gestorben, weil sie von infizierten Pilzen gegessen haben und es sind zwei Schweine mutiert und durchgedreht. Sie haben dabei zwei weitere Menschen getötet. Die betroffene Pilzkolonie wurde isoliert und alle Pilze drumherum verbrannt. Nur den infizierten Pilzen scheint das Feuer und jede Bemühung sie zu beseitigen nichts auszumachen. Im Dorf sind Frauen und Männer strikt getrennt. Es wird sich nur zur Fortpflanzung getroffen. Die Frauen ziehen gemeinsam die Kinder groß. Männer spielen nur eine untergeordnete Rolle.
 
@@ -36,10 +36,11 @@ Ihr seht zwei Personen, die dem Hund hinterhereilen und hektisch winken und rufe
 
 ### Gefahren:
 
-- Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden.
+- Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden. Gefahrenstufe 12.
 - Jede NSC kann vom Virus befallen sein und mutieren.
 - Infizierter Hund mit der Gefahrenstufe 8.
 - Ihr seht eine Wildschweinsau mit ihren Frischlingen ein paar Meter von euch entfernt. Die Sau fällt zu Boden und es fangen langsam an tentakelartige Pilze aus ihrem Maul zu sprießen. Diese packen sofort die Frischlinge und die Sau schaut mit rotglühenden Augen in eure Richtung. Gefahrenstufe 10.
+- Eine dichte Wolke frischer Pilzsporen wird vom Wind herangetragen. Die Gruppe muss sich entweder schnell entfernen oder eine Möglichkeit finden, wie ihnen die Sporen erst einmal nichts mehr anhaben können.
 
 ### Momente:
 
