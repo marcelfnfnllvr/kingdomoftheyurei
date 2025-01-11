@@ -6,8 +6,8 @@
 - [x] Modifikatoren weg?
 - [x] Hilfewurf abändern? Mehr erlauben? Mehr Kreativität? <!-- Textvorschlag steht jetzt drin-->
 - [x] Klarstellung Sitzung vs Abenteuer (Regeln --> Am Ende des Abends)
-- [ ] Fragen für die Rast
-  - [ ] Erzähle eine Situation, die die Gruppe zum Lachen gebracht hat.
+- [x] Fragen für die Rast
+  - [x] Erzähle eine Situation, die die Gruppe zum Lachen gebracht hat. <!-- steht doch in der Beschreibung zum Move schon drinne? -->
 - [ ] Haiku als Mechanik?
   - [ ] Eventuell für den Stufenaufstieg bzw. das "sterben/außer Gefecht gesetzt"
 - [x] Zustand in die Modifikator Tabelle ändern
@@ -36,11 +36,12 @@
   - [x] Auf Reisen
   - [x] Kampf
   - [x] Hilfe anbieten
-  - [ ] Das Abenteuer lösen
+  - [x] Das Abenteuer lösen
   - [x] Wurf verbessern
   - [x] Verderbnispunkte
   - [ ] Außer Gefecht
-  - [ ] Stufenaufstieg        
+  - [ ] Stufenaufstieg
+  - [ ] Paint the Scene/Eröffnungsfrage    
 - [ ] Ablauf Spielabend / Abenteuer
 - [ ] Würfel und Proben bestehen
 - [ ] Gameplay Loop soll Schematisch im Regelwerk abgebildet werden. Ein Diagramm.
