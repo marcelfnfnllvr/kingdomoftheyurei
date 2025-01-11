@@ -41,12 +41,12 @@ Besprich mit der Spielleitung, was deine Fähigkeit bewirken soll. Du bekommst e
 
 Es ist möglich im Kampf die Gefahrenstufe des Gegners mithilfe von Fähigkeiten zu senken. Du bekommst einen schwarzen Würfel von diesem Spielzug.
 
-- 1&1 Die Gefahrenstufe des Gegners steigt um 1.
+- 1&1 Die Gefahrenstufe des Gegners steigt noch einmal um 1.
 - 1-2 Die Gefahrenstufe des Gegners steigt um 1.
 - 5-6 Du senkst die Gefahrenstufe um 1.
 - 6&6 Du senkst die Gefahrenstufe um 3.
 
-*Dieser Spielzug wird verwendet, um die Erfolgsstufe eines Gegners zu senken. Dies kann vor einem möglichen Kampf geschehen, aber auch während des Kampfes. Die Fähigkeiten, die dafür verwendet werden, sollten im Kontext der Situation Sinn ergeben und eine gute Geschichte erzählen.*
+*Dieser Spielzug wird verwendet, um die Gefahrenstufe eines Gegners zu senken. Dies kann vor einem möglichen Kampf geschehen, aber auch während des Kampfes. Die Fähigkeiten, die dafür verwendet werden, sollten im Kontext der Situation Sinn ergeben und eine gute Geschichte erzählen.*
 
 ## Der „Auf Reisen“ Spielzug
 
@@ -87,7 +87,7 @@ Ablauf eines Kampfes:
 
 *Die Spielenden sollten ermutigt werden, den Kampf cineastisch darzustellen und die Besonderheiten zu berücksichtigen, die ihre Charaktere haben. Nehmt euch Zeit für die Erzählung und hetzt nicht durch den Kampf. In den meisten Fällen ist ein Kampf nach einer oder zwei Runden vorbei, also genießt die Spannung und die Action, die ein Kampf mit sich bringt.* 
 
-<!-- Formulierung und eventuell Entwicklerkommentar für den Fall des wirklich Mal alles Charaktere in einem Kampf die maximalen ZUstände erreichen -->
+<!-- Formulierung und eventuell Entwicklerkommentar für den Fall, dass wirklich Mal alle Charaktere in einem Kampf die maximalen ZUstände erreichen -->
 
 ## Der „Hilfe anbieten“ Spielzug
 
