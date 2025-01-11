@@ -1,5 +1,7 @@
 # Spielbeispiele
 
+Hier findet ihr einige beispielhafte Szenen, wie sie theoretisch im Spielverlauf passieren können. Sie sind dazu gedacht, euch einen besseren Eindruck von den Regeln, den Spielzügen und dem Ablauf des Ganzen zu vermitteln. 
+
 ## Ablauf einer Session
 
 ##### Session 0
@@ -93,4 +95,19 @@ Kämpfe dauern in der Regel nur eine bis wenige Runden. Dabei würfeln wie im re
 >S1: Wie wäre es mit "Wasserratte", wegen dem Teich und so?  
 >SL: Na gut, ich bin mal nicht so. Dann würfel mal mit zwei weißen W6.  
 >S1: Wow, ich hab' sogar eine Doppel-Sechs geworfen!  
->SL: Cool, damit kannst du dann drei Zustände heilen. Der erste Zustand bleibt allerdings permanent, das ist ja dein Dämon. Aber die anderen beiden Zustände kannst du jetzt streichen.   
+>SL: Cool, damit kannst du dann drei Zustände heilen. Der erste Zustand bleibt allerdings permanent, das ist ja dein Dämon. Aber die anderen beiden Zustände kannst du jetzt streichen.
+
+## Das Abenteuer lösen
+
+>SL: So, wir haben jetzt etwa drei Stunden gespielt und ihr habt insgesamt 15 Hinweise gesammelt. Ich würde sagen damit kommen wir langsam zum Ende. Ihr bekommt jetzt ein bisschen Zeit von mir, vielleicht so 10-15 Minuten, damit ihr euch mit euren Hinweisen eine Story überlegen könnt. Zur Erinnerung: eure Aufgabe in diesem Abenteuer ist es herauszufinden, warum plötzlich Leute im Wald verschwinden und wie ihr dem Dorf helfen könnt. Je mehr Hinweise ihr in eurer Geschichte zusammenbaut, desto mehr senkt ihr die Schwierigkeit des Abenteuers, gegen die ihr am Schluss würfeln müsst. Im Moment liegt die Schwierigkeit bei 16.   
+>*Die Gruppe fängt an unter sich zu diskutieren. Es werden Verbindungen zwischen Hinweisen geknüpft und wieder verworfen, um dann an anderer Stelle wiederhergestellt zu werden. Immer wieder fällt jemandem auf, dass sie den einen oder anderen Hinweis aus der Liste ihrer gefundenen Hinweise noch nicht in der Geschichte eingebaut haben. Aber so langsam einigen sich alle auf eine bestimmte Abfolge.*  
+>SL: So, wie schaut's denn bei euch aus? Das klingt ja schon so als wärt ihr mit eurer Geschichte so weit zufrieden. Dann erzählt mir jetzt bitte einmal der Reihe nach was eurer Meinung nach passiert ist. Ich hake dann die Hinweise ab, die ihr in der Geschichte eingebaut habt. Wer möchte denn anfangen?  
+>S3: S2 hat mitgeschrieben, sie erklärt das mal.  
+>*S2 erklärt noch einmal die ganze Geschichte von vorn bis hinten und erklärt dabei auch, welche Hinweise die Gruppe zu dieser Lösung gebracht haben. Außerdem erzählt sie, wie die Gruppe gedenkt dem Dorf zu helfen und damit das Problem zu lösen.*  
+>SL: Wunderbar, vielen Dank. Wenn ich richtig mitgezählt habe, dann habt ihr in eurer Geschichte 13 von 15 gefundenen Hinweisen verwendet, das ist ja schonmal eine ganze Menge.  
+>S2: Ja, für diesen Brief und die Aussage, dass A und B sich hassen, haben wir irgendwie nicht die richtige Stelle gefunden.  
+>SL: Das macht nichts, ihr müsst ja nicht alle Hinweise verbauen. Die übrigen Hinweise können euch helfen, falls euer Wurf scheitert und es zum Kampf kommt. Jedenfalls habt ihr mit euren 13 Hinweisen die Schwierigkeit des Abenteuers von ursprünglich 16 auf 3 gesenkt. Über diesen Wert müsst ihr jetzt mit 2W6 würfeln. Wer mag denn? Ich würde sagen S2, sie hat ja auch die Geschichte erzählt.  
+>S2: Ok, Daumen drücken... Yeah, ich hab' eine 2 und eine 5, macht 7!  
+>SL: Sehr gut. Das heißt eure Lösung funktioniert. Die Dorfbewohner sind einverstanden und helfen euch dabei tatkräftig. Die Missetäter werden ihrer gerechten Strafe zugeführt und ihr habt euren Auftrag erfolgreich abgeschlossen.  
+
+Jede Gruppe baut aus den Hinweisen eine andere, ganz eigene Geschichte zusammen und schlägt dafür eine andere Lösung vor. Die Spielenden können auch hier wieder ihrer Kreativität freien Lauf lassen. Spätestens wenn die Spielleitung merkt, dass sich die Gruppe mit der Erzählung im Kreis dreht, sollte sie langsam wieder weitermachen und sich die Lösung präsentieren lassen. Die Geschichte, die sich die Gruppe ausgedacht hat, ist immer auch das, was tatsächlich passiert ist. Die Würfelprobe gegen die Schwierigkeit des Abenteuers ist dazu gedacht, um zu schauen ob die Spielenden ihren Lösungsvorschlag friedlich umsetzen können.
