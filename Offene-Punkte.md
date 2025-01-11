@@ -21,7 +21,7 @@
 - [ ] Fragen geteilt in Persönliche, Reisen und Camp?
 - [ ] Besser Episoden als Abschnitt?
 - [ ] Lernt die Gruppe nach jedem Abenteuer etwas über die Welt? Darf ihre Welt gestalten
-- [ ] Player Principells wie in Trophy?
+- [ ] Player Principles wie in Trophy?
 
 ## 2 Texte ergänzen/schreiben für's Regelwerk
 ### 2.1 Systembeschreibung
@@ -29,6 +29,18 @@
 - [ ] Erklärung, dass Fähigkeiten nicht das Einzige sind das die Charaktere können.
 - [ ] Spielbeispiel erstellen 
   - [ ] Ablauf einer Session
+  - [x] Etwas herausfinden
+  - [ ] Etwas riskieren
+  - [x] Eine Fähigkeit nutzen
+  - [x] Den Gegner schwächen
+  - [x] Auf Reisen
+  - [x] Kampf
+  - [x] Hilfe anbieten
+  - [ ] Das Abenteuer lösen
+  - [x] Wurf verbessern
+  - [x] Verderbnispunkte
+  - [ ] Außer Gefecht
+  - [ ] Stufenaufstieg        
 - [ ] Ablauf Spielabend / Abenteuer
 - [ ] Würfel und Proben bestehen
 - [ ] Gameplay Loop soll Schematisch im Regelwerk abgebildet werden. Ein Diagramm.
