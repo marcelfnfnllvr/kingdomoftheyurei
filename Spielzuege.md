@@ -50,7 +50,7 @@ Es ist möglich im Kampf die Gefahrenstufe des Gegners mithilfe von Fähigkeiten
 
 ## Der „Auf Reisen“ Spielzug
 
-Dieser Spielzug darf pro Spielendem nur einmal pro Abenteuer verwendet werden. Erzählt von einem Moment auf der Reise, um allein oder gemeinsam Zustände abzubauen. Dieser Spielzug gibt einen weißen Würfel. Um einen weiteren Würfel zu erhalten, muss die Erzählung etwas mit dem Attribut, von dem der Charakter den Würfel für diesen Spielzug bekommt, zu tun haben. <!-- mit DEM Attribut (welches genau) mit EINEM Attribut des Charakters? -- Besser ? -->
+Dieser Spielzug darf pro Spielendem nur einmal pro Abenteuer verwendet werden. Erzählt von einem Moment auf der Reise, um allein oder gemeinsam Zustände abzubauen. Dieser Spielzug gibt einen weißen Würfel. Um einen weiteren Würfel zu erhalten, muss die Erzählung etwas mit dem Attribut zu tun haben, von dem der Charakter den zweiten Würfel für diesen Spielzug bekommt, zu tun haben. 
 
 - 1&1 Die Spielleitung bekommt einen weiteren Verderbnispunkt.
 - 1-2 Die Spielleitung bekommt einen Verderbnispunkt.
