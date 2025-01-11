@@ -171,4 +171,46 @@ Auch wenn ein Charakter keine Fähigkeit besitzt, die ganz genau zur Situation p
 
 Jede Gruppe baut aus den Hinweisen eine andere, ganz eigene Geschichte zusammen und schlägt dafür eine andere Lösung vor. Die Spielenden können auch hier wieder ihrer Kreativität freien Lauf lassen. Spätestens wenn die Spielleitung merkt, dass sich die Gruppe mit der Erzählung im Kreis dreht, sollte sie langsam wieder weitermachen und sich die Lösung präsentieren lassen. Die Geschichte, die sich die Gruppe ausgedacht hat, ist immer auch das, was tatsächlich passiert ist. Die Würfelprobe gegen die Schwierigkeit des Abenteuers ist dazu gedacht, um zu schauen ob die Spielenden ihren Lösungsvorschlag friedlich umsetzen können.
 
-## Stufenaufstieg
+### Stufenaufstieg
+
+>**Martina**: Also, euer aktuelles Abenteuer ist jetzt zwar vorbei, aber bevor wir Feierabend machen, schauen wir natürlich noch, was jetzt mit euren Charakteren passiert und ob jemand einen Stufenaufstieg macht. Lydia, dein Charakter wurde ja außer Gefecht gesetzt, das heißt Ayane kommt jetzt auch in einen neuen Lebensabschnitt, allerdings nicht durch einen Stufenaufstieg. Da ihr Dämon mehr von ihr Besitz ergriffen hat, ist sie jetzt in einem dunklen Lebensabschnitt. Wie schaut's denn bei den anderen aus? Wir gehen einfach mal der Reihe nach durch. Ihr habt auf jeden Fall alle die aktive Aufgabe gelöst und das sogar friedlich. Dafür gibt es schonmal zwei Punkte für jeden.  
+>**Ralph**: Also ich habe ja auf jeden Fall eine Rückblende erzählt und damit sogar zwei Zustände geheilt...  
+>**Martina**: Das stimmt, dann sind das bei dir schonmal drei Punkte.  
+>**Ralph**: Außerdem hatte ich im Kampf ja einmal das Gefahrenlevel gesenkt. Also noch ein Punkt mehr, sind wir bei vier. Hmm, aber ein Geheimnis habe ich niemandem entlockt. Es bleibt also bei vier Punkten. Hey, damit habe ich die Stufe 2 voll!  
+>**Martina**: Sehr gut, dann kannst du dir überlegen ob du einen Stufenaufstieg der Stufe 2 machen möchtest oder lieber noch warten und schauen, ob du mit dem nächsten Abenteuer Stufe 3 erreichst. Wie sieht es bei Hannes aus?  
+>**Hannes**: Ich finde ich habe zumindest eine Situation friedlich deeskaliert, als ich diesen aufgebrachten Besitzer vom Ryokan beruhigt habe. Aber ich hatte diesmal keine Rückblende und auch nicht das Gefahrenlevel im Kampf gesenkt. Also insgesamt +3 Punkte. Damit wäre zwar meine Stufe 1 voll, aber ich warte lieber noch mit dem Aufstieg.  
+>**Martina**: Die Abenteuerfrage hattest du ja schon beantwortet, oder?  
+>**Hannes**: Ja, das hab ich schon in der ersten Session von diesem Abenteuer gemacht.  
+>**Martina**: Gut, dann bist du schonmal durch. Kommen wir zu Lydia.   
+>**Lydia**: Ja...  
+>**Martina**: Dein Charakter wurde außer Gefecht gesetzt, deshalb passiert jetzt Folgendes: Einmal altert dein Charakter, also erhöhst du deinen Abschnittscounter um 1. Außerdem tritt dein Dämon stärker hervor, aber das hattest du ja mit den weißen Haaren gemeint, glaube ich?  
+>**Lydia**: Ja, genau.  
+>**Martina**: Sehr cool. Dann weiter. In der Abschnittstabelle im Charakterbogen darfst du jetzt die nächste Frage beantworten. Du musst das auch nicht direkt, aber du kannst dir da ja mal etwas zu überlegen. Die Frage für den neuen Abschnitt ist "Erzähle, wie dein Charakter ihrem Dämon begegnet ist."  
+>**Lydia**: Ich glaube, ich weiß schon ungefähr wie.  
+>**Martina**: Dann musst du noch eines deiner Attributfelder von einem hellen in ein dunkles umwandeln. Wenn du das Attribut also nächstes Mal wieder für einen Wurf verwenden möchtest, gibt es dir dann einen schwarzen W6.  
+>**Lydia**:  Ist gut, ich denke da nehme ich meinen zweiten Gegenstandslot, geht das?  
+>**Martina**: Ja, das geht auch. Als nächstes würfelst du einen W2 und danach einen W20. Du bekommst jetzt nämlich eine neue Fähigkeit. Der W2 entscheidet, ob du auf die Tabelle 1 oder 2 würfelst, und der W20 gibt dir dann die neue Fähigkeit vor. Diese musst du dann gegen eine deiner alten Fähigkeiten tauschen. Die Fähigkeit, die dir dein Dämon verleiht, darfst du nicht eintauschen.  
+>**Lydia**: Gut, ich habe eine 1 und eine 12.  
+>**Martina**: Das ist die Fähigkeit *Leidfresser - Nimm das Leid einer Person oder eines Wesens als dein eigenes.*  
+>**Lydia**: Ok, dann ersetze ich *Auszehren* durch *Leidfresser*. Ich könnte mir vorstellen, dass Ayane nach dem, was heute passiert ist, sowas lieber nicht so schnell versuchen möchte.  
+>**Martina**: Du hast ohnehin gerade zwei Ängste, oder? Falls du weniger hast, dann müsstest du jetzt nochmal auf die Angsttabellen würfeln und auffüllen.  
+>**Lydia**: Nein, ich hab' noch zwei.  
+>**Martina**: Gut, dann setzt du jetzt nur noch deine Aufstiegspunkte zurück auf Null. Danach schauen wir aber bei dir auch direkt, welche der Abenteueraufgaben du gewählt hast, und welche geschafft sind.  
+>**Lydia**: Also zusätzlich zu den zwei *Abenteuer gelöst* und *Abenteuer friedlich gelöst* habe ich mich zumindest noch einem Kampf gestellt. Aber die anderen beiden passen leider nicht. Also bekomme ich wieder 3 Aufstiegspunkte?  
+>**Martina**: Genau, die trägst du jetzt wieder ein. Ayane ist jetzt in einem Lebensabschnitt, wo sie etwas die Kontrolle über ihren Dämon verloren hat. Das heißt dann auch, wenn du am Anfang eines Kampfes deinen Schwachpunkt mit 2W6 auswürfelst, behältst du nicht den höheren Wert, sondern den niedrigeren. Wie schaut es denn bei dir aus, Ralph? Möchtest du eine Stufe aufsteigen oder noch nicht?  
+>**Ralph**: Doch, ich würde das jetzt auch mal machen.  
+>**Martina**: Ok, dann pass mal auf... Zuerst setzt du deine Aufstiegspunkte zurück und entfernst deine Zustände. Der Dämon als erster Zustand bleibt natürlich.  
+>**Ralph**: Ok, hab ich gemacht.  
+>**Martina**: Als nächstes kannst du eine deiner Ängste verlieren, wenn du das irgendwie mit dem Abenteuer in Einklang bringen kannst. 
+>**Ralph**: Wie wäre es denn mit meiner Angst vor Kälte? Yūsuke hat ja zum Einen gesehen wie Ayane Kälte eingesetzt hat, um einen Menschen zu retten. Außerdem hat er seine Angst überwunden und ihr im Anschluss geholfen, als sie eine Eisskulptur war.  
+>**Martina**: Ja, ich finde das passt gut. Dann darfst du die Angst streichen. Außerdem darfst du deinen Abschnittscounter auch um 1 erhöhen und die dazugehörige Abschnittsfrage beantworten. Das ist dieselbe Frage wie bei Lydia. Im Gegensatz zu Ayane hat Yūsuke aber seinen Dämon weiterhin gut unter Kontrolle. Wenn du magst, dann kannst du jetzt auch noch ein Attribut oder einen Gegenstand ändern oder auch das Aussehen von deiner Markierung.  
+>**Ralph**: Also meine Attribute gefallen mir ganz gut, ich würde nur vielleicht sagen, dass das Geweih von Yūsuke etwas größer wird, so ähnlich wie vorhin, als er Ayane geholfen hat. Nur, dass es diesmal nicht aus grünem Licht ist, sondern halt ein normales, größeres Geweih.  
+>**Martina**: Sehr schön. Dann darfst du für eine passende Erzählung auch noch deine zweite Angst verlieren, wenn du magst. Und zuletzt dürftest du auch noch einmal auf die Fhäigkeiten-Tabelle würfeln und eine deiner Fähigkeiten tauschen. Nur deine Dämonenfähigkeit, die bleibt. Ist aber beides optional.  
+>**Ralph**: Ach, mit der anderen Angst hab ich eigentlich nichts passendes. Aber auf die Fähigkeiten-Tabelle würde ich gerne nochmal würfeln.  
+>**Martina**: Gut, dann gibt mir doch bitte auch nochmal einen W2 und einen W20.  
+>**Ralph**: Ich hab' keinen W2, aber ich würfel einach einen W6 und gucke ob es 1/2/3 oder 4/5/6 ist. Das sind eine 2 und 8.  
+>**Martina**: 2 und 8, das ist die Fähigkeit *Schleier - Du kannst von dir ausgehend einen Nebel erzeugen.*  
+>**Ralph**: Ok, dann tausche ich mal.  
+>**Martina**: Ich denke damit sind dann alle fertig soweit. Ach nein, eins fehlt natürlich noch: Ihr habt ja das Abenteuer abgeschlossen, also bekommt ihr noch eine neue Ehrung! Sie heißt "Hüter des Waldes" und gibt euch das Attribut "Umwelt". Die tragt ihr euch im Charakterbogen ein. Mit der Zeit sammelt ihr mehr Ehrungen. Ihr könnt am Ende eines Abenteuers eine Ehrung aus eurer Sammlung wählen und quasi "ausrüsten", damit steht euch für das nächste Abenteuer das dazugehörige Attribut zur Verfügung. Das tragt ihr auch im Charakterbogen ein. Keine Angst, die Titel werden nicht verbraucht sondern bleiben euch. Aber wechseln könnt ihr nur am Ende eines Abenteuers, nicht mittendrin.
+
+Im Lauf der Abenteuer sammeln die Spielenden Aufstiegspunkte. Haben sie genug Punkte beisammen, können sie einen Stufenaufstieg machen und damit für ihren Charakter einen neuen Lebensabschnitt einläuten. Je länger sie sammeln, desto mehr Möglichkeiten haben sie beim Stufenaufstieg. Allerdings ist natürlich auch das Risiko höher alles zu verlieren, wenn sie außer Gefecht gesetzt werden. Dann kommt der Charakter zwar auch in einen neuen Lebensabschnitt und darf ein paar Dinge würfeln. Allerdings gibt es dabei deutlich weniger Freiheiten, da der Charakter stärker von seinem Dämon vereinnahmt wird.
