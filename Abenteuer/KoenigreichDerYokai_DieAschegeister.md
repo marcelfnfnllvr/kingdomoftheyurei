@@ -32,8 +32,8 @@ Ihr seid auf dem Weg in das Dorf „Supa“. Es ist berühmt für sein schönes 
 
 ### Gefahren:
 
-- Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden. Stärke 12.
-- Aschegeister greifen die Gruppe an. Sie ergehen sich langsam aus dem Sand und formen fast menschliche Abbilder. <!-- welche Stufe?--> 
+- Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden. Gefahrenstufe 12.
+- Aschegeister greifen die Gruppe an. Sie erheben sich langsam aus dem Sand und formen fast menschliche Abbilder. Gefahrenstufe 8 bei einem, 10 bei einer ganzen Gruppe.<!-- Passt Stufe?--> 
 - Eine Person stirbt direkt vor ihren Augen. Sie zu löschen erfordert schnelles Handeln und einiges an Geschick.
 
 ### Momente:
@@ -106,7 +106,7 @@ Herausforderung: Es gilt sich um die Lavaströme und heiße Fontänen herum zu b
 
 > Eröffnungsfrage: Was am Dorf lädt euch zum Verweilen ein.
 
-##### Das Izakaja
+##### Das Izakaya
 
 > Eröffnungsfrage: Welche wohlschmeckenden Speise aus seiner Kindheit bestellt sich euer Charakter?
 
