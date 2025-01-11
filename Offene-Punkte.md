@@ -82,6 +82,7 @@
 - [ ] Karte zu Abenteuern vereinheitliche oder erstellen?
 - [ ] Das ganze Buch über die drei gleichen Charaktere für Erklärungen hernehmen.
   - [ ] Yūsuke gespielt von XXX
+- [ ] Namenstabelle erweitern
 
 ## 3 Das *BUCH*
 - [ ] Autorenkommentare hervorheben?
