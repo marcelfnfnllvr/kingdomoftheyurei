@@ -24,7 +24,7 @@ Die Charaktere der drei heißen
 - Ayane (gespielt von Lydia).
 Wenn die Spielenden oder die Spielleiterin in Character sprechen, dann steht das in "Anführungsstrichen".
 
-### Etwas herausfinden
+### Etwas herausfinden - Eröffnungsfrage - Hilfe anbieten
 
 >**Martina**: Ihr geht auf den Dorfplatz und beobachtet das geschäftige Treiben. Heute findet ein Markt statt, also sind hier gerade auch einige Händler die lautstark ihre Waren anpreisen. Und da habe ich auch gleich mal eine *Paint the Scene*-Frage für euch: Ihr wisst, dass das Dorf einmal ein florierender Handelsort war. Woran merkt ihr, dass es aber seine besten Zeiten schon hinter sich hat?  
 >**Lydia**: Der Marktplatz ist relativ groß für so einen kleinen Ort, aber mindestens ein Drittel vom Platz ist völlig leer, ohne Marktstände oder Läden. Nur eine Katze liegt dort auf einer Mauer und sonnt sich.  
@@ -61,7 +61,7 @@ Grundsätzlich ist der Spielzug "Etwas herausfinden" nicht sehr gefährlich, abe
 
 Diese Interaktion von dem S1 und dem SL veranschaulicht wie eine Fähigkeit für das Suchen von Hinweisen verwendet werden kann. In jedem Fall hätte der Spielleitende dem Spielenden die Geschichte erzählt wie der Wald verbrannt wurde, aber ohne einen weiteren Wurf auf "Etwas herausfinden" hätte der Spielende dafür keinen Hinweis erhalten. So hat der SL den Spielenden direkt nach dem Wurf "Eine Fähigkeit nutzen" auf "Etwas herausfinden" werfen lassen und der SC hat dabei auch noch den weißen Bonuswürfel aus seinem erfolgreichen "Eine Fähigkeit nutzen" Spielzug verwendet. 
 
-### Kampf 
+### Kampf - Den Gegner schwächen
 
 >**Martina**: Ich gebe jetzt meine 3 Verderbnispunkte aus, damit hier mal ein bisschen mehr Spannung aufkommt! Ihr biegt gerade in eine ene Gasse ein, da lauert euch eine Gruppe Jäger auf. Finstere Gestalten mit einem Sammelsurium verschiedener Waffen wollen euch von vorne und von hinten einkesseln. Sie sind auf eure besonderen dämonischen Merkmale aus und blicken gierig auf dein Geweih, Yūsuke, auf die Federn von Eran und auf Ayane mit ihrer schneeweißen Haut.   
 >**Lydia**: Wir stellen uns natürlich dem Kampf! Ayane schaut die Jäger grimmig und herausfordernd an und Jiro knurrt laut.    
@@ -96,7 +96,7 @@ Diese Interaktion von dem S1 und dem SL veranschaulicht wie eine Fähigkeit für
 Kämpfe dauern in der Regel nur eine bis wenige Runden. Dabei würfeln wie im restlichen Spielverlauf nur die Spielenden. Den Gegner zu schwächen ist sinnvoll und kann eine große Wirkung haben, wenn er eine Gefahrenstufe von 9 oder höher hat - ab einer Gefahrenstufe von mindestens 13 ist es sogar notwendig, da die Gruppe ihn sonst nicht besiegen kann. Wie detailliert Gewaltbeschreibungen und wie blutig die Kämpfe beschrieben werden sollen, das sollte die Gruppe in der Session 0 gemeinsam klären.
 
 
-### Etwas riskieren
+### Etwas riskieren - Außer Gefecht gesetzt
 
 >**Martina**: Ihr rennt zurück zur Schmiede, aber es ist bereits zu spät: im Garten findet ihr die Tochter des Schmieds, über und über bedeckt von einer schwarzen Masse, die aussehen, wie sich bewegende Wurzeln.  
 >**Hannes**: Oh nein, nicht Hisako! Eran läuft direkt hin und versucht sie aus diesen Wurzeln zu befreien. "Das darf nicht passieren, sie wollte uns doch nur helfen!"  
@@ -171,7 +171,7 @@ Auch wenn ein Charakter keine Fähigkeit besitzt, die ganz genau zur Situation p
 
 Jede Gruppe baut aus den Hinweisen eine andere, ganz eigene Geschichte zusammen und schlägt dafür eine andere Lösung vor. Die Spielenden können auch hier wieder ihrer Kreativität freien Lauf lassen. Spätestens wenn die Spielleitung merkt, dass sich die Gruppe mit der Erzählung im Kreis dreht, sollte sie langsam wieder weitermachen und sich die Lösung präsentieren lassen. Die Geschichte, die sich die Gruppe ausgedacht hat, ist immer auch das, was tatsächlich passiert ist. Die Würfelprobe gegen die Schwierigkeit des Abenteuers ist dazu gedacht, um zu schauen ob die Spielenden ihren Lösungsvorschlag friedlich umsetzen können.
 
-### Stufenaufstieg
+### Am Ende einer Spielsession - Stufenaufstieg - Außer Gefecht gesetzt
 
 >**Martina**: Also, euer aktuelles Abenteuer ist jetzt zwar vorbei, aber bevor wir Feierabend machen, schauen wir natürlich noch, was jetzt mit euren Charakteren passiert und ob jemand einen Stufenaufstieg macht. Lydia, dein Charakter wurde ja außer Gefecht gesetzt, das heißt Ayane kommt jetzt auch in einen neuen Lebensabschnitt, allerdings nicht durch einen Stufenaufstieg. Da ihr Dämon mehr von ihr Besitz ergriffen hat, ist sie jetzt in einem dunklen Lebensabschnitt. Wie schaut's denn bei den anderen aus? Wir gehen einfach mal der Reihe nach durch. Ihr habt auf jeden Fall alle die aktive Aufgabe gelöst und das sogar friedlich. Dafür gibt es schonmal zwei Punkte für jeden.  
 >**Ralph**: Also ich habe ja auf jeden Fall eine Rückblende erzählt und damit sogar zwei Zustände geheilt...  
