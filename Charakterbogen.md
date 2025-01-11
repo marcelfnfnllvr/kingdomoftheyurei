@@ -6,27 +6,39 @@
 | --------------- | -------------- |
 |                 |                |
 
-| Auferstehungen | Aufstiege |
-| -------------- | --------- |
-|                |           |
+| Dämonenabschnitt            | Abschnitt | I    | II   | III  | IV   | V    |
+| --------------------------- | --------- | ---- | ---- | ---- | ---- | ---- |
+| Ja - [    ] / Nein - [    ] |           | X    |      |      |      |      |
 
 ### Ehrungen
 
-| Titel | Attribut |
-| ----- | -------- |
-|       |          |
+| Titel | Attribut 1 |
+| ----- | ---------- |
+|       |            |
+
+### Reittier
+
+| Name | Beschreibung | Attribut 2 |
+| ---- | ------------ | ---------- |
+|      |              |            |
 
 ### Dämon
 
-| Dämon | Zeichnung | Attribut |
-| ----- | --------- | -------- |
-|       |           |          |
+| Dämon | Zeichnung | Attribut 3 |
+| ----- | --------- | ---------- |
+|       |           |            |
 
 ### Herkunft
 
-| Herkunft | Attribut | Attribut | Attribut |
-| -------- | -------- | -------- | -------- |
-|          |          |          |          |
+| Herkunft | Attribut 4 | Attribut 5 |
+| -------- | ---------- | ---------- |
+|          |            |            |
+
+### Ausrüstung
+
+| Gegenstand 1 (Attribut 6) | Freier Gegenstand (Attribut 7) |
+| ------------------------- | ------------------------------ |
+|                           |                                |
 
 ### Schwächen
 
@@ -34,42 +46,60 @@
 | ------- | ------- |
 |         |         |
 
-| Schwachpunkt Numerisch | Schwachpunkt Beschreibung |
-| ---------------------- | ------------------------- |
-|                        |                           |
-
-### Reittier
-
-| Name | Beschreibung | Attribut |
-| ---- | ------------ | -------- |
-|      |              |          |
-
 ### Fähigkeiten
 
-| **Fähigkeiten**            |
-| -------------------------- |
-|                            |
-|                            |
-|                            |
-| **Korruptionsstufe 2**     |
-|                            |
-| **Korruptionsstufe** **3** |
-|                            |
+| **Dämonfähigkeit**             |
+| ------------------------------ |
+|                                |
+| **Fähigkeiten 2 & 3**          |
+|                                |
+|                                |
+| **Fähigkeit 4 ab Abschnitt 2** |
+|                                |
+| **Fähigkeit 4 ab Abschnitt 3** |
+|                                |
 
 ### Korruption
 
 Korruption beschreibt, wie sehr der D&auml;mon von eurem Charakter besitzt ergreift und ihn ver&auml;ndert. Wenn die Korruption steigt, bekommt ihr ebenfalls einen Zustand. Zust&auml;nde zeigen den Geistigen und K&ouml;rperlichen Verfall eures Charakters.
 
-| Stufe      |              |
-| ---------- | ------------ |
-| 1 - [ x ]  | **Zustände** |
-| 2 - [    ] |              |
-| 3 - [    ] |              |
-| 4 - [    ] |              |
-| 5 - [    ] |              |
-| 6 - [    ] |              |
+| Stufe      | **Zustände**                            |
+| ---------- | --------------------------------------- |
+| 1 - [ x ]  | Der Dämon der mit dir verschmolzen ist. |
+| 2 - [    ] |                                         |
+| 3 - [    ] |                                         |
+| 4 - [    ] |                                         |
+| 5 - [    ] |                                         |
+| 6 - [    ] |                                         |
 
-### Ehrungen			
+### Zustände abbauen
+
+Habt einen ruhigen Moment oder erz&auml;hlt von einem auf Reisen, um alleine oder gemeinsam Korruption abzubauen. Ihr könnt einen Zustand über die Abenteuerfrage reduzieren und weitere über den Spielzug "Auf Reisen".
+
+- Abenteuerfrage  - [    ]
+- Auf Reisen Spielzug  - [    ]
+
+### Abschnittspunkte
+
+Stufe 1 -  [    ] [    ] [    ] [    ] [    ]
+
+Stufe 2 -  [    ] [    ] [    ]
+
+Stufe 3 -  [    ]		
+
+| **Wähle drei zusätzliche Fragen**                   | Gewählt |
+| --------------------------------------------------- | ------- |
+| Wurde die Momentan aktive Auggabe gelöst?           | X       |
+| Wurde die Aufgabe friedlich gelöst?                 | X       |
+| Hast du eine physische Probe erfolgreich bestanden? |         |
+| Hast du einer Person ein Geheimnis entlockt?        |         |
+| Hast du eine Situation deskaliert?                  |         |
+| Hast du dich einem Kampf gestellt?                  |         |
+| Hast du eine Rückblende erzählt?                    |         |
+| Hast du eine deiner Fähigkeiten eingesetzt?         |         |
+| Hast du das Gefahrenlevel einer Bedrohung gesenkt?  |         |
+
+### Ehrungen		
 
 | **Titel** | Attribut |
 | --------- | -------- |
@@ -78,4 +108,42 @@ Korruption beschreibt, wie sehr der D&auml;mon von eurem Charakter besitzt ergre
 |           |          |
 |           |          |
 |           |          |
+|           |          |
+|           |          |
+|           |          |
 
+### Abenteuerhistorie
+
+| Abenteuername - Abenteuerfrage |
+| ------------------------------ |
+| Antwort auf die Abenteuerfrage |
+|                                |
+|                                |
+|                                |
+|                                |
+|                                |
+|                                |
+|                                |
+|                                |
+|                                |
+|                                |
+|                                |
+|                                |
+|                                |
+|                                |
+|                                |
+|                                |
+
+### Lebensabschnittsfragen
+
+| II. Erzähle, wie dein Charakter mit seinem Dämon verschmolzen ist. |
+| ------------------------------------------------------------ |
+|                                                              |
+| **III. Erzähle von einer Vorahnung, die dein Charakter als Kind von ihrem jetztigen Leben hatte.** |
+|                                                              |
+| **IV. Erzähle von einem Moment mit deinem Reittier, den du nie vergessen wirst.** |
+|                                                              |
+| **V. An welche Szene, aus den bisher bestrittenen Abenteuern, wird sich dein Charakter für den Rest seines Lebens erinnern?** |
+|                                                              |
+| **VI. Wie verbringt dein Charakter seinen Lebensabend?**     |
+|                                                              |
