@@ -26,21 +26,20 @@ Meister des Waldes - Überleben
 
 ### Abenteuerfrage:
 
-
+> Was hofft euer Charakter in der abgelegenen Festung zu finden?
 
 ### Eröffnung:
 
 Ihr seid seit Tagen unterwegs durch den endlosen Wald. In der Mitte soll es eine fortschrittliche und wohlhabende Festung mit einer gnädigen Kaiserin geben. Ganz ohne Einfluss der Zentralregierung.
 
-> Was hofft euer Charakter in der abgelegenen Festung zu finden? <!-- ich glaube das war hier die Abenteuerfrage, oder? -->
-
 Am Horizont seht ihr einen älteren Mann mit einem Ochsen und einem kaputten Karren, den er gerade repariert. Als ihr näher kommt, seht ihr einen zweiten Ochsen, der leblos neben dem Karren liegt. Der Mann neben dem Karren stellt sich als Botan Ryan vor. Er erzählt, dass eine wilde Kreatur aus dem Wald gestürmt sei, den Ochsen sofort getötet habe und mit seiner Tochter in den Wald geflohen sei. Er kann ihre Schreie noch in seinen Ohren hören. Er bittet die Gruppe um Hilfe. Das Wesen scheint kein normales Tier zu sein.
 
 ### Gefahren:
 
-- Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden.
-- Ein mit der Schwarzen Pest infiziertes Tier läuft auf die Gruppe zu.
+- Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden. Gefahrenstufe 10.
+- Ein mit der Schwarzen Pest infiziertes Tier läuft auf die Gruppe zu. Gefahrenstufe 8 wenn allein und 12 wenn eine ganze Gruppe auftaucht.
 - Die Gruppe der Wildschweine könnte mittlerweile infiziert sein.
+- Auch die Bäume sind bereits Opfer der Schwarzen Pest geworden. Als die Gruppe einen Waldabschnitt passieren will, stürzen einige davon direkt über ihnen zusammen. Jetzt sind schnelle Reflexe gefragt!
 
 ### Momente:
 
