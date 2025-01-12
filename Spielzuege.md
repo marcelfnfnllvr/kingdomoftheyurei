@@ -23,7 +23,7 @@ Wenn dir jemand misstraut oder wenn du etwas Riskantes tun willst, würfle auf d
 - 5-6 Du machst genau was du dir vorgenommen hast und behältst die Nerven.
 - 6&6 Du bekommst einen Hinweis und einen weißen Bonuswürfel, den du frei einsetzen darfst.
 
-*Dieser Spielzug sollte verwendet werden, wenn die Situation potenziell gefährlich ist. Dies kann z.B. der Versuch sein, einen Felsvorsprung hinunterzuklettern, ein Labyrinth zu durchqueren oder eine aufgebrachte Person zu beruhigen. Außerdem ist es mit diesem Spielzug möglich sich auf seinen Dämon zu konzentrieren und dessen Kräfte zu nutzen. So können Fähigkeiten eingesetzt werden, die der Charakter nicht direkt besitzt. Damit ist es z.B. möglich, einen NSC wiederzubeleben, mit dem Dämonenreich zu kommunizieren oder besonders stark oder wendig zu sein.*
+*Dieser Spielzug sollte verwendet werden, wenn die Situation potenziell gefährlich ist. Dies kann z.B. der Versuch sein, einen Felsvorsprung hinunterzuklettern, ein Labyrinth zu durchqueren oder eine aufgebrachte Person zu beruhigen. Außerdem ist es mit diesem Spielzug möglich sich auf seinen Dämon zu konzentrieren und dessen Kräfte zu nutzen. So können Fähigkeiten eingesetzt werden, die der Charakter nicht direkt besitzt. Damit ist es z.B. möglich, einen NSC wiederzubeleben, mit der Welt des Zwielichts zu kommunizieren oder besonders stark oder wendig zu sein.*
 
 ## Der „Eine Fähigkeit nutzen“ Spielzug
 
@@ -87,7 +87,7 @@ Ablauf eines Kampfes:
 
 *Die Spielenden sollten ermutigt werden, den Kampf cineastisch darzustellen und die Besonderheiten zu berücksichtigen, die ihre Charaktere haben. Nehmt euch Zeit für die Erzählung und hetzt nicht durch den Kampf. In den meisten Fällen ist ein Kampf nach einer oder zwei Runden vorbei, also genießt die Spannung und die Action, die ein Kampf mit sich bringt.* 
 
-<!-- Formulierung und eventuell Entwicklerkommentar für den Fall, dass wirklich Mal alle Charaktere in einem Kampf die maximalen ZUstände erreichen -->
+<!-- Entwicklerkommentar für den Fall, dass wirklich Mal alle Charaktere in einem Kampf die maximalen Zustände erreichen -->
 
 ## Der „Hilfe anbieten“ Spielzug
 
