@@ -64,19 +64,23 @@
 
 ## Essen
 das hier kennt man natürlich eher, ist aber scheinbar erst später erfunden worden ¯\_(ツ)_/¯ :
-	"richtiges" Sushi (Nigiri, Maki) - ab 1600
-	Ramen - frühes 20. Jh.
-	Okonomiyaki - 1930er
-	Taiyaki - 1909
-	Takoyaki - 1935
-	Shabu Shabu - 20. Jh.
-	Yakitori - 1880er
-	Gyoza - 1940er
-	Tempura - 16. Jh.
-	Tamagoyaki - 1600
+	"richtiges" Sushi (Nigiri, Maki) - ab 1600  
+	Ramen - frühes 20. Jh.  
+	Okonomiyaki - 1930er  
+	Taiyaki - 1909  
+	Takoyaki - 1935  
+	Shabu Shabu - 20. Jh.  
+	Yakitori - 1880er  
+	Gyoza - 1940er  
+	Tempura - 16. Jh.  
+	Tamagoyaki - 1600  
 	
 - Viel Essen
 
 - Sehr viel Essen
 
 - Essen Essen Essen
+
+## Reittiere
+
+Frosch
