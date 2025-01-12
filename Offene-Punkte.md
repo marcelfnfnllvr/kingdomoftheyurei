@@ -26,11 +26,12 @@
 ## 2 Texte ergänzen/schreiben für's Regelwerk
 ### 2.1 Systembeschreibung
 - [ ] Allgemeine Erklärungen und Einführungen fertigstellen
+- [ ] Irgendwo erklären, wofür die Eröffnungsfragen in den Abenteuern gedacht sind, und wie sie eingesetzt werden.  
 - [ ] Erklärung, dass Fähigkeiten nicht das Einzige sind das die Charaktere können.
 - [ ] Spielbeispiel erstellen 
   - [ ] Ablauf einer Session
   - [x] Etwas herausfinden
-  - [ ] Etwas riskieren
+  - [x] Etwas riskieren
   - [x] Eine Fähigkeit nutzen
   - [x] Den Gegner schwächen
   - [x] Auf Reisen
@@ -39,9 +40,9 @@
   - [x] Das Abenteuer lösen
   - [x] Wurf verbessern
   - [x] Verderbnispunkte
-  - [ ] Außer Gefecht
-  - [ ] Stufenaufstieg
-  - [ ] Paint the Scene/Eröffnungsfrage    
+  - [x] Außer Gefecht
+  - [x] Stufenaufstieg
+  - [x] Paint the Scene/Eröffnungsfrage (beim Hilfe anbieten-Beispiel einbauen)   
 - [ ] Ablauf Spielabend / Abenteuer
 - [ ] Würfel und Proben bestehen
 - [ ] Gameplay Loop soll Schematisch im Regelwerk abgebildet werden. Ein Diagramm.
@@ -81,7 +82,9 @@
 - [ ] Wichtige Japanische Begriffe für die Abenteuer am Anfang des Abenteuers erneut hervorheben
 - [ ] Karte zu Abenteuern vereinheitliche oder erstellen?
 - [ ] Das ganze Buch über die drei gleichen Charaktere für Erklärungen hernehmen.
-  - [ ] Yūsuke gespielt von XXX
+  - [ ] Yūsuke (Hirsch) gespielt von Ralph - Reittier Wasserbüffel (Ken)  
+  - [ ] Eran (Tengu) gespielt von Hannes - Reittier Steinbock (Shiori)
+  - [ ] Ayane (Yuki Onna) gespielt von Lydia - Reittier Bär (Jiro)
 - [ ] Namenstabelle erweitern
 
 ## 3 Das *BUCH*
@@ -102,6 +105,7 @@
     - [ ] Unterschiede und Abgrenzung zum realen Japan
   - [ ] Darstellung der Welt und Begrifflichkeiten
     - [ ] Beispiele für Japanische Architektur, Geflogenheiten und Begriffe
+     - [ ] Keigo
 
 
 ## 4 Zukunftsmusik?
