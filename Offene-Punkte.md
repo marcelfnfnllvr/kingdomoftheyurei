@@ -1,26 +1,9 @@
 # Offene Punkte
 
 ## 1 Änderungen/Ergänzungen für Regeln u. Spielzüge
-- [x] Die Regel kritischer Misserfolg und kritischer Erfolg weg und diese immer direkt in den Spielzug und spezifisch für den Spielzug passend!
-- [x] Erklärung: im Kampf das Gegnerlevel die über 12 sind erste gesenkt werden müssen!
-- [x] Modifikatoren weg?
-- [x] Hilfewurf abändern? Mehr erlauben? Mehr Kreativität? <!-- Textvorschlag steht jetzt drin-->
-- [x] Klarstellung Sitzung vs Abenteuer (Regeln --> Am Ende des Abends)
-- [x] Fragen für die Rast
-  - [x] Erzähle eine Situation, die die Gruppe zum Lachen gebracht hat. <!-- steht doch in der Beschreibung zum Move schon drinne? -->
 - [ ] Haiku als Mechanik?
   - [ ] Eventuell für den Stufenaufstieg bzw. das "sterben/außer Gefecht gesetzt"
-- [x] Zustand in die Modifikator Tabelle ändern
-- [x] Welthinweise komplett entfernen
-- [x] Eine Fähigkeit direkt über den Dämon?
-- [x] Zweiter Gegenstand als eigene Tabelle?
-- [x] Ein freier Gegenstandslot
-- [x] Alte Geschichten über die Welt abfragen als Move? Oder beim Heilen? Oder mhmmm
-- [x] Frage 
-  - [x] Wie bist du in Kontakt mit deinem Dämon gekommen? Wie hast du überlebt?
-- [x] Fragen geteilt in Persönliche, Reisen und Camp?
 - [ ] Besser Episoden als Abschnitt?
-- [x] Lernt die Gruppe nach jedem Abenteuer etwas über die Welt? Darf ihre Welt gestalten
 - [ ] Player Principles wie in Trophy?
 
 ## 2 Texte ergänzen/schreiben für's Regelwerk
@@ -119,6 +102,22 @@
 
 
 ## erledigt
+- [x] Lernt die Gruppe nach jedem Abenteuer etwas über die Welt? Darf ihre Welt gestalten
+- [x] Zustand in die Modifikator Tabelle ändern
+- [x] Welthinweise komplett entfernen
+- [x] Eine Fähigkeit direkt über den Dämon?
+- [x] Zweiter Gegenstand als eigene Tabelle?
+- [x] Ein freier Gegenstandslot
+- [x] Alte Geschichten über die Welt abfragen als Move? Oder beim Heilen? Oder mhmmm
+- [x] Frage 
+  - [x] Wie bist du in Kontakt mit deinem Dämon gekommen? Wie hast du überlebt?
+- [x] Fragen geteilt in Persönliche, Reisen und Camp?Die Regel kritischer Misserfolg und kritischer Erfolg weg und diese immer direkt in den Spielzug und spezifisch für den Spielzug passend!
+- [x] Erklärung: im Kampf das Gegnerlevel die über 12 sind erste gesenkt werden müssen!
+- [x] Modifikatoren weg?
+- [x] Hilfewurf abändern? Mehr erlauben? Mehr Kreativität? <!-- Textvorschlag steht jetzt drin-->
+- [x] Klarstellung Sitzung vs Abenteuer (Regeln --> Am Ende des Abends)
+- [x] Fragen für die Rast
+  - [x] Erzähle eine Situation, die die Gruppe zum Lachen gebracht hat. <!-- steht doch in der Beschreibung zum Move schon drinne? -->
 - [x] Charaktererstellung und Konzept
 - [x] Abenteueraufbau
 - [x] Änderung der Levelmechanik
@@ -135,7 +134,6 @@
 - [x] Eine Art Historysheet des Charakters?
   - [x] Der Pilzbefall -> Aufstieg -> Das Anwesen -> Die Aschegeister -> Gefallen -> XXsY
 - [x] Kein sterben mehr oder so sondern die Charaktere sind einfach auf 5 Abenteuer ausgelegt und verändern sich mit jedem Abenteuer ein wenig. Je nachdem ob sie gestorben sind oder was sie gemacht haben oder wie viel Punkte sie gesammelt haben. Am 5ten Abend bekommt der Charakter dann einen schönen Abschluss. Je nachdem wie viel er bis dahin ge
-
 - [x] Wirkliche sterben und heilen und so abschaffen? Progression über die Abenteuer hinweg. Tod bzw auder Gefecht nur wichtig ob es ein schwarze oder ein weise Epoche des Charakters war?
 - [x] Doch vor dem Kampf den Würfel werfen aber mit einem Modifikator drauf? Also von +1 - -2 oder so.
 - [x] Einen Zustand heilen über eine spezifische Frage die nur für das Abenteuer ist
