@@ -12,13 +12,13 @@ Die Fragestellung, die es zu beantworten gilt.
 
 Die Eskalation, die ausgelöst wird, wenn der Gruppe der "Die Aufgabe lösen" Spielzug misslingt.
 
-Der Name der Ehrung - Das Attribut der Ehrung
+Der Name der Ehrung - Das Attribut der Ehrung. Erhalten die Spielenden, wenn sie das Abenteuer abgeschlossen haben.
 
 ### Eröffnung:
 
 Eine Eröffnung wie die Charaktere am Abenteuerort ankommen. 
 
-> Im Besten Fall eine passende "Die Szene Ausmalen" Frage?
+> Im besten Fall eine passende "Die Szene Ausmalen" Frage?
 
 ### Gefahren:
 
@@ -42,7 +42,7 @@ Eine längere Beschreibung des Verhaltens der Person mit kurzen Beispielen.
 
 Ist dieser grundsätzlich ungefährlich oder gefährlich?
 
-> Eröffnungsfrage: Eine Eröffnungsfrage, die den Ort beschreibt?
+> Eröffnungsfrage: Eine Eröffnungsfrage an die Spielenden, damit sie den Schauplatz mitgestalten können?
 
 Herausforderung: Falls der Ort eine Herausforderung bietet, wird diese kurz skizziert.
 
