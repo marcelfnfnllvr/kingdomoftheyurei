@@ -37,17 +37,18 @@ Wenn ein Charakter sechs Zustände aufbaut, ist er außer Gefecht gesetzt. Es er
 
 1. Der Körper und der Geist deines Charakters altern. Erhöhe den Abschnitt um eins.
    -	Wenn dein Charakter jetzt im sechsten Lebensabschnitt ist, ist er zu müde und erschöpft, um weiterzumachen. Wie sieht der Lebensabend deines Charakters aus?
-2. Beantworte die nächste Frage auf der Abschnittstabelle.
-3. Ändere eines der Attributfelder in ein schwarzes.
-4. Würfle jeweils einmal auf die Fähigkeitstabelle und würfle dann mit W3, welche Fähigkeit du gegen eine neue tauschen musst. Die Dämonenfähigkeit kann nicht getauscht werden. 
-5. Fehlende Ängste werden neu gewürfelt.
-6. Die Veränderung wird sichtbar stärker.
-7. Setze deine Aufstiegspunkte wieder zurück.
-8. Du bist jetzt in einem Lebensabschnitt in dem du langsam die Kontrolle über deinen Dämon verlierst.
+2. Deine Zustände werden zurückgesetzt. 
+3. Beantworte die nächste Frage auf der Abschnittstabelle.
+4. Ändere eines der Attributfelder in ein schwarzes.
+5. Würfle jeweils einmal auf die Fähigkeitstabelle und würfle dann mit W3, welche Fähigkeit du gegen eine neue tauschen musst. Die Dämonenfähigkeit kann nicht getauscht werden. 
+6. Fehlende Ängste werden neu gewürfelt.
+7. Die Veränderung wird sichtbar stärker.
+8. Setze deine Aufstiegspunkte wieder zurück.
+9. Du bist jetzt in einem Lebensabschnitt in dem du langsam die Kontrolle über deinen Dämon verlierst.
 
 ## Der Stufenaufstieg
 
-Euer Charakter verdient sich nach jeder Spielsession Aufstiegtspunkte. Diese werden gesammelt und können für einen Aufstieg der Stufe 1, 2 oder 3 ausgegeben werden. Bedenkt allerdings, dass alle gesammelten Punkte verloren gehen falls ihr außer Gefecht gesetzt werden solltet. Der Stufenaufstieg ist eine Art Alterungsprozess des Charakters. Kein Charakter ist für die Ewigkeit gemacht. Es werden die Punkte "Bei jedem Aufstieg" und die Punkte zugehörig zur jeweilige Stufe abgehandelt.
+Euer Charakter verdient sich nach jeder Spielsession Aufstiegtspunkte. Diese werden gesammelt und können für einen Aufstieg der Stufe 1, 2 oder 3 ausgegeben werden. Bedenkt allerdings, dass alle gesammelten Punkte verloren gehen, falls ihr außer Gefecht gesetzt werden solltet. Der Stufenaufstieg ist eine Art Alterungsprozess des Charakters. Kein Charakter ist für die Ewigkeit gemacht. Es werden die Punkte "Bei jedem Aufstieg" und die Punkte zugehörig zur jeweilige Stufe abgehandelt.
 
 Bei jedem Aufstieg:
 
