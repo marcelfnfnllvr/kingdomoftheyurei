@@ -43,7 +43,7 @@ Wenn ein Charakter sechs Zustände aufbaut, ist er außer Gefecht gesetzt. Es er
 
 1. Der Körper und der Geist deines Charakters altern. Erhöhe den Abschnitt um eins.
    -	Wenn dein Charakter jetzt im sechsten Lebensabschnitt ist, ist er zu müde und erschöpft, um weiterzumachen. Wie sieht der Lebensabend deines Charakters aus?
-2. Deine Zustände werden zurückgesetzt. 
+2. Setze deine Zustände zurück. 
 3. Beantworte die nächste Frage auf der Abschnittstabelle.
 4. Ändere eines der Attributfelder in ein schwarzes.
 5. Würfle jeweils einmal auf die Fähigkeitstabelle und würfle dann mit W3, welche Fähigkeit du gegen eine neue tauschen musst. Die Dämonenfähigkeit kann nicht getauscht werden. 
@@ -59,7 +59,7 @@ Euer Charakter verdient sich nach jeder Spielsession Aufstiegtspunkte. Diese wer
 Bei jedem Aufstieg:
 
 1. Der Aufstiegspunktezähler wird zurückgesetzt.
-2. Deine Zustände werden zurückgesetzt. 
+2. Setze deine Zustände zurück. 
 3. Wenn du es schaffst, es mit dem aktuellen Abenteuer in Einklang zu bringen, verlierst du eine Angst.
 4. Beantworte die nächste Frage auf der Abschnittstabelle.
 5. Der Körper und der Geist deines Charakters altern. Erhöhe den Abschnitt um eins.
