@@ -9,23 +9,26 @@
 ## 2 Texte ergänzen/schreiben für's Regelwerk
 ### 2.1 Systembeschreibung
 - [ ] Allgemeine Erklärungen und Einführungen fertigstellen
+- [ ] Bezeichnung vereinheitlichen: Welt/Reich Zwielichts, nicht Dämonenreich, Geisterebene etc.
 - [ ] Irgendwo erklären, wofür die Eröffnungsfragen in den Abenteuern gedacht sind, und wie sie eingesetzt werden.  
 - [ ] Erklärung, dass Fähigkeiten nicht das Einzige sind das die Charaktere können.
-- [ ] Spielbeispiel erstellen 
+- [ ] Spielzüge > Kampf > Entwicklerkommentar für den Fall, dass wirklich Mal alle Charaktere in einem Kampf die maximalen Zustände erreichen
+- [ ] Spielbeispiele 
   - [ ] Ablauf einer Session
-  - [x] Etwas herausfinden
-  - [x] Etwas riskieren
-  - [x] Eine Fähigkeit nutzen
-  - [x] Den Gegner schwächen
-  - [x] Auf Reisen
-  - [x] Kampf
-  - [x] Hilfe anbieten
-  - [x] Das Abenteuer lösen
-  - [x] Wurf verbessern
-  - [x] Verderbnispunkte
-  - [x] Außer Gefecht
-  - [x] Stufenaufstieg
-  - [x] Paint the Scene/Eröffnungsfrage (beim Hilfe anbieten-Beispiel einbauen)   
+  - [ ] Beispiel
+   - [x] Etwas herausfinden
+   - [x] Etwas riskieren
+   - [x] Eine Fähigkeit nutzen
+   - [x] Den Gegner schwächen
+   - [x] Auf Reisen
+   - [x] Kampf
+   - [x] Hilfe anbieten
+   - [x] Das Abenteuer lösen
+   - [x] Wurf verbessern
+   - [x] Verderbnispunkte
+   - [x] Außer Gefecht
+   - [x] Stufenaufstieg
+   - [x] Paint the Scene/Eröffnungsfrage (beim Hilfe anbieten-Beispiel einbauen)   
 - [ ] Ablauf Spielabend / Abenteuer
 - [ ] Würfel und Proben bestehen
 - [ ] Gameplay Loop soll Schematisch im Regelwerk abgebildet werden. Ein Diagramm.
@@ -68,11 +71,10 @@
   - [ ] Yūsuke (Hirsch) gespielt von Ralph - Reittier Wasserbüffel (Ken)  
   - [ ] Eran (Tengu) gespielt von Hannes - Reittier Steinbock (Shiori)
   - [ ] Ayane (Yuki Onna) gespielt von Lydia - Reittier Bär (Jiro)
-- [ ] Namenstabelle erweitern
+- [x] Namenstabelle erweitern
 
 ## 3 Das *BUCH*
 - [ ] Autorenkommentare hervorheben?
-- [ ] Vogelfedern im Seitendesign/Layout
 - [ ] Aufbau - Buch?
   - [ ] Worum geht es in diesem Rollenspiel?
     - [ ] Einordnung des Regelwerks
@@ -89,6 +91,10 @@
   - [ ] Darstellung der Welt und Begrifflichkeiten
     - [ ] Beispiele für Japanische Architektur, Geflogenheiten und Begriffe
      - [ ] Keigo
+   - [ ] Regelsystem
+    - [ ] Einleitung/Erläuterungen zu Mechaniken
+    - [ ] Regeln
+    - [ ] Spielzüge
 
 
 ## 4 Zukunftsmusik?
