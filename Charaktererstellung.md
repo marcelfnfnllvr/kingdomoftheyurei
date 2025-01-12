@@ -51,7 +51,7 @@ Theoretisch ist es natürlich möglich, dass die Spielenden ein Veto gegen die W
 | --------------------------- | --------- | ---- | ---- | ---- | ---- | ---- |
 | Ja - [    ] / Nein - [    ] |           | X    |      |      |      |      |
 
-### Ehrungen
+### Ehrung
 
 | Titel | Attribut 1 |
 | ----- | ---------- |
