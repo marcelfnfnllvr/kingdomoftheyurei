@@ -17,7 +17,7 @@
   - **SC**  
     Spielercharakter. Alle Spielenden in der Runde besitzen je einen fiktiven Spielercharakter, den sie erdacht und mithilfe der Zufallstabellen gebaut haben und mit dem sie die Abenteuer bestreiten. Grundsätzlich kann einen Spielercharakter nur dessen Besitzer oder Besitzerin steuern.
   - **Session 0**  
-    Eine Gesprächsrunde mit der Spielleitung und der gesamten Gruppe, bevor die eigentliche Pen&Paper-Runde losgeht. Hier wird z.B. über den Ablauf gesprochen und über die Erwartung aller Beteiligten. Außerdem können dabei Sicherheitsmechanismen und Tabuthemen besprochen werden und die Charaktere gebaut werden.
+    Eine Gesprächsrunde mit der Spielleitung und der gesamten Gruppe, bevor die eigentliche Pen&Paper-Runde losgeht. Hier wird z.B. über den Ablauf gesprochen und über die Erwartung aller Beteiligten. Außerdem können dabei Sicherheitsmechanismen und Tabuthemen besprochen und die Charaktere gebaut werden.
   - **SL**    
     Der oder die Spielleitende. Gibt die Rahmenhandlung für das Abenteuer vor, spielt die Nicht-Spieler-Charaktere (NSC), verteilt Hinweise für erfolgreiche Würfe und gestaltet so gemeinsam mit den Spielenden die Runde.
   - **W6**  
@@ -26,12 +26,12 @@
 ### Allgemeine Begriffe aus dem Japanischen
   - **Yōkai**  
     Übernatürliche Wesen aus der japanischen Folklore, meist mit magischen Fähigkeiten. Können Menschen gegenüber bösartig, gleichgültig oder sogar wohlwollend auftreten. Das Spektrum ist sehr weit und umfasst zum Beispiel:
-     - Iwana bōzu (Saibling-Mönch")  
+     - Iwana bōzu ("Saibling-Mönch")  
        Sehr großer Süßwasserfisch (Japan-Saibling) auf Menschenbeinen in Priestergewand. Lebt in Flüssen und bittet Angler, dass sie aufhören Fische zu fangen. Belehrt über die Probleme von Überfischung und dagegen, sinnlos Leben zu nehmen. Durch seine Körperform, Kleidung und ehrwürdige Ausdrucksform sehr gut getarnt.  
      - Hyakume ("Einhundert Augen")  
        Ein in verlassenen Gebäuden und anderen düsteren Orten lebendes Wesen mit annähernd menschlichem Körper, der über und über bedeckt ist mit gelben Augen. Bewacht seinen auserkorenen Wohnort vor Dieben, ist generell aber scheu. Einzelne Augen können sich auch vom Körper lösen und eine zeitlang unabhängig herumschweben, um beispielsweise Eindringlinge zu beobachten.
      - Kappa ("Flusskind")  
-       Ehrenhafter Wasser-Yōkai, etwa kindsgroß, aber sehr stark, mit reptilienartigen Zügen, grüner Haut, Schwimmhäuten und auf dem Kopf einer schalenartigen Einbuchtung. Die Kuhle auf dem Kopf muss immer mit Wasser gefüllt sein, aus diesem zieht der Kappa seine Macht. Sehr intelligent und in der Lage die menschliche Sprahce zu lernen. Mal hilsbereit und gern unter Menschen gesehen, mal eher spitzbübisch und zu Streichen aufgelegt oder aber gewalttätig und tödlich.
+       Ehrenhafter Wasser-Yōkai, etwa kindsgroß, aber sehr stark, mit reptilienartigen Zügen, grüner Haut, Schwimmhäuten und auf dem Kopf einer schalenartigen Einbuchtung. Die Kuhle auf dem Kopf muss immer mit Wasser gefüllt sein, aus diesem zieht der Kappa seine Macht. Sehr intelligent und in der Lage die menschliche Sprache zu lernen. Mal hilsbereit und gern unter Menschen gesehen, mal eher spitzbübisch und zu Streichen aufgelegt oder aber gewalttätig und tödlich.
      - Kitsune ("Fuchs")  
        Fuchs mit sehr mächtigen magischen Fähigkeiten. Sehr intelligente Gestaltwandler, die entweder als verehrte Götterboten fungieren oder als zu Streichen aufgelegte Störenfriede. Können auch menschliche Form annehmen und leben teilweise sogar als Mensch. Je mehr Fuchsschwänze ein Kitsune hat (maximal 9), desto mächtiger ist er.
      - Kodama ("Baumgeist")  
