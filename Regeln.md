@@ -1,14 +1,14 @@
 # Regeln
 
-Hier findest du alle Regeln, die du zum Spielen von **Augen des Zwielichts: Königreich der Yōkai** benötigst. Den genauen Spielablauf findest du in den Spielbeispielen. 
+Hier findest du alle Regeln, die du zum Spielen von *Augen des Zwielichts: Königreich der Yōkai* benötigst. Den genauen Spielablauf findest du in den Spielbeispielen. 
 
-Introtext? Würfelpool? Schwarze oder weiße Würfel? Es werden nur die zwei höchsten Augenzahlen betrachtet!
+<!--Introtext? Würfelpool? Schwarze oder weiße Würfel? Es werden nur die zwei höchsten Augenzahlen betrachtet!-->
 
 ## Der Würfelpool - Würfel sammeln
 
 Für jeden Spielzug erhältst du einen Würfel. Für ungefährliche Spielzüge gibt es einen weißen Würfel, für gefährliche einen schwarzen. Für ein passendes Attribut bekommst du einen zweiten Würfel. Je nach Attribut kann dieser weiß oder schwarz sein. Den dritten Würfel bekommst du entweder für eine Angst oder einen Zustand. Außerdem kannst du durch bestimmte Aktionen Bonuswürfel sammeln, die du zusätzlich einsetzen kannst. Maximal kann der Würfelpool beim ersten Wurf auf einen Spielzug vier Würfel beinhalten.
 
-1D6 [Spielzug - Weiss oder Schwarz] +1D6 [Attribut oder Equipment - Weiss oder Schwarz] + 1D6 [Angst oder Zustand - Schwarz] + 1D6 [Bonuswürfel - Weiss]
+1W6 [Spielzug - Weiß oder Schwarz] +1W6 [Attribut oder Equipment - Weiß oder Schwarz] + 1W6 [Angst oder Zustand - Schwarz] + 1W6 [Bonuswürfel - Weiß]
 
 ## Der Wurf
 
@@ -33,9 +33,9 @@ Die Spielleitung sammelt Verderbnispunkte im Spielverlauf wenn die Spielenden Sp
 
 ## Der freie Gegenstand
 
-Dieses Feld wird nie beschrieben, sondern immer nur im Kontext des Abenteuers und der Szene verwendet. Hier soll es möglich sein, dass die Charaktere durch ihre Umgebung oder durch Hinweise, die sie finden, Attributswürfel erhalten. Ob diese Würfel dann schwarz oder weiß sind, bleibt dem Spielleiter überlassen. 
+Dieses Feld wird nie beschrieben, sondern immer nur im Kontext des Abenteuers und der Szene verwendet. Hier soll es möglich sein, dass die Charaktere durch ihre Umgebung oder durch Hinweise, die sie finden, einen Attributswürfel erhalten. Ob dieser Würfel dann schwarz oder weiß ist, bleibt der Spielleitung überlassen. 
 
-*So kann ein "mystisches Buch" dazu genutzt werden einen Charakter, bei dem es gefunden wurde, weiter zu befragen. Das Buch gibt dann je nach Situation einen schwarzen oder weißen Attributswürfel. Dieser Würfel zählt als Attributswürfel und wird nicht zusätzlich gewertet.* 
+*So kann beispielsweise ein "mystisches Buch" dazu genutzt werden einen Charakter, bei dem es gefunden wurde, weiter zu befragen. Das Buch gibt dann je nach Situation einen schwarzen oder weißen Attributswürfel. Dieser Würfel zählt als Attributswürfel und nicht als Bonuswürfel.* 
 
 ## Außer Gefecht gesetzt
 
@@ -71,8 +71,8 @@ Bei jedem Aufstieg:
 
 Stufe 2 - Bei 8 gesammelten Punkten:
 
-2. Du darfst, für eine passende Erzählung, eine Angst deiner Wahl verlieren. (Optional)
-3. Würfle jeweils einmal auf die Fähigkeiten-Tabelle und tausche eine Fähigkeit gegen eine neue. Die Dämonenfähigkeit kann nicht getauscht werden. (Optional)
+1. Du darfst, für eine passende Erzählung, eine Angst deiner Wahl verlieren. (Optional)
+2. Würfle jeweils einmal auf die Fähigkeiten-Tabelle und tausche eine Fähigkeit gegen eine neue. Die Dämonenfähigkeit kann nicht getauscht werden. (Optional)
 
 Stufe 3 - Bei 10 gesammelten Punkten:
 
@@ -86,7 +86,7 @@ Korruption beschreibt das Ausmaß, in dem der Dämon von dem Charakter Besitz er
 
 ## Zustände
 
-Wenn die Korruption zunimmt, bekommst du auch einen Zustand. Zustände zeigen den geistigen und körperlichen Verfall deines Charakters.
+Wenn die Korruption zunimmt, bekommst du auch einen Zustand. Zustände zeigen den geistigen und körperlichen Verfall deines Charakters. Erhält ein Charakter während des Abenteuers einen sechsten Zustand, so ist er vorerst außer Gefecht gesetzt.
 
 ## Zustände abbauen
 
