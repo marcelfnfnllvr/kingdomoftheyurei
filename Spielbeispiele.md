@@ -2,7 +2,7 @@
 
 ## Ablauf einer Session
 
-##### Session 0
+##### Session 0 - Vor dem Spiel
 
 Vor der ersten Session, vor allem wenn es sich um einen Oneshot handelt, sollten die CATS an die Spielenden gegeben werden. Außerdem sollten die Lines and Veils abgeklärt werden. So wird die Gefahr minimiert, dass es Missverständnisse und falsche Erwartungen gibt oder jemand aus der Gruppe mit für ihn oder sie zu unangenehmen Themen konfrontiert wird.
 <!-- Entwicklerkommentar incoming-->
@@ -10,9 +10,11 @@ Auch wenn es möglich ist seinen Charakter in Gänze zu würfeln, tendiere ich d
 
 Nachdem das geklärt ist, werden die Charaktere ganz nach dem Kapitel "Charaktererstellung" erstellt.
 
-##### Session 1
+##### Im Spiel
 
 Der SL führt in das Abenteuer ein. Dafür findet der SL bei jedem Abenteuer den Punkt Eröffnung. 
+<!-- nochmal betonen, dass viel Kreativität gefördert wird - von allen Seiten. Es geht darum zusammen eine tolle, spannende, lustige und mitreißende Geschichte zu erzählen-->
+Die Abenteuer enthalten für die verschiedenen Handlungsorte auch eine Eröffnungsfrage. Diese Frage kann die Spielleitung ihrer Gruppe stellen. Sie bezieht sich auf die Gestaltung des Handlungsortes und gibt so allen Beteiligten die Möglichkeit, die Welt nach ihren Vorstellungen gemeinsam zu gestalten.
 
 ## Spielszenen
 
