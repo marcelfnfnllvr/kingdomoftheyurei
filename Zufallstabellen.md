@@ -20,7 +20,7 @@
 14. Die Aura spüren – Zeigt Emotionen und wahre Absichten auf. 
 15. Ablenkung – Lass deine Stimme an einer anderen Stellen erscheinen.
 16. Farben des Gesangs - Ein Publikum wird von dir in seinen Bann gezogen.
-17. ??? – Zeige das wahre Ich eines Wesens auf. <!-- ? -->
+17. Täuschungsbann – Zeige das wahre Ich eines Wesens auf. <!-- ? -->
 18. Elementarbändiger - Herrsche über die Elemente.
 19. Ein ruhiger Geist – Lässt dich auf deinen inneren Geist hören. 
 20. Tierfreund - Tiere vertrauen und helfen dir. 
@@ -103,6 +103,8 @@
 
 ### **Ängste II**
 
+| 1d20 | **Angst**                                             |
+| ---- | ----------------------------------------------------- |
 | 1    | Angst vor Löchern                                     |
 | 2    | Angst vor spitzen Gegenständen und Nadeln             |
 | 3    | Angst vor Brücken                                     |
