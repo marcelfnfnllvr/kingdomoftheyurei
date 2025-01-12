@@ -8,7 +8,7 @@ Zu diesem Zweck befinden sich am Ende des Buches Zufallstabellen, auf denen die 
 
 Du kannst deinen Spielenden natürlich diese PDF zur Verfügung stellen oder sie können das Regelwerk einfach frei im Internet herunterladen. Es ergibt durchaus Sinn, für die Spielenden, die Beschreibung der Welt, in der *Königreich der Yōkai* spielt, zu lesen und sich vorher schon mal einen Charakterbogen anzuschauen. 
 
-Vor allem aber sollten deine Spielenden sich aber Gedanken darüber machen auf welchem Reittier der eigene Charakter unterwegs ist und welchen Namen diese trägt. Außedem ist es durchaus beliebt den eigenen Charakter zu bennen. Wenn du Spielende hast, die sich ganz auf die Zufallstabellen verlassen wollen, ist das auch kein Problem. Wir haben natürlich am Ende des Buches eine Tabelle für den Charakternamen und das Reittier vorbereitet.
+Vor allem aber sollten deine Spielenden sich aber Gedanken darüber machen auf welchem Reittier der eigene Charakter unterwegs ist und welchen Namen diese trägt. Außerdem ist es durchaus beliebt den eigenen Charakter zu bennen. Wenn du Spielende hast, die sich ganz auf die Zufallstabellen verlassen wollen, ist das auch kein Problem. Wir haben natürlich am Ende des Buches eine Tabelle für den Charakternamen und das Reittier vorbereitet.
 
 ## Ehrungen
 
