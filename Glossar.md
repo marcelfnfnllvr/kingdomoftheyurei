@@ -16,7 +16,7 @@
     Nicht-Spielercharakter. Von den Spielleitenden gesteuerte Charaktere, mit denen die Spielenden während eines Abenteuers interagieren können. Dabei kann es sich sowohl um Menschen und Tiere als auch um Geister und Dämonen handeln.
   - **SC**  
     Spielercharakter. Alle Spielenden in der Runde besitzen je einen fiktiven Spielercharakter, den sie erdacht und mithilfe der Zufallstabellen gebaut haben und mit dem sie die Abenteuer bestreiten. Grundsätzlich kann einen Spielercharakter nur dessen Besitzer oder Besitzerin steuern.
-  - **Session 0**
+  - **Session 0**  
     Eine Gesprächsrunde mit der Spielleitung und der gesamten Gruppe, bevor die eigentliche Pen&Paper-Runde losgeht. Hier wird z.B. über den Ablauf gesprochen und über die Erwartung aller Beteiligten. Außerdem können dabei Sicherheitsmechanismen und Tabuthemen besprochen werden und die Charaktere gebaut werden.
   - **SL**    
     Der oder die Spielleitende. Gibt die Rahmenhandlung für das Abenteuer vor, spielt die Nicht-Spieler-Charaktere (NSC), verteilt Hinweise für erfolgreiche Würfe und gestaltet so gemeinsam mit den Spielenden die Runde.
