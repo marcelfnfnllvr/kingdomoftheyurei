@@ -13,9 +13,9 @@
 - [x] Zustand in die Modifikator Tabelle ändern
 - [x] Welthinweise komplett entfernen
 - [x] Eine Fähigkeit direkt über den Dämon?
-- [ ] Zweiter Gegenstand als eigene Tabelle?
-- [ ] Ein freier Gegenstandslot
-- [ ] Alte Geschichten über die Welt abfragen als Move? Oder beim Heilen? Oder mhmmm
+- [x] Zweiter Gegenstand als eigene Tabelle?
+- [x] Ein freier Gegenstandslot
+- [x] Alte Geschichten über die Welt abfragen als Move? Oder beim Heilen? Oder mhmmm
 - [ ] Frage 
   - [ ] Wie bist du in Kontakt mit deinem Dämon gekommen? Wie hast du überlebt?
 - [ ] Fragen geteilt in Persönliche, Reisen und Camp?

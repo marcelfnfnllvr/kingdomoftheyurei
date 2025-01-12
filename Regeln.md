@@ -31,6 +31,12 @@ Die Spielleitung sammelt Verderbnispunkte im Spielverlauf wenn die Spielenden Sp
 - Gib 3 Punkte aus für die Bekämpfung einer Gefahr der Stufe 10.
 - Gib 4 Punkte aus für die Bekämpfung einer Gefahr der Stufe 12.
 
+## Der freie Gegenstand
+
+Dieses Feld wird nie beschrieben, sondern immer nur im Kontext des Abenteuers und der Szene verwendet. Hier soll es möglich sein, dass die Charaktere durch ihre Umgebung oder durch Hinweise, die sie finden, Attributswürfel erhalten. Ob diese Würfel dann schwarz oder weiß sind, bleibt dem Spielleiter überlassen. 
+
+*So kann ein "mystisches Buch" dazu genutzt werden einen Charakter, bei dem es gefunden wurde, weiter zu befragen. Das Buch gibt dann je nach Situation einen schwarzen oder weißen Attributswürfel. Dieser Würfel zählt als Attributswürfel und wird nicht zusätzlich gewertet.* 
+
 ## Außer Gefecht gesetzt
 
 Wenn ein Charakter sechs Zustände aufbaut, ist er außer Gefecht gesetzt. Es erfordert einen "Etwas riskieren"-Wurf eines anderen Spielenden, um dem Charakter wieder aufzuhelfen. Während dieser Zeit verändert der Dämon den Charakter nachhaltig.

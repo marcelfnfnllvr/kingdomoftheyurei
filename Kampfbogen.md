@@ -15,4 +15,4 @@ Erste Version von einem Kampfbogen.
 
 (X&X) X - Der Spielende mit dem höchsten Augenzahl im Wurf erhält in der nächsten Runde einen weiteren Würfel. Es zählt von seinem Wurf aber immer nur der Würfel mit der höchsten Augenzahl.
 
-(*X) - Markierung für den Spielzug "Den Gegner schwächen". Das Ergebnis dieses Wurfes zählt nicht als Kampfwürfel diese Runde und kann nicht genutzt werden um das Gefahrenlevel zu erreichen.
+(*X) - Markierung für den Spielzug "Den Gegner schwächen". Das Ergebnis dieses Wurfes zählt diese Runde nicht als Kampfwürfel und kann nicht genutzt werden um das Gefahrenlevel zu erreichen.
