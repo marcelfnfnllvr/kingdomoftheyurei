@@ -4,55 +4,59 @@
 
 ### Fähigkeiten I
 
-1. Oktopus - Verschwimmen mit deiner Umgebung
-2. Wie der Wind – Du bewegst dich flink.
-3. Kein Verzeihen – Deine Klinge ist tödlich.
-4. Impulsiv – Du handelst vor allen anderen.
-5. Federleicht – Etwas, das du berührst, verliert sein Gewicht.
-6. Gefäß – Lass einen Geist durch dich sprechen.
-7. Zeit – Lässt die Zeit in einem kleine Gebiet schneller oder langsamer ablaufen.
-8. Zurück – Drehe die Zeit für eine Kreatur, Person oder ein Objekt ein Stück zurück.
-9. Ruf des Vergangenen – Lässt dich eine Szene oder einen Gegenstand untersuchen und seine Vergangenheit erleben.
-10. Charme – Du wirkst charmant auf Personen in deinem direkten Umfeld.
-11. Stille – Unterdrücke alle Geräusche in deiner näheren Umgebung.
-12. Leidfresser – Nimm das Leid einer Person oder eines Wesens als dein eigenes.
-13. Doppelgänger - Erschaffe ein Abbild von dir.
-14. Die Aura spüren – Zeigt Emotionen und wahre Absichten auf. 
-15. Ablenkung – Lass deine Stimme an einer anderen Stellen erscheinen.
-16. Farben des Gesangs - Ein Publikum wird von dir in seinen Bann gezogen.
-17. Täuschungsbann – Zeige das wahre Ich eines Wesens auf. <!-- ? -->
-18. Elementarbändiger - Herrsche über die Elemente.
-19. Ein ruhiger Geist – Lässt dich auf deinen inneren Geist hören. 
-20. Tierfreund - Tiere vertrauen und helfen dir. 
+| **1d20** | **Name**           | **Beschreibung**                                                                         | 
+| -------- | ------------------ | ---------------------------------------------------------------------------------------- |
+| 1        | Oktopus            | Verschwimmen mit deiner Umgebung.                                                        |
+| 2        | Wie der Wind       | Du bewegst dich flink.                                                                   |
+| 3        | Kein Verzeihen     | Deine Klinge ist tödlich.                                                                |
+| 4        | Impulsiv           | Du handelst vor allen anderen.                                                           |
+| 5        | Federleicht        | Etwas, das du berührst, verliert sein Gewicht.                                           |
+| 6        | Gefäß              | Lass einen Geist durch dich sprechen.                                                    |
+| 7        | Zeit               | Lässt die Zeit in einem kleine Gebiet schneller oder langsamer ablaufen.                 |
+| 8        | Zurück             | Drehe die Zeit für eine Kreatur, Person oder ein Objekt ein Stück zurück.                |
+| 9        | Ruf des Vergangenen| Lässt dich eine Szene oder einen Gegenstand untersuchen und seine Vergangenheit erleben. |
+| 10       | Charme             | Du wirkst charmant auf Personen in deinem direkten Umfeld.                               |
+| 11       | Stille             | Unterdrücke alle Geräusche in deiner näheren Umgebung.                                   |
+| 12       | Leidfresser        | Nimm das Leid einer Person oder eines Wesens als dein eigenes.                           |
+| 13       | Doppelgänger       | Erschaffe ein Abbild von dir.                                                            |
+| 14       | Die Aura spüren    | Zeigt Emotionen und wahre Absichten auf.                                                 | 
+| 15       | Ablenkung          | Lass deine Stimme an einer anderen Stellen erscheinen.                                   |
+| 16       | Farben des Gesangs | Ein Publikum wird von dir in seinen Bann gezogen.                                        |
+| 17       | Täuschungsbann     | Decke das wahre Ich eines Wesens auf. <!-- ? Blick ins Wesen? Blick ins Zwielicht? Hinter die Fassade?-->                        |
+| 18       | Elementarbändiger  | Herrsche über die Elemente.                                                              |
+| 19       | Ein ruhiger Geist  | Lässt dich auf deinen inneren Geist hören.                                               | 
+| 20       | Tierfreund         | Tiere vertrauen und helfen dir.                                                          |
 
 ### **Fähigkeiten II**
 
-1. Genügsam - Dir genügt wenig von allem.
-2. Fels - Du gibst ein Gefühl von Sicherheit. 
-3. Furchteinflößend - Andere haben Angst vor dir.
-4. Traummahl - Dringe in Träume ein.
-5. Sinnesschärfe - Du nimmst viel wahr.
-6. Kompetent - Du vermittelst immer den Eindruck die Lage im Griff zu haben. 
-7. Niederer Diener - Befehlige einen niederen Geist eine kleine Aufgabe zu erledigen.
-8. Schleier -  Du kannst von dir ausgehend einen Nebel erzeugen.  
-9. Flexibel - Kleine Spalte sind kein Problem. <!-- ? -->
-10. Hexer - Durch die Augen des Zwielichts. <!-- ? -->
-11. Aufmerksam – Analysiere einen Raum.
-12. Einsicht - Du schenkst jemandem einen Einblick in deine Gedanken, Gefühle oder deine Seele.
-13. Ungebetene Gäste - Rufe Störenfriede aus dem Zwielicht.  <!-- ? -->
-14. Vergeltung - Lasse einem Unrecht Gerechtigkeit folgen. 
-15. Gedankenmanipulation – Ändert jemandes Gedanken für einen kurzen Zeitraum.
-16. Todgeweiht - Vernehme drohende Gefahr.
-17. Schattentheater - Zeige etwas, was nicht existiert.  <!-- ? -->
-18. Tuschemeister - Erschaffe Dinge aus Tinte 
-19. Seelenwandler - Streife die Bürde deines Körpers für kurze Zeit ab. 
-20. Auszehren - Entziehe jemand oder etwas Energie.
+| **1d20** | **Name**           | **Beschreibung**                                                                         | 
+| -------- | ------------------ | ---------------------------------------------------------------------------------------- |
+| 1        | Genügsam           | Dir genügt wenig von allem.                                                              |
+| 2        | Fels               | Du gibst ein Gefühl von Sicherheit.                                                      | 
+| 3        | Furchteinflößend   | Andere haben Angst vor dir.                                                              |
+| 4        | Traummahl          | Dringe in Träume ein.                                                                    |
+| 5        | Sinnesschärfe      | Du nimmst viel wahr.                                                                     |
+| 6        | Kompetent          | Du vermittelst immer den Eindruck die Lage im Griff zu haben.                            | 
+| 7        | Niederer Diener    | Befehlige einen niederen Geist eine kleine Aufgabe zu erledigen.                         |
+| 8        | Schleier           | Du kannst von dir ausgehend einen Nebel erzeugen.                                        |  
+| 9        | Flexibel           | Kleine Spalte sind kein Problem. <!-- Sei geschickt und/oder beweglich? -->              |
+| 10       | Hexer              | Durch die Augen des Zwielichts. <!-- ? -->                                               |
+| 11       | Aufmerksam         | Analysiere einen Raum.                                                                   |
+| 12       | Einsicht           | Du schenkst jemandem einen Einblick in deine Gedanken, Gefühle oder deine Seele.         |
+| 13       | Ungebetene Gäste   | Rufe Störenfriede aus dem Zwielicht.  <!-- ? -->                                         |
+| 14       | Vergeltung         | Lasse einem Unrecht Gerechtigkeit folgen.                                                | 
+| 15       | Gedankenmanipulation | Ändert jemandes Gedanken für einen kurzen Zeitraum.                                    |
+| 16       | Todgeweiht         | Vernehme drohende Gefahr.                                                                |
+| 17       | Schattentheater    | Zeige etwas, was nicht existiert.  <!-- ? -->                                            |
+| 18       | Tuschemeister      | Erschaffe Dinge aus Tinte.                                                               | 
+| 19       | Seelenwandler      | Streife die Bürde deines Körpers für kurze Zeit ab.                                      | 
+| 20       | Auszehren          | Entziehe jemand oder etwas Energie.                                                      |
 
 
 
 ## Herkunft Tabelle
 
-| **1d20** | **Herkunft**                                               | **Attribut 4**   | **Attribut 5**      | Gegenstand 1                               |
+| **1d20** | **Herkunft**                                               | **Attribut 4**   | **Attribut 5**      | **Gegenstand 1**                           |
 | -------- | ---------------------------------------------------------- | ---------------- | ------------------- | ------------------------------------------ |
 | 1        | Krieger - Samurai                                          | Disziplin        | Kraft               | Katana & Wakizashi - Lang- und Kurzschwert |
 | 2        | Lehrer der Kampfkünste                                     | Erzählen         | Ausdauer            | Holzschwert                                |
@@ -202,3 +206,27 @@
 | 19       | Iwana bōzu       | Schuppige Haut                                 | Ehrwürdig    | Gastfreundschaft - Du deeskalierst eine Situation            |
 | 20       | Onryō            | Lange schwarze Haare                           | Bedrohlich   | Schrecken - Zeige etwas seine tiefste Angst auf              |
 
+## **Reittiere**
+
+| **1d20** | **Tierart**      | **Attribut**    | 
+| -------- | ---------------- | --------------- |
+| 1        | Tiger            | Stark           |
+| 2        | Erdmännchen      | Aufmerksam      | 
+| 3        | Bär              | Bedrohlich      |
+| 4        | Roter Panda      | Niedlich        |
+| 5        | Vogel Strauß     | Weitsicht       |
+| 6        | Wolf             | Gesellig        | 
+| 7        | Echse            | Flink           |
+| 8        | Hirsch           | Ehrwürdig       |  
+| 9        | Capybara         | Wasserratte     |
+| 10       | Waschbär         | Verfressen      |
+| 11       | Pferd            | Ausdauer        |
+| 12       | Wildschwein      | Beschützer      |
+| 13       | Wasserbüffel     | Stark           |
+| 14       | Maus             | Heimlich        | 
+| 15       | Steinbock        | Klettern        |
+| 16       | Lemur            | Geschick        |
+| 17       | Käfer            | Stoisch         |
+| 18       | Vielfraß         | Ausdauer        | 
+| 19       | Schildkröte      | Geschützt       | 
+| 20       | Skorpion         | Wehrhaft        |
