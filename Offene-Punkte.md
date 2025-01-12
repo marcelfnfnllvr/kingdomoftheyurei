@@ -10,8 +10,8 @@
 ### 2.1 Systembeschreibung
 - [ ] Allgemeine Erklärungen und Einführungen fertigstellen
 - [ ] Bezeichnung vereinheitlichen: Welt/Reich Zwielichts, nicht Dämonenreich, Geisterebene etc.
-- [ ] Irgendwo erklären, wofür die Eröffnungsfragen in den Abenteuern gedacht sind, und wie sie eingesetzt werden.  
-- [ ] Erklärung, dass Fähigkeiten nicht das Einzige sind das die Charaktere können.
+- [x] Irgendwo erklären, wofür die Eröffnungsfragen in den Abenteuern gedacht sind, und wie sie eingesetzt werden.   
+- [ ] Klarstellung das die Fureru prinzipiell alles können auch wenn sie die Fähigkeit nicht besitzen oder es sie nicht gibt!
 - [ ] Spielzüge > Kampf > Entwicklerkommentar für den Fall, dass wirklich Mal alle Charaktere in einem Kampf die maximalen Zustände erreichen
 - [ ] Spielbeispiele 
   - [ ] Ablauf einer Session
@@ -44,13 +44,13 @@
   - [ ] Momente
 - [ ] Erklärung warum Hinweise so konkret und Vergleich mit Brindlewood
 - [ ] Es geht um Szenen und diese schön darzustellen!
-- [ ] Klarstellung das die Fureru prinzipiell alles können auch wenn sie die Fähigkeit nicht besitzen oder es sie nicht gibt!
+- [x] Ergänzung Session 0 im Glossar
 
 ### 2.2 Weltbeschreibung
 - [ ] Keine Dämonen sondern die schwarze Saat? Sie wohnt allem Inne und kommt zum Vorschein wenn Dinge aus dem Gleichgewicht geraten..
-- [ ] Weltbeschreibung hinzufügen - das Japan in welchem wir spielen
+- [ ] Weltbeschreibung hinzufügen - das Japan in welchem wir spielen <!-- gibt's doch eigentlich schon, oder fehlt da noch was?-->
 - [x] Jäger sollte noch in die Beschreibung im Regelwerk
-- [ ] Es sollte alles noch etwas Japanischer werden! Tokii, Schuhe, Häuser, Bräuche
+- [ ] Es sollte alles noch etwas Japanischer werden! Tokii (Bambuszahnbürsten???), Schuhe, Häuser, Bräuche
 - [ ] Was macht das Japan in dem wir spielen aus? Wichtige Szenen und Dinge. Erzählungen. Wie bringt man das gefühlt am Besten rüber?
 - [ ] Waffen und allgemein Japanische Beschreibungen im Regelwerk
 - [ ] Abenteuer schreiben
@@ -72,6 +72,7 @@
   - [ ] Eran (Tengu) gespielt von Hannes - Reittier Steinbock (Shiori)
   - [ ] Ayane (Yuki Onna) gespielt von Lydia - Reittier Bär (Jiro)
 - [x] Namenstabelle erweitern
+- [x] Zufallstabelle Reittiere
 
 ## 3 Das *BUCH*
 - [ ] Autorenkommentare hervorheben?
