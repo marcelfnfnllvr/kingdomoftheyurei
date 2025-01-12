@@ -75,7 +75,8 @@
 | 19       | Krieger - Ronin                                            | Zäh              | Heimlich            | Tanto - Kurzschwert                        |                                         |
 | 20       | Koch                                                       | Geschick         | Kochen              | Rezeptsammlung                             |                                         |
 
-## Ängste Tabelle
+## Ängste Tabellen
+### **Ängste I**
 
 | 1d20 | **Angst**                                             |
 | ---- | ----------------------------------------------------- |
@@ -99,52 +100,80 @@
 | 18   | Angst vor Berührungen                                 |
 | 19   | Angst vor Wahnsinn                                    |
 | 20   | Angst vor dem Altern                                  |
-| 21   | Angst vor Löchern                                     |
-| 22   | Angst vor spitzen Gegenständen und Nadeln             |
-| 23   | Angst vor Brücken                                     |
-| 24   | Angst vor Reptilien                                   |
-| 25   | Angst vor Blitz und Donner                            |
-| 26   | Angst vor Dreck                                       |
-| 27   | Angst vor Mäusen und Ratten                           |
-| 28   | Angst vor Priestern und heiligen Dingen               |
-| 29   | Angst vor plötzlichen, lauten Geräuschen              |
-| 30   | Angst vor Kindern                                     |
-| 31   | Angst vor Kälte                                       |
-| 32   | Angst vor Spiegeln                                    |
-| 33   | Angst vor Friedhöfen                                  |
-| 34   | Angst davor, angestarrt zu werden                     |
-| 35   | Angst vor Licht                                       |
-| 36   | Angst vor Vögeln                                      |
-| 37   | Angst vor Leichen                                     |
-| 38   | Angst vor Alkohol                                     |
-| 39   | Angst vor Wind und Stürmen                            |
-| 40   | Angst vor Nebel                                       |
 
-<!-- Schwachpunkt Tabelle braucht niemand mehr!  -->
-## Namen Tabelle
+### **Ängste II**
 
+| 1    | Angst vor Löchern                                     |
+| 2    | Angst vor spitzen Gegenständen und Nadeln             |
+| 3    | Angst vor Brücken                                     |
+| 4    | Angst vor Reptilien                                   |
+| 5    | Angst vor Blitz und Donner                            |
+| 6    | Angst vor Dreck                                       |
+| 7    | Angst vor Mäusen und Ratten                           |
+| 8    | Angst vor Priestern und heiligen Dingen               |
+| 9    | Angst vor plötzlichen, lauten Geräuschen              |
+| 10   | Angst vor Kindern                                     |
+| 11   | Angst vor Kälte                                       |
+| 12   | Angst vor Spiegeln                                    |
+| 13   | Angst vor Friedhöfen                                  |
+| 14   | Angst davor, angestarrt zu werden                     |
+| 15   | Angst vor Licht                                       |
+| 16   | Angst vor Vögeln                                      |
+| 17   | Angst vor Leichen                                     |
+| 18   | Angst vor Alkohol                                     |
+| 19   | Angst vor Wind und Stürmen                            |
+| 20   | Angst vor Nebel                                       |
+
+
+## Namenstabellen
+### **Feminine Namen**
 | **1d20** | **Vornamen** |
 | -------- | ------------ |
-| 1        | Toby         |
+| 1        | Nora         |
 | 2        | Iwa          |
-| 3        | Gabriel      |
+| 3        | Satomi       |
 | 4        | Fiora        |
 | 5        | Kira         |
 | 6        | Marie        |
+| 7        | Shion        |
+| 8        | Ayane        |
+| 9        | Naomi        |
+| 10       | Karin        |
+| 11       | Chiyoko      |
+| 12       | Nana         |
+| 13       | Fenja        |
+| 14       | Isa          |
+| 15       | Tsubasa      |
+| 16       | Mine         |
+| 17       | Ayumi        |
+| 18       | Ishi         |
+| 19       | Yu           |
+| 20       | Masae        |
+
+### **Maskuline Namen**
+| **1d20** | **Vornamen** |
+| -------- | ------------ |
+| 1        | Tobi         |
+| 2        | Kokoro       |
+| 3        | Gabriel      |
+| 4        | Daisuke      |
+| 5        | Sho          |
+| 6        | Eik          |
 | 7        | Eran         |
 | 8        | Koga         |
 | 9        | Azai         |
 | 10       | Liam         |
 | 11       | Okuda        |
-| 12       | Nana         |
-| 13       | Kana         |
-| 14       | Isa          |
+| 12       | Kaoru        |
+| 13       | Makoto       |
+| 14       | Tomoaki      |
 | 15       | Kushizu      |
-| 16       | Mine         |
+| 16       | Yuma         |
 | 17       | Efren        |
-| 18       | Ishi         |
+| 18       | Hayato       |
 | 19       | Toki         |
-| 20       | Masae        |
+| 20       | Oswin        |
+
 
 ## Dämonen Tabelle 
 
