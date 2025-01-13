@@ -8,7 +8,7 @@ Gesammelte Verderbnispunkte: [  n  ]
 
 Präsentiere der Gruppe als erstes das Onsen und das Izakaya. Die weiteren beiden Orte können durch das finden von Hinweisen aufgedeckt werden.
 
-![DieAschegeister_Karte](D:\OneDrive\Dokumente\P&P\Königreich der Yūrei - Regelwerk\kingdomoftheyurei\Abenteuer\DieAschegeister_Karte.png)
+![DieAschegeister_Karte](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Abenteuer/DieAschegeister_Karte.png)
 
 ### Hinweise für Spielleitende:
 
