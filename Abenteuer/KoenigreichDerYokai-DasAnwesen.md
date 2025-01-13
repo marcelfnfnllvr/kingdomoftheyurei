@@ -30,11 +30,11 @@ Es kommen Väterchen und Mütterchen auf euch zugelaufen und begrüßen euch. Si
 
 ### Gefahren:
 
--	Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden. Gefahrenstufe 12.
--	Hausgeister greifen die Gruppe an. Gefahrenstufe 8 allein und 12 zusammen. 
--	Die Tochter oder der Sohn drehen durch. Gefahrenstufe 8.
--	Ein Raum, in dem sich die Gruppe befindet, kippt und stürzt in die Tiefe. Die Abwesenheit der Hausgeister lässt das Gebäude schneller zerfallen.
--	Alte Samurai-Rüstungen in dem Haus, welche durch die Geister belebt werden.
+-	Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden.  
+-	Hausgeister greifen die Gruppe an.  
+-	Die Tochter oder der Sohn drehen durch.  
+-	Ein Raum, in dem sich die Gruppe befindet, kippt und stürzt in die Tiefe. Die Abwesenheit der Hausgeister lässt das Gebäude schneller zerfallen.  
+-	Alte Samurai-Rüstungen in dem Haus, welche durch die Geister belebt werden.  
 
 ### Momente:
 
@@ -123,23 +123,23 @@ Herausforderung: Der Keller wird von den Hausgeister verschlossen gehalten. Es m
 
 ### Hinweise:
 
--	[  x ] Ein Brief mit einem Geständnis der verstorbenen Ehefrau einen Hausgeist aus Versehen getötet zu haben. Er ist ungeöffnet.
--	[ x  ] Silberbesteck mit Blut darauf.
+-	[   ] Ein Brief mit einem Geständnis der verstorbenen Ehefrau einen Hausgeist aus Versehen getötet zu haben. Er ist ungeöffnet.
+-	[   ] Silberbesteck mit Blut darauf.
 -	[   ] Ein unecht wirkendes Testament, welches die Hausgeister aus dem Erbe streicht.
 -	[   ] Die Geister nehmen ein Leben für ein Leben.
--	[  x ] Geburtsurkunde des Toten, welche Yoshiteru als Vater ausweist.
+-	[   ] Geburtsurkunde des Toten, welche Yoshiteru als Vater ausweist.
 -	[   ] Eine vergiftete Flasche Wein.
--	[ x  ] Ein Brief von Hiroko: „Ich liebe dich, mein Gatte, aber ich muss die Schuld bezahlen.“
--	[ x  ] Gespräch: Der Reichtum ist vorbei. Die Hausgeister entwenden zu viel. Sie sind gierig. Das muss enden. Sofort. (Person ist nur zu belauschen und verschwindet sofort.)
--	[ x  ] Der tote Hausgeist. (Nur im Keller zu finden)
+-	[   ] Ein Brief von Hiroko: „Ich liebe dich, mein Gatte, aber ich muss die Schuld bezahlen.“
+-	[   ] Gespräch: Der Reichtum ist vorbei. Die Hausgeister entwenden zu viel. Sie sind gierig. Das muss enden. Sofort. (Person ist nur zu belauschen und verschwindet sofort.)
+-	[   ] Der tote Hausgeist. (Nur im Keller zu finden)
 -	[   ] Ein zerrissener Brief, laut dem Geschäftsleute aus dem Norden einen hohen Preis für das Land des Herrn zahlen wollen.
--	[  x ] Ein altes Tagebuch: „Die Hausgeister piesacken und schikanieren mich. Vater hört mir nicht zu.“
+-	[   ] Ein altes Tagebuch: „Die Hausgeister piesacken und schikanieren mich. Vater hört mir nicht zu.“
 -	[   ] Es heißt das Haus bricht zusammen, wenn die Geister verschwinden. Es heißt es gibt einen Vertrag darüber.
--	[ x  ] Schwester hasst die Mutter, den Vater und den Bruder.
--	[ x  ] Ein Ritualmesser, das magisch überzogen wurde. Das Blut eines Geistes klebt an der Klinge.
--	[  x ] Der Hausherr ist über 120 Jahre alt.
--	[ x ] Die Erben hassen die Hausgeister.
--	[  x ] Das Zeichen der Hausgeister auf dem Nacken des Toten.
+-	[   ] Schwester hasst die Mutter, den Vater und den Bruder.
+-	[   ] Ein Ritualmesser, das magisch überzogen wurde. Das Blut eines Geistes klebt an der Klinge.
+-	[   ] Der Hausherr ist über 120 Jahre alt.
+-	[   ] Die Erben hassen die Hausgeister.
+-	[   ] Das Zeichen der Hausgeister auf dem Nacken des Toten.
 -	[   ] Vor Jahrzehnten, als der alte Herr das Haus übernommen hat, verschwanden 10 Hausgeister spurlos. 
--	[  x ] Ein Buch, in dem beschrieben wird, dass das Konsumieren eines Geistes das eigene Leben verlängert. Es gibt dort auch Anleitungen.
--	[  x ] Mütterchen und Väterchen haben eine geisterhafte Aura.
+-	[   ] Ein Buch, in dem beschrieben wird, dass das Konsumieren eines Geistes das eigene Leben verlängert. Es gibt dort auch Anleitungen.
+-	[   ] Mütterchen und Väterchen haben eine geisterhafte Aura.
