@@ -2,7 +2,7 @@
 
 Schwierigkeit: 18 – längeres Abenteuer – zwei bis drei Abende
 
-### Spielleiterhinweise:
+### Hinweise für Spielleitende:
 
 Das Dorf Haran ist bekannt für seine delikaten Shiitake-Pilze und deren koordinierte Produktion. Seit einiger Zeit ist das Dorf jedoch befallen. Zwei Menschen sind gestorben, weil sie von infizierten Pilzen gegessen haben und es sind zwei Schweine mutiert und durchgedreht. Sie haben dabei zwei weitere Menschen getötet. Die betroffene Pilzkolonie wurde isoliert und alle Pilze drumherum verbrannt. Nur den infizierten Pilzen scheint das Feuer und jede Bemühung sie zu beseitigen nichts auszumachen. Im Dorf sind Frauen und Männer strikt getrennt. Es wird sich nur zur Fortpflanzung getroffen. Die Frauen ziehen gemeinsam die Kinder groß. Männer spielen nur eine untergeordnete Rolle.
 
@@ -17,7 +17,7 @@ Falls die Situation eskaliert, brechen überall Schläferpilze aus dem Menschen.
 ### Abenteuerfrage:
 
 <!--Vorschläge (mir gefällt der erste am besten ^^):
-Dein Charakter hatte schon einmal die Möglichkeit die berühmten Pilze aus Haran zu probieren. Bei welcher Gelegenheit war das und wie haben sie geschmeckt?
+Dein Charakter hatte schon einmal die Möglichkeit die berühmten Pilze aus Haran zu probieren. Bei welcher Gelegenheit war das und wie haben sie ihm geschmeckt?
 
 Wenn dein Charakter noch eine Sache an diesem Dorf ändern könnte, was wäre das?
 
