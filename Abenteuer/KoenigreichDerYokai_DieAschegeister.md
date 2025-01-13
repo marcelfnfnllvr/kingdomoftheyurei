@@ -2,7 +2,7 @@
 
 Schwierigkeit: 18 – längeres Abenteuer – zwei bis drei Abende
 
-Gesammelte Finsternispunkte: [   ]
+Gesammelte Verderbnispunkte: [  n  ]
 
 #### Karte:
 
