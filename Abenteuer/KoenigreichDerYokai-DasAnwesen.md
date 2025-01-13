@@ -4,13 +4,13 @@ Schwierigkeit: 14 – ein kurzes und eher einfaches Abenteuer - ein Abend
 
 Finsternispunkte: 4
 
-### Spielleiterhinweise:
+### Hinweise für Spielleitende:
 
-Die Gruppe befindet sich in einem riesigen Haus auf einem Berg. Die Gruppe wurde zu dem Anwesen von Yoshiteru Sugimoto gerufen. Dort wurde ein Bediensteter des Herrn namens Anwar Kazushige tot aufgefunden. Der Herr hatte gerade noch die Familie mit seinen beiden Kindern gefeiert und trauert nun um einen seiner ältesten Angestellten. Die Bediensteten machen die Hausgeister für den Tod verantwortlich, welche seit dem Tag verschwunden sind.
+Die Gruppe befindet sich in einem riesigen Haus auf einem Berg. Die Gruppe wurde zu dem Anwesen von Yoshiteru Sugimoto gerufen. Dort wurde ein Bediensteter des Herrn namens Anwar Kazushige tot aufgefunden. Der Herr hatte gerade noch die Familie mit seinen beiden Kindern gefeiert und trauert nun um einen seiner ältesten Angestellten. Die Bediensteten machen die Hausgeister für den Tod verantwortlich, welche seit dem Tag verschwunden sind. 
 
 ### Fragestellung, Eskalation und Ehrung:
 
-Eine Fragestellung, die es zu lösen gibt: Warum wurde Anwar Kazushige getötet und wo befinden sich die Hausgeister? 
+Eine Fragestellung, die es zu lösen gilt: Warum wurde Anwar Kazushige getötet und wo befinden sich die Hausgeister? 
 
 Falls die Situation eskaliert, mutiert der alte Herr zu einer riesigen Gestalt mit sechs Armen und packt nach jedem und schlingt ihn einfach hinunter. Der Einfluss der Hausgeister scheint ihn stark verändert zu haben. Er kann aufgehalten werden, fängt aber mit der Schwierigkeit 14 an.
 
