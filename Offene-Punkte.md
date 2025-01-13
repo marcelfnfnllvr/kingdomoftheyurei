@@ -105,6 +105,10 @@
 ## 4 Zukunftsmusik?
 - [ ] Adaption für Müllsammler im All
   - [ ] Mehr soziale Interaktion	
+- [ ] Adaption in das jetzt Japan
+  - [ ] Yokai sind in vergessenheit geraten
+  - [ ] Ihr seid jugendliche die über alte analoge Technik Yokai sehen können?
+
 - [ ] Kampagnenstyle
   - [ ] Welt zusammen bauen am Abend
   - [ ] Pro Würfe
