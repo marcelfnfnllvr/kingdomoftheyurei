@@ -8,7 +8,7 @@ Gesammelte Verderbnispunkte: [  n  ]
 
 #### Karte:
 
-![DerWald_Karte](D:\OneDrive\Dokumente\P&P\Königreich der Yūrei - Regelwerk\kingdomoftheyurei\Abenteuer\DerWald_Karte.png)
+![DerWald_Karte](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Abenteuer/DerWald_Karte.png)
 
 ### Hinweise für Spielleitende:
 
