@@ -10,7 +10,7 @@ Gesammelte Finsternispunkte: [      ]
 
 ![DerWald_Karte](D:\OneDrive\Dokumente\P&P\Königreich der Yūrei - Regelwerk\kingdomoftheyurei\Abenteuer\DerWald_Karte.png)
 
-### Spielleiterhinweise:
+### Hinweise für Spielleitende:
 
 Die Gruppe befindet sich auf einem Handelsweg durch ein riesiges Waldgebiet. Es ist nicht der einzige, aber der sicherste Weg. Am Wegesrand finden sie einen kaputten Karren mit einem lebenden und einem toten Ochsen. 
 
@@ -43,7 +43,7 @@ Am Horizont seht ihr einen älteren Mann mit einem Ochsen und einem kaputten Kar
 
 ### Momente:
 
-- Wie von Zauberhand fällt das Licht durch die Baumkronen und taucht den Wald in ein tiefes, leuchtendes Rot. Für einen Moment verschmilzt euer Geist mit dem Wald und findet Frieden.<!-- Hmm, das ist 1:1 dieselbe Beschreibung wie beim Pilzbefall... Ich vermute zumindest der Wald hier dürfte nicht in rotes sondern eher in grünes oder grüngelbes Licht gehüllt werden? -->
+- Wie von Zauberhand fällt das Licht durch die Baumkronen und taucht den Wald in ein frisches, leuchtendes Grün. Für einen Moment verschmilzt euer Geist mit dem Wald und findet Frieden.<!-- Hmm, das ist 1:1 dieselbe Beschreibung wie beim Pilzbefall... Ich vermute zumindest der Wald hier dürfte nicht in rotes sondern eher in grünes oder grüngelbes Licht gehüllt werden? -->
 - Eine mit Moos überwachsene Statue eines Pilzgeistes.<!-- Sicher? Wieso? -->
 - Kleine Wesen - nicht größer als Kolibris - fliegen als Schwarm durch den Wald. Sie bilden zusammen ein größeres Abbild ihrer selbst.
 <!-- Evtl könnte man auch eine Begegnung mit einem oder mehreren Kodama hier gut einbringen? -->
