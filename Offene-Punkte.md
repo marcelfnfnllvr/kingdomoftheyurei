@@ -43,7 +43,7 @@
   - [ ] Schlüsselmomente
   - [ ] Momente
 - [ ] Erklärung warum Hinweise so konkret und Vergleich mit Brindlewood
-- [ ] Es geht um Szenen und diese schön darzustellen!
+- [ ] Es geht um Szenen und diese schön darzustellen! --> finde genau das sollte in dieses "Vorwort" zu Regeln/Spielzüge 
 - [x] Ergänzung Session 0 im Glossar
 
 ### 2.2 Weltbeschreibung
