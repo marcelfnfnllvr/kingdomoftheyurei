@@ -10,7 +10,7 @@ Präsentiere der Gruppe als erstes das Onsen und das Izakaya. Die weiteren beide
 
 ![DieAschegeister_Karte](D:\OneDrive\Dokumente\P&P\Königreich der Yūrei - Regelwerk\kingdomoftheyurei\Abenteuer\DieAschegeister_Karte.png)
 
-### Spielleiterhinweise:
+### Hinweise für Spielleitende:
 
 Die Gruppe befindet sich in einem Dorf am Rande einer Vulkanwüste. Die Menschen hier sterben seit einigen Monaten auf unerklärliche Weise. Es gibt Berichte, dass sie Geister sehen, bevor sie sterben. Allerdings kann wohl nur die sterbende Person diesen Geist sehen. Nachdem die Person gestorben ist, fängt ihre Haut an zu brennen und sie steht wieder auf. Lediglich das komplette Löschen mit Wasser lässt sie für immer ruhen. Während die Gruppe dort ist, stirbt eine Person genau vor ihren Augen. So haben sie die Chance diese genauer zu befragen.
 
