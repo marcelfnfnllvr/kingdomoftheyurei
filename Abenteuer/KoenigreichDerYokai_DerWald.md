@@ -4,7 +4,7 @@
 
 Schwierigkeit: 14 – kurzes Abenteuer – ein Abend
 
-Gesammelte Finsternispunkte: [      ]
+Gesammelte Verderbnispunkte: [  n  ]
 
 #### Karte:
 
