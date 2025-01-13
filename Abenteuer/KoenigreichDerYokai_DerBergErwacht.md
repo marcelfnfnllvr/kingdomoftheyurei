@@ -8,7 +8,7 @@ Gesammelte Verderbnispunkte: [  1  ]
 
 Stahl anstatt Eisen 
 
-### Hinweise für Spielleitende
+### Hinweise für Spielleitende:
 
 Wir haben hier drei Parteien, die alle dafür gesorgt haben könnten, dass die Berggeister erwacht sind. Es gibt die Händler, die durch einen Tunnel den Zugangsweg verbessern wollen, damit sie leichter ihre Sklaven verkaufen können. Bisher müssen sie dafür immer über den Gebirgspass, um in das entfernte Land zu kommen. Der Bergwerksvorsteher versucht es allen recht zu machen, kommt aber auch nicht gut seiner Arbeit nach und kennt sich in dem Stollen nicht wirklich gut aus. Außerdem gibt es noch die Gilde der Schmiede, die vor langer Zeit einen Pakt mit einem Feuergott geschlossen hat, und abtrünnige Schmiede, die keine Schwerter sondern im geheimen Waffen herstellen. Die Frauen der Eisenhütte machen dagegen ihre Arbeit mit Stolz und belächeln die Männer lediglich. Sie kümmern sich nicht um den Unfug, der im Dorf stattfindet. 
 
