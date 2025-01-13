@@ -43,10 +43,11 @@ Am Horizont seht ihr einen älteren Mann mit einem Ochsen und einem kaputten Kar
 
 ### Momente:
 
-- Wie von Zauberhand fällt das Licht durch die Baumkronen und taucht den Wald in ein frisches, leuchtendes Grün. Für einen Moment verschmilzt euer Geist mit dem Wald und findet Frieden.<!-- Hmm, das ist 1:1 dieselbe Beschreibung wie beim Pilzbefall... Ich vermute zumindest der Wald hier dürfte nicht in rotes sondern eher in grünes oder grüngelbes Licht gehüllt werden? -->
-- Eine mit Moos überwachsene Statue eines Pilzgeistes.<!-- Sicher? Wieso? -->
-- Kleine Wesen - nicht größer als Kolibris - fliegen als Schwarm durch den Wald. Sie bilden zusammen ein größeres Abbild ihrer selbst.
-<!-- Evtl könnte man auch eine Begegnung mit einem oder mehreren Kodama hier gut einbringen? -->
+- Wie von Zauberhand fällt das Licht durch die Baumkronen und taucht den Wald in ein frisches, leuchtendes Grün. Für einen Moment verschmilzt euer Geist mit dem Wald und findet Frieden.<!-- Hmm, das ist 1:1 dieselbe Beschreibung wie beim Pilzabenteuer - ich hab nur die Farbe von Rot nach Grün geändert -->
+- Eine mit Flechten überwachsene Statue eines Wildschweins. Sieht zwar verwittert aus, aber offenbar hat sich jemand vor kurzer Zeit die Mühe gemacht und Laub und Dreck davon weggewischt.
+- Kleine Wesen - nicht größer als Kolibris - fliegen als Schwarm durch den Wald. Sie bilden zusammen ein größeres Abbild ihrer selbst.  
+- In der Nähe eines besonders großen, alten Baumes taucht ein kleines Irrlicht auf. Erst scheint es die Gruppe zu beobachten, dann tanzt es ein wenig um sie herum und verschwindet dann wieder.  
+- ein einzelner Hirsch huscht vorbei, fast scheint es als würde sein Geweih kurz aufleuchten 
 
 ### Personen:
 
