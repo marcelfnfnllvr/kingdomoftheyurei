@@ -62,8 +62,8 @@
   - [ ] was zum Spielen, mit Schokolade
 - [ ] Fremdabenteuer noch dazu?
 - [ ] Die Karpfen Papierfahnen
-- [ ] Magische Szenen für Der Berg erwacht
-- [ ] Magische Szenen die über alle Abenteuer hinwerg nutzbar sind.
+- [x] Magische Szenen für Der Berg erwacht
+- [ ] Magische Szenen die über alle Abenteuer hinweg nutzbar sind.
   - [ ] Auch nicht magische. :D
 - [ ] Wichtige Japanische Begriffe für die Abenteuer am Anfang des Abenteuers erneut hervorheben
 - [ ] Karte zu Abenteuern vereinheitliche oder erstellen?
@@ -73,6 +73,10 @@
   - [ ] Ayane (Yuki Onna) gespielt von Lydia - Reittier Bär (Jiro)
 - [x] Namenstabelle erweitern
 - [x] Zufallstabelle Reittiere
+- [x] Reihenfolge Zufallstabellen entsprechend Charakterbauschritten
+- [ ] Eventuell Titel der Tabellen anpassen von "Dämonen Tabelle" zu "Dämon", "Ängste Tabellen" zu "Ängste" etc.?
+- [ ] Kämpfe in den einzelnen Abenteuern: Gefahrenstufe nur anhängig von der Azahl Verderbnispunkte, weg von der Einteilung zu den einzelnen Gefahren
+- [ ] Magische Szenen für den Wald
 
 ## 3 Das *BUCH*
 - [ ] Autorenkommentare hervorheben?
