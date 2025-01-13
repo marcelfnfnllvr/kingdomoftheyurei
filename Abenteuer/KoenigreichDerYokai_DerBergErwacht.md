@@ -40,15 +40,20 @@ Ein hochgelegenes Bergdorf welches sich nur über einen schmalen Pass erreichen 
 
 - Das Licht im flackert und wenn ihr wieder sehen könnt, habt ihr das Gefühl der Stein neben euch ist euch näher gekommen. 
 <!-- Wir hatten doch das, dass uns auf einmal ganz viele kleine Steine entgegensprangen als wir Ito Sato unter Druck gesetzt hatten oder so - könnte man evtl auch einen Moment draus machen? -->
+- Ein Stück von der Eisenhütte entfernt hört ihr mehrere Frauenstimmen lachen. Es scheint von einem Wasserfall zu kommen. Doch als ihr den Wasserfall nahe des Weges seht, ist dort niemand zu sehen.
+- Von einer Feldwand kullern euch einige Steine vor die Füße. Doch anstatt liegen zu bleiben, wie man das von Steinen erwarten würde, wachsen ihnen plötzlich dünne Arme und Beine und sie laufen an euch vorbei.
+- An den Enden des Dachfirsts eines Hauses erscheinen plötzlich Flammensäulen. Sie springen auf die Firste der benachbarten Häuser und breiten sich wie ein Lauffeuer über alle Häuser aus. Dann verschwinden sie schlagartig und ohne Schaden anzurichten wieder.
+
 ### Personen:
 
 #### Ito Sato – Bergwerkschef
 
 *Bestimmend direkt mit ruhiger Stimme - Wohlgesonnen - Trägt einen schlichten aber gut gefertigten Kimono*
 
-Ein netter, sehr engagierter Mann. Er weiß nichts. Ihm sind die Händler etwas suspekt, er hat Respekt vor den Schmiedemeistern und fürchtet sich vor den Frauen. Er versucht gut mit seinen Männern umzugehen und begeht jeden Neuenhain <!-- Jeden was? -->im Stein immer als erstes. Er hat die Gruppe gerufen. 
+Ein netter, sehr engagierter Mann. Er weiß nichts. Ihm sind die Händler etwas suspekt, er hat Respekt vor den Schmiedemeistern und fürchtet sich vor den Frauen. Er versucht gut mit seinen Männern umzugehen und begeht jeden Neuenhain <!-- Jeden was? 
+https://www.bergbauhistorie.ruhr/montangeschichte/bergbau-allgemein/bergmaennische_fachbegriffe/-->im Stein immer als erstes. Er hat die Gruppe gerufen. 
 
-Männer die in Bergwerk arbeiten: Amatake Okakumi, Mori Kyubei, Kamihara Sukekuhei
+Männer, die im Bergwerk arbeiten: Amatake Okakumi, Mori Kyubei, Kamihara Sukekuhei
 
 #### Mawasu Totsuna – Schmiedemeister
 
@@ -62,7 +67,7 @@ Der Nachfolger des Schmiedemeisters, der das Abkommen geschlossen hat. Er weiß,
 
 Bezahlt vom Westen nutzt er das Schmuggeln der Sklaven, um seine Waffen zu schmuggeln. Er wirkt wie einen geselliger und fröhlicher alter Mann, aber dies ist nur Fassade. Er weiß, dass der Berg sich auflehnt. Er muss dafür sorgen, dass die Flammen gebändigt bleiben und auch bei der Waffenherstellung helfen. 
 
-#### Toki Nozu– Aufseherin der Eisenhütte
+#### Toki Nozu – Aufseherin der Eisenhütte
 
 *Bestimmend, direkt, mit ruhiger Stimme - Wohlgesonnen - Trägt einen besonderen Kimono*
 
@@ -114,7 +119,7 @@ Das Dorf Toro liegt ruhig da. Alle Arbeit ist gestoppt. Es kann momentan kein ne
 
 ##### Das Izakaya
 
-> Hier kommen alle zusammen. Beschreibt Gegenstände, die euch an eure Heimat erinnern und hier als Deko stehen. 
+> Hier kommen alle zusammen. Bilder hängen an den Wänden, auf Tischen und in Nischen stehen bunt gemischte Gegenstände als Deko. Was steht dort und wie erinnert es euch an eure Heimat?   
 
 ##### Die Schmiede
 
@@ -129,7 +134,7 @@ Herausforderung: Die Gänge sind schwierig zu navigieren. Hier wäre ein Wurf au
 ### Hinweise:
 
 - [  ] Dokumente darüber, dass der Stollen zu tief in den Berg vordringt und dieser einstürzen könnte.
-- [  ] Eine vor Schwäche verstorbene Person auf den Straßen vom Dorf. Er sind helle Stellen an den Handgelenken und Knöcheln sichtbar. Niemand scheint diese Person zu kennen.
+- [  ] Eine vor Schwäche verstorbene Person auf den Straßen vom Dorf. Es sind helle Stellen an den Handgelenken und Knöcheln sichtbar. Niemand scheint diese Person zu kennen.
 - [  ] Eine Atemmaske aus Stoff. An der Innenseite klebt Blut.
 - [  ] Jmd. berichtet von einer Vision die er/sie von ein paar Wochen hatte. Der Berg erschien ihr in einer Muttergestalt und flehte um das Leben ihrer Kinder.
 - [  ] Ein toter Steingeist.
