@@ -123,23 +123,23 @@ Herausforderung: Der Keller wird von den Hausgeister verschlossen gehalten. Es m
 
 ### Hinweise:
 
--	[   ] Ein Brief mit einem Geständnis der verstorbenen Ehefrau einen Hausgeist aus Versehen getötet zu haben. Er ist ungeöffnet.
--	[   ] Silberbesteck mit Blut darauf.
--	[   ] Ein unecht wirkendes Testament, welches die Hausgeister aus dem Erbe streicht.
--	[   ] Die Geister nehmen ein Leben für ein Leben.
--	[   ] Geburtsurkunde des Toten, welche Yoshiteru als Vater ausweist.
--	[   ] Eine vergiftete Flasche Wein.
--	[   ] Ein Brief von Hiroko: „Ich liebe dich, mein Gatte, aber ich muss die Schuld bezahlen.“
--	[   ] Gespräch: Der Reichtum ist vorbei. Die Hausgeister entwenden zu viel. Sie sind gierig. Das muss enden. Sofort. (Person ist nur zu belauschen und verschwindet sofort.)
--	[   ] Der tote Hausgeist. (Nur im Keller zu finden)
--	[   ] Ein zerrissener Brief, laut dem Geschäftsleute aus dem Norden einen hohen Preis für das Land des Herrn zahlen wollen.
--	[   ] Ein altes Tagebuch: „Die Hausgeister piesacken und schikanieren mich. Vater hört mir nicht zu.“
--	[   ] Es heißt das Haus bricht zusammen, wenn die Geister verschwinden. Es heißt es gibt einen Vertrag darüber.
--	[   ] Schwester hasst die Mutter, den Vater und den Bruder.
--	[   ] Ein Ritualmesser, das magisch überzogen wurde. Das Blut eines Geistes klebt an der Klinge.
--	[   ] Der Hausherr ist über 120 Jahre alt.
--	[   ] Die Erben hassen die Hausgeister.
--	[   ] Das Zeichen der Hausgeister auf dem Nacken des Toten.
--	[   ] Vor Jahrzehnten, als der alte Herr das Haus übernommen hat, verschwanden 10 Hausgeister spurlos. 
--	[   ] Ein Buch, in dem beschrieben wird, dass das Konsumieren eines Geistes das eigene Leben verlängert. Es gibt dort auch Anleitungen.
--	[   ] Mütterchen und Väterchen haben eine geisterhafte Aura.
+-	[ ] Ein Brief mit einem Geständnis der verstorbenen Ehefrau einen Hausgeist aus Versehen getötet zu haben. Er ist ungeöffnet.
+-	[ ] Silberbesteck mit Blut darauf.
+-	[ ] Ein unecht wirkendes Testament, welches die Hausgeister aus dem Erbe streicht.
+-	[ ] Die Geister nehmen ein Leben für ein Leben.
+-	[ ] Geburtsurkunde des Toten, welche Yoshiteru als Vater ausweist.
+-	[ ] Eine vergiftete Flasche Wein.
+-	[ ] Ein Brief von Hiroko: „Ich liebe dich, mein Gatte, aber ich muss die Schuld bezahlen.“
+-	[ ] Gespräch: Der Reichtum ist vorbei. Die Hausgeister entwenden zu viel. Sie sind gierig. Das muss enden. Sofort. (Person ist nur zu belauschen und verschwindet sofort.)
+-	[ ] Der tote Hausgeist. (Nur im Keller zu finden)
+-	[ ] Ein zerrissener Brief, laut dem Geschäftsleute aus dem Norden einen hohen Preis für das Land des Herrn zahlen wollen.
+-	[ ] Ein altes Tagebuch: „Die Hausgeister piesacken und schikanieren mich. Vater hört mir nicht zu.“
+-	[ ] Es heißt das Haus bricht zusammen, wenn die Geister verschwinden. Es heißt es gibt einen Vertrag darüber.
+-	[ ] Schwester hasst die Mutter, den Vater und den Bruder.
+-	[ ] Ein Ritualmesser, das magisch überzogen wurde. Das Blut eines Geistes klebt an der Klinge.
+-	[ ] Der Hausherr ist über 120 Jahre alt.
+-	[ ] Die Erben hassen die Hausgeister.
+-	[ ] Das Zeichen der Hausgeister auf dem Nacken des Toten.
+-	[ ] Vor Jahrzehnten, als der alte Herr das Haus übernommen hat, verschwanden 10 Hausgeister spurlos. 
+-	[ ] Ein Buch, in dem beschrieben wird, dass das Konsumieren eines Geistes das eigene Leben verlängert. Es gibt dort auch Anleitungen.
+-	[ ] Mütterchen und Väterchen haben eine geisterhafte Aura.
