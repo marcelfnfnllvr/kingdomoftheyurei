@@ -131,31 +131,31 @@ Herausforderung: Die Gänge sind schwierig zu navigieren. Hier wäre ein Wurf au
 
 ### Hinweise:
 
-- [  ] Dokumente darüber, dass der Stollen zu tief in den Berg vordringt und dieser einstürzen könnte.
-- [  ] Eine vor Schwäche verstorbene Person auf den Straßen vom Dorf. Es sind helle Stellen an den Handgelenken und Knöcheln sichtbar. Niemand scheint diese Person zu kennen.
-- [  ] Eine Atemmaske aus Stoff. An der Innenseite klebt Blut.
-- [  ] Jmd. berichtet von einer Vision die er/sie von ein paar Wochen hatte. Der Berg erschien ihr in einer Muttergestalt und flehte um das Leben ihrer Kinder.
-- [  ] Ein toter Steingeist.
-- [  ] Die Legenden sagen, dass die Steingeister tief im Berg leben.
-- [  ] Personen, die wegrennen, nachdem sie Schaden anrichten wollten.
-- [  ] Ein edles Stück Stoff ist zwischen zwei Steinen eingeklemmt und abgerissen.
-- [  ] Pläne für einen neuen Weg durch den Stollen und bis zum Fuße der Hochebene.
-- [  ] Mit dem Feuer werden ehrenlose Waffen geschmiedet.
-- [  ] Es werden in Toro keine Kinder geboren.
-- [  ] Auf den Straßen von Toro sind nur Männer zu sehen.
-- [  ] Eine Frau soll nachts draußen gesehen worden sein. 
-- [  ] Erschütterungen und Bergrutsche werden immer häufiger. 
-- [  ] Markierungen am Boden. Wie Ritualzeichen. 
-- [  ] Eine Frau ist im Traum erschienen und sie verwandelte sich in einen Dämon. 
-- [  ] Es heißt wer den Stollen betritt, muss die Schwelle zum Stollen küssen.
-- [  ] Eine Schusswaffe, wie ein Schwert, in ein Tuch gehüllt. 
-- [  ] Spuren eines mächtigen Rituals. 
-- [  ] Dokumente, die den Preis für etwas Lebendes festlegen. 
-- [  ] Eine Todesdrohung gegen den Bergwerkschef wurde an eine Hauswand geschmiert. 
-- [  ] Ein in einer anderen Sprache aufgesetzter Brief. 
-- [  ] Ein Kraut, welches dazu genutzt wird, mit der anderen Ebene zu reden. Es kommt in dieser Gegend nicht natürlich vor. 
-- [  ] Es sind keine Stollenarbeiter gestorben. Den Toten, der aufgespießt wurde, scheint niemand zu kennen. 
-- [  ] Berggott und Feuergott sollen einen jahrtausendalten Kampf gegeneinander führen, dessen Ursprung niemand mehr kennt.   
-- [  ] Eines der Geister arbeitet im Izakaya / Badehaus  als Bardame / Badehausmutter
-- [  ] Der Stollen ändert seine Form.
-- [  ] Die Aufseherin scheint ein Dämon zu sein.
+- [ ] Dokumente darüber, dass der Stollen zu tief in den Berg vordringt und dieser einstürzen könnte.
+- [ ] Eine vor Schwäche verstorbene Person auf den Straßen vom Dorf. Es sind helle Stellen an den Handgelenken und Knöcheln sichtbar. Niemand scheint diese Person zu kennen.
+- [ ] Eine Atemmaske aus Stoff. An der Innenseite klebt Blut.
+- [ ] Jmd. berichtet von einer Vision die er/sie von ein paar Wochen hatte. Der Berg erschien ihr in einer Muttergestalt und flehte um das Leben ihrer Kinder.
+- [ ] Ein toter Steingeist.
+- [ ] Die Legenden sagen, dass die Steingeister tief im Berg leben.
+- [ ] Personen, die wegrennen, nachdem sie Schaden anrichten wollten.
+- [ ] Ein edles Stück Stoff ist zwischen zwei Steinen eingeklemmt und abgerissen.
+- [ ] Pläne für einen neuen Weg durch den Stollen und bis zum Fuße der Hochebene.
+- [ ] Mit dem Feuer werden ehrenlose Waffen geschmiedet.
+- [ ] Es werden in Toro keine Kinder geboren.
+- [ ] Auf den Straßen von Toro sind nur Männer zu sehen.
+- [ ] Eine Frau soll nachts draußen gesehen worden sein. 
+- [ ] Erschütterungen und Bergrutsche werden immer häufiger. 
+- [ ] Markierungen am Boden. Wie Ritualzeichen. 
+- [ ] Eine Frau ist im Traum erschienen und sie verwandelte sich in einen Dämon. 
+- [ ] Es heißt wer den Stollen betritt, muss die Schwelle zum Stollen küssen.
+- [ ] Eine Schusswaffe, wie ein Schwert, in ein Tuch gehüllt. 
+- [ ] Spuren eines mächtigen Rituals. 
+- [ ] Dokumente, die den Preis für etwas Lebendes festlegen. 
+- [ ] Eine Todesdrohung gegen den Bergwerkschef wurde an eine Hauswand geschmiert. 
+- [ ] Ein in einer anderen Sprache aufgesetzter Brief. 
+- [ ] Ein Kraut, welches dazu genutzt wird, mit der anderen Ebene zu reden. Es kommt in dieser Gegend nicht natürlich vor. 
+- [ ] Es sind keine Stollenarbeiter gestorben. Den Toten, der aufgespießt wurde, scheint niemand zu kennen. 
+- [ ] Berggott und Feuergott sollen einen jahrtausendalten Kampf gegeneinander führen, dessen Ursprung niemand mehr kennt.  
+- [ ] Eines der Geister arbeitet im Izakaya / Badehaus  als Bardame / Badehausmutter
+- [ ] Der Stollen ändert seine Form.
+- [ ] Die Aufseherin scheint ein Dämon zu sein.
