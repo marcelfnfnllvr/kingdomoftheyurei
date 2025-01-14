@@ -14,7 +14,7 @@ Was hat das Ungleichgewicht ausgelöst und den Dämon erschaffen? Wie kann der P
 
 Falls die Situation eskaliert, brechen überall Schläferpilze aus dem Menschen. Er kann aufgehalten werden, fängt aber mit der Schwierigkeit 18 an.
 
-„Pilzbefall ade“ - Pflanzen <!-- das tut mir nur ein ganz bisschen weh, dass hier Pilze mit Pflanzen gleichgesetzt werden ^^; Also vielleicht doch eher Umwelt? Schließlich gibt es nicht nur das Pilzthema, sondern auch die Tiere und Pflanzen im angrenzenden Wald, die ja auch durchaus eine gewisse Rolle zu spielen haben -->
+Pilzbefall ade - Pflanzen <!-- das tut mir nur ein ganz bisschen weh, dass hier Pilze mit Pflanzen gleichgesetzt werden ^^; Also vielleicht doch eher Umwelt? Schließlich gibt es nicht nur das Pilzthema, sondern auch die Tiere und Pflanzen im angrenzenden Wald, die ja auch durchaus eine gewisse Rolle zu spielen haben -->
 
 ### Abenteuerfrage:
 
@@ -162,33 +162,33 @@ Herausforderung: Es ist dunkel und die Umgebung nur mit Fackeln beleuchtet. Übe
 
 ### Hinweise:
 
-- [  ] Ein verendeter Eber nahe dem Dorf. Er ist infiziert. Er wurde zum Teil ausgeweidet.
-- [  ] Ein Pilzmesser mit menschlichen Blut dran.
-- [  ] Infizierte Pilzreste plattgetreten am Boden.
-- [  ] Es wird berichtet, dass eine Dame im Freudenhaus geschwängert wurde.
-- [  ] Ein Brief, in dem steht, dass die größere Lieferung bald erwartet wird.
-- [  ] Es soll sich vermehrt Gesindel in der Gaststätte direkt neben dem hiesigen Hotel herumtreiben.
-- [  ] Ein Brief, in dem um Fruchtbarkeitsmedizin gebeten wird. Unterschrieben von UNLESERLICH.
-- [  ] Briefe, die Handel mit dem Norden andeuten.
-- [  ] Ein unautorisiert getötetes Nara-Reh.
-- [  ] Potenzmittel hergestellt aus dem Horn eines Markierten.
-- [  ] Eine Anleitung wie man aus Markierten Potenzmittel herstellt.
-- [  ] Eine Bisswunde von einem Wolf
-- [  ] Ritualmesser sollen früher dazu genutzt worden sein die Geister bei der Schlachtung von Tieren zu besänftigen.
-- [  ] Ein Brief, in dem steht, dass die Liebe nicht lohnt wenn sie kein Leben erschaffen kann. 
-- [  ] Eine Katze weicht einer Person aus. Euch fällt auf, dass die Person für einen Moment so etwas wie Fuchsohren hat?
-- [  ] Eine Anleitung mit einem Ritual, um die Pilze schneller wachsen zu lassen. Ritual kann gelernt werden.
-- [  ] Zwei Personen unterhalten sich darüber, dass sie dringend Fleisch bräuchten und es sonst so einem Unglück käme. Ihre Art ist einfach auf das Fleisch angewiesen.
-- [  ] Fremdartige Kleidung mit Blut.
-- [  ] Ein Ritualdolch mit Menschenblut.
-- [  ] Die Dorfälteste kennt das Geheimnis von Asamis Tochter
-- [  ] Ein Nördler ist im Dorf
-- [  ] Bäume im Wald sehen zunehmend krank und ungesund aus.
-- [  ] Es sollen vermehrt Wölfe mit menschlicher Kleidung gesichtet worden sein.
-- [  ] Pilzbefall an einer bestimmten Stelle des Dorfes
-- [  ] Pilzwurzeln, die sich unter der Erde ausbreiten
-- [  ] Pilzsporen in der Luft. Infizieren kleine Tiere.
-- [  ] Jemand im Dorf ist in einer unanständigen Liaison
-- [  ] Im Dorf tragen die Bewohner auffällig oft teuren Schmuck
-- [  ] In einer Häuserwand sind merkwürdige Zeichen eingeritzt. So etwas wie ein Code.
-- [  ] Ein heiliges Zeichen von einem heiligen Baum auf dem Boden. Halb verbrannt.
+- [ ] Ein verendeter Eber nahe dem Dorf. Er ist infiziert. Er wurde zum Teil ausgeweidet.
+- [ ] Ein Pilzmesser mit menschlichen Blut dran.
+- [ ] Infizierte Pilzreste plattgetreten am Boden.
+- [ ] Es wird berichtet, dass eine Dame im Freudenhaus geschwängert wurde.
+- [ ] Ein Brief, in dem steht, dass die größere Lieferung bald erwartet wird.
+- [ ] Es soll sich vermehrt Gesindel in der Gaststätte direkt neben dem hiesigen Hotel herumtreiben.
+- [ ] Ein Brief, in dem um Fruchtbarkeitsmedizin gebeten wird. Unterschrieben von UNLESERLICH.
+- [ ] Briefe, die Handel mit dem Norden andeuten.
+- [ ] Ein unautorisiert getötetes Nara-Reh.
+- [ ] Potenzmittel hergestellt aus dem Horn eines Markierten.
+- [ ] Eine Anleitung wie man aus Markierten Potenzmittel herstellt.
+- [ ] Eine Bisswunde von einem Wolf
+- [ ] Ritualmesser sollen früher dazu genutzt worden sein die Geister bei der Schlachtung von Tieren zu besänftigen.
+- [ ] Ein Brief, in dem steht, dass die Liebe nicht lohnt wenn sie kein Leben erschaffen kann. 
+- [ ] Eine Katze weicht einer Person aus. Euch fällt auf, dass die Person für einen Moment so etwas wie Fuchsohren hat?
+- [ ] Eine Anleitung mit einem Ritual, um die Pilze schneller wachsen zu lassen. Ritual kann gelernt werden.
+- [ ] Zwei Personen unterhalten sich darüber, dass sie dringend Fleisch bräuchten und es sonst so einem Unglück käme. Ihre Art ist einfach auf das Fleisch angewiesen.
+- [ ] Fremdartige Kleidung mit Blut.
+- [ ] Ein Ritualdolch mit Menschenblut.
+- [ ] Die Dorfälteste kennt das Geheimnis von Asamis Tochter
+- [ ] Ein Nördler ist im Dorf
+- [ ] Bäume im Wald sehen zunehmend krank und ungesund aus.
+- [ ] Es sollen vermehrt Wölfe mit menschlicher Kleidung gesichtet worden sein.
+- [ ] Pilzbefall an einer bestimmten Stelle des Dorfes
+- [ ] Pilzwurzeln, die sich unter der Erde ausbreiten
+- [ ] Pilzsporen in der Luft. Infizieren kleine Tiere.
+- [ ] Jemand im Dorf ist in einer unanständigen Liaison
+- [ ] Im Dorf tragen die Bewohner auffällig oft teuren Schmuck
+- [ ] In einer Häuserwand sind merkwürdige Zeichen eingeritzt. So etwas wie ein Code.
+- [ ] Ein heiliges Zeichen von einem heiligen Baum auf dem Boden. Halb verbrannt.
