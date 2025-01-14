@@ -2,8 +2,10 @@
 
 Die hier vorgestellten Abenteuer lassen sich in ein bis zwei Sessions durchspielen, wobei wir bei einer Session von einer Dauer von ca. 4-5 Stunden ausgehen. In den Geschichten in *Königreich der Yōkai* gibt es keine festgeschriebenden Events oder Reihenfolgen, sondern die Gruppe bewegt sich von Szene zu Szene. Wann genau eine Session also vorbei sein soll, kann relativ frei festgelegt werden. Natürlich wird die Wahrscheinlichkeit das Abenteuer friedlich abzuschließen aber größer, je mehr Hinweise die Gruppe sammeln konnte.    
 
-Natürlich müsst ihr aber keines der vorgefertigten Abenteuer verwenden, sondern könnt euch selbst eigene Abenteuer ausdenken. Einige Tipps und Tricks hierzu findet ihr ebenfalls in diesem Kapitel. Außerdem gibt es für die *Momente* im Abenteuer eine Liste mit Beispielen, die immer verwendet werden können:
+<!-- hier müsste noch mehr Gedöns stehen-->
 
+Natürlich müsst ihr aber keines der vorgefertigten Abenteuer verwenden, sondern könnt euch selbst eigene Abenteuer ausdenken. Einige Tipps und Tricks hierzu findet ihr ebenfalls in diesem Kapitel. 
+<!--Außerdem gibt es für die *Momente* im Abenteuer eine Liste mit Beispielen, die immer verwendet werden können. Die Momente können an passenden Stellen in Szenenbeschreibungen eingestreut werden, um die passende Stimmung zu erzeugen:-->
 
 - Über einem See/Teich tanzen Reihen von kleinen fliegenden Flämmchen
 - Ein umgestürzter Baum. Mehrere Kodama tanzen und klettern auf dem Stamm herum und vor euren Augen wachsen an einem Ast einige frische neue Blätter.
