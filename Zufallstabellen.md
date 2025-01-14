@@ -1,8 +1,8 @@
 # Zufallstabellen
 
-## Dämonen Tabelle 
+## Dämon 
 
-| **1d20** | **Dämon**        | **Zeichnung**                                  | **Attribut** | Fähigkeiten                                                  |
+| **1d20** | **Dämon**        | **Zeichnung**                                  | **Attribut 3**| Fähigkeiten                                                  |
 | -------- | ---------------- | ---------------------------------------------- | ------------ | ------------------------------------------------------------ |
 | 1        | Hirsch           | Hirschgeweih                                   | Stechend     | Widerstandskraft - Die Kraft der Jugend                      |
 | 2        | Kitsune          | Rote Zeichnungen, Fuchsohren, Fuchsschwanz     | Gewandtheit  | Fuchsflammen - Erschaffe eine kleine schwebende Flamme, die auf Menschen eine unwiderstehliche anziehende Wirkung ausübt |
@@ -26,7 +26,7 @@
 | 20       | Onryō            | Lange schwarze Haare                           | Bedrohlich   | Schrecken - Zeige etwas seine tiefste Angst auf              |
 
 
-## Herkunft Tabelle
+## Herkunft
 
 | **1d20** | **Herkunft**                                               | **Attribut 4**   | **Attribut 5**      | **Gegenstand 1**                           |
 | -------- | ---------------------------------------------------------- | ---------------- | ------------------- | ------------------------------------------ |
@@ -52,7 +52,7 @@
 | 20       | Koch                                                       | Geschick         | Kochen              | Rezeptsammlung                             |
 
 
-## Ängste Tabellen
+## Ängste
 ### **Angst I**
 
 | 1d20 | **Angst**                                             |
@@ -104,8 +104,7 @@
 | 20   | Angst vor Nebel                                       |
 
 
-## Fähigkeiten Tabellen
-
+## Fähigkeiten
 ### Fähigkeiten I
 
 | **1d20** | **Name**           | **Beschreibung**                                                                         | 
@@ -159,7 +158,7 @@
 
 ## **Reittiere**
 
-| **1d20** | **Tierart**      | **Attribut**    | 
+| **1d20** | **Tierart**      | **Attribut 2**  | 
 | -------- | ---------------- | --------------- |
 | 1        | Tiger            | Stark           |
 | 2        | Erdmännchen      | Aufmerksam      | 
@@ -182,8 +181,7 @@
 | 19       | Schildkröte      | Geschützt       | 
 | 20       | Skorpion         | Wehrhaft        |
 
-
-## Namenstabellen
+## Namen
 ### **Feminine Namen**
 | **1d20** | **Vornamen** |
 | -------- | ------------ |
