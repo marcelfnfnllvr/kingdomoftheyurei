@@ -6,7 +6,7 @@ Gesammelte Verderbnispunkte: [  n  ]
 
 #### Karte:
 
-Präsentiere der Gruppe als erstes das Onsen und das Izakaya. Die weiteren beiden Orte können durch das finden von Hinweisen aufgedeckt werden.
+Präsentiere der Gruppe als erstes das Onsen und das Izakaya. Die weiteren beiden Orte können durch das Finden von Hinweisen aufgedeckt werden.
 
 ![DieAschegeister_Karte](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Abenteuer/DieAschegeister_Karte.png)
 
@@ -28,25 +28,28 @@ Wann war dein Charakter das erste Mal in einem Onsen und wie war es für ihn?
 
 ### Eröffnung:
 
-Ihr seid auf dem Weg in das Dorf „Supa“. Es ist berühmt für sein schönes Bad, welches vielen Gästen angenehme Stunden bereitet. 
+Ihr seid auf dem Weg in das Dorf „Supa“. Es ist berühmt für sein schönes Bad, welches vielen Gästen angenehme Stunden bereitet. <!das ist im Vergleich zu den anderen Abenteuern ziemlich wenig...-->
 
 ### Gefahren:
 
-- Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden. Gefahrenstufe 12.
-- Aschegeister greifen die Gruppe an. Sie erheben sich langsam aus dem Sand und formen fast menschliche Abbilder. Gefahrenstufe 8 bei einem, 10 bei einer ganzen Gruppe.<!-- Passt Stufe?--> 
-- Eine Person stirbt direkt vor ihren Augen. Sie zu löschen erfordert schnelles Handeln und einiges an Geschick.
+- Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden.
+- Aschegeister greifen die Gruppe an. Sie erheben sich langsam aus dem Sand und formen fast menschliche Abbilder. 
+- Eine Person stirbt direkt vor den Augen der Fureru. Sie zu löschen erfordert schnelles Handeln und einiges an Geschick.
+- Plötzlich wachsen aus der Lava in einem der Becken hunderte von Armen und die gesamte Lava kommt scheinbar unaufhaltsam auf euch zugekrochen.
+- Der Vulkan bricht aus und schleudert heiße Gesteinsbrocken auf die Gruppe nieder.
 
 ### Momente:
 
 - Am Rande des Lavafeldes jagt ein pechschwarzer kleiner Fuchs einen Ascheraben. Dieser setzt sich immer wieder auf größere Steine und kurz bevor er geschnappt wird, fliegt er wieder ein Stück weg. In der Lava reflektieren sich die Augen des Fuchses und sehen blutrot aus. Er setzt erneut an und packt den Vogel beinahe mitten in der Luft. Einen Moment bevor sein Kiefer sich schließt, löst sich der Rabe allerdings in schwarzen Rauch auf und erscheint anderthalb Meter weiter wieder.
-- Euch fällt auf wie tief die Sonne hier zu jeder Zeit steht. Wirklich auf geht sie nie. Die wärme, die ihr spürt, wird lediglich durch die Lavaströme erzeugt, die um das Dorf fließen. Ihr seht eine Gruppe größerer Vögel, die über das Dorf ziehen und rot schimmernde Schwanzfedern aufweisen.
+- Euch fällt auf wie tief die Sonne hier zu jeder Zeit steht. Wirklich auf geht sie nie. Die Wärme, die ihr spürt, wird lediglich durch die Lavaströme erzeugt, die um das Dorf fließen. Ihr seht eine Gruppe größerer Vögel, die über das Dorf ziehen und rot schimmernde Schwanzfedern aufweisen.
 - Nachts erscheinen die Aschegestalten um das Dorf. Wenn die Dorfbewohner ihnen näherkommen, zerfallen sie normalerweise. Bei den Wandernden verhalten sie sich eventuell anders.
+- Aus einem rot glühenden Teich aus blubbernder Lava erhebt sich langsam erst ein Kopf mit langem Bart, Mähne und Hörnern, dann folgt dem Kopf ein langer Schlangenkörper mit vier Beinen. Der Drache scheint komplett aus Feuer zu bestehen und kleine, heiße Lavatropfen fallen von ihm herab, als er durch die Luft hinauf und über einen Bergkamm fliegt. Bevor sie den Boden erreicht haben, sind sie bereits zu schwarzen Kieseln erstarrt.
 
 ### Personen:
 
 #### Suwa Katahiro – Ingenieur & Biologe
 
-*Wohlwollend*
+*Wohlwollend - arrogant, redet hochnäsig*
 
 Er hat eine Mixtur entwickelt, streng geheim, die abends an die Lampen und Laternen des Dorfes geschmiert wird. Diese dient als Nahrung für die Irrlichter. Sie verbleiben dort nun einige Stunden und spenden dem Dorf Licht. Er ist stolz auf diese Entdeckung und nennt sich selbst den Lichtbringer. Er hat ein Feld hinter seinem Haus, wo er den Sanddorn kultiviert hat. Er ist mit den ersten Besuchern des Badehauses ins Dorf gekommen und einfach geblieben.
 
@@ -88,7 +91,7 @@ Spricht nicht und zeigt nur in Richtungen.
 
 *Wohlwollend*
 
-Ein riesiger Rabe, der auch eine rote glühende Schwanzspitze aufweist. Er weiß vieles und hält nicht viel von den Menschen. Er ist zu den Fureru nett.
+Ein riesiger Rabe, dessen Schwanzfedern rot glühende Spitzen haben. Er weiß vieles und hält nicht viel von den Menschen. Zu den Fureru ist er jedoch freundlich.
 
 ### Schauplätze:
 
@@ -108,7 +111,7 @@ Herausforderung: Es gilt sich um die Lavaströme und heiße Fontänen herum zu b
 
 ##### Das Izakaya
 
-> Eröffnungsfrage: Welche wohlschmeckenden Speise aus seiner Kindheit bestellt sich euer Charakter?
+> Eröffnungsfrage: Welche wohlschmeckende Speise aus seiner Kindheit bestellt sich euer Charakter?
 
 ##### Die Berge
 
