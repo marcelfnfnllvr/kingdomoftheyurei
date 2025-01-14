@@ -18,23 +18,23 @@ Ehrungen werden nicht zufällig gewürfelt sondern müssen verdient werden. Dies
 
 Theoretisch ist es natürlich möglich, dass die Spielenden ein Veto gegen die Würfelergebnisse einlegen. Dabei ist zu bedenken, dass die Grundidee immer mehr verloren geht, je mehr Einfluss die Spielenden auf die Erstellung der Spielfigur haben. Das ist natürlich trotzdem völlig in Ordnung. Folgt ihr jedoch der Charaktererstellung wie sie eigentlich vorgesehen ist, dann wird auf die Zufallstabellen in folgender Reihenfolge mit je einem W20 gewürfelt:
 
-1. Dämonen Tabelle - Welcher Dämon wohnt in deinem Charakter?
+1. Tabelle Dämon - Welcher Dämon wohnt in deinem Charakter?
    1. Dämon, Zeichnung, Attribut 3 und einzigartige Fähigkeit 1 
 
-2. Herkunft Tabelle - Welchem Beruf ging dein Charakter nach, bevor ihn der Dämon besetzen konnte?
+2. Tabelle Herkunft - Welchem Beruf ging dein Charakter nach, bevor ihn der Dämon besetzen konnte?
    1. Herkunft, Attribut 4, Attribut 5, Gegenstand 1
 
-3. Ängste Tabellen - Wovor hat dein Charakter Angst?
+3. Tabellen Ängste - Wovor hat dein Charakter Angst?
    1. Angst I Tabelle
    2. Angst II Tabelle
 
-4. Fähigkeiten Tabellen - Welche weiteren besonderen Fähigkeiten besitzt dein Charakter?
+4. Tabellen Fähigkeiten - Welche weiteren besonderen Fähigkeiten besitzt dein Charakter?
    1. Fähigkeiten I - Kommt in Fähigkeit 2
    2. Fähigkeiten II - Kommt in Fähigkeit 3
 
 6. Optional
-   1. Reittier Tabelle - sofern sich die Spielenden nicht schon selbst ein Reittier ausgesucht haben
-   2. Namen Tabellen - sofern sich die Spielenden nicht selbst schon für Namen entschieden haben
+   1. Tabelle Reittier - sofern sich die Spielenden nicht schon selbst ein Reittier ausgesucht haben
+   2. Tabellen Namen - sofern sich die Spielenden nicht selbst schon für Namen entschieden haben
 
 
 # Charakterbogen
