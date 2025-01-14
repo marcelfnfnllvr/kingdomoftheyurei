@@ -47,7 +47,7 @@
 - [x] Ergänzung Session 0 im Glossar
 
 ### 2.2 Weltbeschreibung
-- [ ] Keine Dämonen sondern die schwarze Saat? Sie wohnt allem Inne und kommt zum Vorschein wenn Dinge aus dem Gleichgewicht geraten..
+- [ ] Keine Dämonen sondern die schwarze Saat? Sie wohnt allem Inne und kommt zum Vorschein wenn Dinge aus dem Gleichgewicht geraten.. <!-- ich hab' das Gefühl dafür ist es jetzt ein bisschen spät? ^^ -->
 - [ ] Weltbeschreibung hinzufügen - das Japan in welchem wir spielen <!-- gibt's doch eigentlich schon, oder fehlt da noch was?-->
 - [x] Jäger sollte noch in die Beschreibung im Regelwerk
 - [ ] Es sollte alles noch etwas Japanischer werden! Tokii (Bambuszahnbürsten???), Schuhe, Häuser, Bräuche
@@ -61,7 +61,7 @@
   - [ ] was am Meer/Strand
   - [ ] was zum Spielen, mit Schokolade
 - [ ] Fremdabenteuer noch dazu?
-- [ ] Ideen in Abenteuer verbauen (möglich)
+- [ ] Ideen in Abenteuer verbauen (Optionen)
   - [ ] Die Karpfen Papierfahnen
   - [ ] ukiyo-e Künstler (als NPC)
   - [ ] wieso gibt's noch niemand, der Sake braut? :D
@@ -75,8 +75,9 @@
     - [ ] Auf dem Weg begegnet euch ein Reisender mit Rucksack auf dem Rücken. Als ihr euch höflich voreinander verbeugt, tropft von seinem Schopf plötzlich etwas Wasser auf den Boden. 
   - [ ] Auch nicht magische. :D
     - [ ] drei Männer stellen gemeinsam Mochi her
+    - [ ] zwei Dorfbewohner sitzen auf dem Engawa vor dem Haus, die Stirn gerunzelt, und starren konzentriert auf das Shōgi -Brett vor sich.
 - [ ] Wichtige Japanische Begriffe für die Abenteuer am Anfang des Abenteuers erneut hervorheben
-- [ ] Karte zu Abenteuern vereinheitliche oder erstellen?
+- [ ] Karte zu Abenteuern vereinheitliche oder erstellen? Und schöner machen?
 - [ ] Das ganze Buch über die drei gleichen Charaktere für Erklärungen hernehmen.
   - [ ] Yūsuke (Hirsch) gespielt von Ralph - Reittier Wasserbüffel (Ken)  
   - [ ] Eran (Tengu) gespielt von Hannes - Reittier Steinbock (Shiori)
@@ -84,7 +85,7 @@
 - [x] Namenstabelle erweitern
 - [x] Zufallstabelle Reittiere
 - [x] Reihenfolge Zufallstabellen entsprechend Charakterbauschritten
-- [ ] Eventuell Titel der Tabellen anpassen von "Dämonen Tabelle" zu "Dämon", "Ängste Tabellen" zu "Ängste" etc.?
+- [x] Eventuell Titel der Tabellen anpassen von "Dämonen Tabelle" zu "Dämon", "Ängste Tabellen" zu "Ängste" etc.?
 - [x] Kämpfe in den einzelnen Abenteuern: Gefahrenstufe nur anhängig von der Azahl Verderbnispunkte, weg von der Einteilung zu den einzelnen Gefahren
 - [x] Magische Szenen für den Wald
 - [x] Abenteuer Aschegeister: Eröffnung ausbauen
