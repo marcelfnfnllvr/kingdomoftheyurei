@@ -20,7 +20,7 @@ Das Monster in diesem Abenteuer wird nicht näher beschrieben. Aber das eigentli
 
 Was ist passiert, welche Kreatur hat Herrn Botan Ryan angegriffen und ist Fräulein Kaho Ryan noch am Leben?
 
-Wenn die Situation eskaliert, stirbt Fräulein Kaho Ryan unabhängig von der Erzählung. Die Gruppe wird von dem Wesen angegriffen, das die Fureru erkennt. Es kann aufgehalten werden, beginnt aber bei Schwierigkeit 14. Wird es nicht in der ersten Runde aufgehalten, findet die Gruppe später Herrn Botan Ryan tot neben seinem Karren.
+Wenn die Situation eskaliert, stirbt Fräulein Kaho Ryan unabhängig von der Erzählung. Die Gruppe wird von dem Wesen angegriffen, das die Fureru als solche erkennt. Es kann aufgehalten werden, beginnt aber bei Schwierigkeit 14. Wird es nicht in der ersten Runde aufgehalten, findet die Gruppe später Herrn Botan Ryan tot neben seinem Karren.
 
 Meister des Waldes - Überleben
 
@@ -30,16 +30,17 @@ Meister des Waldes - Überleben
 
 ### Eröffnung:
 
-Ihr seid seit Tagen unterwegs durch den endlosen Wald. In der Mitte soll es eine fortschrittliche und wohlhabende Festung mit einer gnädigen Kaiserin geben. Ganz ohne Einfluss der Zentralregierung.
+Ihr seid seit Tagen unterwegs durch den endlosen Wald. In der Mitte soll es eine fortschrittliche und wohlhabende Festung mit einer gnädigen Fürstin geben. Ganz ohne Einfluss der Zentralregierung.
 
 Am Horizont seht ihr einen älteren Mann mit einem Ochsen und einem kaputten Karren, den er gerade repariert. Als ihr näher kommt, seht ihr einen zweiten Ochsen, der leblos neben dem Karren liegt. Der Mann neben dem Karren stellt sich als Botan Ryan vor. Er erzählt, dass eine wilde Kreatur aus dem Wald gestürmt sei, den Ochsen sofort getötet habe und mit seiner Tochter in den Wald geflohen sei. Er kann ihre Schreie noch in seinen Ohren hören. Er bittet die Gruppe um Hilfe. Das Wesen scheint kein normales Tier zu sein.
 
 ### Gefahren:
 
-- Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden. Gefahrenstufe 10.
-- Ein mit der Schwarzen Pest infiziertes Tier läuft auf die Gruppe zu. Gefahrenstufe 8 wenn allein und 12 wenn eine ganze Gruppe auftaucht.
+- Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden.
+- Ein mit der Schwarzen Pest infiziertes Tier oder ein Rudel von infizierten Tieren läuft auf die Gruppe zu.
 - Die Gruppe der Wildschweine könnte mittlerweile infiziert sein.
 - Auch die Bäume sind bereits Opfer der Schwarzen Pest geworden. Als die Gruppe einen Waldabschnitt passieren will, stürzen einige davon direkt über ihnen zusammen. Jetzt sind schnelle Reflexe gefragt!
+- Die Gruppe muss an einem großen Baum vorbei, in dem ein riesiger Schwarm Krähen seine Nestkolonie gebaut hat. Schnell oder unauffällig sollten sie sein, denn sonst werden die Krähen auf sie aufmerksam und könnten die Eindringlinge angreifen.
 
 ### Momente:
 
