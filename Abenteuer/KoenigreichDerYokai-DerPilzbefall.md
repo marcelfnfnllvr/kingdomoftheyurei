@@ -18,13 +18,10 @@ Falls die Situation eskaliert, brechen überall Schläferpilze aus dem Menschen.
 
 ### Abenteuerfrage:
 
-<!--Vorschläge (mir gefällt der erste am besten ^^):
-Dein Charakter hatte schon einmal die Möglichkeit die berühmten Pilze aus Haran zu probieren. Bei welcher Gelegenheit war das und wie haben sie ihm geschmeckt?
-
+Vorschläge <!--(mir gefällt der erste am besten ^^) -->:  
+Dein Charakter hatte schon einmal die Möglichkeit die berühmten Pilze aus Haran zu probieren. Bei welcher Gelegenheit war das und wie haben sie ihm geschmeckt?  
+*oder*  
 Wenn dein Charakter noch eine Sache an diesem Dorf ändern könnte, was wäre das?
-
-Den nächsten Vorschlag sollte man sich gut überlegen wg Lines&Veils und Ton insgesamt:
-Auch an einem anderen Ort hat dein Charakter bereits in der Vegangenheit Diskriminierung wie hier erlebt. Wie hat er darauf reagiert? -->
 
 ### Eröffnung:
 
@@ -38,10 +35,10 @@ Ihr seht zwei Personen, die dem Hund hinterhereilen und hektisch winken und rufe
 
 ### Gefahren:
 
-- Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden. Gefahrenstufe 12.
+- Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden.
 - Jede NSC kann vom Virus befallen sein und mutieren.
-- Infizierter Hund mit der Gefahrenstufe 8.
-- Ihr seht eine Wildschweinsau mit ihren Frischlingen ein paar Meter von euch entfernt. Die Sau fällt zu Boden und es fangen langsam an tentakelartige Pilze aus ihrem Maul zu sprießen. Diese packen sofort die Frischlinge und die Sau schaut mit rotglühenden Augen in eure Richtung. Gefahrenstufe 10.
+- Infizierter Hund
+- Ihr seht eine Wildschweinsau mit ihren Frischlingen ein paar Meter von euch entfernt. Die Sau fällt zu Boden und es fangen langsam an tentakelartige Pilze aus ihrem Maul zu sprießen. Diese packen sofort die Frischlinge und die Sau schaut mit rotglühenden Augen in eure Richtung.
 - Eine dichte Wolke frischer Pilzsporen wird vom Wind herangetragen. Die Gruppe muss sich entweder schnell entfernen oder eine Möglichkeit finden, wie ihnen die Sporen erst einmal nichts mehr anhaben können.
 
 ### Momente:
