@@ -56,12 +56,12 @@
 |                                |
 | **Fähigkeit 4 ab Abschnitt 2** |
 |                                |
-| **Fähigkeit 4 ab Abschnitt 3** |
+| **Fähigkeit 5 ab Abschnitt 3** |
 |                                |
 
 ### Korruption
 
-Korruption beschreibt, wie sehr der D&auml;mon von eurem Charakter besitzt ergreift und ihn ver&auml;ndert. Wenn die Korruption steigt, bekommt ihr ebenfalls einen Zustand. Zust&auml;nde zeigen den Geistigen und K&ouml;rperlichen Verfall eures Charakters.
+Korruption beschreibt, wie sehr der Dämon von eurem Charakter besitzt ergreift und ihn verändert. Wenn die Korruption steigt, bekommt ihr ebenfalls einen Zustand. Zustände zeigen den geistigen und körperlichen Verfall eures Charakters.
 
 | Stufe      | **Zustände**                            |
 | ---------- | --------------------------------------- |
@@ -74,7 +74,7 @@ Korruption beschreibt, wie sehr der D&auml;mon von eurem Charakter besitzt ergre
 
 ### Zustände abbauen
 
-Habt einen ruhigen Moment oder erz&auml;hlt von einem auf Reisen, um alleine oder gemeinsam Korruption abzubauen. Ihr könnt einen Zustand über die Abenteuerfrage reduzieren und weitere über den Spielzug "Auf Reisen".
+Habt einen ruhigen Moment oder erzählt von einem auf Reisen, um alleine oder gemeinsam Korruption abzubauen. Ihr könnt einen Zustand über die Abenteuerfrage reduzieren und weitere über den Spielzug "Auf Reisen".
 
 - Abenteuerfrage  - [    ]
 - Auf Reisen Spielzug  - [    ]
