@@ -111,23 +111,23 @@ Herausforderung: Um durch das Labyrinth zu gelangen, ohne sich zu verlaufen, ist
 
 ### Hinweise:
 
-- Blut an einer Felswand.
-- Traumfänger in einem Baum mit dämonischen Symbolen.
-- Ein mächtiger Zauberer soll im Wald sein Unwesen treiben.
-- Ein von Tieren getretener Pfad, der tiefer in den Wald führt. Man sieht unregelmäßige Spuren, wie sie verletzte Tiere hinterlassen.
-- Hier soll früher ein Waldvolk gelebt haben.
-- Kleine Figuren aus Zweigen. Sie stellen Menschen dar, die sich verändert haben.
-- Schreie lassen einen aufschrecken.
-- Große Kratzspuren an einem Baum.
-- Fallen im Labyrinth mit toten Tieren. Die Tiere sind nur noch Kadaver.
-- Zeichen des Festes mitten im Wald in einen Baum und/oder Stein geritzt.
-- Ein Vogelschwarm, der aus den Bäumen in der Nähe aufsteigt.
-- Ein mit Stöcken und Zweigen bedecktes Loch. Am Boden ist Blut zu sehen.
-- Ein Haufen Knochen. Hauptsächlich Tierknochen, aber ihr könnt auch einige Menschenknochen erkennen.
-- Ihr hört eine Stimme in eurem Kopf: "Es ist gut. Riskiert nicht euer Leben für mich. Ich bin jetzt glücklicher als vorher."
-- Ein Haufen toter, tiefschwarzer Würmer.
-- Ein alter Leichnam. Verwest und zerfallen. Ein Brief, ob sie nicht noch so einen Jungen bringen könnten.
-- Wandmalerei, die ein Ritual zeigt.
-- Nebel zieht auf und verursacht ein starkes Unwohlsein.
-- Wisst ihr nicht, dass die fahrenden Händler Sklavenhändler sind und sich die Sklaven gerne für eine Weile zur Frau nehmen?
-- Der alte Weg, der vor dem neuen benutzt wurde. Viel kleiner und der Geographie des Waldes angepasst.
+- [ ] Blut an einer Felswand.
+- [ ] Traumfänger in einem Baum mit dämonischen Symbolen.
+- [ ] Ein mächtiger Zauberer soll im Wald sein Unwesen treiben.
+- [ ] Ein von Tieren getretener Pfad, der tiefer in den Wald führt. Man sieht unregelmäßige Spuren, wie sie verletzte Tiere hinterlassen.
+- [ ] Hier soll früher ein Waldvolk gelebt haben.
+- [ ] Kleine Figuren aus Zweigen. Sie stellen Menschen dar, die sich verändert haben.
+- [ ] Schreie lassen einen aufschrecken.
+- [ ] Große Kratzspuren an einem Baum.
+- [ ] Fallen im Labyrinth mit toten Tieren. Die Tiere sind nur noch Kadaver.
+- [ ] Zeichen des Festes mitten im Wald in einen Baum und/oder Stein geritzt.
+- [ ] Ein Vogelschwarm, der aus den Bäumen in der Nähe aufsteigt.
+- [ ] Ein mit Stöcken und Zweigen bedecktes Loch. Am Boden ist Blut zu sehen.
+- [ ] Ein Haufen Knochen. Hauptsächlich Tierknochen, aber ihr könnt auch einige Menschenknochen erkennen.
+- [ ] Ihr hört eine Stimme in eurem Kopf: "Es ist gut. Riskiert nicht euer Leben für mich. Ich bin jetzt glücklicher als vorher."
+- [ ] Ein Haufen toter, tiefschwarzer Würmer.
+- [ ] Ein alter Leichnam. Verwest und zerfallen. Ein Brief, ob sie nicht noch so einen Jungen bringen könnten.
+- [ ] Wandmalerei, die ein Ritual zeigt.
+- [ ] Nebel zieht auf und verursacht ein starkes Unwohlsein.
+- [ ] Wisst ihr nicht, dass die fahrenden Händler Sklavenhändler sind und sich die Sklaven gerne für eine Weile zur Frau nehmen?
+- [ ] Der alte Weg, der vor dem neuen benutzt wurde. Viel kleiner und der Geographie des Waldes angepasst.
