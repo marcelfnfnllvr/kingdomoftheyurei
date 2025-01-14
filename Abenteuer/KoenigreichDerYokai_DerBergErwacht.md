@@ -4,9 +4,7 @@ Schwierigkeit: 18 - längeres Abenteuer - zwei Abende
 
 Gesammelte Verderbnispunkte: [  1  ]
 
-
-
-Stahl anstatt Eisen 
+Stahl anstatt Eisen <!-- was heißt das? --> 
 
 ### Hinweise für Spielleitende:
 
@@ -29,11 +27,11 @@ Bergwächter - Dunkelsicht
 Ein hochgelegenes Bergdorf welches sich nur über einen schmalen Pass erreichen lässt. Bekannt dafür die edelsten Schwerter zu schmieden. Leider steht seit einer Weile die Produktion komplett still. Es kam zu mehreren Unfällen, wo Arbeiter auf mysteriöse Weise ums Leben gekommen sind. Es wird berichtet, dass sie in den Stollen vom Berg aufgespießt worden sein sollen. Es sieht aus, als wäre der Stein im Stollen gewachsen und hätte sie erstochen. Die Gruppe befindet sich auf dem recht engen Bergpass, der zu der Hochebene führt, auf dem das Dorf Toro liegt. Der Wind hat angezogen und der Schnee peitscht der Truppe unentwegt ins Gesicht. Nach gut einer Stunde Wanderung sehen sie, dass der Weg vor ihnen versperrt ist. Ein Erdrutsch hat den Weg in ein Geröllfeld verwandelt und der Schnee macht es schwierig sich dort hinüber zu bewegen.
 
 ### Gefahren:
-- Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden. Gefahrenstufe 12.
+- Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden.
 - Das Licht im Bergwerk fällt aus. Jetzt heißt es schnell handeln, um nicht vom Stein angegriffen zu werden.
-- Steingeister wachsen plötzlich aus der Decke, den Wänden und dem Boden und sehen sehr wütend aus. Gefahrenstufe 8.
+- Steingeister wachsen plötzlich aus der Decke, den Wänden und dem Boden und sehen sehr wütend aus.
 - Ein Steinschlag regnet auf das Dorf nieder. Es gilt schnell zu reagieren, um den größten Schaden abzuwenden.
-- Ein blutspuckender Bär mit Steinstaub in seinen Augen greift die Gruppe an. Gefahrenstufe 10.
+- Ein blutspuckender Bär mit Steinstaub in seinen Augen greift die Gruppe an.
 - Die Stollen sind wie ein Labyrinth. Wie soll die Gruppe hier nur wieder herauskommen?
 
 ### Momente:
