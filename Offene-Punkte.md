@@ -11,7 +11,7 @@
 - [ ] Allgemeine Erklärungen und Einführungen fertigstellen
 - [ ] Bezeichnung vereinheitlichen: Welt/Reich Zwielichts, nicht Dämonenreich, Geisterebene etc.
 - [x] Irgendwo erklären, wofür die Eröffnungsfragen in den Abenteuern gedacht sind, und wie sie eingesetzt werden.   
-- [ ] Klarstellung das die Fureru prinzipiell alles können auch wenn sie die Fähigkeit nicht besitzen oder es sie nicht gibt!
+- [x] Klarstellung das die Fureru prinzipiell alles können auch wenn sie die Fähigkeit nicht besitzen oder es sie nicht gibt! Dürfte mittlerweile an mindestens drei verschiedenen Stellen verbaut sein.
 - [ ] Spielzüge > Kampf > Entwicklerkommentar für den Fall, dass wirklich Mal alle Charaktere in einem Kampf die maximalen Zustände erreichen
 - [ ] Spielbeispiele 
   - [ ] Ablauf einer Session
