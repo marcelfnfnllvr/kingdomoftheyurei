@@ -43,7 +43,7 @@
   - [ ] Schlüsselmomente
   - [ ] Momente
 - [ ] Erklärung warum Hinweise so konkret und Vergleich mit Brindlewood
-- [ ] Es geht um Szenen und diese schön darzustellen! --> finde genau das sollte in dieses "Vorwort" zu Regeln/Spielzüge 
+- [x] Es geht um Szenen und diese schön darzustellen! --> finde genau das sollte in dieses "Vorwort" zu Regeln/Spielzüge 
 - [x] Ergänzung Session 0 im Glossar
 
 ### 2.2 Weltbeschreibung
@@ -61,10 +61,20 @@
   - [ ] was am Meer/Strand
   - [ ] was zum Spielen, mit Schokolade
 - [ ] Fremdabenteuer noch dazu?
-- [ ] Die Karpfen Papierfahnen
+- [ ] Ideen in Abenteuer verbauen (möglich)
+  - [ ] Die Karpfen Papierfahnen
+  - [ ] ukiyo-e Künstler (als NPC)
+  - [ ] wieso gibt's noch niemand, der Sake braut? :D
+  - [ ] Lackwaren-Händler oder -Hersteller
+  - [ ] Kumiko-Panels
 - [x] Magische Szenen für Der Berg erwacht
-- [ ] Magische Szenen die über alle Abenteuer hinweg nutzbar sind.
+- [ ] Magische Szenen, die über alle Abenteuer hinweg nutzbar sind. --> aber wo hin verbauen?? 
+    - [ ] Über einem Fluss tanzen Reihen von kleinen fliegenden Flämmchen
+    - [ ] Ein umgestürzter Baum. Mehrere Kodama tanzen und klettern auf dem Stamm herum und vor euren Augen wachsen an einem Ast einige frische neue Blätter.
+    - [ ] Aus den Fluten eines Gebirgsbaches gucken euch für einen Moment zwei gelbe Augen an, als ihr den Bach auf einer kleinen Holzbrücke überquert. Im nächsten Moment bewegt sich ein dunkler Schatten pfeilschnell durch das Wasser weg.
+    - [ ] Auf dem Weg begegnet euch ein Reisender mit Rucksack auf dem Rücken. Als ihr euch höflich voreinander verbeugt, tropft von seinem Schopf plötzlich etwas Wasser auf den Boden. 
   - [ ] Auch nicht magische. :D
+    - [ ] drei Männer stellen gemeinsam Mochi her
 - [ ] Wichtige Japanische Begriffe für die Abenteuer am Anfang des Abenteuers erneut hervorheben
 - [ ] Karte zu Abenteuern vereinheitliche oder erstellen?
 - [ ] Das ganze Buch über die drei gleichen Charaktere für Erklärungen hernehmen.
@@ -75,8 +85,9 @@
 - [x] Zufallstabelle Reittiere
 - [x] Reihenfolge Zufallstabellen entsprechend Charakterbauschritten
 - [ ] Eventuell Titel der Tabellen anpassen von "Dämonen Tabelle" zu "Dämon", "Ängste Tabellen" zu "Ängste" etc.?
-- [ ] Kämpfe in den einzelnen Abenteuern: Gefahrenstufe nur anhängig von der Azahl Verderbnispunkte, weg von der Einteilung zu den einzelnen Gefahren
-- [ ] Magische Szenen für den Wald
+- [x] Kämpfe in den einzelnen Abenteuern: Gefahrenstufe nur anhängig von der Azahl Verderbnispunkte, weg von der Einteilung zu den einzelnen Gefahren
+- [x] Magische Szenen für den Wald
+- [x] Abenteuer Aschegeister: Eröffnung ausbauen
 
 ## 3 Das *BUCH*
 - [ ] Autorenkommentare hervorheben?
