@@ -30,7 +30,7 @@ Wenn dir jemand misstraut oder wenn du etwas Riskantes tun willst, würfle auf d
 Besprich mit der Spielleitung, was deine Fähigkeit bewirken soll. Du bekommst einen schwarzen Würfel von diesem Spielzug.
 
 - Unabhängig vom Würfelergebnis passiert in jedem Fall, was du wolltest.
-- 1&1 Die Spielleitung erhält einen weiteren Verderbnispunkte.
+- 1&1 Die Spielleitung erhält einen weiteren Verderbnispunkt.
 - 1-4 Die Spielleitung erhält einen Verderbnispunkt.
 - 5-6 Du bekommst einen weißen Bonuswürfel, den du frei einsetzen darfst.
 - 6&6 Du bekommst einen Hinweis.
