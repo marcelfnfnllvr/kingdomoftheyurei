@@ -1,6 +1,6 @@
 # Spielzüge
 
-Im Verlauf des Spiels nutzen die Spielenden Spielzüge, um Hinweise von NSCs zu erhalten, Hindernissen zu begegnen, Zustände abzubauen, Kämpfe auszutragen oder ihre Fähigkeiten einzusetzen. Ein Spielzug gibt entweder einen weißen oder einen schwarzen Würfel für den Würfelpool. Dies ist in der Beschreibung des Spielzugs angegeben. Die kritischen Erfolge (6&6) und Misserfolge (1&1) zählen zusätzlichen zum Ergebnis des Spielzugs. So bedeutet eine Doppel-Sechs im Spielzug "Etwas herausfinden", dass den Spielenden zwei Hinweise von der Spielleitung mitgeteilt werden.
+Im Verlauf des Spiels nutzen die Spielenden Spielzüge, um Hinweise von NSCs zu erhalten, Hindernissen zu begegnen, Zustände abzubauen, Kämpfe auszutragen oder ihre Fähigkeiten einzusetzen. Ein Spielzug gibt entweder einen weißen oder einen schwarzen Würfel für den Würfelpool. Dies ist in der Beschreibung des Spielzugs angegeben. Die kritischen Erfolge (6&6) und Misserfolge (1&1) zählen zusätzlich zum Ergebnis des Spielzugs. So bedeutet eine Doppel-Sechs im Spielzug "Etwas herausfinden", dass den Spielenden zwei Hinweise von der Spielleitung mitgeteilt werden.
 
 >[1. Etwas herausfinden](#der-etwas-herausfinden-spielzug)  
 >[2. Etwas riskieren](#der-etwas-riskieren-spielzug)   
