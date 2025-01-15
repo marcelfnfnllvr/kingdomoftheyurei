@@ -8,7 +8,9 @@ Hier findest du alle Regeln, die du zum Spielen von *Augen des Zwielichts: Köni
 
 Für jeden Spielzug erhältst du einen Würfel. Für ungefährliche Spielzüge gibt es einen weißen Würfel, für gefährliche einen schwarzen. Für ein passendes Attribut bekommst du einen zweiten Würfel. Je nach Attribut kann dieser weiß oder schwarz sein. Den dritten Würfel bekommst du entweder für eine Angst oder einen Zustand. Außerdem kannst du durch bestimmte Aktionen Bonuswürfel sammeln, die du zusätzlich einsetzen kannst. Maximal kann der Würfelpool beim ersten Wurf auf einen Spielzug vier Würfel beinhalten.
 
-1W6 [Spielzug - Weiß oder Schwarz] +1W6 [Attribut oder Equipment - Weiß oder Schwarz] + 1W6 [Angst oder Zustand - Schwarz] + 1W6 [Bonuswürfel - Weiß]
+1W6 [Spielzug - Weiß oder Schwarz] +1W6 [Attribut oder Equipment - Weiß oder Schwarz]  
++1W6 [Angst oder Zustand - Schwarz]  
++1W6 [Bonuswürfel - Weiß]
 
 ## Der Wurf
 
