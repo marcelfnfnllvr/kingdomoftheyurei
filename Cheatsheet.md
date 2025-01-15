@@ -1,4 +1,20 @@
 ## Spielzüge und Regeln
+### Würfeln
+#### Würfelpool
+1W6 [Spielzug - Weiß oder Schwarz] +1W6 [Attribut oder Equipment - Weiß oder Schwarz]  
++1W6 [Angst oder Zustand - Schwarz]  
++1W6 [Bonuswürfel - Weiß]  
+**Wenn ein schwarzer W6 den höchsten Wert hat --> + 1 Zustand --> + 1 Korruption**
+#### Wurf verbessern
+Wurf kann einmalig verbessert werden, wenn der höchste Wert eines Wurfs von einem weißen W6 stammt.
+
+#### Verderbnispunkte ausgeben (SL)
+| **Anzahl** | **Ergebnis**                                       |
+| ---------- | -------------------------------------------------- | 
+| 1-x        | Schwierigkeit des Abenteuers steigt um x           |
+| 2          | gefährliche Situation oder Kampf (Gefahrenstufe 8) |
+| 3          | Kampf (Gefahrenstufe 10)                           |
+| 4          | Kampf (Gefahrenstufe 12)                           |
 
 #### Etwas herausfinden - weißer W6                   
 | **2W6kh2** | **Ergebnis**       |
@@ -37,7 +53,7 @@
 | 5-6        | 1 weißer Bonuswürfel             |
 | 6&6        | 1 Hinweis + 1 weißer Bonuswürfel |
 
-
+### Zustände abbauen
 #### Auf Reisen - weißer W6 - pro Spielendem 1x/Abenteuer
 | **2W6kh2** | **Ergebnis**                        |
 | ---------- | ----------------------------------- | 
@@ -47,7 +63,11 @@
 | 5-6        | letzte 3 Zustände entfernen + 1 Hinweis |
 | 6&6        | alle Zustände entfernen + 1 Hinweis |
 
-#### Ablauf Kampf
+#### Abenteuerfrage beantworten - pro Spielendem 1x/Abenteuer
+Beantworten der Abenteuerfrage --> - 1 Zustand, ohne Wurf
+
+### Kampf
+#### Ablauf
 1. Vorbereitung
   - Gefahrenstufe bestimmen (SL)
   - Schwachpunkt aufwürfeln (alle SP) mit 2W6kh1 (für hellen Lebensabschnitt) oder 2W6kl1 (für dunklen Abschnitt)
