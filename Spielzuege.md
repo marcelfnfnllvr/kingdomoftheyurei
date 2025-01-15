@@ -99,8 +99,8 @@ Der Spielzug "Hilfe anbieten" wird genutzt, nachdem die zu helfende Person den e
 
 ## Der „Das Abenteuer lösen“ Spielzug
 
-Überlegt in der Gruppe, welcher Dämon hier aus welchem Grund sein Unwesen treibt und welche Maßnahmen ihr ergreifen müsst, um ihn zu besänftigen. Baut so viele Hinweise wie möglich in die Geschichte ein. Jeder genutzte Hinweis senkt die Gefahrenstufe der Aufgabe um eins. Nicht genutzte Hinweise können euch in einem eventuellen Endkampf helfen. 
+Überlegt in der Gruppe, welcher Dämon hier aus welchem Grund sein Unwesen treibt und welche Maßnahmen ihr ergreifen müsst, um ihn zu besänftigen. Baut so viele Hinweise wie möglich in die Geschichte ein. Jeder genutzte Hinweis senkt die Schwierigkeit der Aufgabe um eins. Nicht genutzte Hinweise können euch in einem eventuellen Endkampf helfen. 
 
-Um zu wissen, ob eure Lösung funktioniert, wirft einer der Spielenden 2W6 und bildet die Summe. Die Summe muss mindestens die gesenkte Gefahrenstufe erreichen. Ist dies nicht der Fall, kommt es zum Endkampf. Hier kann die Gefahrenstufe des Gegners mit Hilfe der verbliebenen Hinweise gesenkt werden, wenn dies logisch begründet werden kann. Zwei Einsen in diesem Wurf sind in jedem Fall ein kritischer Misserfolg und führen dazu, dass keine friedliche Lösung gefunden werden kann.
+Um zu wissen, ob eure Lösung funktioniert, wirft einer der Spielenden 2W6 und bildet die Summe. Die Summe muss mindestens die gesenkte Schwierigkeit des Abenteuers erreichen. Ist dies nicht der Fall, kommt es zum Endkampf. Hier kann die Gefahrenstufe des Gegners mit Hilfe der verbliebenen Hinweise gesenkt werden, wenn dies logisch begründet werden kann. Zwei Einsen in diesem Wurf sind in jedem Fall ein kritischer Misserfolg und führen dazu, dass keine friedliche Lösung gefunden werden kann.
 
 *Wenn es zum Kampf kommt, muss dieser nicht unbedingt direkt gegen den Dämon geführt werden. Der Wurf bezieht sich ja nur auf die Lösung des Problems und nie auf die Herleitung und die Erzählung. Es kann auch sein, dass sich die Gruppe der Bewohner gegen unsere Spielenden stellt, weil sie die angebotene Lösung nicht akzeptieren wollen.*
