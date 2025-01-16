@@ -48,11 +48,12 @@ Wenn ein Charakter sechs Zustände aufbaut, ist er außer Gefecht gesetzt. Es er
 2. Setze deine Zustände zurück. 
 3. Beantworte die nächste Frage auf der Abschnittstabelle.
 4. Ändere eines der Attributfelder in ein schwarzes.
-5. Würfle jeweils einmal auf die Fähigkeitstabelle und würfle dann mit W3, welche Fähigkeit du gegen eine neue tauschen musst. Die Dämonenfähigkeit kann nicht getauscht werden. 
+5. Würfle jeweils einmal auf die Fähigkeitstabelle 1 oder 2 und tausche dann eine deiner Fähigkeiten gegen die gewürfelte. Die Dämonenfähigkeit kann nicht getauscht werden. 
 6. Fehlende Ängste werden neu gewürfelt.
 7. Die Veränderung wird sichtbar stärker.
 8. Setze deine Aufstiegspunkte wieder zurück.
-9. Du bist jetzt in einem Lebensabschnitt in dem du langsam die Kontrolle über deinen Dämon verlierst.
+9. Die Spielleitende Person bekommt einen Verderbnispunkt.
+10. Du bist jetzt in einem Lebensabschnitt in dem du langsam die Kontrolle über deinen Dämon verlierst. Dieser Abschnitt ist dunkel.
 
 ## Der Abschnittswechsel
 
@@ -68,19 +69,19 @@ Bei jedem Aufstieg:
    1. Wenn dein Charakter jetzt im sechsten Lebensabschnitt ist, ist er zu müde und erschöpft, um weiterzumachen. Wie sieht der Lebensabend deines Charakters aus?
 
 6. Ändere ein Attribut oder einen Gegenstand. (Optional)
-7. Ändere das Aussehen deiner Änderung. (Optional)
-8. Du bist jetzt in einem Lebensabschnitt in dem du deinen Dämon gut unter Kontrolle hast.
+7. Ändere das Aussehen deiner Zeichnung. (Optional)
+8. Du bist jetzt in einem Abschnitt in dem du deinen Dämon gut unter Kontrolle hast. Dieser Abschnitt ist hell.
 
 Stufe 2 - Bei 8 gesammelten Punkten:
 
 1. Du darfst, für eine passende Erzählung, eine Angst deiner Wahl verlieren. (Optional)
-2. Würfle jeweils einmal auf die Fähigkeiten-Tabelle und tausche eine Fähigkeit gegen eine neue. Die Dämonenfähigkeit kann nicht getauscht werden. (Optional)
+2. Würfle jeweils einmal auf die Fähigkeiten-Tabelle 1 oder 2 und tausche eine Fähigkeit gegen eine neue. Die Dämonenfähigkeit kann nicht getauscht werden. (Optional)
 
 Stufe 3 - Bei 10 gesammelten Punkten:
 
 1. Du darfst, für eine passende Erzählung, eine Angst deiner Wahl verlieren. (Optional)
 2. Ändere ein weiteres Attribut oder einen Gegenstand. (Optional)
-3. Würfle jeweils zweimal auf die Fähigkeiten Tabelle und tausche eine Fähigkeit gegen eine neue. Die Dämonenfähigkeit kann nicht getauscht werden. (Optional)
+3. Würfle jeweils einmal auf die Fähigkeiten Tabelle 1 und 2 und tausche jeweils eine Fähigkeit gegen eine neue. Die Dämonenfähigkeit kann nicht getauscht werden. (Optional)
 
 ## Korruption
 
