@@ -52,9 +52,6 @@
 - [x] Ergänzung Session 0 im Glossar
 
 ### 2.2 Weltbeschreibung
-- [ ] Keine Dämonen sondern die schwarze Saat? Sie wohnt allem Inne und kommt zum Vorschein wenn Dinge aus dem Gleichgewicht geraten.. <!-- ich hab' das Gefühl dafür ist es jetzt ein bisschen spät? ^^ -->
-- [ ] Weltbeschreibung hinzufügen - das Japan in welchem wir spielen <!-- gibt's doch eigentlich schon, oder fehlt da noch was?-->
-- [x] Jäger sollte noch in die Beschreibung im Regelwerk
 - [ ] Es sollte alles noch etwas Japanischer werden! Tokii (Bambuszahnbürsten???), Schuhe, Häuser, Bräuche
 - [ ] Was macht das Japan in dem wir spielen aus? Wichtige Szenen und Dinge. Erzählungen. Wie bringt man das gefühlt am Besten rüber? --> siehe Vorwort zu Abenteuern
 - [ ] Waffen und allgemein Japanische Beschreibungen im Regelwerk
@@ -130,6 +127,9 @@
 
 ## erledigt
 - [x] Lernt die Gruppe nach jedem Abenteuer etwas über die Welt? Darf ihre Welt gestalten
+- [x] Keine Dämonen sondern die schwarze Saat? Sie wohnt allem Inne und kommt zum Vorschein wenn Dinge aus dem Gleichgewicht geraten.. <!-- ich hab' das Gefühl dafür ist es jetzt ein bisschen spät? ^^ -->
+- [x] Weltbeschreibung hinzufügen - das Japan in welchem wir spielen <!-- gibt's doch eigentlich schon, oder fehlt da noch was?-->
+- [x] Jäger sollte noch in die Beschreibung im Regelwerk
 - [x] Zustand in die Modifikator Tabelle ändern
 - [x] Welthinweise komplett entfernen
 - [x] Eine Fähigkeit direkt über den Dämon?
