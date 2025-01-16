@@ -4,8 +4,13 @@ Die hier vorgestellten Abenteuer lassen sich in ein bis zwei Sessions durchspiel
 
 <!-- hier müsste noch mehr Gedöns stehen-->
 
-Natürlich müsst ihr aber keines der vorgefertigten Abenteuer verwenden, sondern könnt euch selbst eigene Abenteuer ausdenken. Einige Tipps und Tricks hierzu findet ihr ebenfalls in diesem Kapitel. 
-<!--Außerdem gibt es für die *Momente* im Abenteuer eine Liste mit Beispielen, die immer verwendet werden können. Die Momente können an passenden Stellen in Szenenbeschreibungen eingestreut werden, um die passende Stimmung zu erzeugen:-->
+Natürlich müsst ihr aber keines der vorgefertigten Abenteuer verwenden, sondern könnt euch selbst eigene Abenteuer ausdenken. Einige Tipps und Tricks hierzu findet ihr ebenfalls in diesem Kapitel.
+
+##€ Stimmung erzeugen 
+*Königreich der Yōkai* hat kein bis ins letzte Detail ausgeklügelte Kampf- oder Magiesystem. Es ist auch keine Würfelschlacht. Stattdessen zielt es sehr stark darauf ab, die Gruppe in seine Welt hineinzuziehen. Für diese Immersion ist es wichtig die richtige Stimmung und entsprechende Bilder im Kopf zu erzeugen.  
+Zum Einen funktioniert das besser, wenn dem Rollenspiel genug Platz eingeräumt wird. Aber auch die Musik und die Beschreibung der Welt spielen dabei eine wichtige Rolle. Musik ist natürlich Geschmackssache; manche verwenden sie gerne, andere wiederum werden dadurch abgelenkt. In Online-Runden können sich alle individuell entscheiden ob sie Musik hören möchten oder nicht.  
+Für die Beschreibung der Welt bieten sich auch einige Möglichkeiten. Verwende nicht die gleichen Worte und Slangausdrücke wie im echten Leben. Du kannst auch versuchen etwas altmodisch klingende Begriffe zu verwenden. Mache dir bewusst, welche Bilder die Welt im Kopf hervorrufen möchte und baue Beispiele ein. Taucht beispielsweise ein Samurai als NPC auf, beschreibe ihn nicht mit einem Langschwert in der Hand und einem Helm mit Klappvisier sondern mit einem Katana oder Wakizashi und einem offenen Helm mit Halbmaske (Kabuto). Ein Bauer trägt einen Reishut statt einer Gugel auf dem Kopf und auf einem Friedhof stehen keine Kreuze oder Engelsstatuen sondern schlichte Steine mit Schalen für Räucherwerk und schmale längliche Holzschilder, auf denen Namen eingeschnitzt sind. Wollen sie sich erholen, dann gehen die Charaktere nicht in die Therme sondern besuchen das Onsen.
+Außerdem gibt es in jedem Abenteuer einige *Momente*, die dazu gedacht sind die Welt zum Leben zu erwecken und den Spielenden auch Anknüpfounkte für ihr Rollenspiel zu geben. Jedes Abenteuer hat seine eigenen, zum Schauplatz und Hintergrund passenden Momente. Unten findest du zusätzlich auch noch einige Ideen, die sich in jedes Abenteuer einbauen lassen:
 
 - Über einem See/Teich tanzen Reihen von kleinen fliegenden Flämmchen
 - Ein umgestürzter Baum. Mehrere Kodama tanzen und klettern auf dem Stamm herum und vor euren Augen wachsen an einem Ast einige frische neue Blätter.
