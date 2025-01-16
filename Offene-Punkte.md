@@ -4,8 +4,12 @@
 - [ ] Haiku als Mechanik?
   - [ ] Eventuell für den Stufenaufstieg bzw. das "sterben/außer Gefecht gesetzt"
   - [ ] Bonuswürfel für auf Reisen?
-- [ ] Besser Episoden als Abschnitt? Nö, ist auch nicht besser
+- [x] Besser Episoden als Abschnitt? Nö, ist auch nicht besser
+  - [ ] Besser Lebensabschnitt oder Abschnitt?
+
 - [ ] Player Principles wie in Trophy?
+  - [ ] Braucht es die?
+
 
 ## 2 Texte ergänzen/schreiben für's Regelwerk
 ### 2.1 Systembeschreibung
@@ -68,6 +72,8 @@
   - [ ] wieso gibt's noch niemand, der Sake braut? :D
   - [ ] Lackwaren-Händler oder -Hersteller
   - [ ] Kumiko-Panels
+  - [ ] Charaktere die man in Abenteuern nutzen kann?
+    - [ ] also einfach als Liste?
 - [x] Magische Szenen für Der Berg erwacht
 - [x] Magische Szenen, die über alle Abenteuer hinweg nutzbar sind. --> Vorwort Abenteuer 
 - [ ] Wichtige Japanische Begriffe für die Abenteuer am Anfang des Abenteuers erneut hervorheben
