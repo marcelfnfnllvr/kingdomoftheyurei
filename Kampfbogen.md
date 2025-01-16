@@ -1,6 +1,21 @@
 ### Kampfbogen
 
-Erste Version von einem Kampfbogen.
+|      |                    |                              |                    | Höchste Würfelaugenzahl |      |      |      |      |      |
+| ---- | ------------------ | ---------------------------- | ------------------ | ----------------------- | ---- | ---- | ---- | ---- | ---- |
+|      | **Charakternamen** | Schwachpunkt                 | Zustände           | *Runde 1*               | *2*  | *3*  | *4*  | *5*  | *6*  |
+| 1    |                    |                              |                    |                         |      |      |      |      |      |
+| 2    |                    |                              |                    |                         |      |      |      |      |      |
+| 3    |                    |                              |                    |                         |      |      |      |      |      |
+| 4    |                    |                              |                    |                         |      |      |      |      |      |
+|      |                    | Summe aus den zwei höchsten  | Würfelaugenzahlen: |                         |      |      |      |      |      |
+|      |                    | Gefahrenlevel der            | Bedrohung:         |                         |      |      |      |      |      |
+|      |                    | Hinweise beim Überwinden der | Bedrohung:         | 1                       | 2    | 3    | 3    | 3    | 3    |
+
+(X&X) X - Der Spielende mit dem höchsten Augenzahl im Wurf erhält in der nächsten Runde einen weiteren Würfel. Es zählt von seinem Wurf aber immer nur der Würfel mit der höchsten Augenzahl.
+
+(*X) - Markierung für den Spielzug "Den Gegner schwächen". Das Ergebnis dieses Wurfes zählt diese Runde nicht als Kampfwürfel und kann nicht genutzt werden um das Gefahrenlevel zu erreichen.
+
+#### Erklärung:
 
 |      |                    |                              |                    | Höchste Würfelaugenzahl |         |                |      |      |      |
 | ---- | ------------------ | ---------------------------- | ------------------ | ----------------------- | ------- | -------------- | ---- | ---- | ---- |
