@@ -43,60 +43,65 @@ Theoretisch ist es natürlich möglich, dass die Spielenden ein Veto gegen die W
 
 | Spielender Name | Charakter Name |
 | --------------- | -------------- |
-|                 |                |
+| Ralph           | Yūsuke         |
 
-| Dämonenabschnitt            | Abschnitt | I    | II   | III  | IV   | V    |
-| --------------------------- | --------- | ---- | ---- | ---- | ---- | ---- |
-| Ja - [    ] / Nein - [    ] |           | X    |      |      |      |      |
+| Abschnitt | I    | II   | III  | IV   | V    | VI   |
+| --------- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Hell      |      | X    |      |      |      |      |
+| Dunkel    | X    |      |      |      |      |      |
+
+*Der Charakter beginnt immer in einem dunklen Abschnitt. Wenn der Spielende dann genug Abschnittspunkte gesammelt hat kann er durch einen Abschnittswechel, siehe hierzu die Regel "Der Abschnittswechsel", in einen hellen Abschnitt wechseln.*
 
 ### Ehrung
 
-| Titel | Attribut 1 |
-| ----- | ---------- |
-|       |            |
+| Titel       | Attribut 1   |
+| ----------- | ------------ |
+| Traumfänger | Sonnenschein |
+
+*Eine Ehrung bekommt ein Charakter erst nach Abschluss des ersten Abenteuers. Diese Feld ist bis zu dem Zeitpunkt leer.*
 
 ### Reittier
 
 | Name | Beschreibung | Attribut 2 |
 | ---- | ------------ | ---------- |
-|      |              |            |
+| Ken  | Wasserbüffel | Stark      |
 
 ### Dämon
 
-| Dämon | Zeichnung | Attribut 3 |
-| ----- | --------- | ---------- |
-|       |           |            |
+| Dämon  | Zeichnung    | Attribut 3 |
+| ------ | ------------ | ---------- |
+| Hirsch | Hirschgeweih | Stechend   |
 
 ### Herkunft
 
-| Herkunft | Attribut 4 | Attribut 5 |
-| -------- | ---------- | ---------- |
-|          |            |            |
+| Herkunft      | Attribut 4 | Attribut 5 |
+| ------------- | ---------- | ---------- |
+| Perlentaucher | Ausdauer   | Geschick   |
 
 ### Ausrüstung
 
-| Gegenstand 1 (Attribut 6) | Freier Gegenstand (Attribut 7) |
-| ------------------------- | ------------------------------ |
-|                           |                                |
+| Herkunfts Gegenstand 1 (Attribut 6) | Freier Gegenstand (Attribut 7) |
+| ----------------------------------- | ------------------------------ |
+| Messer                              |                                |
 
 ### Schwächen
 
-| Angst 1 | Angst 2 |
-| ------- | ------- |
-|         |         |
+| Angst 1         | Angst 2         |
+| --------------- | --------------- |
+| Angst vor Feuer | Angst vor Nebel |
 
 ### Fähigkeiten
 
-| **Dämonfähigkeit**             |
-| ------------------------------ |
-|                                |
-| **Fähigkeiten 2 & 3**          |
-|                                |
-|                                |
-| **Fähigkeit 4 ab Abschnitt 2** |
-|                                |
-| **Fähigkeit 5 ab Abschnitt 3** |
-|                                |
+| **Dämonfähigkeit**                                           |
+| ------------------------------------------------------------ |
+| Widerstandskraft - Die Kraft der Jugend                      |
+| **Fähigkeiten 2 & 3**                                        |
+| Leidfresser - Nimm das Leid einer Person oder eines Wesens als dein eigenes. |
+| Tuschemeister - Erschaffe Dinge aus Tinte.                   |
+| **Fähigkeit 4 ab Abschnitt 2**                               |
+|                                                              |
+| **Fähigkeit 5 ab Abschnitt 3**                               |
+|                                                              |
 
 ### Korruption
 
@@ -131,47 +136,47 @@ Stufe 3 -  [    ]
 | Wurde die Momentan aktive Auggabe gelöst?           | X       |
 | Wurde die Aufgabe friedlich gelöst?                 | X       |
 | Hast du eine physische Probe erfolgreich bestanden? |         |
-| Hast du einer Person ein Geheimnis entlockt?        |         |
+| Hast du einer Person ein Geheimnis entlockt?        | o       |
 | Hast du eine Situation deskaliert?                  |         |
-| Hast du dich einem Kampf gestellt?                  |         |
-| Hast du eine Rückblende erzählt?                    |         |
+| Hast du dich einem Kampf gestellt?                  | o       |
+| Hast du eine Rückblende erzählt?                    | o       |
 | Hast du eine deiner Fähigkeiten eingesetzt?         |         |
 | Hast du das Gefahrenlevel einer Bedrohung gesenkt?  |         |
 
 ### Ehrungen		
 
-| **Titel** | Attribut |
-| --------- | -------- |
-|           |          |
-|           |          |
-|           |          |
-|           |          |
-|           |          |
-|           |          |
-|           |          |
-|           |          |
+| **Titel**   | Attribut     |
+| ----------- | ------------ |
+| Traumfänger | Sonnenschein |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
+|             |              |
 
 ### Abenteuerhistorie
 
-| Abenteuername - Abenteuerfrage |
-| ------------------------------ |
-| Antwort auf die Abenteuerfrage |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
+| Geplatzte Träume - Erzähle den letzten Alptraum, den dein Charakter hatte. |
+| ------------------------------------------------------------ |
+| Antwort auf die Abenteuerfrage                               |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
 
 ### Lebensabschnittsfragen
 

@@ -37,9 +37,9 @@
 
 ### Ausrüstung
 
-| Gegenstand 1 (Attribut 6) | Freier Gegenstand (Attribut 7) |
-| ------------------------- | ------------------------------ |
-|                           |                                |
+| Herkunfts Gegenstand (Attribut 6) | Freier Gegenstand (Attribut 7) |
+| --------------------------------- | ------------------------------ |
+|                                   |                                |
 
 ### Schwächen
 
