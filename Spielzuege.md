@@ -104,9 +104,8 @@ Ablauf eines Kampfes:
 
 *Die Spielenden sollten ermutigt werden, den Kampf cineastisch darzustellen und die Besonderheiten zu berücksichtigen, die ihre Charaktere haben. Nehmt euch Zeit für die Erzählung und hetzt nicht durch den Kampf. In den meisten Fällen ist ein Kampf nach einer oder zwei Runden vorbei, also genießt die Spannung und die Action, die ein Kampf mit sich bringt.* 
 
-<!-- Entwicklerkommentar für den Fall, dass wirklich Mal alle Charaktere in einem Kampf die maximalen Zustände erreichen:
-Was passiert wenn im Kampf die gesamte Gruppe außer Gefecht gesetzt wird?  
-In diesem Fall können sich die Charaktere nicht mehr gegenseitig durch einen "Etwas riskieren"-Spielzug zurückholen. trotzdem sterben die Charaktere nicht. Je nachdem wie es in eure Geschichte passt, könnten sie beispielsweise in Gefangenschaft aufwachen und müssen sich erst befreien. Oder ein freundlicher NSC findet sie und bringt sie zu sich nach Hause oder zurück dorthin, wo sie übernachten. Allerdings verliert sie Gruppe dabei 1-2 Hinweise. Zwar wissen sie natürlich noch, was der Hinweis eigentlich war, aber sie können mit verlorenen Hinweisen nicht die Schwierigkeit des Abenteuers senken. -->
+*Was passiert wenn im Kampf die gesamte Gruppe außer Gefecht gesetzt wird?  
+In diesem Fall können sich die Charaktere nicht mehr gegenseitig durch einen "Etwas riskieren"-Spielzug zurückholen. Trotzdem sterben die Charaktere nicht. Je nachdem wie es in eure Geschichte passt, könnten sie beispielsweise in Gefangenschaft aufwachen und müssen sich erst befreien. Oder ein freundlicher NSC findet sie und bringt sie zu sich nach Hause oder zurück dorthin, wo sie übernachten. Natürlich müssen alle Charaktere die Regel "Außer Gefecht gesetzt" abhandeln.*
 
 [Zurück nach oben](#spielz%C3%BCge)
 
