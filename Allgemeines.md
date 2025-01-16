@@ -103,6 +103,8 @@ Häufige Elemente japanischer Gärten sind z.B. künstlich aufgeschüttete Hüge
 
 #### Essen
 
+<!-- hier sollte noch ein Introtext stehen -->
+
 **Onigiri**  
 Onigiri sind meist dreieckig oder kugelig geformte Reisbälle aus weißem Reis. Sie sind ein einfaches Essen, das sich auch für unterwegs gut eignet. In der schlichtesten Form wird der Reis lediglich mit Salz gewürzt, sie können aber auch z.B. mit getrockneten Thunfisch-Flocken (Katsuobushi) oder fermentierten Pflaumen gefüllt werden. Die heute typische Umwicklung mit Nori-Algen entstand erst später.
 
