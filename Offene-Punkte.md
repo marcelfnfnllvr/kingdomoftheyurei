@@ -3,7 +3,8 @@
 ## 1 Änderungen/Ergänzungen für Regeln u. Spielzüge
 - [ ] Haiku als Mechanik?
   - [ ] Eventuell für den Stufenaufstieg bzw. das "sterben/außer Gefecht gesetzt"
-- [ ] Besser Episoden als Abschnitt?
+  - [ ] Bonuswürfel für auf Reisen?
+- [ ] Besser Episoden als Abschnitt? Nö, ist auch nicht besser
 - [ ] Player Principles wie in Trophy?
 
 ## 2 Texte ergänzen/schreiben für's Regelwerk
@@ -12,7 +13,7 @@
 - [ ] Bezeichnung vereinheitlichen: Welt/Reich Zwielichts, nicht Dämonenreich, Geisterebene etc.
 - [x] Irgendwo erklären, wofür die Eröffnungsfragen in den Abenteuern gedacht sind, und wie sie eingesetzt werden.   
 - [x] Klarstellung das die Fureru prinzipiell alles können auch wenn sie die Fähigkeit nicht besitzen oder es sie nicht gibt! Dürfte mittlerweile an mindestens drei verschiedenen Stellen verbaut sein.
-- [ ] Spielzüge > Kampf > Entwicklerkommentar für den Fall, dass wirklich Mal alle Charaktere in einem Kampf die maximalen Zustände erreichen
+- [ ] Spielzüge > Kampf > Entwicklerkommentar für den Fall, dass wirklich Mal alle Charaktere in einem Kampf die maximalen Zustände erreichen --> hab's als Kommentar ergänzt 
 - [ ] Spielbeispiele 
   - [ ] Ablauf einer Session
   - [ ] Beispiel
@@ -51,7 +52,7 @@
 - [ ] Weltbeschreibung hinzufügen - das Japan in welchem wir spielen <!-- gibt's doch eigentlich schon, oder fehlt da noch was?-->
 - [x] Jäger sollte noch in die Beschreibung im Regelwerk
 - [ ] Es sollte alles noch etwas Japanischer werden! Tokii (Bambuszahnbürsten???), Schuhe, Häuser, Bräuche
-- [ ] Was macht das Japan in dem wir spielen aus? Wichtige Szenen und Dinge. Erzählungen. Wie bringt man das gefühlt am Besten rüber?
+- [ ] Was macht das Japan in dem wir spielen aus? Wichtige Szenen und Dinge. Erzählungen. Wie bringt man das gefühlt am Besten rüber? --> siehe Vorwort zu Abenteuern
 - [ ] Waffen und allgemein Japanische Beschreibungen im Regelwerk
 - [ ] Abenteuer schreiben
   - [x] Der Wald
@@ -68,14 +69,7 @@
   - [ ] Lackwaren-Händler oder -Hersteller
   - [ ] Kumiko-Panels
 - [x] Magische Szenen für Der Berg erwacht
-- [ ] Magische Szenen, die über alle Abenteuer hinweg nutzbar sind. --> aber wo hin verbauen?? 
-    - [ ] Über einem Fluss tanzen Reihen von kleinen fliegenden Flämmchen
-    - [ ] Ein umgestürzter Baum. Mehrere Kodama tanzen und klettern auf dem Stamm herum und vor euren Augen wachsen an einem Ast einige frische neue Blätter.
-    - [ ] Aus den Fluten eines Gebirgsbaches gucken euch für einen Moment zwei gelbe Augen an, als ihr den Bach auf einer kleinen Holzbrücke überquert. Im nächsten Moment bewegt sich ein dunkler Schatten pfeilschnell durch das Wasser weg.
-    - [ ] Auf dem Weg begegnet euch ein Reisender mit Rucksack auf dem Rücken. Als ihr euch höflich voreinander verbeugt, tropft von seinem Schopf plötzlich etwas Wasser auf den Boden. 
-  - [ ] Auch nicht magische. :D
-    - [ ] drei Männer stellen gemeinsam Mochi her
-    - [ ] zwei Dorfbewohner sitzen auf dem Engawa vor dem Haus, die Stirn gerunzelt, und starren konzentriert auf das Shōgi -Brett vor sich.
+- [x] Magische Szenen, die über alle Abenteuer hinweg nutzbar sind. --> Vorwort Abenteuer 
 - [ ] Wichtige Japanische Begriffe für die Abenteuer am Anfang des Abenteuers erneut hervorheben
 - [ ] Karte zu Abenteuern vereinheitliche oder erstellen? Und schöner machen?
 - [ ] Das ganze Buch über die drei gleichen Charaktere für Erklärungen hernehmen.
