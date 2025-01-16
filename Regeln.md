@@ -41,7 +41,7 @@ Dieses Feld wird nie beschrieben, sondern immer nur im Kontext des Abenteuers un
 
 ## Außer Gefecht gesetzt
 
-Wenn ein Charakter sechs Zustände aufbaut, ist er außer Gefecht gesetzt. Es erfordert einen "Etwas riskieren"-Wurf eines anderen Spielenden, um dem Charakter wieder aufzuhelfen. Während dieser Zeit verändert der Dämon den Charakter nachhaltig.
+Wenn ein Charakter sechs Zustände aufbaut, ist er außer Gefecht gesetzt. Es erfordert einen "Etwas riskieren"-Wurf eines anderen Spielenden, um dem Charakter wieder aufzuhelfen. Sie können nicht sterben sondern werden älter und treten in einen neuen, dunkleren Lebensabschnitt ein. Während dieses Übergangs verändert der Dämon den Charakter nachhaltig.
 
 1. Der Körper und der Geist deines Charakters altern. Erhöhe den Abschnitt um eins.
    -	Wenn dein Charakter jetzt im sechsten Lebensabschnitt ist, ist er zu müde und erschöpft, um weiterzumachen. Wie sieht der Lebensabend deines Charakters aus?
