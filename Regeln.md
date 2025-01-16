@@ -1,8 +1,8 @@
 # Regeln
 
-Hier findest du alle Regeln, die du zum Spielen von *Augen des Zwielichts: Königreich der Yōkai* benötigst. Den genauen Spielablauf findest du in den Spielbeispielen. 
+Hier findest du alle Regeln, die du zum Spielen von *Augen des Zwielichts: Königreich der Yōkai* brauchst. Den genauen Spielablauf findest du in den Spielbeispielen. Bitte beachte, dass du das gesamte Regelwerk gelesen haben solltest, bevor du ein Abenteuer leitest. Nur die "Regeln" zu lesen wird nicht ausreichen um die Stimmung, das Gefühl, die Abenteuer aber auch einfach den mechanischen Ablauf ausreichend zu verinnerlichen.
 
-<!--Introtext? Würfelpool? Schwarze oder weiße Würfel? Es werden nur die zwei höchsten Augenzahlen betrachtet!-->
+Deine Spielenden versuchen durch Spielzüge Hinweise zu sammeln und diese zu kombinieren. Dazu stellen sie einen Würfelpool zusammen, der aus schwarzen und weißen Würfeln bestehen kann. Dieser Pool wird dann gewürfelt und die zwei höchsten Augenzahlen werden gewertet. Mehr dazu findet du in dem jeweiligen Spielzug. Alle anderen Regeln, die du zum Spielen brauchst, findest du hier. Um das System besser zu verstehen und zu verinnerlichen, solltest du dir auch die Spielbeispiele durchlesen.
 
 ## Der Würfelpool - Würfel sammeln
 
