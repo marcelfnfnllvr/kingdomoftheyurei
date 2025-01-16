@@ -115,25 +115,25 @@ Stufe 3 -  [    ]
 
 ### Abenteuerhistorie
 
-| Abenteuername - Abenteuerfrage |
-| ------------------------------ |
-| Antwort auf die Abenteuerfrage |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
-|                                |
+|      |
+| ---- |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
+|      |
 
 ### Lebensabschnittsfragen
 

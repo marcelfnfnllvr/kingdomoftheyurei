@@ -71,6 +71,7 @@
   - [ ] Kumiko-Panels
   - [ ] Charaktere die man in Abenteuern nutzen kann?
     - [ ] also einfach als Liste?
+  - [ ] Orte die man exemplarisch in allen Abenteuern nutzen kann
 - [x] Magische Szenen für Der Berg erwacht
 - [x] Magische Szenen, die über alle Abenteuer hinweg nutzbar sind. --> Vorwort Abenteuer 
 - [ ] Wichtige Japanische Begriffe für die Abenteuer am Anfang des Abenteuers erneut hervorheben

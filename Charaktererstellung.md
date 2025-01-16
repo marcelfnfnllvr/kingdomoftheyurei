@@ -39,6 +39,8 @@ Theoretisch ist es natürlich möglich, dass die Spielenden ein Veto gegen die W
 
 # Charakterbogen
 
+*Hier wird exemplarisch ein Charakterbogen gezeigt der im zweiten Abenteuer ist.* 
+
 ### Charakter
 
 | Spielender Name | Charakter Name |
@@ -58,7 +60,7 @@ Theoretisch ist es natürlich möglich, dass die Spielenden ein Veto gegen die W
 | ----------- | ------------ |
 | Traumfänger | Sonnenschein |
 
-*Eine Ehrung bekommt ein Charakter erst nach Abschluss des ersten Abenteuers. Diese Feld ist bis zu dem Zeitpunkt leer.*
+*Eine Ehrung bekommt ein Charakter erst nach Abschluss des ersten Abenteuers. Zu Beginn bleiben die beiden Felder leer.*
 
 ### Reittier
 
@@ -66,17 +68,23 @@ Theoretisch ist es natürlich möglich, dass die Spielenden ein Veto gegen die W
 | ---- | ------------ | ---------- |
 | Ken  | Wasserbüffel | Stark      |
 
+*Ralph hat sich vor dem ersten Abenteuer einen Wasserbüffel names Ken als Tier überlegt. Er gibt ihm, in Absprache mit der spieleitenden Person, das Attribut "Stark".*
+
 ### Dämon
 
 | Dämon  | Zeichnung    | Attribut 3 |
 | ------ | ------------ | ---------- |
 | Hirsch | Hirschgeweih | Stechend   |
 
+*Ralph hat sich als Dämon den Hirsch erwürfelt. Dieser gibt ihm die Zeichnung, dies ist eine physische veränderung seine Charakters, das Hirschgeweih und als Attribut Stechend.*
+
 ### Herkunft
 
-| Herkunft      | Attribut 4 | Attribut 5 |
-| ------------- | ---------- | ---------- |
-| Perlentaucher | Ausdauer   | Geschick   |
+| Herkunft      | Attribut 4 | Attribut 5           |
+| ------------- | ---------- | -------------------- |
+| Perlentaucher | Ausdauer   | Sympathie (Geschick) |
+
+*Die Spielenden müssen sich explizit keine Gedanken über einen wirklichen Charakterhintergrund machen, da dieser zufällig gewürfelt wird. Bei jedem Abschnittswechsel können sie dann ein Attribut ändern. Ralph hat seinen Charakter nach dem ersten Abenteuer aufsteigen lassen und das Attribut Geschick -> auf Sympathie geändert, um seinem Charakter auch ein soziales Attribut hinzuzufügen.*
 
 ### Ausrüstung
 
@@ -84,11 +92,15 @@ Theoretisch ist es natürlich möglich, dass die Spielenden ein Veto gegen die W
 | ----------------------------------- | ------------------------------ |
 | Messer                              |                                |
 
+*Ralph hat durch seinen gewürfelten Hintergrund den Gegenstand Messer bekommen. Der Freie Gegenstand wird nie beschrieben sondern immer dynamisch im Abenteuer genutzt.*
+
 ### Schwächen
 
-| Angst 1         | Angst 2         |
-| --------------- | --------------- |
-| Angst vor Feuer | Angst vor Nebel |
+| Angst 1         | Angst 2 |
+| --------------- | ------- |
+| Angst vor Feuer |         |
+
+*Jeder Charakter beginnt mit zwei Ängsten. Die zweite Angst, "Angst vor Nebel", konnte Ralph jedoch beim Stufenaufstieg streichen, da er sich dieser Angst im ersten Abenteuer gestellt hat.*
 
 ### Fähigkeiten
 
@@ -99,9 +111,11 @@ Theoretisch ist es natürlich möglich, dass die Spielenden ein Veto gegen die W
 | Leidfresser - Nimm das Leid einer Person oder eines Wesens als dein eigenes. |
 | Tuschemeister - Erschaffe Dinge aus Tinte.                   |
 | **Fähigkeit 4 ab Abschnitt 2**                               |
-|                                                              |
+| Schleier - Du kannst von dir ausgehend einen Nebel erzeugen. |
 | **Fähigkeit 5 ab Abschnitt 3**                               |
 |                                                              |
+
+Da Yūsuke nach dem ersten Abenteuer in den zweiten Abschnitt gewechselt hat durfte er sich eine weitere Fähigkeit auswürfeln. 
 
 ### Korruption
 
@@ -158,7 +172,7 @@ Stufe 3 -  [    ]
 
 ### Abenteuerhistorie
 
-| Geplatzte Träume - Erzähle den letzten Alptraum, den dein Charakter hatte. |
+| Geplatzte Träume - Erzähle den letzten Albtraum, den dein Charakter hatte. |
 | ------------------------------------------------------------ |
 | Antwort auf die Abenteuerfrage                               |
 |                                                              |
