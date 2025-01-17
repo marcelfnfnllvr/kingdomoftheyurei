@@ -28,3 +28,5 @@ Orte
 - Eine Gasse mit Handwerkern: Schon früh am Morgen herrscht hier Hochbetrieb. Vor jedem Hauseingang hängen Noren - kurze Leinenvorhänge, die das Hergestellte bewerben. In einigen offenen Werkstätten könnt ihr den Handwerkern bei der Arbeit zusehen?
   > Welche Handwerker gibt es hier und woran arbeiten sie gerade?
 - Angelplatz 
+- Hügel mit heiligem Baum (-> Shide + Shimenawa)
+- Wegschrein
