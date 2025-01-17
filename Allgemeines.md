@@ -103,7 +103,7 @@ Häufige Elemente japanischer Gärten sind z.B. künstlich aufgeschüttete Hüge
 
 #### Essen
 
-<!-- hier sollte noch ein Introtext stehen -->
+*Washoku*, das traditionelle japanische Essen ist essentieller Kernbestandteil der japanischen Kultur. Aus den Grundnahrungsmitteln Reis, Fisch und Soja hat sich im Lauf der Jahrhunderte eine vielfältige und international bekannte und äußerst beliebte Küche entwickelt. Ein paar dieser Gerichte stellen wir euch hier vor. Ihr mögt euch wundern, dass diverse heute weit verbreitete Speisen nicht genannt werden. Das liegt daran, dass sie erst viel später nach Ende des 15. Jahrhunderts entstanden. Wie sklavisch ihr euch an diese zeitliche Einschränkung haltet bleibt natürlich euch überlassen. 
 
 **Onigiri**  
 Onigiri sind meist dreieckig oder kugelig geformte Reisbälle aus weißem Reis. Sie sind ein einfaches Essen, das sich auch für unterwegs gut eignet. In der schlichtesten Form wird der Reis lediglich mit Salz gewürzt, sie können aber auch z.B. mit getrockneten Thunfisch-Flocken (Katsuobushi) oder fermentierten Pflaumen gefüllt werden. Die heute typische Umwicklung mit Nori-Algen entstand erst später.
@@ -125,5 +125,6 @@ Sushi, wie man es heute kennt - also gepresster Reis mit Essig und einer Scheibe
 Reis hat in der japanischen Küche unglaublich viele verschiedene Formen - eine Süßspeise auf Reisbasis ist Dango. Hierbei werden aus einem Teig aus Reismehl und Wasser kleine Kugeln geformt, die auf Holstäbe aufgespießt und gedämpft werden. Es gibt sie in vielen verschiedenen Sorten und Belägen, z.B. mit Sirup aus Sojasoße, getrockneten Nori oder umhüllt mit Adzukibohnenpaste.    
 
 **Mochi**  
-Auch Mochi ist eine Süßspeise, die aus Reis hergestellt wird. Der Klebreis wird gedämpft und dann mit großen Stößeln in einem Holzmörser (Usu) geschlagen und gewendet bis er die richtige Konsistenz hat. Danach wird er auf verschiedene Arten weiterverarbeitet: gefüllt mit süßer Adzukibohnenpaste (Daifuku), bestreut mit geröstetem Sojabohnenmehl (Kinako Mochi) oder geröstet und als Beilage in Suppen oder anderen Gerichten verwendet.   
+Auch Mochi ist eine Süßspeise, die aus Reis hergestellt wird. Der Klebreis wird gedämpft und dann mit großen Stößeln in einem Holzmörser (Usu) geschlagen und gewendet bis er die richtige Konsistenz hat. Danach wird er auf verschiedene Arten weiterverarbeitet: gefüllt mit süßer Adzukibohnenpaste (Daifuku), bestreut mit geröstetem Sojabohnenmehl (Kinako Mochi) oder geröstet und als Beilage in Suppen oder anderen Gerichten verwendet.  
+Übrigens: In Japan gibt es nicht den Mann im Mond, sondern den Hasen, der mit seinem Usu Mochi herstellt. 
 
