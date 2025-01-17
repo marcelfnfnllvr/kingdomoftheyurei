@@ -17,7 +17,7 @@
 - [ ] Bezeichnung vereinheitlichen: Welt/Reich Zwielichts, nicht Dämonenreich, Geisterebene etc.
 - [x] Irgendwo erklären, wofür die Eröffnungsfragen in den Abenteuern gedacht sind, und wie sie eingesetzt werden.   
 - [x] Klarstellung das die Fureru prinzipiell alles können auch wenn sie die Fähigkeit nicht besitzen oder es sie nicht gibt! Dürfte mittlerweile an mindestens drei verschiedenen Stellen verbaut sein.
-- [ ] Spielzüge > Kampf > Entwicklerkommentar für den Fall, dass wirklich Mal alle Charaktere in einem Kampf die maximalen Zustände erreichen --> hab's als Kommentar ergänzt 
+- [x] Spielzüge > Kampf > Entwicklerkommentar für den Fall, dass wirklich Mal alle Charaktere in einem Kampf die maximalen Zustände erreichen --> hab's als Kommentar ergänzt 
 - [ ] Spielbeispiele 
   - [ ] Ablauf einer Session
   - [ ] Beispiel
@@ -37,7 +37,7 @@
 - [ ] Ablauf Spielabend / Abenteuer
 - [ ] Würfel und Proben bestehen
 - [ ] Gameplay Loop soll Schematisch im Regelwerk abgebildet werden. Ein Diagramm.
-- [ ] Erklärung: Es wird Phasen im Spiel geben wo ihr Rollenspielen könnt, Phasen wo mehr gewürfelt wird und Phasen wo ihr Erzählen dürft was grade passiert.
+- [x] Erklärung: Es wird Phasen im Spiel geben wo ihr Rollenspielen könnt, Phasen wo mehr gewürfelt wird und Phasen wo ihr Erzählen dürft was grade passiert.
 - [ ] Erwartungshaltung managen: Ein Bild eures Charakters, wie ihr ihn euch vorstellt, ehe er vom Dämon gezeichnet wurde. Der Dämon und die Zeichnung wird ausgewürfelt und wird das Aussehen eures Charakters beeinflussen.
 - [ ] Was erwartet mich?
   - [ ] Die Welt
@@ -87,6 +87,7 @@
 - [x] Kämpfe in den einzelnen Abenteuern: Gefahrenstufe nur anhängig von der Azahl Verderbnispunkte, weg von der Einteilung zu den einzelnen Gefahren
 - [x] Magische Szenen für den Wald
 - [x] Abenteuer Aschegeister: Eröffnung ausbauen
+- [x] Einleitung Kapitel Essen
 
 ## 3 Das *BUCH*
 - [ ] Autorenkommentare hervorheben?
