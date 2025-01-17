@@ -25,6 +25,7 @@ Bergwächter - Dunkelsicht
 ### Eröffnung:
 
 Ein hochgelegenes Bergdorf, welches sich nur über einen schmalen Pass erreichen lässt. Bekannt dafür die edelsten Schwerter zu schmieden. Leider steht seit einer Weile die Produktion komplett still. Es kam zu mehreren Unfällen, wo Arbeiter auf mysteriöse Weise ums Leben gekommen sind. Es wird berichtet, dass sie in den Stollen vom Berg aufgespießt worden sein sollen. Es sieht aus, als wäre der Stein im Stollen gewachsen und hätte sie erstochen. Die Gruppe befindet sich auf dem recht engen Bergpass, der zu der Hochebene führt, auf dem das Dorf Toro liegt. Der Wind hat angezogen und der Schnee peitscht der Truppe unentwegt ins Gesicht. Nach gut einer Stunde Wanderung sehen sie, dass der Weg vor ihnen versperrt ist. Ein Erdrutsch hat den Weg in ein Geröllfeld verwandelt und der Schnee macht es schwierig sich dort hinüber zu bewegen.
+> Macht euren Charakteren die Kälte etwas aus? Wie schützen sie sich dagegen?
 
 ### Gefahren:
 - Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden.
