@@ -17,5 +17,14 @@ Außerdem gibt es in jedem Abenteuer einige *Momente*, die dazu gedacht sind die
 - Aus den Fluten eines Gebirgsbaches gucken euch für einen Moment zwei gelbe Augen an, als ihr den Bach auf einer kleinen Holzbrücke überquert. Im nächsten Moment bewegt sich ein dunkler Schatten pfeilschnell durch das Wasser weg.
 - Auf dem Weg begegnet euch ein Reisender mit Rucksack auf dem Rücken. Als ihr euch höflich voreinander verbeugt, tropft von seinem Schopf plötzlich etwas Wasser auf den Boden.
 - Zwei Dorfbewohner sitzen auf dem Engawa vor dem Haus, die Stirn gerunzelt, und starren konzentriert auf das Shōgi-Brett vor sich.
-- In einer Straße mit Handwerkern stellen gerade zwei Männer Mochi her. Einer schlagt mit einem schweren Holzstößel auf die Reismasse im Mörser, während der andere den Teig wendet und mit Wasser feucht hält.
+- In einer Straße mit Handwerkern stellen gerade zwei Männer Mochi her. Einer schlägt mit einem schweren Holzstößel auf die Reismasse im Mörser, während der andere den Teig wendet und mit Wasser feucht hält.
 - Drei Kinder stehen um einen Baum herum und scheinen etwas zu beobachten. Das Singen einer Zikade stoppt abrupt, also eines der Kinder sie fängt und stolz seinen Freunden zeigt.
+
+Neben Momenten gibt es natürlich auch noch Orte und Personen, die die Spielenden im Laufe eines Abenteuers am Ort des Geschehens besuchen können. Auch hierfür hat jedes Abenteuer seine eigenen, diese lassen sich aber bei Bedarf ergänzen, zum Beispiel hiermit:
+
+Orte
+- Friedhof: Eine zentral im Ort gelegene, mit einer niedrigen Mauer eingefasste Fläche. Die Gräber sind vollkommen aus Stein, oben mit einer steinernen Stele, auf der ein Familienname eingraviert ist.
+  > Was zeigt euch, dass der Toten regelmäßig gedacht wird?
+- Eine Gasse mit Handwerkern: Schon früh am Morgen herrscht hier Hochbetrieb. Vor jedem Hauseingang hängen Noren - kurze Leinenvorhänge, die das Hergestellte bewerben. In einigen offenen Werkstätten könnt ihr den Handwerkern bei der Arbeit zusehen?
+  > Welche Handwerker gibt es hier und woran arbeiten sie gerade?
+- Angelplatz 
