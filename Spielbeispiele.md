@@ -142,6 +142,7 @@ Kämpfe dauern in der Regel nur eine bis wenige Runden. Dabei würfeln wie im re
 >**Martina**: Ja, sehr schön, damit habt ihr Hisako gerettet - wenn auch nicht ohne Opfer. Am Ende des Abends schauen wir dann mal bei dir, Lydia, was das bei Ayane jetzt alles verändert.
 
 Auch wenn ein Charakter keine Fähigkeit besitzt, die ganz genau zur Situation passt, kann er oder sie eine Aktion trotzdem durchführen. Außerdem können die Charaktere nicht "sterben" im eigentlichen Sinne. Es ist auch nicht verwerflich, wenn jemand mit schon 5 Zuständen auch noch etwas riskantes machen möchte. Das Hauptaugenmerk liegt auf einer tollen Erzählung und die Spielenden sollen ihrer Kreativität hier freien Lauf lassen können. Dadurch können mitreißende und mitunter auch schön emotionale Szenen entstehen.  
+Außerdem wechseln sich die drei Elemente Rollenspiel, Würfeln und Erzählung immer wieder ab. Phasenweise wird mehr gewürfelt wie hier bei der riskanten Aktion oder auch im Kampf. Aber einen größeren Anteil nehmen die Erzählungen aller (Spielleitung *und* Mitspielende) und ihr Rollenspiel ein.
 
 ### Auf Reisen
 
