@@ -13,3 +13,4 @@ https://wanderweib.de/izakaya/#Izakaya_betreten
 https://www.japan-guide.com/e/e2029.html  
 https://wanderweib.de/tipps-onsen-in-japan-besuchen/  
 https://homejapan.de/blogs/japan/onsen  
+https://yokai.com
