@@ -9,8 +9,8 @@ Natürlich müsst ihr aber keines der vorgefertigten Abenteuer verwenden, sonder
 ### Stimmung erzeugen 
 *Königreich der Yōkai* hat kein bis ins letzte Detail ausgeklügelte Kampf- oder Magiesystem. Es ist auch keine Würfelschlacht. Stattdessen zielt es sehr stark darauf ab, die Gruppe in seine Welt hineinzuziehen. Für diese Immersion ist es wichtig die richtige Stimmung und entsprechende Bilder im Kopf zu erzeugen.  
 Zum Einen funktioniert das besser, wenn dem Rollenspiel genug Platz eingeräumt wird. Aber auch die Musik und die Beschreibung der Welt spielen dabei eine wichtige Rolle. Musik ist natürlich Geschmackssache; manche verwenden sie gerne, andere wiederum werden dadurch abgelenkt. In Online-Runden können sich alle individuell entscheiden ob sie Musik hören möchten oder nicht.  
-Für die Beschreibung der Welt bieten sich auch einige Möglichkeiten. Verwende nicht die gleichen Worte und Slangausdrücke wie im echten Leben. Du kannst auch versuchen etwas altmodisch klingende Begriffe zu verwenden. Mache dir bewusst, welche Bilder die Welt im Kopf hervorrufen möchte und baue Beispiele ein. Taucht beispielsweise ein Samurai als NPC auf, beschreibe ihn nicht mit einem Langschwert in der Hand und einem Helm mit Klappvisier sondern mit einem Katana oder Wakizashi und einem offenen Helm mit Halbmaske (Kabuto). Ein Bauer trägt einen Reishut statt einer Gugel auf dem Kopf und auf einem Friedhof stehen keine Kreuze oder Engelsstatuen sondern schlichte Steine mit Schalen für Räucherwerk und schmale längliche Holzschilder, auf denen Namen eingeschnitzt sind. Wollen sie sich erholen, dann gehen die Charaktere nicht in die Therme sondern besuchen das Onsen.
-Außerdem gibt es in jedem Abenteuer einige *Momente*, die dazu gedacht sind die Welt zum Leben zu erwecken und den Spielenden auch Anknüpfounkte für ihr Rollenspiel zu geben. Jedes Abenteuer hat seine eigenen, zum Schauplatz und Hintergrund passenden Momente. Unten findest du zusätzlich auch noch einige Ideen, die sich in jedes Abenteuer einbauen lassen:
+Für die Beschreibung der Welt bieten sich auch einige Möglichkeiten. Verwende nicht die gleichen Worte und Slangausdrücke wie im echten Leben. Du kannst auch versuchen etwas altmodisch klingende Begriffe zu verwenden. Mache dir bewusst, welche Bilder die Welt im Kopf hervorrufen möchte und baue Beispiele ein. Taucht beispielsweise ein Samurai als NSC auf, beschreibe ihn nicht mit einem Langschwert in der Hand und einem Helm mit Klappvisier sondern mit einem Katana oder Wakizashi und einem offenen Helm mit Halbmaske (Kabuto). Ein Bauer trägt einen Reishut statt einer Gugel auf dem Kopf und auf einem Friedhof stehen keine Kreuze oder Engelsstatuen sondern schlichte Steine mit Schalen für Räucherwerk und schmale längliche Holzschilder, auf denen Namen eingeschnitzt sind. Wollen sie sich erholen, dann gehen die Charaktere nicht in die Therme sondern besuchen das Onsen.
+Außerdem gibt es in jedem Abenteuer einige *Momente*, die dazu gedacht sind die Welt zum Leben zu erwecken und den Spielenden auch Anknüpfpunkte für ihr Rollenspiel zu geben. Jedes Abenteuer hat seine eigenen, zum Schauplatz und Hintergrund passenden Momente. Unten findest du zusätzlich auch noch einige Ideen, die sich in jedes Abenteuer einbauen lassen:
 
 - Über einem See/Teich tanzen Reihen von kleinen fliegenden Flämmchen
 - Ein umgestürzter Baum. Mehrere Kodama tanzen und klettern auf dem Stamm herum und vor euren Augen wachsen an einem Ast einige frische neue Blätter.
@@ -27,6 +27,27 @@ Orte
   > Was zeigt euch, dass der Toten regelmäßig gedacht wird?
 - Eine Gasse mit Handwerkern: Schon früh am Morgen herrscht hier Hochbetrieb. Vor jedem Hauseingang hängen Noren - kurze Leinenvorhänge, die das Hergestellte bewerben. In einigen offenen Werkstätten könnt ihr den Handwerkern bei der Arbeit zusehen?
   > Welche Handwerker gibt es hier und woran arbeiten sie gerade?
-- Angelplatz 
-- Hügel mit heiligem Baum (-> Shide + Shimenawa)
-- Wegschrein
+- Angelplatz: Ein ausgetretener Pfad führt zu einer ruhigen Stelle am Ufer, wenige Meter über der Wasseroberfläche. Im klaren Wasser seht ihr zahlreiche Fische wie silbrige Blitze herumflitzen. Ein älterer Herr in einfacher Kleidung sitzt am Ufer und hält eine Angelrute 
+  > Was zeigt euch, dass dieser Ort sowohl von Menschen als auch Tieren gern besucht wird?
+- Hügel mit heiligem Baum: Auf einer kleinen Anhöhe oberhalb des Weges steht eine ehrfurchtgebietende Kiefer mit weit ausladender Krone. Um ihren dicken Stamm ist ein Tau gebunden, von dem Quasten und zickzackförmige, weiße Streifen hängen. Der Ort strahlt ein Gefühl des Friedens aus.
+  > Woran merkt ihr, dass ihr der Welt des Zwielichts hier näher seid?
+- Wegschrein: Hinter einem rot lackierten Torii führt ein Weg durch einen Bambushain hoch zu einem großen Schrein. Eine kleine Treppe führt hinauf, gesäumt von steinernen Laternen.
+  > Der Schrein hat schon bessere Zeiten gesehen. Was gibt euch trotzdem das Gefühl, dass hier noch immer Menschen herkommen, um zu beten?
+
+NSCs
+- Keiko Ishida - Lackwaren-Händlerin  
+  *wohlgesonnen - hat einen Bambusschirm und einen kleinen Holzkarren - raucht Pfeife*  
+  Zieht von Ort zu Ort und verkauft Lackwaren (Schüsseln, Anhänger, Dosen, Flaschen, Schatullen,...). Erzählt gern Geschichten von ihren Reisen und betet regelmäßig an Schreinen für Handelsglück.
+- Misao - wandernder Mönch  
+  *wohlgesonnen - trägt einen großen Bambushut, einfache Kleidung und eine Bambusflöte - spricht ruhig und ohne Gefühlsregung*  
+  Pilgert von Tempel zu Tempel und spielt seine Flöte. Spricht gern über die Natur und kleine Dinge, die er auf seinen Wanderungen bemerkt oder gesehen hat. Hält sich eher an ruhigen Orten auf.
+- Tetsuya Kano - Tusche-Künstler  
+  *misstrauisch - schlichte Kleidung und Finger mit zahlreichen schwarzen Flecken - zerstreut, hört oft mitten im Satz auf zu reden*  
+  Stets auf der Suche nach inspirierenden Motiven. Trägt einige zusammengerollte Bilder und Papier mit sich, dazu Pinsel, Tuschestein und Schleifstein in einer edlen Schatulle. Malt direkt vor Ort. Hat Angst, das ihm jemand seine Bilder klaut.
+- Rika Tani - Sake-Brauerin  
+  *wohlgesonnen - einfache Kleidung unter Schürze, Ärmel hochgebunden - spricht sehr laut und deutlich*  
+  Wohnt nahe an einer sauberen Quelle, von der aus sie das Wasser für's Brauen bezieht. Trinkt selbst selten, ist aber sehr stolz auf ihr Produkt und verhandelt hart. Weiß sich zu behaupten. Bringt für Weiherituale manchmal ein großes Holzfass Sake zum Tempel.
+- Hanzo - Taugenichts  
+  *misstrauisch - edle, aber schlecht gepflegte Kleidung und Bambuskegelhut - spricht quengelnd und beschwert sich gern*  
+  Will nicht arbeiten und hat Angst, verpfiffen zu werden. Trinkt gerne oder macht ein Nickerchen, bei dem er seinen Hut tief über's Gesicht zieht. 
+- Kitsune (Fuchsgeist)
