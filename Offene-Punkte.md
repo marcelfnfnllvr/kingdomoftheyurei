@@ -65,13 +65,10 @@
 - [ ] Fremdabenteuer noch dazu?
 - [ ] Ideen in Abenteuer verbauen (Optionen)
   - [ ] Die Karpfen Papierfahnen
-  - [ ] ukiyo-e Künstler (als NPC)
-  - [ ] wieso gibt's noch niemand, der Sake braut? :D
-  - [ ] Lackwaren-Händler oder -Hersteller
   - [ ] Kumiko-Panels
-  - [ ] Charaktere die man in Abenteuern nutzen kann?
-    - [ ] also einfach als Liste?
-  - [ ] Orte die man exemplarisch in allen Abenteuern nutzen kann
+  - [x] Charaktere die man in Abenteuern nutzen kann?
+    - [x] also einfach als Liste?
+  - [x] Orte die man exemplarisch in allen Abenteuern nutzen kann --> Vorwort Abenteuer
 - [x] Magische Szenen für Der Berg erwacht
 - [x] Magische Szenen, die über alle Abenteuer hinweg nutzbar sind. --> Vorwort Abenteuer 
 - [ ] Wichtige Japanische Begriffe für die Abenteuer am Anfang des Abenteuers erneut hervorheben
