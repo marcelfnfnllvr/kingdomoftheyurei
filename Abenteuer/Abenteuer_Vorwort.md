@@ -50,4 +50,6 @@ NSCs
 - Hanzo - Taugenichts  
   *misstrauisch - edle, aber schlecht gepflegte Kleidung und Bambuskegelhut - spricht quengelnd und beschwert sich gern*  
   Will nicht arbeiten und hat Angst, verpfiffen zu werden. Trinkt gerne oder macht ein Nickerchen, bei dem er seinen Hut tief über's Gesicht zieht. 
-- Kitsune (Fuchsgeist)
+- Rin - Kitsune (Fuchsgeist)  
+*wohlgesonnen - einfache aber hochwertige Kleidung, trägt eine Fuchsmaske bei sich - spricht zischend*  
+Erkennt die Wandernden als das, was sie sind und offenbart sich ihnen, wenn niemand sonst anwesend ist. Findet Menschen faszinierend und lebt deshalb unter ihnen. Hat etwas mehr Einsicht über das, was vor Ort geschehen ist. 
