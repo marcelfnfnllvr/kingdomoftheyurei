@@ -48,7 +48,7 @@ Das Königreich Soho und die Fureru, die dieses bereisen, sollen in keiner Weise
 
 Soziale und gesellschaftliche Strukturen werden entweder ignoriert oder für spezifische Abenteuer entsprechend der jeweiligen Erfordernisse geschaffen. Diskriminierung bestimmter Bevölkerungsgruppen sowie Diskriminierung bestimmter Geschlechter oder Hautfarben werden nicht gespielt. Das Königreich Soho und eure Helden im Speziellen werden vor genügend Herausforderungen gestellt und ich möchte nicht, dass die oben genannten dazugehören. Ich möchte und kann natürlich niemandem verbieten bestimmte Strukturen in seiner Welt zu etablieren, aber denkt sehr genau darüber nach, welchen Aspekt ihr in eurem Spiel haben möchtet.  
 
-Worauf wir uns viel eher in *Augen des Zwielichts: Königreich der Yōkai* konzentrieren ist die Landschaft, die Architektur und das Essen von Japan.
+Worauf wir uns viel eher in *Augen des Zwielichts: Königreich der Yōkai* konzentrieren, sind die Landschaft, die Architektur und das Essen von Japan.
 
 ## Darstellung der Welt
 
