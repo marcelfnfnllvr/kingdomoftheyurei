@@ -10,10 +10,16 @@
     Das Königreich, durch das die Fureru ziehen. Es ist angelehnt an das Japan des 15. Jahrhunderts.
   - **Wanderer**  
     Siehe -> Fureru
+  - **Welt des Zwielichts**  
+    Parallelwelt, in der die Dämonen, Götter und Geister wohnen. Ist für normale Menschen unsichtbar, nur die Fureru können eine Verbindung dazu herstellen und einen Blick in die Welt des Zwielichts erhaschen. 
 
 ### Rollenspielbegriffe
+  - **CATS**  
+    **C**oncept - **A**im - **T**one - **S**ubject Matter. Ein maximal 200-Zeichen starker Text, der die wesentlichen Inhalte des Rollenspiels kurz und prägnant zusammenfasst.   
   - **NSC**  
     Nicht-Spielercharakter. Von den Spielleitenden gesteuerte Charaktere, mit denen die Spielenden während eines Abenteuers interagieren können. Dabei kann es sich sowohl um Menschen und Tiere als auch um Geister und Dämonen handeln.
+  - **Oneshot**  
+    Kurzes Abenteuer, das in einer einzigen Session bis zum Ende durchgespielt werden kann - im Gegensatz zum Fewshot oder zur Kampagne, die entweder in wenigen Sessions oder über einen langen Zeitraum hinweg meist regelmäßig gespielt werden.
   - **SC**  
     Spielercharakter. Alle Spielenden in der Runde besitzen je einen fiktiven Spielercharakter, den sie erdacht und mithilfe der Zufallstabellen gebaut haben und mit dem sie die Abenteuer bestreiten. Grundsätzlich kann einen Spielercharakter nur dessen Besitzer oder Besitzerin steuern.
   - **Session 0**  
@@ -24,6 +30,56 @@
     Sechsseitiger Würfel, entweder traditionell mit Augenzahlen von 1 bis 6 oder mit Ziffern. 
     
 ### Allgemeine Begriffe aus dem Japanischen
+  - **Dango**  
+    Süßspeise in Form gedämpfter Reismehlbällchen, z.B. mit Sirup oder süßer Bohnenpaste.
+  - **Dashi**  
+    Fischsud aus Katsuobushi und braunem Seetang. 
+  - **Engawa**  
+    Überdachter Gang zwischen den Wohnräumen eines Hauses, meist auch an dessen Außenseite(n). Besteht aus Holz oder Bambus.
+  - **Futon**  
+    Faltbare weiche Matratze und Bettdecke, die untertags im Schrank aufbewahrt und erst abends auf die Tatami zum Schlafen gelegt werden.
+  - **Hiyayakko**  
+    Kalter Seidentofu, der mit verschiedenen Toppings gar niert wird, z.B. Katsuobushi, Sojasoße, Frühlingszwiebel oder Ingwer.
+  - **Izakaya**  
+    Traditionelle, gesellige Kneipe, in dem alkoholisch Getränke, kleine Snacks und Speisen serviert werden. 
+  - **Katsuobushi**  
+    Flocken aus getrocknetem, geräucherten Bonito-Thunfisch.
+  - **Machiya**  
+    Traditionelles, städtisches Holzhaus mit langem, schmalen Grundriss. Im Erdgeschoss häufig mit Geschäftsräumen (Werkstatt, Laden,...) unter den Wohnräumen im Obergeschoss.
+  - **Miso**  
+    Gedämpfte, fermentierte und anschließend zu Paste verarbeitete Sojabohnen.
+  - **Mochi**  
+    Gedämpfte, zermörserte Reismasse, entweder als Süßspeise in Form gefüllter Kugeln oder als Beilage in Suppen oder anderen Gerichten verzehrt.
+  - **Nattō**  
+    Gekochte Sojabohnen, die mit Hilfe eines fädenziehenden Bakteriums fermentiert werden.
+  - **Noren**  
+    Viereckige Vorhänge unterschiedlicher Länge, die z.B. auch vor den Eingang von Geschäften gehangen werden. Werden bei Ladenschluss gewöhnlich abgehängt.
+  - **Onigiri**  
+    Einfaches Essen aus weißem Reis, der zu Kugeln oder Dreiecken geformt und gewürzt oder gefüllt wird.  
+  - **Onsen**  
+    Thermalbad mit mineralreichem Wasser, das durch vulkanische Aktivität erhitzt wurde. 
+  - **Otōshi**  
+    Kleine Vorspeise im Izakaya, die direkt ohne Nachfrage serviert wird und quasi eine einfache Sitzplatzgebühr ersetzt.
+  - **Ryokan**  
+    Traditionalles Gasthaus mit getrenntgeschlechtlichen Gemeinschaftsbädern. Die Zimmer sind ausgelegt mit Tatami, geschlafen wird auf dem Futon.
+  - **Sake**  
+    Aus poliertem Reis gebrautes Bier. Wird entweder aus flachen Schalen oder eckigen Holzbechern getrunken.
+  - **Sōzu**  
+    Wasserspiel aus Bambus. Wasser fällt in das offene Ende eines Bambusrohrs, das an einer Wippe befestigt ist. Ist das Bambusrohr gefüllt, wippt das Rohr um und gießt dabei das Wasser aus. Danach wippt das geschlossene Ende des Rohrs wieder zurück, schlägt dabei auf seinen Sockel und erzeugt so regelmäßig ein Klopfgeräusch.
+  - **Shōchū**  
+    Alkoholisches Getränk, das aus Reis, Gerste oder anderen stärkehaltigen Zutaten gewonnen wird. Der Alkoholgehalt ist stärker als bei Sake.
+  - **Shōji**  
+    Schiebeelemente mit einem Holzrahmen, auf dem Papier gespannt ist. Durch das helle, dünne Papier kann Licht hindurchdringen.
+  - **Sushi**  
+    Durch Fermentation mit Reis, Salz und Essig haltbar gemachter Fisch, entwickelte sich irgendwann zu einem Gericht aus Fisch und Reis und mittlerweile zu zahlreichen Variationen.
+  - **Tatami**  
+    Dämmende Matte aus Reisstroh, die in Wohnräumen ausgelegt und nur mit Socken oder barfuß betreten wird.
+  - **Tenugui**  
+    Dekoratives kleines Handtuch aus leichtem Baumwollstoff.  
+  - **Torii**  
+    Symbolisches Tor bestehend aus zwei Säulen (Hashira) und einem Dach (Kasagi), meist rot lackiert. Steht vor Tempeln und anderen heiligen Arealen und kennzeichnet damit den Übergang zwischen dem Weltlichen und dem Heiligen.
+  - **Unagi**  
+    Süßwasseraal, der häufig in Form von *Kabayaki* gegrillt und glasiert auf Reis serviert wird.
   - **Yōkai**  
     Übernatürliche Wesen aus der japanischen Folklore, meist mit magischen Fähigkeiten. Können Menschen gegenüber bösartig, gleichgültig oder sogar wohlwollend auftreten. Das Spektrum ist sehr weit und umfasst zum Beispiel:
      - Iwana bōzu ("Saibling-Mönch")  
@@ -49,4 +105,3 @@
      - Yuki Onna ("Schneefrau")  
        Wunderschöne Frau mit schwarzen Haaren, schneeweißer Haut und weißer Kleidung, aber eisig kalt. Lauert in der Kälte Menschen auf, die sie mit einem Atemhauch einfriert und ihnen ihre Lebensenergie entzieht.
   - die Begriffe aus der Weltbeschreibung in Allgemeines (Kurzfassung)?
-  - Nara-Rehe <!-- die vielleicht dann doch eher zu den Erklärungen zu dem spezifischen Abenteuer? -->
