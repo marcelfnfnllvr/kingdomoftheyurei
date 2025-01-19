@@ -39,7 +39,7 @@
 - [ ] Gameplay Loop soll Schematisch im Regelwerk abgebildet werden. Ein Diagramm.
 - [x] Erklärung: Es wird Phasen im Spiel geben wo ihr Rollenspielen könnt, Phasen wo mehr gewürfelt wird und Phasen wo ihr Erzählen dürft was grade passiert.
 - [ ] Erwartungshaltung managen: Ein Bild eures Charakters, wie ihr ihn euch vorstellt, ehe er vom Dämon gezeichnet wurde. Der Dämon und die Zeichnung wird ausgewürfelt und wird das Aussehen eures Charakters beeinflussen.
-- [ ] Was erwartet mich?
+- [ ] Was erwartet mich? <!-- brauchen wir das ganze eigentlich noch hier? Diese Unterpunkte??-->
   - [ ] Die Welt
   - [ ] Die Mechanik
     - [ ] Ein D6 Würfelsystem, welches mit Spielzügen arbeitet und auf Attribute und nicht auf klassisch numerische Werte setzt.
@@ -88,26 +88,43 @@
 
 ## 3 Das *BUCH*
 - [ ] Autorenkommentare hervorheben?
-- [ ] Aufbau - Buch?
-  - [ ] Worum geht es in diesem Rollenspiel?
-    - [ ] Einordnung des Regelwerks
-  - [ ] Wie spielt sich Augen der Zwielichts: Königreich der Yōkai?
-    - [ ] Beispiel und Erklärung der Prinzipien
-  - [ ] Wie sind die Abenteuer aufgebaut?
-    - [ ] Beispiel und Erklärung Abenteuer
-  - [ ] In welcher Welt spielt Augen der Zwielichts: Königreich der Yōkai?
-    - [ ] Erklärung der Welt
-  - [ ] Geister, Dämonen und Fureru
-    - [ ] Rolle des Übernatürlichen
-  - [ ] Wie unterscheidet sich diese Welt vom Japan des 15. Jahrhunderts?
-    - [ ] Unterschiede und Abgrenzung zum realen Japan
-  - [ ] Darstellung der Welt und Begrifflichkeiten
-    - [ ] Beispiele für Japanische Architektur, Geflogenheiten und Begriffe
-     - [ ] Keigo
-   - [ ] Regelsystem
-    - [ ] Einleitung/Erläuterungen zu Mechaniken
-    - [ ] Regeln
-    - [ ] Spielzüge
+- [ ] Aufbau - Buch
+- [ ] 1. Einführung und Übersicht (Allgemeines.md)  
+   - [ ]    2.1 Worum geht es  
+   - [ ]    2.2 Wie spielt sich...  
+   - [ ]    2.3 Wie sind die Abenteuer aufgebaut?  
+   - [ ]    2.4 In welcher Welt spielt...  
+   - [ ]    2.5 Geister, Dämonen und Fureru  
+   - [ ]    2.6 Wie unterscheidet sich die Welt  
+   - [ ]    2.7 Darstellung der Welt  
+     - [ ]    - Häuser und Orte  
+     - [ ]    - Essen  
+- [ ] 2. Regeln + Spielzüge  
+   - [ ]    Einleitung (Intro-Regeln-Mechanik.md)  
+   - [ ]    2.1 Regeln (Regeln.md)  
+   - [ ]    2.2 Spielzüge (Spielzüge.md)  
+   - [ ]    2.3 ?????Cheatsheet?????  
+- [ ] 4. Charaktere  
+   - [ ]    3.1 Charaktererstellung (Charaktererstellung.md)  
+   - [ ]    3.2 ?????Charakterbogen?????  <!-- Obacht, ist doppelt mit den Ressourcen -->
+- [ ] 5. Spielbeispiele (Spielbeispiele.md)  
+- [ ] 6. Abenteuer  
+   - [ ]    5.1 Einführung (Abenteuer_Vorwort.md)  
+   - [ ]    5.2 Aufbau (Abenteueraufbau.md)  
+   - [ ]    5.3 Abenteuer  
+     - [ ]    - Das Anwesen  
+     - [ ]    - Der Pilzbefall  
+     - [ ]    - Der Berg erwacht  
+     - [ ]    - Der Wald  
+     - [ ]    - Die Aschegeister  
+- [ ] 7. Glossar (Glossar.md)  
+- [ ] 8. Ressourcen  
+   - [ ]      - Abenteuerbogen  
+   - [ ]      - Kampfbogen  
+   - [ ]      - Charakterbogen  
+   - [ ]      - Zufallstabellen  
+- [ ] 9. ?????Hinten drauf: CATS????  
+
 
 
 ## 4 Zukunftsmusik?
