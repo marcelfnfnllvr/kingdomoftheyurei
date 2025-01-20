@@ -1,24 +1,24 @@
-> Dieses Kapitel richtet sich vorrangig an die Spielleitenden, denn hier findet ihr unter anderem einige vorgefertigte Abenteuer. Also: Achtung, Spoilergefahr! Weiterlesen auf eigene Gefahr. 
+> Dieses Kapitel richtet sich vorrangig an die Spielleitenden, denn hier findet ihr neben einigen vorgefertigten Abenteuern auch Tipps für die richtige Stimmung, Informationen zum Abenteueraufbau und weitere Ideen, die ihr in Abenteuer verbauen könnt. Also: Achtung, Spoilergefahr! Weiterlesen auf eigene Gefahr. 
 
-Die hier vorgestellten Abenteuer lassen sich in ein bis zwei Sessions durchspielen, wobei wir bei einer Session von einer Dauer von ca. 4-5 Stunden ausgehen. In den Geschichten in *Königreich der Yōkai* gibt es keine festgeschriebenen Events oder Reihenfolgen, sondern die Gruppe bewegt sich von Szene zu Szene. Wann genau eine Session also vorbei sein soll, kann relativ frei festgelegt werden. Natürlich wird die Wahrscheinlichkeit das Abenteuer friedlich abzuschließen aber größer, je mehr Hinweise die Gruppe sammeln konnte.    
+Die hier vorgestellten Abenteuer lassen sich in ein bis zwei Sessions durchspielen, wobei wir bei einer Session von einer Dauer von ca. 4-5 Stunden ausgehen. Genau lässt sich das nie vorher sagen, denn Gruppen spielen einfach unterschiedlich. In den Geschichten in *Königreich der Yōkai* gibt es auch keine festgeschriebenen Events oder Reihenfolgen, sondern die Gruppe bewegt sich von Szene zu Szene. Wann genau eine Session also vorbei sein soll, kann relativ frei festgelegt werden. Natürlich wird aber die Wahrscheinlichkeit das Abenteuer friedlich abzuschließen größer, je mehr Hinweise die Gruppe sammeln konnte.  
 
-<!-- hier müsste noch mehr Gedöns stehen-->
+Natürlich müsst ihr aber keines der vorgefertigten Abenteuer verwenden, sondern könnt euch selbst eigene Abenteuer ausdenken. Einige Tipps und Tricks hierzu findet ihr ebenfalls in diesem Kapitel. Die vorgefertigten Abenteuer können aber besonders am Anfang auch der Spielleitung helfen, ein Gefühl für das System und die Struktur der Geschichten zu entwickeln. Alle der hier beschriebenen fünf Abenteuer wurden mehrfach mit verschiedenen Spielgruppen getestet, mal mit drei Spielenden und mal mit vier. Die Einschätzung zur Länge der Abenteuer beruht auf diesen Erfahrungen.  
 
-Natürlich müsst ihr aber keines der vorgefertigten Abenteuer verwenden, sondern könnt euch selbst eigene Abenteuer ausdenken. Einige Tipps und Tricks hierzu findet ihr ebenfalls in diesem Kapitel.
+Dieses System ist ausgelegt für Gruppen mit drei bis vier Spielenden. Bei weniger wird die Gefahr zu groß, dass die Charaktere zu schnell zu viele Zustände sammeln, weil sich die Würfe auf nur noch ein bis zwei Personen konzentrieren. Bei Gruppen mit mehr als 4 Spielenden dauern die einzelnen Szenen länger, wenn der Anteil an Rollenspiel gleich bleiben soll. Außerdem besteht die Gefahr, dass einer Person nicht genügend Raum zum Spielen gegeben wird und so Frustration aufkommt. Darüber hinaus bedeuten größere Spielgruppen im Kampf, dass mehr Kampfwürfel geworfen werden. Das wiederum führt dazu, dass im Kampf die Wahrscheinlichkeit steigt, Zustände zu erhalten.
 
 ### Stimmung erzeugen 
 *Königreich der Yōkai* hat kein bis ins letzte Detail ausgeklügeltes Kampf- oder Magiesystem. Es ist auch keine Würfelschlacht. Stattdessen zielt es sehr stark darauf ab, die Gruppe in seine Welt hineinzuziehen. Für diese Immersion ist es wichtig die richtige Stimmung und entsprechende Bilder im Kopf zu erzeugen.  
 Zum Einen funktioniert das besser, wenn dem Rollenspiel genug Platz eingeräumt wird. Aber auch die Musik und die Beschreibung der Welt spielen dabei eine wichtige Rolle. Musik ist natürlich Geschmackssache; manche verwenden sie gerne, andere wiederum fühlen sich dadurch eher abgelenkt. In Online-Runden können sich alle individuell entscheiden, ob sie Musik hören möchten oder nicht.  
-Für die Beschreibung der Welt bieten sich auch einige Möglichkeiten. Verwende nicht die gleichen Worte und Slangausdrücke wie im echten Leben. Du kannst auch versuchen etwas altmodisch klingende Begriffe zu benutzen. Mache dir bewusst, welche Bilder die Welt im Kopf hervorrufen möchte und baue Beispiele ein. Taucht beispielsweise ein Samurai als NSC auf, beschreibe ihn nicht mit einem Langschwert in der Hand und einem Helm mit Klappvisier sondern mit einem Katana oder Wakizashi und einem offenen Helm mit Halbmaske (Kabuto). Ein Bauer trägt einen Reishut statt einer Gugel auf dem Kopf und auf einem Friedhof stehen keine Kreuze oder Engelsstatuen sondern schlichte Steinsäulen mit Schalen für Räucherwerk und schmale längliche Holzschilder, auf denen Namen eingeschnitzt sind. Wollen sie sich erholen, dann gehen die Charaktere nicht in die Therme sondern besuchen das Onsen.
+Für die Beschreibung der Welt bieten sich auch einige Möglichkeiten. Verwende nicht die gleichen Worte und Slangausdrücke wie im echten Leben. Du kannst auch versuchen etwas altmodisch klingende Begriffe zu benutzen. Mache dir bewusst, welche Bilder die Welt im Kopf hervorrufen möchte und baue Beispiele ein. Taucht beispielsweise ein Samurai als NSC auf, beschreibe ihn nicht mit einem Langschwert in der Hand und einem Helm mit Klappvisier sondern mit einem Katana oder Wakizashi und einem offenen Helm mit Halbmaske - einem Kabuto. Ein Bauer trägt einen Hut aus Reisstroh oder Bambus statt einer Gugel auf dem Kopf und auf einem Friedhof stehen keine Kreuze oder Engelsstatuen sondern schlichte Steinsäulen mit Schalen für Räucherwerk und schmale längliche Holzschilder, auf denen Namen eingeschnitzt sind. Wollen sie sich erholen, dann gehen die Charaktere nicht in die Therme sondern besuchen das Onsen.
 Außerdem gibt es in jedem Abenteuer einige *Momente*, die dazu gedacht sind die Welt zum Leben zu erwecken und den Spielenden auch Anknüpfpunkte für ihr Rollenspiel zu geben. Jedes Abenteuer hat seine eigenen, zum Schauplatz und Hintergrund passenden Momente. Unten findest du zusätzlich auch noch einige Ideen, die sich bei Bedarf in die Abenteuer einbauen lassen:
 
-- Über einem See/Teich tanzen Reihen von kleinen fliegenden Flämmchen
+- Über einem See/Teich tanzen Reihen von kleinen fliegenden Flämmchen.
 - Ein umgestürzter Baum. Mehrere Kodama tanzen und klettern auf dem Stamm herum und vor euren Augen wachsen an einem Ast einige frische neue Blätter.
 - Aus den Fluten eines Gebirgsbaches gucken euch für einen Moment zwei gelbe Augen an, als ihr den Bach auf einer kleinen Holzbrücke überquert. Im nächsten Moment bewegt sich ein dunkler Schatten pfeilschnell durch das Wasser weg.
 - Auf dem Weg begegnet euch ein Reisender mit Rucksack auf dem Rücken. Als ihr euch höflich voreinander verbeugt, tropft von seinem Schopf plötzlich etwas Wasser auf den Boden.
 - Zwei Dorfbewohner sitzen auf dem Engawa vor dem Haus, die Stirn gerunzelt, und starren konzentriert auf das Shōgi-Brett vor sich.
 - In einer Straße mit Handwerkern stellen gerade zwei Männer Mochi her. Einer schlägt mit einem schweren Holzstößel auf die Reismasse im Mörser, während der andere den Teig wendet und mit Wasser feucht hält.
-- Drei Kinder stehen um einen Baum herum und scheinen etwas zu beobachten. Das Singen einer Zikade stoppt abrupt, also eines der Kinder sie fängt und stolz seinen Freunden zeigt.
+- Drei Kinder stehen um einen Baum herum und scheinen an dessen Stamm etwas zu beobachten. Das Singen einer Zikade stoppt abrupt, als eines der Kinder sie fängt und stolz seinen Freunden zeigt.
 
 Neben Momenten gibt es natürlich auch noch Schauplätze und Personen, die die Spielenden im Laufe eines Abenteuers am Ort des Geschehens besuchen können. Auch hierfür hat jedes Abenteuer seine eigenen, diese lassen sich aber bei Bedarf ergänzen, zum Beispiel hiermit:
 
@@ -27,11 +27,11 @@ Schauplätze
   > Was zeigt euch, dass der Toten regelmäßig gedacht wird?
 - Eine Gasse mit Handwerkern: Schon früh am Morgen herrscht hier Hochbetrieb. Vor jedem Hauseingang hängen Noren - kurze Leinenvorhänge, die das Hergestellte bewerben. In einigen offenen Werkstätten könnt ihr den Handwerkern bei der Arbeit zusehen.
   > Welche Handwerker gibt es hier und woran arbeiten sie gerade?
-- Angelplatz: Ein ausgetretener Pfad führt zu einer ruhigen Stelle am Ufer, wenige Meter über der Wasseroberfläche. Im klaren Wasser seht ihr zahlreiche Fische wie silbrige Blitze herumflitzen. Ein älterer Herr in einfacher Kleidung sitzt am Ufer und hält eine Angelrute 
+- Angelplatz: Ein ausgetretener Pfad führt zu einer ruhigen Stelle am Ufer, wenige Meter über der Wasseroberfläche. Im klaren Wasser seht ihr zahlreiche Fische wie silbrige Blitze herumflitzen. Ein älterer Herr in einfacher Kleidung sitzt am Ufer und hält eine Angelrute.  
   > Was zeigt euch, dass dieser Ort sowohl von Menschen als auch Tieren gern besucht wird?
 - Hügel mit heiligem Baum: Auf einer kleinen Anhöhe oberhalb des Weges steht eine ehrfurchtgebietende Kiefer mit weit ausladender Krone. Um ihren dicken Stamm ist ein Tau gebunden, von dem Quasten und zickzackförmige, weiße Streifen hängen. Der Ort strahlt ein Gefühl des Friedens aus.
   > Woran merkt ihr, dass ihr der Welt des Zwielichts hier näher seid?
-- Wegschrein: Hinter einem rot lackierten Torii führt ein Weg durch einen Bambushain hoch zu einem großen Schrein. Eine kleine Treppe führt hinauf, gesäumt von steinernen Laternen.
+- Wegschrein: Hinter einem rot lackierten Torii führt ein Weg durch einen Bambushain hoch zu einem großen Schrein. Eine schmale Treppe führt hinauf, gesäumt von steinernen Laternen.
   > Der Schrein hat schon bessere Zeiten gesehen. Was gibt euch trotzdem das Gefühl, dass hier noch immer Menschen herkommen, um zu beten?
 
 NSCs
@@ -49,7 +49,7 @@ NSCs
   Wohnt nahe an einer sauberen Quelle, von der aus sie das Wasser für's Brauen bezieht. Trinkt selbst selten, ist aber sehr stolz auf ihr Produkt und verhandelt hart. Weiß sich zu behaupten. Bringt für Weiherituale manchmal ein großes Holzfass Sake zum Tempel.
 - Hanzo - Taugenichts  
   *misstrauisch - edle, aber schlecht gepflegte Kleidung und Bambuskegelhut - spricht quengelnd und beschwert sich gern*  
-  Will nicht arbeiten und hat Angst, verpfiffen zu werden. Trinkt gerne oder macht ein Nickerchen, bei dem er seinen Hut tief über's Gesicht zieht. 
+  Will nicht arbeiten und hat Angst, verpfiffen zu werden. Trinkt gerne oder macht ein Nickerchen, bei dem er seinen Hut tief über das Gesicht zieht. 
 - Rin - Kitsune (Fuchsgeist)  
 *wohlgesonnen - einfache aber hochwertige Kleidung, trägt eine Fuchsmaske bei sich - spricht zischend*  
-Erkennt die Wandernden als das, was sie sind und offenbart sich ihnen, wenn niemand sonst anwesend ist. Findet Menschen faszinierend und lebt deshalb unter ihnen. Hat etwas mehr Einsicht über das, was vor Ort geschehen ist. 
+Erkennt die Wandernden als das, was sie sind und offenbart sich ihnen, wenn niemand sonst anwesend ist. Findet Menschen faszinierend und lebt deshalb unter ihnen. Hat etwas mehr Einsicht über das, was vor Ort geschehen ist. Hält einige Dinge für merkwürdig, die für Menschen selbstverständlich sind.
