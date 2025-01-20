@@ -5,90 +5,66 @@
   - [ ] Eventuell für den Stufenaufstieg bzw. das "sterben/außer Gefecht gesetzt"
   - [ ] Bonuswürfel für auf Reisen?
 - [x] Besser Episoden als Abschnitt? Nö, ist auch nicht besser
-  - [ ] Besser Lebensabschnitt oder Abschnitt?
-
+  - [x] Besser Lebensabschnitt oder Abschnitt?
+  - [ ] Alles auf Abschnitt ändern.
+  
 - [ ] Player Principles wie in Trophy?
-  - [ ] Braucht es die?
+  - [x] Braucht es die?
+    - [x] Ja!
+      - [ ] Play To Find Out!
+      - [ ] Lasst euch nicht von euren Fähigkeiten einschränken!
+        - [ ] Kreativität geht vor und "Etwas riskieren" kann fast alles abhandeln.
+      - [ ] Spielt eure Version der Welt!
+      - [ ] Es muss nicht jeder Hinweis genutzt werden. Die Geschichte sollte sich rund und schön erzählen. Hinweise die nicht genutzt werden sind nicht verloren.
+      - [ ] Charaktererstellung: Du kannst nicht steuer woher aber wohin
 
 
 ## 2 Texte ergänzen/schreiben für's Regelwerk
 ### 2.1 Systembeschreibung
 - [ ] Allgemeine Erklärungen und Einführungen fertigstellen
+  - [ ] Player Principels fehlen. Sonst ok. Probe lesen?
 - [ ] Bezeichnung vereinheitlichen: Welt/Reich Zwielichts, nicht Dämonenreich, Geisterebene etc.
-- [x] Irgendwo erklären, wofür die Eröffnungsfragen in den Abenteuern gedacht sind, und wie sie eingesetzt werden.   
-- [x] Klarstellung das die Fureru prinzipiell alles können auch wenn sie die Fähigkeit nicht besitzen oder es sie nicht gibt! Dürfte mittlerweile an mindestens drei verschiedenen Stellen verbaut sein.
-- [x] Spielzüge > Kampf > Entwicklerkommentar für den Fall, dass wirklich Mal alle Charaktere in einem Kampf die maximalen Zustände erreichen --> hab's als Kommentar ergänzt 
-- [ ] Spielbeispiele 
-  - [ ] Ablauf einer Session
-  - [ ] Beispiel
-   - [x] Etwas herausfinden
-   - [x] Etwas riskieren
-   - [x] Eine Fähigkeit nutzen
-   - [x] Den Gegner schwächen
-   - [x] Auf Reisen
-   - [x] Kampf
-   - [x] Hilfe anbieten
-   - [x] Das Abenteuer lösen
-   - [x] Wurf verbessern
-   - [x] Verderbnispunkte
-   - [x] Außer Gefecht
-   - [x] Stufenaufstieg
-   - [x] Paint the Scene/Eröffnungsfrage (beim Hilfe anbieten-Beispiel einbauen)   
+  - [ ] 1x lesen Marcel
+    - [ ] Strg-F ist auch so ein Ding
+
+  - [ ] 1x lesen Doro
 - [ ] Ablauf Spielabend / Abenteuer
-- [ ] Würfel und Proben bestehen
-- [ ] Gameplay Loop soll Schematisch im Regelwerk abgebildet werden. Ein Diagramm.
-- [x] Erklärung: Es wird Phasen im Spiel geben wo ihr Rollenspielen könnt, Phasen wo mehr gewürfelt wird und Phasen wo ihr Erzählen dürft was grade passiert.
-- [ ] Erwartungshaltung managen: Ein Bild eures Charakters, wie ihr ihn euch vorstellt, ehe er vom Dämon gezeichnet wurde. Der Dämon und die Zeichnung wird ausgewürfelt und wird das Aussehen eures Charakters beeinflussen.
-- [ ] Was erwartet mich? <!-- brauchen wir das ganze eigentlich noch hier? Diese Unterpunkte??-->
-  - [ ] Die Welt
-  - [ ] Die Mechanik
-    - [ ] Ein D6 Würfelsystem, welches mit Spielzügen arbeitet und auf Attribute und nicht auf klassisch numerische Werte setzt.
-- [ ] Abschnitt
-  - [ ] Kapitel
-  - [ ] Schlüsselmomente
-  - [ ] Momente
-- [ ] Erklärung warum Hinweise so konkret und Vergleich mit Brindlewood
-- [x] Es geht um Szenen und diese schön darzustellen! --> finde genau das sollte in dieses "Vorwort" zu Regeln/Spielzüge 
-- [x] Ergänzung Session 0 im Glossar
+  - [ ] Gameplay Loop soll Schematisch im Regelwerk abgebildet werden. Ein Diagramm.
+  - [ ] Kommt in Abenteuer_Vorwort.md
+- [ ] Zufallstabelle
+  - [ ] Waffen?
+
 
 ### 2.2 Weltbeschreibung
-- [ ] Es sollte alles noch etwas Japanischer werden! Tokii (Bambuszahnbürsten???), Schuhe, Häuser, Bräuche
-- [ ] Was macht das Japan in dem wir spielen aus? Wichtige Szenen und Dinge. Erzählungen. Wie bringt man das gefühlt am Besten rüber? --> siehe Vorwort zu Abenteuern
-- [ ] Waffen und allgemein Japanische Beschreibungen im Regelwerk
 - [ ] Abenteuer schreiben
   - [x] Der Wald
   - [x] Die Aschegeister
   - [x] Der Berg erwacht
   - [ ] Etwas in/mit einer Festung
   - [ ] was am Meer/Strand
-  - [ ] was zum Spielen, mit Schokolade
-- [ ] Fremdabenteuer noch dazu?
-- [ ] Ideen in Abenteuer verbauen (Optionen)
-  - [ ] Die Karpfen Papierfahnen
-  - [ ] Kumiko-Panels
+  - [ ] Abenteuer um Bräuche herum schreiben?
+  - [ ] Ein Fest (Kinderedition)
+    - [ ] Die Karpfen Papierfahnen
+- [x] Ideen in Abenteuer verbauen (Optionen)
+  - [x] Die Karpfen Papierfahnen
   - [x] Charaktere die man in Abenteuern nutzen kann?
-    - [x] also einfach als Liste?
+  - [ ] Kumiko-Panels
+    - [ ] Handwerker NSC als Vorlage, Kumiko in Glossar aufnehmen
   - [x] Orte die man exemplarisch in allen Abenteuern nutzen kann --> Vorwort Abenteuer
-- [x] Magische Szenen für Der Berg erwacht
-- [x] Magische Szenen, die über alle Abenteuer hinweg nutzbar sind. --> Vorwort Abenteuer 
-- [ ] Wichtige Japanische Begriffe für die Abenteuer am Anfang des Abenteuers erneut hervorheben
 - [ ] Karte zu Abenteuern vereinheitliche oder erstellen? Und schöner machen?
+  - [ ] Bringt das mehr als eine Liste?
+
 - [ ] Das ganze Buch über die drei gleichen Charaktere für Erklärungen hernehmen.
   - [ ] Yūsuke (Hirsch) gespielt von Ralph - Reittier Wasserbüffel (Ken)  
-  - [ ] Eran (Tengu) gespielt von Hannes - Reittier Steinbock (Shiori)
-  - [ ] Ayane (Yuki Onna) gespielt von Lydia - Reittier Bär (Jiro)
-- [x] Namenstabelle erweitern
-- [x] Zufallstabelle Reittiere
-- [x] Reihenfolge Zufallstabellen entsprechend Charakterbauschritten
-- [x] Eventuell Titel der Tabellen anpassen von "Dämonen Tabelle" zu "Dämon", "Ängste Tabellen" zu "Ängste" etc.?
-- [x] Kämpfe in den einzelnen Abenteuern: Gefahrenstufe nur anhängig von der Azahl Verderbnispunkte, weg von der Einteilung zu den einzelnen Gefahren
-- [x] Magische Szenen für den Wald
-- [x] Abenteuer Aschegeister: Eröffnung ausbauen
-- [x] Einleitung Kapitel Essen
+    - [ ] Was ist dem sein Beruf? Spielbeispiele und Charakterbogen sollten sich Matchen.
+  - [x] Eran (Tengu) gespielt von Hannes - Reittier Steinbock (Shiori)
+  - [x] Ayane (Yuki Onna) gespielt von Lydia - Reittier Bär (Jiro)
 
 ## 3 Das *BUCH*
 - [ ] Autorenkommentare hervorheben?
+
 - [ ] Aufbau - Buch
+
 - [ ] 1. Einführung und Übersicht (Allgemeines.md)  
    - [ ]    2.1 Worum geht es  
    - [ ]    2.2 Wie spielt sich...  
@@ -99,15 +75,18 @@
    - [ ]    2.7 Darstellung der Welt  
      - [ ]    - Häuser und Orte  
      - [ ]    - Essen  
+  
 - [ ] 2. Regeln + Spielzüge  
    - [ ]    Einleitung (Intro-Regeln-Mechanik.md)  
    - [ ]    2.1 Regeln (Regeln.md)  
    - [ ]    2.2 Spielzüge (Spielzüge.md)  
    - [ ]    2.3 ?????Cheatsheet?????  
+  
 - [ ] 4. Charaktere  
    - [ ]    3.1 Charaktererstellung (Charaktererstellung.md)  
-   - [ ]    3.2 ?????Charakterbogen?????  <!-- Obacht, ist doppelt mit den Ressourcen -->
+  
 - [ ] 5. Spielbeispiele (Spielbeispiele.md)  
+
 - [ ] 6. Abenteuer  
    - [ ]    5.1 Einführung (Abenteuer_Vorwort.md)  
    - [ ]    5.2 Aufbau (Abenteueraufbau.md)  
@@ -117,12 +96,15 @@
      - [ ]    - Der Berg erwacht  
      - [ ]    - Der Wald  
      - [ ]    - Die Aschegeister  
+  
 - [ ] 7. Glossar (Glossar.md)  
+
 - [ ] 8. Ressourcen  
    - [ ]      - Abenteuerbogen  
    - [ ]      - Kampfbogen  
    - [ ]      - Charakterbogen  
    - [ ]      - Zufallstabellen  
+  
 - [ ] 9. ?????Hinten drauf: CATS????  
 
 
@@ -143,6 +125,52 @@
 
 ## erledigt
 - [x] Lernt die Gruppe nach jedem Abenteuer etwas über die Welt? Darf ihre Welt gestalten
+- [x] Magische Szenen für Der Berg erwacht
+- [x] Fremdabenteuer noch dazu?
+  - [x] Wohl eher nicht.
+- [x] Namenstabelle erweitern
+- [x] Zufallstabelle Reittiere
+- [x] Reihenfolge Zufallstabellen entsprechend Charakterbauschritten
+- [x] Eventuell Titel der Tabellen anpassen von "Dämonen Tabelle" zu "Dämon", "Ängste Tabellen" zu "Ängste" etc.?
+- [x] Kämpfe in den einzelnen Abenteuern: Gefahrenstufe nur anhängig von der Azahl Verderbnispunkte, weg von der Einteilung zu den einzelnen Gefahren
+- [x] Magische Szenen für den Wald
+- [x] Abenteuer Aschegeister: Eröffnung ausbauen
+- [x] Einleitung Kapitel Essen
+- [x] Magische Szenen, die über alle Abenteuer hinweg nutzbar sind. --> Vorwort Abenteuer 
+- [x] Wichtige Japanische Begriffe für die Abenteuer am Anfang des Abenteuers erneut hervorheben
+  - [x] Brauchen wir das?
+- [x] Würfel und Proben bestehen
+- [x] Erklärung warum Hinweise so konkret und Vergleich mit Brindlewood
+- [x] Es geht um Szenen und diese schön darzustellen! --> finde genau das sollte in dieses "Vorwort" zu Regeln/Spielzüge 
+- [x] Ergänzung Session 0 im Glossar
+- [x] Erklärung: Es wird Phasen im Spiel geben wo ihr Rollenspielen könnt, Phasen wo mehr gewürfelt wird und Phasen wo ihr Erzählen dürft was grade passiert.
+- [x] Erwartungshaltung managen: Ein Bild eures Charakters, wie ihr ihn euch vorstellt, ehe er vom Dämon gezeichnet wurde. Der Dämon und die Zeichnung wird ausgewürfelt und wird das Aussehen eures Charakters beeinflussen.
+- [x] Was erwartet mich? <!-- brauchen wir das ganze eigentlich noch hier? Diese Unterpunkte??-->
+  - [x] Die Welt
+  - [x] Die Mechanik
+    - [x] Ein D6 Würfelsystem, welches mit Spielzügen arbeitet und auf Attribute und nicht auf klassisch numerische Werte setzt.
+- [x] Abschnitt
+  - [x] Kapitel
+  - [x] Schlüsselmomente
+  - [x] Momente
+- [x] Spielbeispiele 
+  - [x] Beispiel
+   - [x] Etwas herausfinden
+   - [x] Etwas riskieren
+   - [x] Eine Fähigkeit nutzen
+   - [x] Den Gegner schwächen
+   - [x] Auf Reisen
+   - [x] Kampf
+   - [x] Hilfe anbieten
+   - [x] Das Abenteuer lösen
+   - [x] Wurf verbessern
+   - [x] Verderbnispunkte
+   - [x] Außer Gefecht
+   - [x] Stufenaufstieg
+   - [x] Paint the Scene/Eröffnungsfrage (beim Hilfe anbieten-Beispiel einbauen)   
+- [x] Irgendwo erklären, wofür die Eröffnungsfragen in den Abenteuern gedacht sind, und wie sie eingesetzt werden.   
+- [x] Klarstellung das die Fureru prinzipiell alles können auch wenn sie die Fähigkeit nicht besitzen oder es sie nicht gibt! Dürfte mittlerweile an mindestens drei verschiedenen Stellen verbaut sein.
+- [x] Spielzüge > Kampf > Entwicklerkommentar für den Fall, dass wirklich Mal alle Charaktere in einem Kampf die maximalen Zustände erreichen --> hab's als Kommentar ergänzt 
 - [x] Keine Dämonen sondern die schwarze Saat? Sie wohnt allem Inne und kommt zum Vorschein wenn Dinge aus dem Gleichgewicht geraten.. <!-- ich hab' das Gefühl dafür ist es jetzt ein bisschen spät? ^^ -->
 - [x] Weltbeschreibung hinzufügen - das Japan in welchem wir spielen <!-- gibt's doch eigentlich schon, oder fehlt da noch was?-->
 - [x] Jäger sollte noch in die Beschreibung im Regelwerk
@@ -151,6 +179,10 @@
 - [x] Eine Fähigkeit direkt über den Dämon?
 - [x] Zweiter Gegenstand als eigene Tabelle?
 - [x] Ein freier Gegenstandslot
+- [x] Es sollte alles noch etwas Japanischer werden! Tokii (Bambuszahnbürsten???), Schuhe, Häuser, Bräuche
+  - [x] Reicht erstmal.
+- [x] Was macht das Japan in dem wir spielen aus? Wichtige Szenen und Dinge. Erzählungen. Wie bringt man das gefühlt am Besten rüber? --> siehe Vorwort zu Abenteuern
+- [x] Waffen und allgemein Japanische Beschreibungen im Regelwerk
 - [x] Alte Geschichten über die Welt abfragen als Move? Oder beim Heilen? Oder mhmmm
 - [x] Frage 
   - [x] Wie bist du in Kontakt mit deinem Dämon gekommen? Wie hast du überlebt?
