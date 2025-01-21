@@ -135,7 +135,7 @@ Stufe 3 -  [    ]
 |      |
 |      |
 
-### Lebensabschnittsfragen
+### Abschnittsfragen
 
 | II. Erzähle, wie dein Charakter mit seinem Dämon verschmolzen ist. |
 | ------------------------------------------------------------ |
