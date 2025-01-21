@@ -2,7 +2,7 @@
 
 Hier findest du alle Regeln, die du zum Spielen von *Augen des Zwielichts: Königreich der Yōkai* brauchst. Den genauen Spielablauf findest du in den Spielbeispielen. Bitte beachte, dass du das gesamte Regelwerk gelesen haben solltest, bevor du ein Abenteuer leitest. Nur die "Regeln" zu lesen wird nicht ausreichen um die Stimmung, das Gefühl, die Abenteuer aber auch einfach den mechanischen Ablauf ausreichend zu verinnerlichen.
 
-Deine Spielenden versuchen durch Spielzüge Hinweise zu sammeln und diese zu kombinieren. Dazu stellen sie einen Würfelpool zusammen, der aus schwarzen und weißen Würfeln bestehen kann. Dieser Pool wird dann gewürfelt und die zwei höchsten Augenzahlen werden gewertet. Mehr dazu findet du in dem jeweiligen Spielzug. Alle anderen Regeln, die du zum Spielen brauchst, findest du hier. Um das System besser zu verstehen und zu verinnerlichen, solltest du dir auch die Spielbeispiele durchlesen.
+Deine Spielenden versuchen durch Spielzüge Hinweise zu sammeln und diese zu kombinieren. Dazu stellen sie einen Würfelpool zusammen, der aus schwarzen und weißen Würfeln bestehen kann. Dieser Pool wird dann gewürfelt und die zwei höchsten Augenzahlen werden gewertet. Mehr dazu findest du in dem jeweiligen Spielzug. Alle anderen Regeln, die du zum Spielen brauchst, findest du hier. Um das System besser zu verstehen und zu verinnerlichen, solltest du dir auch die Spielbeispiele durchlesen.
 
 ## Der Würfelpool - Würfel sammeln
 
@@ -41,10 +41,10 @@ Dieses Feld wird nie beschrieben, sondern immer nur im Kontext des Abenteuers un
 
 ## Außer Gefecht gesetzt
 
-Wenn ein Charakter sechs Zustände aufbaut, ist er außer Gefecht gesetzt. Es erfordert einen "Etwas riskieren"-Wurf eines anderen Spielenden, um dem Charakter wieder aufzuhelfen. Sie können nicht sterben, sondern werden älter und treten in einen neuen, dunkleren Lebensabschnitt ein. Während dieses Übergangs verändert der Dämon den Charakter nachhaltig.
+Wenn ein Charakter sechs Zustände aufbaut, ist er außer Gefecht gesetzt. Es erfordert einen "Etwas riskieren"-Wurf eines anderen Spielenden, um dem Charakter wieder aufzuhelfen. Sie können nicht sterben, sondern werden älter und treten in einen neuen, dunkleren Abschnitt ein. Während dieses Übergangs verändert der Dämon den Charakter nachhaltig.
 
 1. Der Körper und der Geist deines Charakters altern. Erhöhe den Abschnitt um eins.
-   -	Wenn dein Charakter jetzt im sechsten Lebensabschnitt ist, ist er zu müde und erschöpft, um weiterzumachen. Wie sieht der Lebensabend deines Charakters aus?
+   -	Wenn dein Charakter jetzt im sechsten Abschnitt ist, ist er zu müde und erschöpft, um weiterzumachen. Wie sieht der Lebensabend deines Charakters aus?
 2. Setze deine Zustände zurück. 
 3. Beantworte die nächste Frage auf der Abschnittstabelle.
 4. Ändere eines der Attributfelder in ein schwarzes.
@@ -53,7 +53,7 @@ Wenn ein Charakter sechs Zustände aufbaut, ist er außer Gefecht gesetzt. Es er
 7. Die Veränderung wird sichtbar stärker.
 8. Setze deine Aufstiegspunkte wieder zurück.
 9. Die Spielleitende Person bekommt einen Verderbnispunkt.
-10. Du bist jetzt in einem Lebensabschnitt, in dem du langsam die Kontrolle über deinen Dämon verlierst. Dieser Abschnitt ist dunkel.
+10. Du bist jetzt in einem Abschnitt, in dem du langsam die Kontrolle über deinen Dämon verlierst. Dieser Abschnitt ist dunkel.
 
 ## Der Abschnittswechsel
 
@@ -66,7 +66,7 @@ Bei jedem Aufstieg:
 3. Wenn du es schaffst, es mit dem aktuellen Abenteuer in Einklang zu bringen, verlierst du eine Angst.
 4. Beantworte die nächste Frage auf der Abschnittstabelle.
 5. Der Körper und der Geist deines Charakters altern. Erhöhe den Abschnitt um eins.
-   1. Wenn dein Charakter jetzt im sechsten Lebensabschnitt ist, ist er zu müde und erschöpft, um weiterzumachen. Wie sieht der Lebensabend deines Charakters aus?
+   1. Wenn dein Charakter jetzt im sechsten Abschnitt ist, ist er zu müde und erschöpft, um weiterzumachen. Wie sieht der Lebensabend deines Charakters aus?
 
 6. Ändere ein Attribut oder einen Gegenstand. (Optional)
 7. Ändere das Aussehen deiner Zeichnung. (Optional)
