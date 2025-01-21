@@ -6,27 +6,26 @@
   - [ ] Bonuswürfel für auf Reisen?
 - [x] Besser Episoden als Abschnitt? Nö, ist auch nicht besser
   - [x] Besser Lebensabschnitt oder Abschnitt?
-  - [ ] Alles auf Abschnitt ändern.
+  - [ ] Alles auf Abschnitt ändern. <!-- erledigt: Spielbeispiele, Charaktererstellung-->
   
-- [ ] Player Principles wie in Trophy?
+- [x] Player Principles wie in Trophy?
   - [x] Braucht es die?
     - [x] Ja!
-      - [ ] Play To Find Out!
-      - [ ] Lasst euch nicht von euren Fähigkeiten einschränken!
-        - [ ] Kreativität geht vor und "Etwas riskieren" kann fast alles abhandeln.
-      - [ ] Spielt eure Version der Welt!
-      - [ ] Es muss nicht jeder Hinweis genutzt werden. Die Geschichte sollte sich rund und schön erzählen. Hinweise die nicht genutzt werden sind nicht verloren.
-      - [ ] Charaktererstellung: Du kannst nicht steuer woher aber wohin
+      - [x] Play To Find Out!
+      - [x] Lasst euch nicht von euren Fähigkeiten einschränken!
+        - [x] Kreativität geht vor und "Etwas riskieren" kann fast alles abhandeln.
+      - [x] Spielt eure Version der Welt!
+      - [x] Es muss nicht jeder Hinweis genutzt werden. Die Geschichte sollte sich rund und schön erzählen. Hinweise die nicht genutzt werden sind nicht verloren.
+      - [x] Charaktererstellung: Du kannst nicht steuer woher aber wohin
 
 
 ## 2 Texte ergänzen/schreiben für's Regelwerk
 ### 2.1 Systembeschreibung
 - [ ] Allgemeine Erklärungen und Einführungen fertigstellen
-  - [ ] Player Principels fehlen. Sonst ok. Probe lesen?
+  - [ ] Player Principles fehlen nicht mehr. Sonst ok. Probe lesen? Probe lesen!
 - [ ] Bezeichnung vereinheitlichen: Welt/Reich Zwielichts, nicht Dämonenreich, Geisterebene etc.
   - [ ] 1x lesen Marcel
     - [ ] Strg-F ist auch so ein Ding
-
   - [ ] 1x lesen Doro
 - [ ] Ablauf Spielabend / Abenteuer
   - [ ] Gameplay Loop soll Schematisch im Regelwerk abgebildet werden. Ein Diagramm.
@@ -48,15 +47,16 @@
 - [x] Ideen in Abenteuer verbauen (Optionen)
   - [x] Die Karpfen Papierfahnen
   - [x] Charaktere die man in Abenteuern nutzen kann?
-  - [ ] Kumiko-Panels
-    - [ ] Handwerker NSC als Vorlage, Kumiko in Glossar aufnehmen
+  - [x] Kumiko-Panels
+    - [x] Handwerker NSC als Vorlage
+    - [x]  Kumiko in Glossar aufnehmen
   - [x] Orte die man exemplarisch in allen Abenteuern nutzen kann --> Vorwort Abenteuer
-- [ ] Karte zu Abenteuern vereinheitliche oder erstellen? Und schöner machen?
+- [ ] Karte zu Abenteuern vereinheitlichen oder erstellen? Und schöner machen?
   - [ ] Bringt das mehr als eine Liste?
 
-- [ ] Das ganze Buch über die drei gleichen Charaktere für Erklärungen hernehmen.
-  - [ ] Yūsuke (Hirsch) gespielt von Ralph - Reittier Wasserbüffel (Ken)  
-    - [ ] Was ist dem sein Beruf? Spielbeispiele und Charakterbogen sollten sich Matchen.
+- [x] Das ganze Buch über die drei gleichen Charaktere für Erklärungen hernehmen.
+  - [x] Yūsuke (Hirsch) gespielt von Ralph - Reittier Wasserbüffel (Ken)  
+    - [x] Was ist dem sein Beruf? Spielbeispiele und Charakterbogen sollten sich Matchen.
   - [x] Eran (Tengu) gespielt von Hannes - Reittier Steinbock (Shiori)
   - [x] Ayane (Yuki Onna) gespielt von Lydia - Reittier Bär (Jiro)
 
