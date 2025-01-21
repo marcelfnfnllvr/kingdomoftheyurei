@@ -53,3 +53,6 @@ NSCs
 - Rin - Kitsune (Fuchsgeist)  
 *wohlgesonnen - einfache aber hochwertige Kleidung, trägt eine Fuchsmaske bei sich - spricht zischend*  
 Erkennt die Wandernden als das, was sie sind und offenbart sich ihnen, wenn niemand sonst anwesend ist. Findet Menschen faszinierend und lebt deshalb unter ihnen. Hat etwas mehr Einsicht über das, was vor Ort geschehen ist. Hält einige Dinge für merkwürdig, die für Menschen selbstverständlich sind.
+- Hideo Yamamura - Kumiko-Handwerker  
+  *wohlgesonnen - helle, robuste Kleidung, Tuch um den Kopf gewickelt - genervt, wenn er bei der Arbeit gestört wird*  
+  Ist sehr konzentriert bei der Arbeit, schneidet kleine Holzstücke zu und legt sie in Rahmen. Interessiert sich für wenig abseits seiner Arbeit und zeigt stolz seine Werke. 
