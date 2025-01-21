@@ -90,8 +90,8 @@ Ablauf eines Kampfes:
    2. Mit dem Spielzug "Gegner schwächen" kann die Gefahrenstufe des Gegners gesenkt werden. Wenn die Stufe des Gegners höher als 12 ist, muss dieser erst mit diesem Spielzug geschwächt werden, ansonsten ist es nicht möglich für die Gruppe den Kampf zu gewinnen.
 
    3. Alle Charaktere, die direkt am Kampf teilnehmen, würfeln ihren Schwachpunkt. Sie tun dies mit
-      - 2W6 und behalten den höheren von beiden, wenn der letzte Abschnittswechsel ihres Charakters durch einen Stufenaufstieg lief oder der Charakter grad am Beginn seiner Reise ist
-      - 2W6 und behalten den niedrigeren von beiden, wenn ihr letzter Abschnittswechsel durch einen sechsten Zustand und damit einem Durchbrechen des Dämons verursacht wurde.  
+      - 2W6 und behalten den höheren von beiden, wenn der letzte Abschnittswechsel ihres Charakters durch einen Stufenaufstieg lief (heller Abschnitt) oder
+      - 2W6 und behalten den niedrigeren von beiden, wenn ihr letzter Abschnittswechsel durch einen sechsten Zustand und damit einem Durchbrechen des Dämons verursacht wurde oder sie noch keinen Abschnittswechsel vollzogen haben (dunkler Abschnitt).  
       
       Der Schwachpunkt ändert sich während des Kampfes nicht.
    
