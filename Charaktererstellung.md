@@ -1,8 +1,8 @@
 # Charaktererstellung und Entwicklung
 
-Die Charaktere in *Königreich der Yōkai* werden zum größten Teil ausgewürfelt. Natürlich wäre es auch möglich, dass sich die Spielenden ihre eigenen Berufe, Dämonen und Attribute ausdenken. Die Grundidee der Charaktere jedoch ist, dass zwar niemand bestimmen kann, woher er kommt, aber gestalten kann, wohin er geht. Das heißt am Anfang ist der eigene Charakter ein zufällig gewürfeltes Lebewesen in der Welt von *Königreich der Yōkai* und mit der Zeit füllen wir seinen Hintergrund mit Leben und bestimmen selbst in welche Richtung er sich mit jedem Abschnitt entwickelt. 
+Die Charaktere in *Königreich der Yōkai* werden zum größten Teil ausgewürfelt. Natürlich wäre es auch möglich, dass sich die Spielenden ihre eigenen Berufe, Dämonen und Attribute ausdenken. Die Grundidee der Charaktere jedoch ist, dass zwar niemand bestimmen kann, woher er kommt, aber gestalten kann, wohin er geht. Das heißt am Anfang ist der eigene Charakter ein zufällig gewürfeltes Lebewesen in der Welt von *Königreich der Yōkai*. Erst mit der Zeit füllen wir seinen Hintergrund mit Leben und bestimmen selbst, in welche Richtung er sich mit jedem Abschnitt entwickelt. 
 
-Zu diesem Zweck befinden sich am Ende des Buches Zufallstabellen, auf die die Spielenden bei der Charaktererstellung und beim Eintritt des Charakters in einen neuen Lebensabschnitt würfeln. Ihr solltet euch beim ersten Mal etwa eine Stunde Zeit nehmen, um dies gemeinsam zu tun. Es ist immer spannend, gemeinsam herauszufinden, woher die eigene Figur kommt und welchen Dämon sie hat. Meist entstehen hier schon die ersten Ideen der Spielenden für die weitere Charakterentwicklung. 
+Zu diesem Zweck befinden sich am Ende des Buches Zufallstabellen, auf die die Spielenden bei der Charaktererstellung und beim Eintritt des Charakters in einen neuen Abschnitt würfeln. Ihr solltet euch beim ersten Mal etwa eine Stunde Zeit nehmen, um dies gemeinsam zu tun. Es ist immer spannend, gemeinsam herauszufinden, woher die eigene Figur kommt und welchen Dämon sie hat. Meist entstehen hier schon die ersten Ideen der Spielenden für die weitere Charakterentwicklung. 
 
 ## Vor der Session 0
 
@@ -192,7 +192,7 @@ Stufe 3 -  [    ]
 |                                                              |
 |                                                              |
 
-### Lebensabschnittsfragen
+### Abschnittsfragen
 
 | II. Erzähle, wie dein Charakter mit seinem Dämon verschmolzen ist. |
 | ------------------------------------------------------------ |
