@@ -70,7 +70,7 @@ Beantworten der Abenteuerfrage --> - 1 Zustand, ohne Wurf
 #### Ablauf
 1. Vorbereitung
   - Gefahrenstufe bestimmen (SL)
-  - Schwachpunkt aufwürfeln (alle SP) mit 2W6kh1 (für hellen Lebensabschnitt) oder 2W6kl1 (für dunklen Abschnitt)
+  - Schwachpunkt aufwürfeln (alle SP) mit 2W6kh1 (für hellen Abschnitt) oder 2W6kl1 (für dunklen Abschnitt)
   - optional: Gegner schwächen (s.u.)
 2. Kampfrunde
   - optional: Gegner schwächen (s.u.)
