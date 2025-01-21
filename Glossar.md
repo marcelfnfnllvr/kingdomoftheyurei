@@ -15,7 +15,7 @@
 
 ### Rollenspielbegriffe
   - **CATS**  
-    **C**oncept - **A**im - **T**one - **S**ubject Matter. Ein maximal 200-Zeichen starker Text, der die wesentlichen Inhalte des Rollenspiels kurz und prägnant zusammenfasst.   
+    **C**oncept - **A**im - **T**one - **S**ubject Matter. Ein maximal 200 Zeichen starker Text, der die wesentlichen Inhalte des Rollenspiels kurz und prägnant zusammenfasst.   
   - **NSC**  
     Nicht-Spielercharakter. Von den Spielleitenden gesteuerte Charaktere, mit denen die Spielenden während eines Abenteuers interagieren können. Dabei kann es sich sowohl um Menschen und Tiere als auch um Geister und Dämonen handeln.
   - **Oneshot**  
@@ -27,7 +27,9 @@
   - **SL**    
     Der oder die Spielleitende. Gibt die Rahmenhandlung für das Abenteuer vor, spielt die Nicht-Spieler-Charaktere (NSC), verteilt Hinweise für erfolgreiche Würfe und gestaltet so gemeinsam mit den Spielenden die Runde.
   - **W6**  
-    Sechsseitiger Würfel, entweder traditionell mit Augenzahlen von 1 bis 6 oder mit Ziffern. 
+    Sechsseitiger Würfel, entweder traditionell mit Augenzahlen von 1 bis 6 oder mit Ziffern.
+  - **W20**  
+    Zwanzigseitiger Würfel mit den Ziffern von 1 bis 20.  
     
 ### Allgemeine Begriffe aus dem Japanischen
   - **Dango**  
@@ -44,6 +46,8 @@
     Traditionelle, gesellige Kneipe, in dem alkoholisch Getränke, kleine Snacks und Speisen serviert werden. 
   - **Katsuobushi**  
     Flocken aus getrocknetem, geräucherten Bonito-Thunfisch.
+  - **Kumiko**
+    Filigrane Holzverarbeitungstechnik, bei der flache Holzstücke ohne Leim oder Nägel zu geometrischen Mustern zusammengesteckt werden.
   - **Machiya**  
     Traditionelles, städtisches Holzhaus mit langem, schmalen Grundriss. Im Erdgeschoss häufig mit Geschäftsräumen (Werkstatt, Laden,...) unter den Wohnräumen im Obergeschoss.
   - **Miso**  
