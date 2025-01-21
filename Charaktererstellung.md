@@ -1,22 +1,22 @@
 # Charaktererstellung und Entwicklung
 
-Die Charaktere in *Königreich der Yōkai* werden zum größten Teil ausgewürfelt. Natürlich wäre es auch möglich, dass sich die Spielenden ihre eigenen Berufe, Dämonen und Attribute ausdenken. Die Grundidee der Charaktere jedoch ist, dass zwar niemand bestimmen kann, woher er kommt, aber gestalten kann, wohin er geht. Das heißt am Anfang ist der eigene Charakter ein zufällig gewürfeltes Lebewesen in der Welt von *Königreich der Yōkai* und mit der Zeit füllen wir seinen Hintergrund mit Leben und bestimmen selbst in welche Richtung er sich mit jedem Lebensabschnitt entwickelt. 
+Die Charaktere in *Königreich der Yōkai* werden zum größten Teil ausgewürfelt. Natürlich wäre es auch möglich, dass sich die Spielenden ihre eigenen Berufe, Dämonen und Attribute ausdenken. Die Grundidee der Charaktere jedoch ist, dass zwar niemand bestimmen kann, woher er kommt, aber gestalten kann, wohin er geht. Das heißt am Anfang ist der eigene Charakter ein zufällig gewürfeltes Lebewesen in der Welt von *Königreich der Yōkai* und mit der Zeit füllen wir seinen Hintergrund mit Leben und bestimmen selbst in welche Richtung er sich mit jedem Abschnitt entwickelt. 
 
-Zu diesem Zweck befinden sich am Ende des Buches Zufallstabellen, auf denen die Spielenden bei der Charaktererstellung und beim Eintritt des Charakters in einen neuen Lebensabschnitt würfeln. Ihr solltet euch beim ersten Mal etwa eine Stunde Zeit nehmen, um dies gemeinsam zu tun. Es ist immer spannend, gemeinsam herauszufinden, woher die eigene Figur kommt und welchen Dämonen sie hat. Meist entstehen hier schon die ersten Ideen der Spielenden für die weitere Charakterentwicklung. 
+Zu diesem Zweck befinden sich am Ende des Buches Zufallstabellen, auf die die Spielenden bei der Charaktererstellung und beim Eintritt des Charakters in einen neuen Lebensabschnitt würfeln. Ihr solltet euch beim ersten Mal etwa eine Stunde Zeit nehmen, um dies gemeinsam zu tun. Es ist immer spannend, gemeinsam herauszufinden, woher die eigene Figur kommt und welchen Dämon sie hat. Meist entstehen hier schon die ersten Ideen der Spielenden für die weitere Charakterentwicklung. 
 
 ## Vor der Session 0
 
 Du kannst deinen Spielenden natürlich diese PDF zur Verfügung stellen oder sie können das Regelwerk einfach frei im Internet herunterladen. Es ergibt durchaus Sinn für die Spielenden, die Beschreibung der Welt, in der *Königreich der Yōkai* spielt, zu lesen und sich vorher schon mal einen Charakterbogen anzusehen. 
 
-Vor allem sollten deine Spielenden sich aber Gedanken darüber machen, auf welchem Reittier der eigene Charakter unterwegs ist und welchen Namen dieses trägt. Außerdem ist es durchaus beliebt dem eigenen Charakter einen Namen zu geben. Wenn du Spielende hast, die sich ganz auf die Zufallstabellen verlassen wollen, ist das auch kein Problem. Wir haben natürlich am Ende des Regelwerks Tabellen für den Charakternamen und das Reittier vorbereitet.
+Vor allem sollten deine Spielenden sich aber Gedanken darüber machen, auf welchem Reittier der eigene Charakter unterwegs ist und welchen Namen dieses trägt. Außerdem ist es durchaus beliebt dem eigenen Charakter einen Namen zu geben. Wenn du Spielende hast, die sich ganz auf die Zufallstabellen verlassen wollen, ist das auch kein Problem. Wir haben natürlich am Ende des Regelwerks auch Tabellen für den Charakternamen und das Reittier vorbereitet.
 
 ## Ehrungen
 
-Ehrungen werden nicht zufällig gewürfelt sondern müssen verdient werden. Dies machen die Spielenden, indem sie Abenteuer abschließen. Sie können nach dem ersten abgeschlossenen Abenteuer die gewonnene Ehrung nutzen und erhalten dafür das mit der Ehrung verknüpfte Attribut. Mit der Zeit erhalten die Spielenden immer mehr Ehrungen, aber aktiv getragen werden kann immer nur eine davon. Sie wird dadurch nicht verbraucht, sondern kann am Ende jeder Spielsession gegen eine andere Ehrung getauscht werden.  
+Ehrungen werden nicht zufällig gewürfelt, sondern müssen verdient werden. Dies machen die Spielenden, indem sie Abenteuer abschließen. Sie können nach dem ersten abgeschlossenen Abenteuer die gewonnene Ehrung nutzen und erhalten dafür das mit der Ehrung verknüpfte Attribut. Mit der Zeit erhalten die Spielenden immer mehr Ehrungen, aber aktiv getragen werden kann immer nur eine davon. Sie wird dadurch nicht verbraucht, sondern kann am Ende jeder Spielsession gegen eine andere Ehrung getauscht werden.  
 
 ## Die Charaktererstellung
 
-Theoretisch ist es natürlich möglich, dass die Spielenden ein Veto gegen die Würfelergebnisse einlegen. Dabei ist zu bedenken, dass die Grundidee immer mehr verloren geht, je mehr Einfluss die Spielenden auf die Erstellung der Spielfigur haben. Das ist natürlich trotzdem völlig in Ordnung. Folgt ihr jedoch der Charaktererstellung wie sie eigentlich vorgesehen ist, dann wird auf die Zufallstabellen in folgender Reihenfolge mit je einem W20 gewürfelt:
+Theoretisch ist es natürlich möglich, dass die Spielenden ein Veto gegen die Würfelergebnisse einlegen. Dabei ist zu bedenken, dass die Grundidee immer mehr verloren geht, je mehr Einfluss die Spielenden auf die Erstellung der Spielfigur haben. Das ist natürlich trotzdem völlig in Ordnung. Folgt ihr jedoch der Charaktererstellung wie sie eigentlich vorgesehen ist, dann wird auf die Zufallstabellen in folgender Reihenfolge mit je einem **W20** gewürfelt:
 
 1. Tabelle Dämon - Welcher Dämon wohnt in deinem Charakter?
    1. Dämon, Zeichnung, Attribut 3 und einzigartige Fähigkeit 1 
@@ -52,7 +52,7 @@ Theoretisch ist es natürlich möglich, dass die Spielenden ein Veto gegen die W
 | Hell      |      | X    |      |      |      |      |
 | Dunkel    | X    |      |      |      |      |      |
 
-*Der Charakter beginnt immer in einem dunklen Abschnitt. Wenn der Spielende dann genug Abschnittspunkte gesammelt hat kann er durch einen Abschnittswechel, siehe hierzu die Regel "Der Abschnittswechsel", in einen hellen Abschnitt wechseln.*
+*Der Charakter beginnt immer in einem dunklen Abschnitt. Wenn der Spielende dann genug Abschnittspunkte gesammelt hat, kann er durch einen Abschnittswechsel in einen hellen Abschnitt gelangen. Siehe hierzu die Regel "Der Abschnittswechsel".*
 
 ### Ehrung
 
@@ -68,7 +68,7 @@ Theoretisch ist es natürlich möglich, dass die Spielenden ein Veto gegen die W
 | ---- | ------------ | ---------- |
 | Ken  | Wasserbüffel | Stark      |
 
-*Ralph hat sich vor dem ersten Abenteuer einen Wasserbüffel names Ken als Tier überlegt. Er gibt ihm, in Absprache mit der spieleitenden Person, das Attribut "Stark".*
+*Ralph hat sich vor dem ersten Abenteuer einen Wasserbüffel names Ken als Tier überlegt. Er gibt ihm in Absprache mit der spielleitenden Person das Attribut "Stark".*
 
 ### Dämon
 
@@ -76,13 +76,13 @@ Theoretisch ist es natürlich möglich, dass die Spielenden ein Veto gegen die W
 | ------ | ------------ | ---------- |
 | Hirsch | Hirschgeweih | Stechend   |
 
-*Ralph hat sich als Dämon den Hirsch erwürfelt. Dieser gibt ihm die Zeichnung, dies ist eine physische veränderung seine Charakters, das Hirschgeweih und als Attribut Stechend.*
+*Ralph hat sich als Dämon den Hirsch erwürfelt. Dieser gibt ihm als physische Zeichnung das Hirschgeweih und als Attribut Stechend.*
 
 ### Herkunft
 
-| Herkunft      | Attribut 4 | Attribut 5           |
-| ------------- | ---------- | -------------------- |
-| Perlentaucher | Ausdauer   | Sympathie (Geschick) |
+| Herkunft      | Attribut 4 | Attribut 5            |
+| ------------- | ---------- | --------------------- |
+| Perlentaucher | Ausdauer   | Sympathie (Geschick)  |
 
 *Die Spielenden müssen sich explizit keine Gedanken über einen wirklichen Charakterhintergrund machen, da dieser zufällig gewürfelt wird. Bei jedem Abschnittswechsel können sie dann ein Attribut ändern. Ralph hat seinen Charakter nach dem ersten Abenteuer aufsteigen lassen und das Attribut Geschick -> auf Sympathie geändert, um seinem Charakter auch ein soziales Attribut hinzuzufügen.*
 
@@ -96,15 +96,15 @@ Theoretisch ist es natürlich möglich, dass die Spielenden ein Veto gegen die W
 
 ### Schwächen
 
-| Angst 1         | Angst 2 |
-| --------------- | ------- |
-| Angst vor Feuer |         |
+| Angst 1                  | Angst 2 |
+| ------------------------ | ------- |
+| Angst vor Menschenmengen |         |
 
 *Jeder Charakter beginnt mit zwei Ängsten. Die zweite Angst, "Angst vor Nebel", konnte Ralph jedoch beim Stufenaufstieg streichen, da er sich dieser Angst im ersten Abenteuer gestellt hat.*
 
 ### Fähigkeiten
 
-| **Dämonfähigkeit**                                           |
+| **Dämonenfähigkeit**                                         |
 | ------------------------------------------------------------ |
 | Widerstandskraft - Die Kraft der Jugend                      |
 | **Fähigkeiten 2 & 3**                                        |
@@ -115,7 +115,7 @@ Theoretisch ist es natürlich möglich, dass die Spielenden ein Veto gegen die W
 | **Fähigkeit 5 ab Abschnitt 3**                               |
 |                                                              |
 
-Da Yūsuke nach dem ersten Abenteuer in den zweiten Abschnitt gewechselt hat durfte er sich eine weitere Fähigkeit auswürfeln. 
+*Da Yūsuke nach dem ersten Abenteuer in den zweiten Abschnitt gewechselt hat, durfte er sich eine weitere Fähigkeit auswürfeln.* 
 
 ### Korruption
 
@@ -132,7 +132,7 @@ Korruption beschreibt, wie sehr der Dämon von eurem Charakter Besitz ergreift u
 
 ### Zustände abbauen
 
-Habt einen ruhigen Moment oder erzählt von einem schönen, ruhigen oder lustigen Moment auf eurer Reise oder aus eurer Vergangenheit, um alleine oder gemeinsam Korruption abzubauen. Ihr könnt einen Zustand über die Abenteuerfrage reduzieren und weitere über den Spielzug "Auf Reisen".
+Habt einen ruhigen Augenblick oder erzählt von einem schönen, ruhigen oder lustigen Moment auf eurer Reise oder aus eurer Vergangenheit, um alleine oder gemeinsam Korruption abzubauen. Ihr könnt einen Zustand über die Abenteuerfrage reduzieren und weitere über den Spielzug "Auf Reisen".
 
 - Abenteuerfrage  - [    ]
 - Auf Reisen Spielzug  - [    ]
@@ -197,11 +197,11 @@ Stufe 3 -  [    ]
 | II. Erzähle, wie dein Charakter mit seinem Dämon verschmolzen ist. |
 | ------------------------------------------------------------ |
 |                                                              |
-| **III. Erzähle von einer Vorahnung, die dein Charakter als Kind von ihrem jetztigen Leben hatte.** |
+| **III. Erzähle von einer Vorahnung, die dein Charakter als Kind von seinem jetztigen Leben hatte.** |
 |                                                              |
 | **IV. Erzähle von einem Moment mit deinem Reittier, den du nie vergessen wirst.** |
 |                                                              |
-| **V. An welche Szene, aus den bisher bestrittenen Abenteuern, wird sich dein Charakter für den Rest seines Lebens erinnern?** |
+| **V. An welche Szene aus den bisher bestrittenen Abenteuern wird sich dein Charakter für den Rest seines Lebens erinnern?** |
 |                                                              |
 | **VI. Wie verbringt dein Charakter seinen Lebensabend?**     |
 |                                                              |
