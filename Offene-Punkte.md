@@ -6,7 +6,7 @@
   - [ ] Bonuswürfel für auf Reisen?
 - [x] Besser Episoden als Abschnitt? Nö, ist auch nicht besser
   - [x] Besser Lebensabschnitt oder Abschnitt?
-  - [ ] Alles auf Abschnitt ändern. <!-- erledigt: Spielbeispiele, Charaktererstellung-->
+  - [ ] Alles auf Abschnitt ändern. <!-- erledigt: Spielbeispiele, Charaktererstellung, Allgemeines, Charakterbogen, Cheatsheet, Glossar, Intro Regel - Mechanik, Kampfbogen,  -->
   
 - [x] Player Principles wie in Trophy?
   - [x] Braucht es die?
