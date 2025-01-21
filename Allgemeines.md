@@ -18,6 +18,16 @@ Wenn Eran zum Beispiel versucht, eine Klippe hinunter zu klettern, um auf einen 
 
 Nun wird mit beiden Würfeln gewürfelt und die höchste Augenzahl zählt. Da Eran eine weiße Sechs würfelt, schafft er nicht nur den Abstieg zum Felsvorsprung, sondern findet dort auch direkt einen Hinweis, den die SL passend platziert.
 
+## Spielprinzipien
+
+Wann immer ihr euch unsicher seid wie es weitergehen soll oder wie ihr eine Situation am besten ausspielt, könnt ihr euch in den folgenden Grundprinzipien orientieren.
+
+- **Kreativität gewinnt.** Lasst euch nicht von den Fähigkeiten oder Attributen auf euren Charakterbögen einschränken. Kreativität wird belohnt und kann spielmechanisch im Zweifelsfalls über "Etwas riskieren" ausgewürfelt werden.
+- **Play to find out.** Die Abenteuer haben keine feste Form und keine vorgegebene Lösung. Ihr entscheidet wohin ihr geht und entwickelt die Geschichte mithilfe der Hinweise selbst.
+- **Kontrolliere deine Reise, nicht deine Herkunft.** Bei der Charaktererstellung werden die wichtigsten Aspekte der Charaktere ausgewürfelt. Aber die Details und vor allem wie es mit den Charakteren im Laufe des Spiels weitergeht, bestimmt ihr selbst.
+- **Eine runde Geschichte.** Beim Lösen des Abenteuers müssen nicht sämtliche Hinweise verwendet werden. Wichtiger ist es, eine runde und in sich stimmige Geschichte zu entwickeln. Die nicht verwendeten Hinweise verfallen nicht, sondern können zu eurem Vorteil eingesetzt werden, falls es zum Endkampf kommt.
+- **Spielt eure eigene Version der Welt.** Dieses Regelwerk soll einen Rahmen für euer Spiel geben. Wie eng ihr euch an diesen Rahmen haltet, ist euch überlassen. 
+
 ## Wie sind die Abenteuer aufgebaut?
 
 > Die Gruppe glaubt, dass der Brückengeist für das Verschwinden der Leute verantwortlich ist. Seit dem Bau der neuen, größeren Brücke zerfällt die alte Brücke zusehends und alle, die darüber gehen, beschweren sich über deren schlechten Zustand. Aus Rache zieht sie der Geist der Brücke zu sich in die reißenden Fluten. Die Gruppe möchte das Problem lösen, indem sie die alte Brücke wieder herrichten. Ein SC würfelt nun gegen die durch die kombinierten Hinweise reduzierte Schwierigkeit des Abenteuers, scheitert aber mit einer 4. Der Brückengeist lässt sich jedoch nicht besänftigen und greift die Gruppe bei den Renovierungsarbeiten an der Brücke in Form einer riesigen Wasserschlange an.
