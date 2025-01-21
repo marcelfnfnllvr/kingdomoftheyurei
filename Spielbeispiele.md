@@ -23,7 +23,8 @@ Wir folgen hier einer Spielgruppe um die Spielleiterin Martina und ihren drei Mi
 Die Charaktere der drei heißen  
 - Yūsuke (gespielt von Ralph),  
 - Eran (gespielt von Hannes) und  
-- Ayane (gespielt von Lydia).
+- Ayane (gespielt von Lydia).  
+
 Wenn die Spielenden oder die Spielleiterin in Character sprechen, dann steht das in "Anführungsstrichen".
 
 ### Etwas herausfinden - Eröffnungsfrage - Hilfe anbieten
@@ -95,7 +96,7 @@ Diese Interaktion von dem S1 und dem SL veranschaulicht wie eine Fähigkeit für
 >*Wieder beschreiben Lydia, Ralph und Hannes wie ihre Charaktere tapfer die Feinde bekämpfen und diese schließlich töten oder in die Flucht schlagen können.*  
 >**Martina**: Sehr schön, das habt ihr doch gut hingekriegt. Ihr habt zwei Runden lang gekämpft, also bekommt ihr jetzt noch zwei Hinweise von mir. Ihr durchstöbert ein wenig das Chaos nach der Schlacht und findet...
 
-Kämpfe dauern in der Regel nur eine bis wenige Runden. Dabei würfeln wie im restlichen Spielverlauf nur die Spielenden. Den Gegner zu schwächen ist sinnvoll und kann eine große Wirkung haben, wenn er eine Gefahrenstufe von 9 oder höher hat - ab einer Gefahrenstufe von mindestens 13 ist es sogar notwendig, da die Gruppe ihn sonst nicht besiegen kann. Wie detailliert Gewaltbeschreibungen und wie blutig die Kämpfe beschrieben werden sollen, das sollte die Gruppe in der Session 0 gemeinsam klären.
+Kämpfe dauern in der Regel nur eine bis wenige Runden. Dabei würfeln wie im restlichen Spielverlauf nur die Spielenden. Den Gegner zu schwächen ist sinnvoll und kann eine große Wirkung haben, wenn er eine Gefahrenstufe von 9 oder höher hat - ab einer Gefahrenstufe von mindestens 13 ist es sogar notwendig, da die Gruppe ihn sonst nicht besiegen kann. Wie detailliert Gewaltbeschreibungen und wie blutig die Kämpfe beschrieben werden dürfen, das sollte die Gruppe in der Session 0 gemeinsam klären.
 
 
 ### Etwas riskieren - Außer Gefecht gesetzt
@@ -154,7 +155,7 @@ Außerdem wechseln sich die drei Elemente Rollenspiel, Würfeln und Erzählung i
 >**Hannes**: Ach, deshalb hat Yūsuke immer so eine Angst vor Priestern? Haha!  
 >**Ralph**: Jedenfalls hat er seitdem mindestens einen gesunden Respekt, ja.    
 >**Martina**: Sehr schön, die Geschichte. Baden mag Ken ja scheinbar immer noch gerne. Hast du denn auch ein Attribut, das zu der Story passt?  
->**Ralph**: Wie wäre es mit "Wasserratte", wegen dem Teich und so?  
+>**Ralph**: Wie wäre es mit "Ausdauer"? Ich war ja früher auch mal Perlentaucher, also komme ich gut im Wasser klar, auch wenn ich hier nicht unbedingt nach Perlen tauchen sollte, sondern nach Dreck...  
 >**Martina**: Ja das passt doch gut. Dann würfel mal mit zwei weißen W6.  
 >**Ralph**: Wow, ich hab' sogar eine Doppel-Sechs geworfen!  
 >**Martina**: Cool, damit kannst du dann drei Zustände heilen. Der erste Zustand bleibt allerdings permanent, das ist ja dein Dämon. Aber die anderen beiden Zustände kannst du jetzt streichen.
