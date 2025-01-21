@@ -25,7 +25,7 @@ Die Charaktere der drei heißen
 - Eran (gespielt von Hannes) und  
 - Ayane (gespielt von Lydia).  
 
-Wenn die Spielenden oder die Spielleiterin in Character sprechen, dann steht das in "Anführungsstrichen".
+Wenn die Spielenden oder die Spielleiterin *in Character* sprechen, dann steht das in "Anführungsstrichen".
 
 ### Etwas herausfinden - Eröffnungsfrage - Hilfe anbieten
 
@@ -74,10 +74,10 @@ Diese Interaktion von dem S1 und dem SL veranschaulicht wie eine Fähigkeit für
 >**Ralph**: Mein Reittier hat das Attribut "stark", vielleicht könnte mein Wasserbüffel Ken mir helfen?  
 >**Martina**: In Ordnung, für das Attribut bekommst du noch einen weißen W6 dazu. Dann würfel mal.  
 >**Ralph**: Ich habe eine weiße 5 und eine schwarze 3.  
->**Martina**: Damit senkst du die Gefahrenstufe des Gegners um 1. Sie ist jetzt also insgesamt bei 9. Wir sind ja ganz am Anfang vom Kampf, deshalb würfelt jetzt bitte alle mal euren jeweiligen Schwachpunkt für diesen Kampf aus. Da eure Charaktere alle noch keinen Abschnittswechsel hatten, seid ihr in einem hellen Lebensabschnitt. Das heißt ihr werft mit 2W6 und behaltet den höheren Wert.  
->**Lydia**: Ich habe eine 1 und eine 3.  
+>**Martina**: Damit senkst du die Gefahrenstufe des Gegners um 1. Sie ist jetzt also insgesamt bei 9. Wir sind ja ganz am Anfang vom Kampf, deshalb würfelt jetzt bitte alle mal euren jeweiligen Schwachpunkt für diesen Kampf aus. Da eure Charaktere alle noch keinen Abschnittswechsel hatten, seid ihr in einem dunklen Abschnitt. Das heißt ihr werft mit 2W6 und behaltet den niedrigeren Wert.  
+>**Lydia**: Ich habe eine 5 und eine 3.  
 >**Ralph**: Ich hab' zwei 3er.  
->**Hannes**: Meine Würfel sind eine 4 und eine 5.  
+>**Hannes**: Meine Würfel sind eine 6 und eine 5.  
 >**Martina**: Also 3, 3 und 5. Gut, dann beginnt jetzt die erste richtige Kampfrunde. Würfelt bitte alle nochmal einen W6, das ist euer Kampfwürfel für diese Runde. Um den Gegner zu besiegen, braucht ihr mit euren beiden höchsten Würfeln zusammen mindestens eine 9.  
 >**Lydia**: Ich habe eine 2.  
 >**Ralph**: Ich hab' 'ne 5!  
@@ -177,7 +177,7 @@ Jede Gruppe baut aus den Hinweisen eine andere, ganz eigene Geschichte zusammen 
 
 ### Am Ende einer Spielsession - Stufenaufstieg - Außer Gefecht gesetzt
 
->**Martina**: Also, euer aktuelles Abenteuer ist jetzt zwar vorbei, aber bevor wir Feierabend machen, schauen wir natürlich noch, was jetzt mit euren Charakteren passiert und ob jemand einen Stufenaufstieg macht. Lydia, dein Charakter wurde ja außer Gefecht gesetzt, das heißt Ayane kommt jetzt auch in einen neuen Lebensabschnitt, allerdings nicht durch einen Stufenaufstieg. Da ihr Dämon mehr von ihr Besitz ergriffen hat, ist sie jetzt in einem dunklen Lebensabschnitt. Wie schaut's denn bei den anderen aus? Wir gehen einfach mal der Reihe nach durch. Ihr habt auf jeden Fall alle die aktive Aufgabe gelöst und das sogar friedlich. Dafür gibt es schonmal zwei Punkte für jeden.  
+>**Martina**: Also, euer aktuelles Abenteuer ist jetzt zwar vorbei, aber bevor wir Feierabend machen, schauen wir natürlich noch, was jetzt mit euren Charakteren passiert und ob jemand einen Stufenaufstieg macht. Lydia, dein Charakter wurde ja außer Gefecht gesetzt, das heißt Ayane kommt jetzt auch in einen neuen Abschnitt, allerdings nicht durch einen Stufenaufstieg. Da ihr Dämon mehr von ihr Besitz ergriffen hat, ist sie jetzt in einem dunklen Abschnitt. Wie schaut's denn bei den anderen aus? Wir gehen einfach mal der Reihe nach durch. Ihr habt auf jeden Fall alle die aktive Aufgabe gelöst und das sogar friedlich. Dafür gibt es schonmal zwei Punkte für jeden.  
 >**Ralph**: Also ich habe ja auf jeden Fall eine Rückblende erzählt und damit sogar zwei Zustände geheilt...  
 >**Martina**: Das stimmt, dann sind das bei dir schonmal drei Punkte.  
 >**Ralph**: Außerdem hatte ich im Kampf ja einmal das Gefahrenlevel gesenkt. Also noch ein Punkt mehr, sind wir bei vier. Hmm, aber ein Geheimnis habe ich niemandem entlockt. Es bleibt also bei vier Punkten. Hey, damit habe ich die Stufe 2 voll!  
@@ -201,7 +201,7 @@ Jede Gruppe baut aus den Hinweisen eine andere, ganz eigene Geschichte zusammen 
 >**Lydia**: Nein, ich hab' noch zwei.  
 >**Martina**: Gut, dann setzt du jetzt nur noch deine Aufstiegspunkte zurück auf Null. Danach schauen wir aber bei dir auch direkt, welche der Abenteueraufgaben du gewählt hast, und welche geschafft sind.  
 >**Lydia**: Also zusätzlich zu den zwei *Abenteuer gelöst* und *Abenteuer friedlich gelöst* habe ich mich zumindest noch einem Kampf gestellt. Aber die anderen beiden passen leider nicht. Also bekomme ich wieder 3 Aufstiegspunkte?  
->**Martina**: Genau, die trägst du jetzt wieder ein. Ayane ist jetzt in einem Lebensabschnitt, wo sie etwas die Kontrolle über ihren Dämon verloren hat. Das heißt dann auch, wenn du am Anfang eines Kampfes deinen Schwachpunkt mit 2W6 auswürfelst, behältst du nicht den höheren Wert, sondern den niedrigeren. Wie schaut es denn bei dir aus, Ralph? Möchtest du eine Stufe aufsteigen oder noch nicht?  
+>**Martina**: Genau, die trägst du jetzt wieder ein. Ayane ist jetzt in einem Abschnitt, wo sie etwas die Kontrolle über ihren Dämon verloren hat. Das heißt dann auch, wenn du am Anfang eines Kampfes deinen Schwachpunkt mit 2W6 auswürfelst, behältst du nicht den höheren Wert, sondern den niedrigeren. Wie schaut es denn bei dir aus, Ralph? Möchtest du eine Stufe aufsteigen oder noch nicht?  
 >**Ralph**: Doch, ich würde das jetzt auch mal machen.  
 >**Martina**: Ok, dann pass mal auf... Zuerst setzt du deine Aufstiegspunkte zurück und entfernst deine Zustände. Der Dämon als erster Zustand bleibt natürlich.  
 >**Ralph**: Ok, hab ich gemacht.  
@@ -217,4 +217,4 @@ Jede Gruppe baut aus den Hinweisen eine andere, ganz eigene Geschichte zusammen 
 >**Ralph**: Ok, dann tausche ich mal.  
 >**Martina**: Ich denke damit sind dann alle fertig soweit. Ach nein, eins fehlt natürlich noch: Ihr habt ja das Abenteuer abgeschlossen, also bekommt ihr noch eine neue Ehrung! Sie heißt "Hüter des Waldes" und gibt euch das Attribut "Umwelt". Die tragt ihr euch im Charakterbogen ein. Mit der Zeit sammelt ihr mehr Ehrungen. Ihr könnt am Ende eines Abenteuers eine Ehrung aus eurer Sammlung wählen und quasi "ausrüsten", damit steht euch für das nächste Abenteuer das dazugehörige Attribut zur Verfügung. Das tragt ihr auch im Charakterbogen ein. Keine Angst, die Titel werden nicht verbraucht sondern bleiben euch. Aber wechseln könnt ihr nur am Ende eines Abenteuers, nicht mittendrin.
 
-Im Lauf der Abenteuer sammeln die Spielenden Aufstiegspunkte. Haben sie genug Punkte beisammen, können sie einen Stufenaufstieg machen und damit für ihren Charakter einen neuen Lebensabschnitt einläuten. Je länger sie sammeln, desto mehr Möglichkeiten haben sie beim Stufenaufstieg. Allerdings ist natürlich auch das Risiko höher alles zu verlieren, wenn sie außer Gefecht gesetzt werden. Dann kommt der Charakter zwar auch in einen neuen Lebensabschnitt und darf ein paar Dinge würfeln. Allerdings gibt es dabei deutlich weniger Freiheiten, da der Charakter stärker von seinem Dämon vereinnahmt wird.
+Im Lauf der Abenteuer sammeln die Spielenden Aufstiegspunkte. Haben sie genug Punkte beisammen, können sie einen Stufenaufstieg machen und damit für ihren Charakter einen neuen Abschnitt einläuten. Je länger sie sammeln, desto mehr Möglichkeiten haben sie beim Stufenaufstieg. Allerdings ist natürlich auch das Risiko höher alles zu verlieren, wenn sie außer Gefecht gesetzt werden. Dann kommt der Charakter zwar auch in einen neuen Abschnitt und darf ein paar Dinge würfeln. Allerdings gibt es dabei deutlich weniger Freiheiten, da der Charakter stärker von seinem Dämon vereinnahmt wird.
