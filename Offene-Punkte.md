@@ -6,7 +6,7 @@
   - [ ] Bonuswürfel für auf Reisen?
 - [x] Besser Episoden als Abschnitt? Nö, ist auch nicht besser
   - [x] Besser Lebensabschnitt oder Abschnitt?
-  - [ ] Alles auf Abschnitt ändern. <!-- erledigt: Spielbeispiele, Charaktererstellung, Allgemeines, Charakterbogen, Cheatsheet, Glossar, Intro Regel - Mechanik, Kampfbogen,  -->
+  - [x] Alles auf Abschnitt ändern. <!-- alle relevanten Dateien überprüft, sollte passen -->
   
 - [x] Player Principles wie in Trophy?
   - [x] Braucht es die?
@@ -30,6 +30,7 @@
 - [ ] Ablauf Spielabend / Abenteuer
   - [ ] Gameplay Loop soll Schematisch im Regelwerk abgebildet werden. Ein Diagramm.
   - [ ] Kommt in Abenteuer_Vorwort.md
+  - [ ] Nicht vergessen, dass die Spielenden am Anfang eines neuen Abenteuers ihre Abschnittsfragen wählen müssen. Steht das schon irgendwo?
 - [ ] Zufallstabelle
   - [ ] Waffen?
 
@@ -62,6 +63,8 @@
 
 ## 3 Das *BUCH*
 - [ ] Autorenkommentare hervorheben?
+- [ ] Begriffe, die im Glossar erklärt sind, hervorheben?
+- [ ] Rechtschreib- und Grammatikprüfung über den Text laufen lassen
 
 - [ ] Aufbau - Buch
 
@@ -102,7 +105,7 @@
 - [ ] 8. Ressourcen  
    - [ ]      - Abenteuerbogen  
    - [ ]      - Kampfbogen  
-   - [ ]      - Charakterbogen  
+   - [ ]      - Charakterbogen  (vom Stil her wie ausgedruckt und dann per Hand ausgefüllt + Kommentare dazugekritzelt oder so?)
    - [ ]      - Zufallstabellen  
   
 - [ ] 9. ?????Hinten drauf: CATS????  

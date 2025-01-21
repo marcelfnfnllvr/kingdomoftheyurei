@@ -39,7 +39,7 @@ Theoretisch ist es natürlich möglich, dass die Spielenden ein Veto gegen die W
 
 # Charakterbogen
 
-*Hier wird exemplarisch ein Charakterbogen gezeigt der im zweiten Abenteuer ist.* 
+*Hier wird exemplarisch ein Charakterbogen gezeigt, der im zweiten Abenteuer ist.* 
 
 ### Charakter
 

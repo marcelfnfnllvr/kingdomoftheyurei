@@ -1,14 +1,14 @@
 # Regeln
 
-Hier findest du alle Regeln, die du zum Spielen von *Augen des Zwielichts: Königreich der Yōkai* brauchst. Den genauen Spielablauf findest du in den Spielbeispielen. Bitte beachte, dass du das gesamte Regelwerk gelesen haben solltest, bevor du ein Abenteuer leitest. Nur die "Regeln" zu lesen wird nicht ausreichen um die Stimmung, das Gefühl, die Abenteuer aber auch einfach den mechanischen Ablauf ausreichend zu verinnerlichen.
+Hier findest du alle Regeln, die du zum Spielen von *Augen des Zwielichts: Königreich der Yōkai* brauchst. Den genauen Spielablauf findest du in den Spielbeispielen. Bitte beachte, dass du das gesamte Regelwerk gelesen haben solltest, bevor du ein Abenteuer leitest. Nur die Regeln zu lesen wird nicht ausreichen um die Stimmung, das Gefühl, die Abenteuer aber auch einfach den mechanischen Ablauf ausreichend zu verinnerlichen.
 
-Deine Spielenden versuchen durch Spielzüge Hinweise zu sammeln und diese zu kombinieren. Dazu stellen sie einen Würfelpool zusammen, der aus schwarzen und weißen Würfeln bestehen kann. Dieser Pool wird dann gewürfelt und die zwei höchsten Augenzahlen werden gewertet. Mehr dazu findest du in dem jeweiligen Spielzug. Alle anderen Regeln, die du zum Spielen brauchst, findest du hier. Um das System besser zu verstehen und zu verinnerlichen, solltest du dir auch die Spielbeispiele durchlesen.
+Deine Spielenden versuchen durch Spielzüge Hinweise zu sammeln und diese am Ende des Abenteuers zu kombinieren. Für die Spielzüge stellen sie einen Würfelpool zusammen, der aus schwarzen und weißen Würfeln bestehen kann. Dieser Pool wird dann gewürfelt und die zwei höchsten Augenzahlen werden gewertet. Welche Augenzahlen dabei zu welchem Ergebnis führen, findest du in dem jeweiligen Spielzug. Alle anderen Regeln, die du zum Spielen brauchst, findest du hier. Um das System besser zu verstehen und zu verinnerlichen, solltest du dir auch die Spielbeispiele durchlesen.
 
 ## Der Würfelpool - Würfel sammeln
 
 Für jeden Spielzug erhältst du einen Würfel. Für ungefährliche Spielzüge gibt es einen weißen Würfel, für gefährliche einen schwarzen. Für ein passendes Attribut bekommst du einen zweiten Würfel. Je nach Attribut kann dieser weiß oder schwarz sein. Den dritten Würfel bekommst du entweder für eine Angst oder einen Zustand. Außerdem kannst du durch bestimmte Aktionen Bonuswürfel sammeln, die du zusätzlich einmalig einsetzen kannst. Maximal kann der Würfelpool beim ersten Wurf auf einen Spielzug vier Würfel beinhalten.
 
-1W6 [Spielzug - Weiß oder Schwarz] +1W6 [Attribut oder Equipment - Weiß oder Schwarz]  
+1W6 [Spielzug - Weiß oder Schwarz] +1W6 [Attribut oder Gegenstand - Weiß oder Schwarz]  
 +1W6 [Angst oder Zustand - Schwarz]  
 +1W6 [Bonuswürfel - Weiß]
 
@@ -26,7 +26,7 @@ Immer wenn die Augenzahl eines schwarzen Würfels im Ergebnis größer oder glei
 
 ## Verderbnispunkte
 
-Die Spielleitung sammelt Verderbnispunkte im Spielverlauf, wenn die Spielenden Spielzüge nutzen und dort niedrige Würfelergebnisse erzielen. Siehe dazu Kapitel Spielzüge. Die Verderbnispunkte kann die Spielleitung für besondere Ereignisse ausgeben, um das Spiel spannender zu gestalten.
+Die Spielleitung sammelt Verderbnispunkte im Spielverlauf, wenn die Spielenden Spielzüge nutzen und dort niedrige Würfelergebnisse erzielen. Siehe dazu das Kapitel *Spielzüge*. Die Verderbnispunkte kann die Spielleitung für besondere Ereignisse ausgeben, um das Spiel spannender zu gestalten:
 
 - Gib 1-X Punkte aus, um die Schwierigkeit des Abenteuers am Ende um diese Anzahl Punkte zu erhöhen.
 - Gib 2 Punkte aus für ein gefährliches Ereignis. Es könnte sich zu einer Gefahr der Stufe 8 entwickeln.
@@ -37,11 +37,11 @@ Die Spielleitung sammelt Verderbnispunkte im Spielverlauf, wenn die Spielenden S
 
 Dieses Feld wird nie beschrieben, sondern immer nur im Kontext des Abenteuers und der Szene verwendet. Hier soll es möglich sein, dass die Charaktere durch ihre Umgebung oder durch Hinweise, die sie finden, einen Attributswürfel erhalten. Ob dieser Würfel dann schwarz oder weiß ist, bleibt der Spielleitung überlassen. 
 
-*So kann beispielsweise ein "mystisches Buch" dazu genutzt werden einen Charakter, bei dem es gefunden wurde, weiter zu befragen. Das Buch gibt dann je nach Situation einen schwarzen oder weißen Attributswürfel. Dieser Würfel zählt als Attributswürfel und nicht als Bonuswürfel. Er wird also nicht durch den Spielzug verbraucht.* 
+*So kann beispielsweise ein "mystisches Buch" dazu genutzt werden, um einen Charakter, bei dem es gefunden wurde, weiter zu befragen. Das Buch gibt dann je nach Situation einen schwarzen oder weißen Attributswürfel. Dieser Würfel zählt als Attributswürfel und nicht als Bonuswürfel. Er wird also nicht durch den Spielzug verbraucht.* 
 
 ## Außer Gefecht gesetzt
 
-Wenn ein Charakter sechs Zustände aufbaut, ist er außer Gefecht gesetzt. Es erfordert einen "Etwas riskieren"-Wurf eines anderen Spielenden, um dem Charakter wieder aufzuhelfen. Sie können nicht sterben, sondern werden älter und treten in einen neuen, dunkleren Abschnitt ein. Während dieses Übergangs verändert der Dämon den Charakter nachhaltig.
+Wenn ein Charakter sechs Zustände aufbaut, ist er außer Gefecht gesetzt. Es erfordert einen "Etwas riskieren"-Wurf eines anderen Spielenden, um dem Charakter wieder aufzuhelfen. Sie können nicht sterben, sondern werden älter und treten in einen neuen, dunkleren Abschnitt ihres Lebens ein. Während dieses Übergangs verändert der Dämon den Charakter nachhaltig.
 
 1. Der Körper und der Geist deines Charakters altern. Erhöhe den Abschnitt um eins.
    -	Wenn dein Charakter jetzt im sechsten Abschnitt ist, ist er zu müde und erschöpft, um weiterzumachen. Wie sieht der Lebensabend deines Charakters aus?
@@ -57,7 +57,7 @@ Wenn ein Charakter sechs Zustände aufbaut, ist er außer Gefecht gesetzt. Es er
 
 ## Der Abschnittswechsel
 
-Euer Charakter verdient sich nach jeder Spielsession Abschnittspunkte. Diese werden gesammelt und können für einen Aufstieg der Stufe 1, 2 oder 3 ausgegeben werden. Bedenkt allerdings, dass alle gesammelten Punkte verloren gehen, falls ihr außer Gefecht gesetzt werden solltet. Der Stufenaufstieg ist eine Art Alterungsprozess des Charakters. Kein Charakter ist für die Ewigkeit gemacht. Es werden die Punkte "Bei jedem Aufstieg" und die Punkte zugehörig zur jeweilige Stufe abgehandelt.
+Euer Charakter verdient sich nach jeder Spielsession Abschnittspunkte. Diese werden gesammelt und können für einen Aufstieg der Stufe 1, 2 oder 3 ausgegeben werden. Bedenkt allerdings, dass alle gesammelten Punkte verloren gehen, falls ihr außer Gefecht gesetzt werden solltet. Der Abschnittswechsel ist eine Art Alterungsprozess des Charakters. Kein Charakter ist für die Ewigkeit gemacht. Es werden die Punkte "Bei jedem Aufstieg" und die Punkte zugehörig zur jeweilige Stufe abgehandelt.
 
 Bei jedem Aufstieg:
 
@@ -93,9 +93,9 @@ Wenn die Korruption zunimmt, bekommt dein Charakter einen Zustand. Zustände zei
 
 ## Zustände abbauen
 
-Die Zustände können auf zwei verschiedene Arten reduziert werden. Dies ist einmal pro Abenteuer möglich.
+Die Zustände können auf zwei verschiedene Arten reduziert werden. Jeder dieser beiden Wege kann von jedem Spielenden einmal pro Abenteuer angewendet werden.
 
-1. Beantworte die Abenteuerfrage.
+1. Beantworte die Abenteuerfrage. Damit kann ein Zustand abgebaut werden.
 3. Benutze den Spielzug "Auf Reisen".
 
 ## Am Ende einer Spielsession
@@ -104,5 +104,5 @@ Alle Spielenden dürfen am Ende einer Spielsession folgende Schritte ausführen:
 
 1. Du darfst - falls noch nicht geschehen - die Frage des Abenteuers beantworten und einen Zustand abbauen. Der Spielzug "Auf Reisen" ist nur im Abenteuer möglich, nicht am Ende. 
 2. Du darfst deinen Titel wechseln.
-3. Du überprüfst am Ende der Sitzung, ob du die von dir gewählten Fragen beantworten kannst und kannst einen Stufenaufstieg durchführen.
-
+3. Du überprüfst am Ende der Sitzung, ob du die von dir gewählten Fragen abhaken kannst. Falls ja, dann bekommst du für jede gewählte und abgehakte Frage einen Abschnittspunkt und kannst gegebenenfalls einen Abschnittswechsel durchführen. Ist das Abenteuer noch nicht vorbei, wählst du im Anschluss wieder drei Fragen aus der Liste für die nächste Session aus.
+*Zwei der fünf Fragen, für die die Spielenden Abschnittspunkte erhalten können, sind immer angewählt: wurde die aktive Aufgabe des Abenteuers gelöst und wurde sie friedlich gelöst? Diese Fragen können immer nur am Ende eines Abenteuers beantwortet werden. Dauert ein Abenteuer also beispielsweise zwei Sessions, dann können zum Ende der ersten Session maximal drei Abschnittspunkte generiert werden. 
