@@ -79,7 +79,8 @@ Dieser Spielzug darf pro Spielendem nur einmal pro Abenteuer verwendet werden. E
 
 ## Der „Sich dem Kampf stellen“ Spielzug
 
-Jeder Spielercharakter, der an dem Kampf teilnimmt, hat pro Runde einen W6 als Kampfwürfel zur Verfügung. Ziel des Kampfes ist es, mit der Summe der beiden höchsten Augenzahlen aller Kampfteilnehmer die Gefahrenstufe des Gegners zu erreichen oder zu übertreffen. Sobald die Gruppe dies in einer Runde erreicht, ist der Gegner besiegt. Mit dem Spielzug "Den Gegner schwächen" kann die Gefahrenstufe des Gegners gesenkt werden. Bei Gegnern, die eine höhere Gefahrenstufe als 12 haben, ist es also zwingend notwendig diese erst zu senken. Dies ist sowohl vor Beginn des Kampfes als auch während des Kampfes möglich. Allerdings zählt der Kampfwürfel von Charakteren, die den Spielzug "Den Gegner schwächen" einsetzen, in dieser Kampfrunde nicht in den Kampfwürfelpool dazu. Sollte es mal brenzlich werden, kann der Charakter sich nur durch einen erfolgreichen Wurf auf "Etwas riskieren" aus dem Kampf zurückziehen. Außerdem muss ein anderer Kampfteilnehmer seine Schwäche übernehmen. Um an einem Kampf teilnehmen zu können, benötigt der Charakter eine Waffe als Gegenstand oder eine entsprechende Fähigkeit. 
+Jeder Spielercharakter, der an dem Kampf teilnimmt, hat pro Runde einen W6 als Kampfwürfel zur Verfügung. Ziel des Kampfes ist es, mit der Summe der beiden höchsten Augenzahlen aller Kampfteilnehmer die Gefahrenstufe des Gegners zu erreichen oder zu übertreffen. Sobald die Gruppe dies in einer Runde erreicht, ist der Gegner besiegt. Mit dem Spielzug "Den Gegner schwächen" kann die Gefahrenstufe des Gegners gesenkt werden. Bei Gegnern, die eine höhere Gefahrenstufe als 12 haben, ist es also zwingend notwendig diese erst zu senken. Dies ist sowohl vor Beginn des Kampfes als auch während des Kampfes möglich. Allerdings zählt der Kampfwürfel von Charakteren, die den Spielzug "Den Gegner schwächen" einsetzen, in dieser Kampfrunde nicht in den Kampfwürfelpool dazu. Sollte es mal brenzlich werden, kann der Charakter sich nur durch einen erfolgreichen Wurf auf "Etwas riskieren" aus dem Kampf zurückziehen. Außerdem muss ein anderer Kampfteilnehmer seine Schwäche übernehmen.  
+Um an einem Kampf teilnehmen zu können, benötigt der Charakter eine Waffe als Gegenstand oder ein entsprechendes Attribut. Verfügt der Charakter über keins von Beidem, muss er erst einen Wurf auf "Etwas riskieren" ablegen und erzählen, wie er am Kampf teilnehmen will. <!-- dieser Absatz entfällt, wenn doch mit Chill-Regeln gespielt wird. In diesem Fall gilt: Grundsätzlich können alle SC am Kampfgeschehen teilnehmen."-->
 
 Ablauf eines Kampfes:
 
@@ -87,15 +88,17 @@ Ablauf eines Kampfes:
    1. Die Spielleitung teilt die zu erreichende Gefahrenstufe des Gegners oder der Gegnergruppe mit.
       - Auch eine Gruppe von Gegnern hat nur eine Gefahrenstufe und wird regeltechnisch als Einheit behandelt. Zum Beispiel kann ein dämonisches Wildschwein allein Gefahrenstufe 10 haben, als Gruppe aber Gefahrenstufe 12.
 
-   2. Mit dem Spielzug "Den Gegner schwächen" kann die Gefahrenstufe des Gegners gesenkt werden. Wenn die Stufe des Gegners höher als 12 ist, muss dieser erst mit diesem Spielzug geschwächt werden, ansonsten ist es nicht möglich für die Gruppe den Kampf zu gewinnen.
+   2. Hat ein Charakter weder eine Waffe noch ein für den Kampf geeignetes Attribut, muss er auf "Etwas riskieren" würfeln, um am Kampf teilnehmen zu können. <!-- entfällt, wenn doch mit Chill-Regeln gespielt wird-->
 
-   3. Alle Charaktere, die direkt am Kampf teilnehmen, würfeln ihren Schwachpunkt. Sie tun dies mit
+   3. Mit dem Spielzug "Den Gegner schwächen" kann die Gefahrenstufe des Gegners gesenkt werden. Wenn die Stufe des Gegners höher als 12 ist, muss dieser erst mit diesem Spielzug geschwächt werden, ansonsten ist es nicht möglich für die Gruppe den Kampf zu gewinnen.
+
+   4. Alle Charaktere, die direkt am Kampf teilnehmen, würfeln ihren Schwachpunkt. Sie tun dies mit
       - 2W6 und behalten den höheren von beiden, wenn der letzte Abschnittswechsel ihres Charakters durch einen Stufenaufstieg lief (heller Abschnitt) oder
       - 2W6 und behalten den niedrigeren von beiden, wenn ihr letzter Abschnittswechsel durch einen sechsten Zustand und damit einem Durchbrechen des Dämons verursacht wurde oder sie noch keinen Abschnittswechsel vollzogen haben (dunkler Abschnitt).  
       
       Der Schwachpunkt ändert sich während des Kampfes nicht und wird im Kampfbogen eingetragen.
    
-2. Kampfrunde
+1. Kampfrunde
    1. Danach wirft jeder am Kampf teilnehmende Charakter seinen W6 Kampfwürfel. Es wird in aufsteigender Reihenfolge des numerischen Schwachpunkts der Beteiligten gewürfelt. Die beiden höchsten Augenzahlen der geworfenen W6 werden addiert und müssen die Gefahrenstufe des Gegners erreichen oder übertreffen. Die Kampfwürfel der Charaktere, die in dieser Runde den Spielzug "Gegner schwächen" ausgeführt haben, werden hierbei in dieser Kampfrunde nicht mitgezählt. 
    2. Nun muss noch geprüft werden, ob einer der gewürfelten W6 Kampfwürfel den Schwachpunkt eines am Kampf teilnehmenden Charakters trifft. Dabei werden nicht nur die beiden höchsten Augenzahlen betrachtet, sondern *alle* geworfenen W6 Kampfwürfel. Ist dies der Fall, so erhält der Charakter pro Treffer einen Zustand.
    3. Nun erzählen die Spielenden aufsteigend nach der Augenzahl des von ihnen geworfenen W6 Kampfwürfels, wie ihr Charakter angreift, ob und wie er eventuell verletzt wird und wie der Gegner, falls die Gruppe die Gefahrenstufe des Gegners erreicht oder übertroffen hat, schließlich erledigt wird.
