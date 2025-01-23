@@ -109,7 +109,7 @@ Theoretisch ist es natürlich möglich, dass die Spielenden ein Veto gegen die W
 | Widerstandskraft - Die Kraft der Jugend                      |
 | **Fähigkeiten 2 & 3**                                        |
 | Leidfresser - Nimm das Leid einer Person oder eines Wesens als dein eigenes. |
-| Tuschemeister - Erschaffe Dinge aus Tinte.                   |
+| Gedankenmanipulation - Ändert jemandes Gedanken für einen kurzen Zeitraum.   |
 | **Fähigkeit 4 ab Abschnitt 2**                               |
 | Schleier - Du kannst von dir ausgehend einen Nebel erzeugen. |
 | **Fähigkeit 5 ab Abschnitt 3**                               |
