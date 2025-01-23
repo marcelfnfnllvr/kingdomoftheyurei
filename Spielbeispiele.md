@@ -69,7 +69,7 @@ Diese Interaktion von dem S1 und dem SL veranschaulicht wie eine Fähigkeit für
 >**Martina**: Ich gebe jetzt meine 3 Verderbnispunkte aus, damit hier mal ein bisschen mehr Spannung aufkommt! Ihr biegt gerade in eine ene Gasse ein, da lauert euch eine Gruppe Jäger auf. Finstere Gestalten mit einem Sammelsurium verschiedener Waffen wollen euch von vorne und von hinten einkesseln. Sie sind auf eure besonderen dämonischen Merkmale aus und blicken gierig auf dein Geweih, Yūsuke, auf die Federn von Eran und auf Ayane mit ihrer schneeweißen Haut.   
 >**Lydia**: Wir stellen uns natürlich dem Kampf! Ayane schaut die Jäger grimmig und herausfordernd an und Jiro knurrt laut.    
 >**Martina**: Ich habe 3 Verderbnispunkte ausgegeben, also hat der Gegner die Gefahrenstufe 10. Wenn ihr wollt, könnt ihr versuchen den Gegner zu schwächen.  
->**Ralph**: Ich möchte das versuchen.  
+>**Ralph**: Ich möchte das versuchen. Ich will mit meiner Fähigkeit *Gedankenmanipulation* einen der Gegner beeinflussen, sodass er Angst bekommt und nicht mehr gegen uns kämpfen möchte.    
 >**Martina**: Gut, für den Spielzug selbst bekommst du einen schwarzen Würfel. Hast du noch irgendein Attribut, das du einsetzen kannst?  
 >**Ralph**: Mein Reittier hat das Attribut "stark", vielleicht könnte mein Wasserbüffel Ken mir helfen?  
 >**Martina**: In Ordnung, für das Attribut bekommst du noch einen weißen W6 dazu. Dann würfel mal.  
