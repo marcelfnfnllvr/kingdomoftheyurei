@@ -31,6 +31,7 @@
   - [ ] 1x lesen Marcel
     - [ ] Strg-F ist auch so ein Ding
   - [ ] 1x lesen Doro
+- [ ] Spielbeispiel Gegner schwächen --> Fähigkeit ergänzen wg Spielzug
 - [ ] Ablauf Spielabend / Abenteuer
   - [ ] Gameplay Loop soll Schematisch im Regelwerk abgebildet werden. Ein Diagramm.
   - [ ] Kommt in Abenteuer_Vorwort.md
