@@ -6,7 +6,7 @@
   - [ ] Bonuswürfel für auf Reisen?
 - [ ] Wie ist das mit der Teilnahme am Kampf?
   - [ ] Um an einem Kampf teilnehmen zu können, benötigt der Charakter eine Waffe als Gegenstand oder eine entsprechende Fähigkeit. 
-  - [ ] Ergibt das noch Sinn?
+  - [ ] Ergibt das noch Sinn? --> wird in den nächsten Runden getestet (hoffentlich)
 
 - [x] Besser Episoden als Abschnitt? Nö, ist auch nicht besser
   - [x] Besser Lebensabschnitt oder Abschnitt?
@@ -31,7 +31,7 @@
   - [ ] 1x lesen Marcel
     - [ ] Strg-F ist auch so ein Ding
   - [ ] 1x lesen Doro
-- [ ] Spielbeispiel Gegner schwächen --> Fähigkeit ergänzen wg Spielzug
+- [x] Spielbeispiel Gegner schwächen --> Fähigkeit ergänzen wg Spielzug
 - [ ] Ablauf Spielabend / Abenteuer
   - [ ] Gameplay Loop soll Schematisch im Regelwerk abgebildet werden. Ein Diagramm.
   - [ ] Kommt in Abenteuer_Vorwort.md
