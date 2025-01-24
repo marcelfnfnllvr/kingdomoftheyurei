@@ -197,7 +197,7 @@ Stufe 3 -  [    ]
 | II. Erzähle, wie dein Charakter mit seinem Dämon verschmolzen ist. |
 | ------------------------------------------------------------ |
 |                                                              |
-| **III. Erzähle von einer Vorahnung, die dein Charakter als Kind von seinem jetztigen Leben hatte.** |
+| **III. Erzähle von einer Vorahnung, die dein Charakter als Kind von seinem jetzigen Leben hatte.** |
 |                                                              |
 | **IV. Erzähle von einem Moment mit deinem Reittier, den du nie vergessen wirst.** |
 |                                                              |
