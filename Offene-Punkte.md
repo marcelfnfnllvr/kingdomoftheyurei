@@ -7,6 +7,8 @@
 - [ ] Wie ist das mit der Teilnahme am Kampf?
   - [ ] Um an einem Kampf teilnehmen zu können, benötigt der Charakter eine Waffe als Gegenstand oder eine entsprechende Fähigkeit. 
   - [ ] Ergibt das noch Sinn? --> wird in den nächsten Runden getestet (hoffentlich)
+  
+    - [ ] Wie ist das mit dem Stufe senken? Nur Fähigkeiten? Auch Risk Rolls?
 
 - [x] Besser Episoden als Abschnitt? Nö, ist auch nicht besser
   - [x] Besser Lebensabschnitt oder Abschnitt?
