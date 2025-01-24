@@ -12,7 +12,7 @@ console.log(r.terms);
 await r.evaluate();
 await r.toMessage(render=false);
 
-//Er baut ein mehrdemensionales Array in dem [weiss,1],[schwarz,5],usw.
+//Er baut ein mehrdimensionales Array, in dem [weiss,1],[schwarz,5],usw.
 let i1 = 0;
 let i3 = 0;
 while(i1 < r.dice.length){
@@ -26,8 +26,8 @@ console.log("Schwarz:"+r.dice[i1].results[i2].result);
 i3++;
 }else{
  resultString+="weiße "+r.dice[i1].results[i2].result+", ";
- arr[i3] = ["Weiss",r.dice[i1].results[i2].result];
-console.log("Weiss:"+r.dice[i1].results[i2].result);
+ arr[i3] = ["Weiß",r.dice[i1].results[i2].result];
+console.log("Weiß:"+r.dice[i1].results[i2].result);
 i3++;
 }
 
@@ -74,8 +74,8 @@ switch (ergebnis[0][0]) {
   case "Schwarz":
     results3_html = "";
     break;
-  case "Weiss":
-    results3_html = "<i>Du kannst den Wurf wiederholen indem du einen weiteren schwarzen Würfel hinzufügst und neu würfelst.<i>";
+  case "Weiß":
+    results3_html = "<i>Du kannst den Wurf wiederholen, indem du einen weiteren schwarzen Würfel hinzufügst und neu würfelst.<i>";
 }
 
 if(ergebnis[0][1]==6) {results3_html = "";}

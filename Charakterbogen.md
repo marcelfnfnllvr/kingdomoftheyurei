@@ -64,14 +64,14 @@
 
 Korruption beschreibt, wie sehr der Dämon von eurem Charakter besitzt ergreift und ihn verändert. Wenn die Korruption steigt, bekommt ihr ebenfalls einen Zustand. Zustände zeigen den geistigen und körperlichen Verfall eures Charakters.
 
-| Stufe      | **Zustände**                            |
-| ---------- | --------------------------------------- |
-| 1 - [ x ]  | Der Dämon der mit dir verschmolzen ist. |
-| 2 - [    ] |                                         |
-| 3 - [    ] |                                         |
-| 4 - [    ] |                                         |
-| 5 - [    ] |                                         |
-| 6 - [    ] |                                         |
+| Stufe      | **Zustände**                             |
+| ---------- | ---------------------------------------- |
+| 1 - [ x ]  | Der Dämon, der mit dir verschmolzen ist. |
+| 2 - [    ] |                                          |
+| 3 - [    ] |                                          |
+| 4 - [    ] |                                          |
+| 5 - [    ] |                                          |
+| 6 - [    ] |                                          |
 
 ### Zustände abbauen
 
@@ -137,14 +137,14 @@ Stufe 3 -  [    ]
 
 ### Abschnittsfragen
 
-| II. Erzähle, wie dein Charakter mit seinem Dämon verschmolzen ist. |
+| **II. Erzähle, wie dein Charakter mit seinem Dämon verschmolzen ist.** |
 | ------------------------------------------------------------ |
 |                                                              |
-| **III. Erzähle von einer Vorahnung, die dein Charakter als Kind von ihrem jetztigen Leben hatte.** |
+| **III. Erzähle von einer Vorahnung, die dein Charakter als Kind von seinem jetzigen Leben hatte.** |
 |                                                              |
 | **IV. Erzähle von einem Moment mit deinem Reittier, den du nie vergessen wirst.** |
 |                                                              |
-| **V. An welche Szene, aus den bisher bestrittenen Abenteuern, wird sich dein Charakter für den Rest seines Lebens erinnern?** |
+| **V. An welche Szene aus den bisher bestrittenen Abenteuern wird sich dein Charakter für den Rest seines Lebens erinnern?** |
 |                                                              |
 | **VI. Wie verbringt dein Charakter seinen Lebensabend?**     |
 |                                                              |
