@@ -10,11 +10,21 @@ Auch wenn es möglich ist seinen Charakter in Gänze zu würfeln, tendiere ich d
 
 Nachdem das geklärt ist, werden die Charaktere ganz nach dem Kapitel "Charaktererstellung" erstellt.
 
+##### Vorbereitungen
+
+Ist die Session 0 abgeschlossen und haben alle ihre Charaktere, dann kann ins erste Abenteuer gestartet werden. Davor müssen die Spielenden nur noch die drei Abenteuerfragen wählen, die sie versuchen möchten in der Session abzuschließen.
+
 ##### Im Spiel
 
-Der SL führt in das Abenteuer ein. Dafür findet der SL bei jedem Abenteuer den Punkt Eröffnung. 
-<!-- nochmal betonen, dass viel Kreativität gefördert wird - von allen Seiten. Es geht darum zusammen eine tolle, spannende, lustige und mitreißende Geschichte zu erzählen-->
-Die Abenteuer enthalten für die verschiedenen Handlungsorte auch eine Eröffnungsfrage. Diese Frage kann die Spielleitung ihrer Gruppe stellen. Sie bezieht sich auf die Gestaltung des Handlungsortes und gibt so allen Beteiligten die Möglichkeit, die Welt nach ihren Vorstellungen gemeinsam zu gestalten.
+Danach führt die SL die Gruppe in das Abenteuer ein. Dafür gibt es bei jedem Abenteuer den Punkt *Eröffnung*. Hier wird der Einstieg beschrieben, also in welcher Szene sich die Gruppe gerade befindet. Außerdem gibt es hier auch schon die erste Frage an die Spielenden, damit sie leichter in die Szene reinfinden. Am Anfang eines neuen Abenteuers ist es zusätzlich auch noch wichtig der Gruppe die Problemstellung des Abenteuers und auch die Abenteuerfrage zu nennen.
+
+Mit der Eröffnung steigen die Spielenden direkt ins Abenteuer ein. Nach dieser Szene steht es ihnen frei wie sie weiter agieren und in welcher Reihenfolge sie mit NSCs sprechen und die verschiedenen Schauplätze besuchen möchten. Da die Hinweise eher unspezifisch sind, können sie von der SL so flexibel vergeben werden, dass sie sich gut in die jeweilige Handlung oder Szene einfügen. Es ist also grundsätzlich nicht nötig, dass die Spielenden eine bestimmte Reihenfolge einhalten. 
+Gelangen sie an einen neuen Schauplatz, können sie auch diesen häufig im Rahmen einer Paint-the-Scene-Frage mitgestalten. Die Antworten auf diese Frage kann die SL wiederum im Lauf der Szene wieder verwenden, beispielsweise wenn sie auf einen gewissen Hinweis deuten, der gut zur Szenerie passt. 
+Im späteren Verlauf der Session kann das Geschehen auch noch durch einen Kampf aufgelockert werden, den die SL mit gesammelten Verderbnispunkten kauft. Allein da hierfür die Verderbnispunkte ausgegeben werden müssen, kann sich diese Art von Kampf tendenziell erst später ereignen. 
+Hat die Gruppe irgendwann genügend Hinweise gesammelt (abhängig von der Schwierigkeit des Abenteuers), beendet die SL vorerst das Rollenspiel. Nun folgt die Aufgabe für die Gruppe, die Hinweise zu einer plausiblen Geschichte zusammenzubauen und eine Lösung für das Problem zu präsentieren. Das Austüfteln der Geschichte dauert meist ein wenig, also sollte auch für diesen Schritt genügend Zeit eingeplant werden (grob geschätzt 15min, je nach Spielgruppe). Nachdem den Spielenden für diese Aufgabe genügend Zeit eingeräumt wurde, präsentieren sie der Spielleitung ihre Lösung. Die SL zählt dabei mit, wie viele der gefundenen Hinweise in der Geschichte verbaut sind. Anschließend wird die Anzahl der verbauten Hinweise von der Schwierigkeit des Abenteuers abgezogen. Zuletzt würfeln die Spielenden mit zwei Würfeln gegen die so gesenkte Schwierigkeit des Abenteuers. Je nach Ergebnis folgt hierauf das Ende des Abenteuers oder der Endkampf.
+Damit ist das eigentliche Spiel vorbei und es bleibt nur noch zu prüfen ob und wie viele Abenteuerfragen die Spielenden abhaken können und ob die so gewonnenen Abschnittspunkte für einen Abschnittswechsel ausgegeben werden.
+
+In den vorgefertigten Abenteuern sind alle wichtigen Elemente wie Schauplätze, NSCs, Eröffungsfragen, Problemstellung des Abenteuers etc. schon enthalten.
 
 ## Spielszenen
 

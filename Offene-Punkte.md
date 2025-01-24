@@ -34,7 +34,7 @@
 - [x] Spielbeispiel Gegner schwächen --> Fähigkeit ergänzen wg Spielzug
 - [ ] Ablauf Spielabend / Abenteuer
   - [ ] Gameplay Loop soll Schematisch im Regelwerk abgebildet werden. Ein Diagramm.
-  - [ ] Kommt in Abenteuer_Vorwort.md
+  - [x] Kommt in Abenteuer_Vorwort.md --> steht tatsächlich im Moment bei den Spielbeispielen...
   - [ ] Nicht vergessen, dass die Spielenden am Anfang eines neuen Abenteuers ihre Abschnittsfragen wählen müssen. Steht das schon irgendwo?
 - [ ] Zufallstabelle
   - [ ] Waffen?
