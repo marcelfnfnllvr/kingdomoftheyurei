@@ -11,8 +11,8 @@ Für jeden Spielzug erhältst du einen Würfel. Für ungefährliche Spielzüge g
 1W6 [Spielzug - Weiß oder Schwarz] 
 +1W6 [Attribut oder Gegenstand - Weiß oder Schwarz]  
 +1W6 [Angst oder Zustand - Schwarz]  
-+1W6 [Bonuswürfel - Weiß]
-+1W6 [Den Wurf Verbesser - Schwarz]
++1W6 [Bonuswürfel - Weiß]  
++1W6 [Den Wurf Verbessern - Schwarz]
 
 ## Der Wurf
 
