@@ -145,17 +145,17 @@ Stufe 2 -  [    ] [    ] [    ]
 
 Stufe 3 -  [    ]		
 
-| **Wähle drei zusätzliche Fragen**                   | Gewählt |
-| --------------------------------------------------- | ------- |
-| Wurde die Momentan aktive Auggabe gelöst?           | X       |
-| Wurde die Aufgabe friedlich gelöst?                 | X       |
-| Hast du eine physische Probe erfolgreich bestanden? |         |
-| Hast du einer Person ein Geheimnis entlockt?        | o       |
-| Hast du eine Situation deskaliert?                  |         |
-| Hast du dich einem Kampf gestellt?                  | o       |
-| Hast du eine Rückblende erzählt?                    | o       |
-| Hast du eine deiner Fähigkeiten eingesetzt?         |         |
-| Hast du das Gefahrenlevel einer Bedrohung gesenkt?  |         |
+| **Wähle drei zusätzliche Aufgaben                       | Gewählt |
+| ------------------------------------------------------- | ------- |
+| Löst das momentan aktive Problem.                       | X       |
+| Löst das momentan aktive Problem auf friedliche Art.    | X       |
+| Bestehe erfolgreich eine physische Probe.               |         |
+| Entlocke einer Person ein Geheimnis.                    | O       |
+| Deeskaliere eine Situation.                             |         |
+| Stelle dich einem Kampf.                                | O       |
+| Erzähle eine Rückblende.                                | O       |
+| Setze eine deiner Fähigkeiten ein.                      |         |
+| Senke im Kampf das Gefahrenlevel des Gegners.           |         |
 
 ### Ehrungen		
 

@@ -21,7 +21,7 @@ Nachdem das geklärt ist, werden die Charaktere ganz nach dem Kapitel "Charakter
 
 ##### Vorbereitungen
 
-Ist die Session 0 abgeschlossen und haben alle ihre Charaktere, dann kann ins erste Abenteuer gestartet werden. Davor müssen die Spielenden nur noch die drei Abenteuerfragen wählen, die sie versuchen möchten in der Session abzuschließen.
+Ist die Session 0 abgeschlossen und haben alle ihre Charaktere, dann kann ins erste Abenteuer gestartet werden. Davor müssen die Spielenden nur noch die drei Abenteueraufgaben wählen, die sie versuchen möchten in der Session abzuschließen.
 
 ##### Im Spiel
 
@@ -31,7 +31,7 @@ Mit der Eröffnung steigen die Spielenden direkt ins Abenteuer ein. Nach dieser 
 Gelangen sie an einen neuen Schauplatz, können sie auch diesen häufig im Rahmen einer Paint-the-Scene-Frage mitgestalten. Die Antworten auf diese Frage kann die SL wiederum im Lauf der Szene wieder verwenden, beispielsweise wenn sie auf einen gewissen Hinweis deuten, der gut zur Szenerie passt. 
 Im späteren Verlauf der Session kann das Geschehen auch noch durch einen Kampf aufgelockert werden, den die SL mit gesammelten Verderbnispunkten kauft. Allein da hierfür die Verderbnispunkte ausgegeben werden müssen, kann sich diese Art von Kampf tendenziell erst später ereignen. 
 Hat die Gruppe irgendwann genügend Hinweise gesammelt (abhängig von der Schwierigkeit des Abenteuers), beendet die SL vorerst das Rollenspiel. Nun folgt die Aufgabe für die Gruppe, die Hinweise zu einer plausiblen Geschichte zusammenzubauen und eine Lösung für das Problem zu präsentieren. Das Austüfteln der Geschichte dauert meist ein wenig, also sollte auch für diesen Schritt genügend Zeit eingeplant werden (grob geschätzt 15min, je nach Spielgruppe). Nachdem den Spielenden für diese Aufgabe genügend Zeit eingeräumt wurde, präsentieren sie der Spielleitung ihre Lösung. Die SL zählt dabei mit, wie viele der gefundenen Hinweise in der Geschichte verbaut sind. Anschließend wird die Anzahl der verbauten Hinweise von der Schwierigkeit des Abenteuers abgezogen. Zuletzt würfeln die Spielenden mit zwei Würfeln gegen die so gesenkte Schwierigkeit des Abenteuers. Je nach Ergebnis folgt hierauf das Ende des Abenteuers oder der Endkampf.
-Damit ist das eigentliche Spiel vorbei und es bleibt nur noch zu prüfen ob und wie viele Abenteuerfragen die Spielenden abhaken können und ob die so gewonnenen Abschnittspunkte für einen Abschnittswechsel ausgegeben werden.
+Damit ist das eigentliche Spiel vorbei und es bleibt nur noch zu prüfen ob und wie viele Abenteueraufgaben die Spielenden abhaken können und ob die so gewonnenen Abschnittspunkte für einen Abschnittswechsel ausgegeben werden.
 
 In den vorgefertigten Abenteuern sind alle wichtigen Elemente wie Schauplätze, NSCs, Eröffungsfragen, Problemstellung des Abenteuers etc. schon enthalten.
 
@@ -221,7 +221,7 @@ Jede Gruppe baut aus den Hinweisen eine andere, ganz eigene Geschichte zusammen 
 >**Lydia**: Ja...  
 >**Martina**: Dein Charakter wurde außer Gefecht gesetzt, deshalb passiert jetzt Folgendes: Einmal altert dein Charakter, also erhöhst du deinen Abschnittscounter um 1. Außerdem tritt dein Dämon stärker hervor, aber das hattest du ja mit den weißen Haaren gemeint, glaube ich?  
 >**Lydia**: Ja, genau.  
->**Martina**: Sehr cool. Dann weiter. In der Abschnittstabelle im Charakterbogen darfst du jetzt die nächste Frage beantworten. Du musst das auch nicht direkt, aber du kannst dir da ja mal etwas zu überlegen. Die Frage für den neuen Abschnitt ist "Erzähle, wie dein Charakter ihrem Dämon begegnet ist."  
+>**Martina**: Sehr cool. Dann weiter. In der Abschnittstabelle im Charakterbogen darfst du jetzt die nächste Frage zu deinem Charakter beantworten. Du musst das auch nicht direkt, aber du kannst dir da ja mal etwas zu überlegen. Die Frage für den neuen Abschnitt ist "Erzähle, wie dein Charakter ihrem Dämon begegnet ist."  
 >**Lydia**: Ich glaube, ich weiß schon ungefähr wie.  
 >**Martina**: Dann musst du noch eines deiner Attributfelder von einem hellen in ein dunkles umwandeln. Wenn du das Attribut also nächstes Mal wieder für einen Wurf verwenden möchtest, gibt es dir dann einen schwarzen W6.  
 >**Lydia**:  Ist gut, ich denke da nehme ich meinen zweiten Gegenstandslot, geht das?  

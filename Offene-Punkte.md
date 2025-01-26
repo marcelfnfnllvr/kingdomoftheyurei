@@ -13,7 +13,6 @@
 - [x] Besser Episoden als Abschnitt? Nö, ist auch nicht besser
   - [x] Besser Lebensabschnitt oder Abschnitt?
   - [x] Alles auf Abschnitt ändern. <!-- alle relevanten Dateien überprüft, sollte passen -->
-
 - [x] Player Principles wie in Trophy?
   - [x] Braucht es die?
     - [x] Ja!
@@ -38,6 +37,7 @@
   - [ ] Gameplay Loop soll Schematisch im Regelwerk abgebildet werden. Ein Diagramm.
   - [x] Kommt in Abenteuer_Vorwort.md --> steht tatsächlich im Moment bei den Spielbeispielen...
   - [ ] Nicht vergessen, dass die Spielenden am Anfang eines neuen Abenteuers ihre Abschnittsfragen wählen müssen. Steht das schon irgendwo?
+  - [x] Abschnittspunkte - "Fragen" ersetzen durch Aufgaben
 - [ ] Zufallstabelle
   - [ ] Waffen?
 
