@@ -1,22 +1,23 @@
 # Regeln
 
-Hier findest du alle Regeln, die du zum Spielen von *Augen des Zwielichts: Königreich der Yōkai* brauchst. Den genauen Spielablauf findest du in den Spielbeispielen. Bitte beachte, dass du das gesamte Regelwerk gelesen haben solltest, bevor du ein Abenteuer leitest. Nur die Regeln zu lesen wird nicht ausreichen um die Stimmung, das Gefühl, die Abenteuer aber auch einfach den mechanischen Ablauf ausreichend zu verinnerlichen.
+Hier findest du alle Regeln, die du zum Spielen von *Augen des Zwielichts: Königreich der Yōkai* brauchst. Den genauen Spielablauf findest du in den Spielbeispielen. Bitte beachte, dass du das gesamte Regelwerk gelesen haben solltest, bevor du ein Abenteuer leitest. Nur die Regeln zu lesen wird nicht ausreichen, um die Stimmung, das Gefühl, die Abenteuer, aber auch einfach den mechanischen Ablauf ausreichend zu verinnerlichen.
 
 Deine Spielenden versuchen durch Spielzüge Hinweise zu sammeln und diese am Ende des Abenteuers zu kombinieren. Für die Spielzüge stellen sie einen Würfelpool zusammen, der aus schwarzen und weißen Würfeln bestehen kann. Dieser Pool wird dann gewürfelt und die zwei höchsten Augenzahlen werden gewertet. Welche Augenzahlen dabei zu welchem Ergebnis führen, findest du in dem jeweiligen Spielzug. Alle anderen Regeln, die du zum Spielen brauchst, findest du hier. Um das System besser zu verstehen und zu verinnerlichen, solltest du dir auch die Spielbeispiele durchlesen.
 
 ## Der Würfelpool - Würfel sammeln
 
-Für jeden Spielzug erhältst du einen Würfel. Für ungefährliche Spielzüge gibt es einen weißen Würfel, für gefährliche einen schwarzen. Für ein passendes Attribut bekommst du einen zweiten Würfel. Je nach Attribut kann dieser weiß oder schwarz sein. Den dritten Würfel bekommst du entweder für eine Angst oder einen Zustand. Außerdem kannst du durch bestimmte Aktionen Bonuswürfel sammeln, die du zusätzlich einmalig einsetzen kannst. Maximal kann der Würfelpool beim ersten Wurf auf einen Spielzug vier Würfel beinhalten.
+Für jeden Spielzug erhältst du einen Würfel. Für ungefährliche Spielzüge gibt es einen weißen Würfel, für gefährliche einen schwarzen. Für ein passendes Attribut bekommst du einen zweiten Würfel. Je nach Attribut kann dieser weiß oder schwarz sein. Den dritten Würfel bekommst du entweder für eine Angst oder einen Zustand. Außerdem kannst du durch bestimmte Aktionen Bonuswürfel sammeln, die du zusätzlich einmalig einsetzen kannst. Für einen Spielzug kann dabei aber höchstens ein Bonuswürfel eingesetzt werden, nicht mehrere auf einmal. Maximal kann der Würfelpool beim ersten Wurf auf einen Spielzug vier Würfel beinhalten.
 
-1W6 [Spielzug - Weiß oder Schwarz] 
+1W6 [Spielzug - Weiß oder Schwarz]  
 +1W6 [Attribut oder Gegenstand - Weiß oder Schwarz]  
 +1W6 [Angst oder Zustand - Schwarz]  
 +1W6 [Bonuswürfel - Weiß]  
+     -----------------------  
 +1W6 [Den Wurf Verbessern - Schwarz]
 
 ## Der Wurf
 
-Nachdem der Spielende seinen Würfelpool zusammengestellt hat, würfelt er. Ziel ist eine möglichst hohe Augenzahl mit einem der Würfel zu erreichen. Beispielsweise hat der Spielende zwei weiße und einen schwarzen Würfel in seinem Pool. Er würfelt eine weiße 4, eine weiße 3 und eine schwarze 3. Damit steht als vorläufiges Ergebnis die weiße 4. Wenn wir jetzt zum Beispiel den Spielzug "Etwas herausfinden" betrachten, dann wäre eine 4 das Ergebnis: 1-4 -> Die Spielleitung erhält einen Verderbnispunkt. Sollte der Spielende damit nicht zufrieden sein, kann er seinen Wurf verbessern. Das neue Ergebnis zählt.
+Nachdem der Spielende seinen Würfelpool zusammengestellt hat, würfelt er. Ziel ist, eine möglichst hohe Augenzahl mit einem der Würfel zu erreichen. Beispielsweise hat der Spielende zwei weiße und einen schwarzen Würfel in seinem Pool. Er würfelt eine weiße 4, eine weiße 3 und eine schwarze 3. Damit steht als vorläufiges Ergebnis die weiße 4. Wenn wir jetzt zum Beispiel den Spielzug "Etwas herausfinden" betrachten, dann wäre eine 4 das Ergebnis: 1-4 -> Die Spielleitung erhält einen Verderbnispunkt. Sollte der Spielende damit nicht zufrieden sein, kann er seinen Wurf verbessern. Das neue Ergebnis zählt.
 
 ## Den Wurf verbessern
 
@@ -37,9 +38,9 @@ Die Spielleitung sammelt Verderbnispunkte im Spielverlauf, wenn die Spielenden S
 
 ## Der freie Gegenstand
 
-Dieses Feld wird nie beschrieben, sondern immer nur im Kontext des Abenteuers und der Szene verwendet. Hier soll es möglich sein, dass die Charaktere durch ihre Umgebung oder durch Hinweise, die sie finden, einen Attributswürfel erhalten. Ob dieser Würfel dann schwarz oder weiß ist, bleibt der Spielleitung überlassen. 
+Dieses Feld wird nie beschrieben, sondern immer nur im Kontext des Abenteuers und der Szene verwendet. Hier soll es möglich sein, dass die Charaktere durch ihre Umgebung oder durch Hinweise, die sie finden, einen Attributswürfel erhalten. Dieser Würfel ist weiß.
 
-*So kann beispielsweise ein "mystisches Buch" dazu genutzt werden, um einen Charakter, bei dem es gefunden wurde, weiter zu befragen. Das Buch gibt dann je nach Situation einen schwarzen oder weißen Attributswürfel. Dieser Würfel zählt als Attributswürfel und nicht als Bonuswürfel. Er wird also nicht durch den Spielzug verbraucht.* 
+*So kann beispielsweise ein "mystisches Buch" dazu genutzt werden, um einen Charakter, bei dem es gefunden wurde, weiter zu befragen. Das Buch gibt dann einen weißen Attributswürfel. Dieser Würfel zählt als Attributswürfel und nicht als Bonuswürfel. Er wird also nicht durch den Spielzug verbraucht.* 
 
 ## Außer Gefecht gesetzt
 
