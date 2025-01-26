@@ -1,5 +1,14 @@
 # Spielbeispiele
 
+>[1. Ablauf einer Session](#ablauf-einer-session)  
+>[2. Etwas herausfinden - Eröffnungsfrage - Hilfe anbieten](#etwas-herausfinden---er%C3%B6ffnungsfrage---hilfe-anbieten)  
+>[3. Fähigkeit nutzen](#f%C3%A4higkeiten-nutzen)  
+>[4. Kampf - Den Gegner schwächen](#kampf---den-gegner-schw%C3%A4chen)  
+>[5. Etwas riskieren - Außer Gefecht gesetzt](#etwas-riskieren---au%C3%9Fer-gefecht-gesetzt)  
+>[6. Auf Reisen](#auf-reisen)  
+>[7. Das Abenteuer lösen](#das-abenteuer-l%C3%B6sen)  
+>[8. Ende einer Session - Stufenaufstieg - Außer Gefecht gesetzt](#am-ende-einer-spielsession---stufenaufstieg---au%C3%9Fer-gefecht-gesetzt)
+
 ## Ablauf einer Session
 
 ##### Session 0 - Vor dem Spiel
@@ -25,6 +34,8 @@ Hat die Gruppe irgendwann genügend Hinweise gesammelt (abhängig von der Schwie
 Damit ist das eigentliche Spiel vorbei und es bleibt nur noch zu prüfen ob und wie viele Abenteuerfragen die Spielenden abhaken können und ob die so gewonnenen Abschnittspunkte für einen Abschnittswechsel ausgegeben werden.
 
 In den vorgefertigten Abenteuern sind alle wichtigen Elemente wie Schauplätze, NSCs, Eröffungsfragen, Problemstellung des Abenteuers etc. schon enthalten.
+
+>[Zurück nach oben](#spielbeispiele)
 
 ## Spielszenen
 
@@ -58,6 +69,8 @@ Wenn die Spielenden oder die Spielleiterin *in Character* sprechen, dann steht d
 
 Grundsätzlich ist der Spielzug "Etwas herausfinden" nicht sehr gefährlich, aber wenn er nicht auf Anhieb funktioniert und mehr schwarze Würfel ins Spiel kommen, kann auch da etwas unangenehmes passieren. Wenn es in die Szene passt, können sich die Spielenden durchaus untereinander helfen, aber auch das ist mit einem gewissen Risiko für den Helfenden verbunden. Trotzdem haben die beiden so gemeinsam einen Hinweis finden können, der zur Lösung des Abenteuers beiträgt.
 
+>[Zurück nach oben](#spielbeispiele)
+
 ### Fähigkeiten nutzen
 
 ##### Ruf des Vergangenen – Lässt dich eine Szene oder einen Gegenstand untersuchen und seine Vergangenheit erleben.
@@ -73,6 +86,8 @@ Grundsätzlich ist der Spielzug "Etwas herausfinden" nicht sehr gefährlich, abe
 > **Martina**: Okay, deine Sicht ist von Rauchschwaden eingeschränkt, die durch den Wald ziehen, und du spürst die Hitze von Feuer. Dir fällt auf...  
 
 Diese Interaktion von dem S1 und dem SL veranschaulicht wie eine Fähigkeit für das Suchen von Hinweisen verwendet werden kann. In jedem Fall hätte der Spielleitende dem Spielenden die Geschichte erzählt wie der Wald verbrannt wurde, aber ohne einen weiteren Wurf auf "Etwas herausfinden" hätte der Spielende dafür keinen Hinweis erhalten. So hat der SL den Spielenden direkt nach dem Wurf "Eine Fähigkeit nutzen" auf "Etwas herausfinden" werfen lassen und der SC hat dabei auch noch den weißen Bonuswürfel aus seinem erfolgreichen "Eine Fähigkeit nutzen" Spielzug verwendet. 
+
+>[Zurück nach oben](#spielbeispiele)
 
 ### Kampf - Den Gegner schwächen
 
@@ -108,6 +123,7 @@ Diese Interaktion von dem S1 und dem SL veranschaulicht wie eine Fähigkeit für
 
 Kämpfe dauern in der Regel nur eine bis wenige Runden. Dabei würfeln wie im restlichen Spielverlauf nur die Spielenden. Den Gegner zu schwächen ist sinnvoll und kann eine große Wirkung haben, wenn er eine Gefahrenstufe von 9 oder höher hat - ab einer Gefahrenstufe von mindestens 13 ist es sogar notwendig, da die Gruppe ihn sonst nicht besiegen kann. Wie detailliert Gewaltbeschreibungen und wie blutig die Kämpfe beschrieben werden dürfen, das sollte die Gruppe in der Session 0 gemeinsam klären.
 
+>[Zurück nach oben](#spielbeispiele)
 
 ### Etwas riskieren - Außer Gefecht gesetzt
 
@@ -155,6 +171,8 @@ Kämpfe dauern in der Regel nur eine bis wenige Runden. Dabei würfeln wie im re
 Auch wenn ein Charakter keine Fähigkeit besitzt, die ganz genau zur Situation passt, kann er oder sie eine Aktion trotzdem durchführen. Außerdem können die Charaktere nicht "sterben" im eigentlichen Sinne. Es ist auch nicht verwerflich, wenn jemand mit schon 5 Zuständen auch noch etwas riskantes machen möchte. Das Hauptaugenmerk liegt auf einer tollen Erzählung und die Spielenden sollen ihrer Kreativität hier freien Lauf lassen können. Dadurch können mitreißende und mitunter auch schön emotionale Szenen entstehen.  
 Außerdem wechseln sich die drei Elemente Rollenspiel, Würfeln und Erzählung immer wieder ab. Phasenweise wird mehr gewürfelt wie hier bei der riskanten Aktion oder auch im Kampf. Aber einen größeren Anteil nehmen die Erzählungen aller (Spielleitung *und* Mitspielende) und ihr Rollenspiel ein.
 
+>[Zurück nach oben](#spielbeispiele)
+
 ### Auf Reisen
 
 >**Ralph**: Ich habe mittlerweile drei Zustände und würde sie gerne mal abbauen.  
@@ -170,6 +188,8 @@ Außerdem wechseln sich die drei Elemente Rollenspiel, Würfeln und Erzählung i
 >**Ralph**: Wow, ich hab' sogar eine Doppel-Sechs geworfen!  
 >**Martina**: Cool, damit kannst du dann drei Zustände heilen. Der erste Zustand bleibt allerdings permanent, das ist ja dein Dämon. Aber die anderen beiden Zustände kannst du jetzt streichen.
 
+>[Zurück nach oben](#spielbeispiele)
+
 ### Das Abenteuer lösen
 
 >**Martina**: So, wir haben jetzt etwa drei Stunden gespielt und ihr habt insgesamt 15 Hinweise gesammelt. Ich würde sagen damit kommen wir langsam zum Ende. Ihr bekommt jetzt ein bisschen Zeit von mir, vielleicht so 10-15 Minuten, damit ihr euch mit euren Hinweisen eine Story überlegen könnt. Zur Erinnerung: eure Aufgabe in diesem Abenteuer ist es herauszufinden, warum plötzlich Leute im Wald verschwinden und wie ihr dem Dorf helfen könnt. Je mehr Hinweise ihr in eurer Geschichte zusammenbaut, desto mehr senkt ihr die Schwierigkeit des Abenteuers, gegen die ihr am Schluss würfeln müsst. Im Moment liegt die Schwierigkeit bei 16.   
@@ -184,6 +204,8 @@ Außerdem wechseln sich die drei Elemente Rollenspiel, Würfeln und Erzählung i
 >**Martina**: Sehr gut. Das heißt eure Lösung funktioniert. Die Dorfbewohner sind einverstanden und helfen euch dabei tatkräftig. Die Missetäter werden ihrer gerechten Strafe zugeführt und ihr habt euren Auftrag erfolgreich abgeschlossen.  
 
 Jede Gruppe baut aus den Hinweisen eine andere, ganz eigene Geschichte zusammen und schlägt dafür eine andere Lösung vor. Die Spielenden können auch hier wieder ihrer Kreativität freien Lauf lassen. Spätestens wenn die Spielleitung merkt, dass sich die Gruppe mit der Erzählung im Kreis dreht, sollte sie langsam wieder weitermachen und sich die Lösung präsentieren lassen. Die Geschichte, die sich die Gruppe ausgedacht hat, ist immer auch das, was tatsächlich passiert ist. Die Würfelprobe gegen die Schwierigkeit des Abenteuers ist dazu gedacht, um zu schauen ob die Spielenden ihren Lösungsvorschlag friedlich umsetzen können.
+
+>[Zurück nach oben](#spielbeispiele)
 
 ### Am Ende einer Spielsession - Stufenaufstieg - Außer Gefecht gesetzt
 
@@ -228,3 +250,5 @@ Jede Gruppe baut aus den Hinweisen eine andere, ganz eigene Geschichte zusammen 
 >**Martina**: Ich denke damit sind dann alle fertig soweit. Ach nein, eins fehlt natürlich noch: Ihr habt ja das Abenteuer abgeschlossen, also bekommt ihr noch eine neue Ehrung! Sie heißt "Hüter des Waldes" und gibt euch das Attribut "Umwelt". Die tragt ihr euch im Charakterbogen ein. Mit der Zeit sammelt ihr mehr Ehrungen. Ihr könnt am Ende eines Abenteuers eine Ehrung aus eurer Sammlung wählen und quasi "ausrüsten", damit steht euch für das nächste Abenteuer das dazugehörige Attribut zur Verfügung. Das tragt ihr auch im Charakterbogen ein. Keine Angst, die Titel werden nicht verbraucht sondern bleiben euch. Aber wechseln könnt ihr nur am Ende eines Abenteuers, nicht mittendrin.
 
 Im Lauf der Abenteuer sammeln die Spielenden Aufstiegspunkte. Haben sie genug Punkte beisammen, können sie einen Stufenaufstieg machen und damit für ihren Charakter einen neuen Abschnitt einläuten. Je länger sie sammeln, desto mehr Möglichkeiten haben sie beim Stufenaufstieg. Allerdings ist natürlich auch das Risiko höher alles zu verlieren, wenn sie außer Gefecht gesetzt werden. Dann kommt der Charakter zwar auch in einen neuen Abschnitt und darf ein paar Dinge würfeln. Allerdings gibt es dabei deutlich weniger Freiheiten, da der Charakter stärker von seinem Dämon vereinnahmt wird.
+
+>[Zurück nach oben](#spielbeispiele)
