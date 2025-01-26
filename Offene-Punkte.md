@@ -1,5 +1,7 @@
 # Offene Punkte
 
+- [ ] Foundry reparieren
+
 ## 1 Änderungen/Ergänzungen für Regeln u. Spielzüge
 - [ ] Haiku als Mechanik?
   - [ ] Eventuell für den Stufenaufstieg bzw. das "sterben/außer Gefecht gesetzt"
@@ -8,7 +10,7 @@
   - [ ] Um an einem Kampf teilnehmen zu können, benötigt der Charakter eine Waffe als Gegenstand oder eine entsprechende Fähigkeit. 
   - [ ] Ergibt das noch Sinn? --> wird in den nächsten Runden getestet (hoffentlich)
   
-    - [ ] Wie ist das mit dem Stufe senken? Nur Fähigkeiten? Auch Risk Rolls?
+    - [ ] Wie ist das mit dem Stufe senken? Nur Fähigkeiten? Auch Risk Rolls?  *Ist man nicht schon gestraft genug, wenn man im Kampf zusätzlich einen Risiko-Wurf machen muss, um teilzunehmen? ^^; Du willst uns alle umbringen! O.o*
 
 - [x] Besser Episoden als Abschnitt? Nö, ist auch nicht besser
   - [x] Besser Lebensabschnitt oder Abschnitt?
@@ -36,8 +38,9 @@
 - [ ] Ablauf Spielabend / Abenteuer
   - [ ] Gameplay Loop soll Schematisch im Regelwerk abgebildet werden. Ein Diagramm.
   - [x] Kommt in Abenteuer_Vorwort.md --> steht tatsächlich im Moment bei den Spielbeispielen...
-  - [ ] Nicht vergessen, dass die Spielenden am Anfang eines neuen Abenteuers ihre Abschnittsfragen wählen müssen. Steht das schon irgendwo?
+  - [x] Nicht vergessen, dass die Spielenden am Anfang eines neuen Abenteuers ihre Abschnittsfragen wählen müssen. Steht das schon irgendwo? --> jetzt schon, ja
   - [x] Abschnittspunkte - "Fragen" ersetzen durch Aufgaben
+- [ ] evtl in den Spielbeispielen einen freien Gegenstand ergänzen
 - [ ] Zufallstabelle
   - [ ] Waffen?
 
@@ -76,13 +79,13 @@
 - [ ] Aufbau - Buch
 
 - [ ] 1. Einführung und Übersicht (Allgemeines.md)  
-   - [ ]    2.1 Worum geht es  
-   - [ ]    2.2 Wie spielt sich...  
-   - [ ]    2.3 Wie sind die Abenteuer aufgebaut?  
-   - [ ]    2.4 In welcher Welt spielt...  
-   - [ ]    2.5 Geister, Dämonen und Fureru  
-   - [ ]    2.6 Wie unterscheidet sich die Welt  
-   - [ ]    2.7 Darstellung der Welt  
+   - [ ]    1.1 Worum geht es  
+   - [ ]    1.2 Wie spielt sich...  
+   - [ ]    1.3 Wie sind die Abenteuer aufgebaut?  
+   - [ ]    1.4 In welcher Welt spielt...  
+   - [ ]    1.5 Geister, Dämonen und Fureru  
+   - [ ]    1.6 Wie unterscheidet sich die Welt  
+   - [ ]    1.7 Darstellung der Welt  
      - [ ]    - Häuser und Orte  
      - [ ]    - Essen  
   
@@ -92,12 +95,12 @@
    - [ ]    2.2 Spielzüge (Spielzüge.md)  
    - [ ]    2.3 ?????Cheatsheet?????  
   
-- [ ] 4. Charaktere  
+- [ ] 3. Charaktere  
    - [ ]    3.1 Charaktererstellung (Charaktererstellung.md)  
   
-- [ ] 5. Spielbeispiele (Spielbeispiele.md)  
+- [ ] 4. Spielbeispiele (Spielbeispiele.md)  
 
-- [ ] 6. Abenteuer  
+- [ ] 5. Abenteuer  
    - [ ]    5.1 Einführung (Abenteuer_Vorwort.md)  
    - [ ]    5.2 Aufbau (Abenteueraufbau.md)  
    - [ ]    5.3 Abenteuer  
@@ -107,15 +110,15 @@
      - [ ]    - Der Wald  
      - [ ]    - Die Aschegeister  
   
-- [ ] 7. Glossar (Glossar.md)  
+- [ ] 6. Glossar (Glossar.md)  
 
-- [ ] 8. Ressourcen  
+- [ ] 7. Ressourcen  
    - [ ]      - Abenteuerbogen  
    - [ ]      - Kampfbogen  
    - [ ]      - Charakterbogen  (vom Stil her wie ausgedruckt und dann per Hand ausgefüllt + Kommentare dazugekritzelt oder so?)
    - [ ]      - Zufallstabellen  
   
-- [ ] 9. ?????Hinten drauf: CATS????  
+- [ ] 8. ?????Hinten drauf: CATS????  
 
 
 
