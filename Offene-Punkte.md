@@ -11,6 +11,7 @@
   - [ ] Ergibt das noch Sinn? --> wird in den nächsten Runden getestet (hoffentlich)
   
     - [ ] Wie ist das mit dem Stufe senken? Nur Fähigkeiten? Auch Risk Rolls?  *Ist man nicht schon gestraft genug, wenn man im Kampf zusätzlich einen Risiko-Wurf machen muss, um teilzunehmen? ^^; Du willst uns alle umbringen! O.o*
+- [ ] Spielprinzipien: Rule of Cool???
 
 - [x] Besser Episoden als Abschnitt? Nö, ist auch nicht besser
   - [x] Besser Lebensabschnitt oder Abschnitt?
