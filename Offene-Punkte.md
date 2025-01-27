@@ -1,31 +1,11 @@
 # Offene Punkte
 
-- [ ] Foundry reparieren
-
 ## 1 Änderungen/Ergänzungen für Regeln u. Spielzüge
-- [ ] Haiku als Mechanik?
-  - [ ] Eventuell für den Stufenaufstieg bzw. das "sterben/außer Gefecht gesetzt"
-  - [ ] Bonuswürfel für auf Reisen?
+- [ ] Haiku als Mechanik?  - Marcel hat eine Idee.
 - [ ] Wie ist das mit der Teilnahme am Kampf?
   - [ ] Um an einem Kampf teilnehmen zu können, benötigt der Charakter eine Waffe als Gegenstand oder eine entsprechende Fähigkeit. 
   - [ ] Ergibt das noch Sinn? --> wird in den nächsten Runden getestet (hoffentlich)
-  
-    - [ ] Wie ist das mit dem Stufe senken? Nur Fähigkeiten? Auch Risk Rolls?  *Ist man nicht schon gestraft genug, wenn man im Kampf zusätzlich einen Risiko-Wurf machen muss, um teilzunehmen? ^^; Du willst uns alle umbringen! O.o*
-- [ ] Spielprinzipien: Rule of Cool???
-
-- [x] Besser Episoden als Abschnitt? Nö, ist auch nicht besser
-  - [x] Besser Lebensabschnitt oder Abschnitt?
-  - [x] Alles auf Abschnitt ändern. <!-- alle relevanten Dateien überprüft, sollte passen -->
-- [x] Player Principles wie in Trophy?
-  - [x] Braucht es die?
-    - [x] Ja!
-      - [x] Play To Find Out!
-      - [x] Lasst euch nicht von euren Fähigkeiten einschränken!
-        - [x] Kreativität geht vor und "Etwas riskieren" kann fast alles abhandeln.
-      - [x] Spielt eure Version der Welt!
-      - [x] Es muss nicht jeder Hinweis genutzt werden. Die Geschichte sollte sich rund und schön erzählen. Hinweise die nicht genutzt werden sind nicht verloren.
-      - [x] Charaktererstellung: Du kannst nicht steuer woher aber wohin
-
+ - [ ] Spielprinzipien: Rule of Cool???
 
 ## 2 Texte ergänzen/schreiben für's Regelwerk
 ### 2.1 Systembeschreibung
@@ -38,13 +18,10 @@
 - [x] Spielbeispiel Gegner schwächen --> Fähigkeit ergänzen wg Spielzug
 - [ ] Ablauf Spielabend / Abenteuer
   - [ ] Gameplay Loop soll Schematisch im Regelwerk abgebildet werden. Ein Diagramm.
-  - [x] Kommt in Abenteuer_Vorwort.md --> steht tatsächlich im Moment bei den Spielbeispielen...
-  - [x] Nicht vergessen, dass die Spielenden am Anfang eines neuen Abenteuers ihre Abschnittsfragen wählen müssen. Steht das schon irgendwo? --> jetzt schon, ja
+  - [x] Kommt in Abenteuer_Vorwort.md 
+  - [x] Nicht vergessen, dass die Spielenden am Anfang eines neuen Abenteuers ihre Aufgaben wählen müssen. Steht das schon irgendwo? --> jetzt schon, ja
   - [x] Abschnittspunkte - "Fragen" ersetzen durch Aufgaben
-- [ ] evtl in den Spielbeispielen einen freien Gegenstand ergänzen
-- [ ] Zufallstabelle
-  - [ ] Waffen?
-
+- [ ] Safety Tools
 
 ### 2.2 Weltbeschreibung
 - [ ] Abenteuer schreiben
@@ -56,21 +33,8 @@
   - [ ] Abenteuer um Bräuche herum schreiben?
   - [ ] Ein Fest (Kinderedition)
     - [ ] Die Karpfen Papierfahnen
-- [x] Ideen in Abenteuer verbauen (Optionen)
-  - [x] Die Karpfen Papierfahnen
-  - [x] Charaktere die man in Abenteuern nutzen kann?
-  - [x] Kumiko-Panels
-    - [x] Handwerker NSC als Vorlage
-    - [x]  Kumiko in Glossar aufnehmen
-  - [x] Orte die man exemplarisch in allen Abenteuern nutzen kann --> Vorwort Abenteuer
 - [ ] Karte zu Abenteuern vereinheitlichen oder erstellen? Und schöner machen?
   - [ ] Bringt das mehr als eine Liste?
-
-- [x] Das ganze Buch über die drei gleichen Charaktere für Erklärungen hernehmen.
-  - [x] Yūsuke (Hirsch) gespielt von Ralph - Reittier Wasserbüffel (Ken)  
-    - [x] Was ist dem sein Beruf? Spielbeispiele und Charakterbogen sollten sich Matchen.
-  - [x] Eran (Tengu) gespielt von Hannes - Reittier Steinbock (Shiori)
-  - [x] Ayane (Yuki Onna) gespielt von Lydia - Reittier Bär (Jiro)
 
 ## 3 Das *BUCH*
 - [ ] Autorenkommentare hervorheben?
@@ -121,8 +85,6 @@
   
 - [ ] 8. ?????Hinten drauf: CATS????  
 
-
-
 ## 4 Zukunftsmusik?
 - [ ] Adaption für Müllsammler im All
   - [ ] Mehr soziale Interaktion	
@@ -138,6 +100,38 @@
 
 
 ## erledigt
+
+- [x] evtl in den Spielbeispielen einen freien Gegenstand ergänzen
+- [x] Zufallstabelle
+  - [x] Waffen?
+- [x] Ideen in Abenteuer verbauen (Optionen)
+  - [x] Die Karpfen Papierfahnen
+  - [x] Charaktere die man in Abenteuern nutzen kann?
+  - [x] Kumiko-Panels
+    - [x] Handwerker NSC als Vorlage
+    - [x]  Kumiko in Glossar aufnehmen
+  - [x] Orte die man exemplarisch in allen Abenteuern nutzen kann --> Vorwort Abenteuer
+- [x] Foundry reparieren
+- [x] Das ganze Buch über die drei gleichen Charaktere für Erklärungen hernehmen.
+  - [x] Yūsuke (Hirsch) gespielt von Ralph - Reittier Wasserbüffel (Ken)  
+    - [x] Was ist dem sein Beruf? Spielbeispiele und Charakterbogen sollten sich Matchen.
+  - [x] Eran (Tengu) gespielt von Hannes - Reittier Steinbock (Shiori)
+  - [x] Ayane (Yuki Onna) gespielt von Lydia - Reittier Bär (Jiro)
+- [X] Wie ist das mit dem Stufe senken? Nur Fähigkeiten? Auch Risk Rolls?  *Ist man nicht schon gestraft genug, wenn man im Kampf zusätzlich einen Risiko-Wurf machen muss, um teilzunehmen? ^^; Du willst uns alle umbringen! O.o*
+- [x] Besser Episoden als Abschnitt? Nö, ist auch nicht besser
+  - [x] Besser Lebensabschnitt oder Abschnitt?
+  - [x] Alles auf Abschnitt ändern. <!-- alle relevanten Dateien überprüft, sollte passen -->
+- [x] Player Principles wie in Trophy?
+  - [x] Braucht es die?
+    - [x] Ja!
+      - [x] Play To Find Out!
+      - [x] Lasst euch nicht von euren Fähigkeiten einschränken!
+        - [x] Kreativität geht vor und "Etwas riskieren" kann fast alles abhandeln.
+      - [x] Spielt eure Version der Welt!
+      - [x] Es muss nicht jeder Hinweis genutzt werden. Die Geschichte sollte sich rund und schön erzählen. Hinweise die nicht genutzt werden sind nicht verloren.
+      - [x] Charaktererstellung: Du kannst nicht steuer woher aber wohin
+  - [ ] Eventuell für den Stufenaufstieg bzw. das "sterben/außer Gefecht gesetzt"
+  - [ ] Bonuswürfel für auf Reisen?
 - [x] Lernt die Gruppe nach jedem Abenteuer etwas über die Welt? Darf ihre Welt gestalten
 - [x] Magische Szenen für Der Berg erwacht
 - [x] Fremdabenteuer noch dazu?
