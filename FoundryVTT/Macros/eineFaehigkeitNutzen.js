@@ -12,7 +12,7 @@ console.log(r.terms);
 await r.evaluate();
 await r.toMessage(render=false);
 
-//Er baut ein mehrdimensionales Array in dem [weiss,1],[schwarz,5],usw.
+//Er baut ein mehrdemensionales Array in dem [weiss,1],[schwarz,5],usw.
 let i1 = 0;
 let i3 = 0;
 while(i1 < r.dice.length){
@@ -26,8 +26,8 @@ console.log("Schwarz:"+r.dice[i1].results[i2].result);
 i3++;
 }else{
  resultString+="weiße "+r.dice[i1].results[i2].result+", ";
- arr[i3] = ["Weiß",r.dice[i1].results[i2].result];
-console.log("Weiß:"+r.dice[i1].results[i2].result);
+ arr[i3] = ["Weiss",r.dice[i1].results[i2].result];
+console.log("Weiss:"+r.dice[i1].results[i2].result);
 i3++;
 }
 
@@ -51,22 +51,22 @@ Dein Ergebnis ist eine <strong>${ergebnis[0][1]}</strong> in der Farbe <strong>$
 
 switch (ergebnis[0][1]) {
   case 1:
-    results2_html = "Die Spielleitung erhält einen <strong>Verderbnispunkt</strong>.";
+    results2_html = "<br>Die Spielleitung erhält einen <strong>Verderbnispunkt</strong>.";
     break;
   case 2:
-    results2_html = "Die Spielleitung erhält einen <strong>Verderbnispunkt</strong>.";
+    results2_html = "<br>Die Spielleitung erhält einen <strong>Verderbnispunkt</strong>.";
     break;
   case 3:
-    results2_html = "Die Spielleitung erhält einen <strong>Verderbnispunkt</strong>.";
+    results2_html = "<br>Die Spielleitung erhält einen <strong>Verderbnispunkt</strong>.";
     break;
   case 4:
-    results2_html = "Die Spielleitung erhält einen <strong>Verderbnispunkt</strong>.";
+    results2_html = "<br>Die Spielleitung erhält einen <strong>Verderbnispunkt</strong>.";
     break;
   case 5:
-    results2_html = "Du bekommst einen weißen <strong>Bonuswürfel</strong>, den du frei einsetzen darfst.";
+    results2_html = "<br>Du bekommst einen weißen <strong>Bonuswürfel</strong>, den du frei einsetzen darfst.";
     break;
   case 6:
-    results2_html = "Du bekommst einen weißen <strong>Bonuswürfel</strong>, den du frei einsetzen darfst.";
+    results2_html = "<br>Du bekommst einen weißen <strong>Bonuswürfel</strong>, den du frei einsetzen darfst.";
 }
 
 //Ist der Wurf wiederholbar?
@@ -75,7 +75,7 @@ switch (ergebnis[0][0]) {
     results3_html = "";
     break;
   case "Weiss":
-    results3_html = "<i>Du kannst den Wurf wiederholen, indem du einen weiteren schwarzen Würfel hinzufügst und neu würfelst.</i>";
+    results3_html = "<i>Du kannst den Wurf wiederholen indem du einen weiteren schwarzen Würfel hinzufügst und neu würfelst.</i>";
 }
 
 if(ergebnis[0][1]==6) {results3_html = "";}
@@ -86,12 +86,7 @@ if(ergebnis[0][0]=="Schwarz"){
 results4_html = "Du bekommst einen <strong>Zustand</strong>.";
 }
 
-ChatMessage.create({
-	user: game.user._id,
-	speaker: ChatMessage.getSpeaker({token: actor}),
-	content: results_html+results3_html+results4_html 
-        //content: results_html
-});
+
 
 //Hier wird nach einem Pasch auf den beiden höchsten Augenzahlen geschaut.
 if (arr.length>1) {
@@ -109,14 +104,20 @@ function compareSecondColumn(a, b) {
 }
 if(arr[0][1] == 6 & arr[1][1] == 6){
 	console.log("Sechserpasch")
-  		return "Unabhängig vom Würfelergebnis passiert in jedem Fall, was du wolltest. "+results2_html+" <br><strong>Sechserpasch</strong> - Du bekommst einen weiteren <strong>Hinweis</strong>.";
+  		results2_html="<br>Unabhängig vom Würfelergebnis passiert in jedem Fall, was du wolltest. "+results2_html+" <br><strong>Sechserpasch</strong> - Du bekommst einen weiteren <strong>Hinweis</strong>.";
     }
     else if(arr[0][1] == 1 & arr[1][1] == 1){
     console.log("Einerpasch")    
-		return "Unabhängig vom Würfelergebnis passiert in jedem Fall, was du wolltest. "+results2_html+" <br><strong>Einerpasch</strong> - Die Spielleitung erhält einen weiteren <strong>Verderbnispunkt</strong>.";
+		results2_html="<br>Unabhängig vom Würfelergebnis passiert in jedem Fall, was du wolltest. "+results2_html+" <br><strong>Einerpasch</strong> - Die Spielleitung erhält einen weiteren <strong>Verderbnispunkt</strong>.";
     }else{
 	console.log("KeinPasch")
-		return "Unabhängig vom Würfelergebnis passiert in jedem Fall, was du wolltest. "+results2_html;
+		results2_html="<br>Unabhängig vom Würfelergebnis passiert in jedem Fall, was du wolltest. "+results2_html;
 	}
 }
 
+ChatMessage.create({
+	user: game.user._id,
+	speaker: ChatMessage.getSpeaker({token: actor}),
+	content: results_html+results3_html+results4_html+results2_html
+        //content: results_html
+});
