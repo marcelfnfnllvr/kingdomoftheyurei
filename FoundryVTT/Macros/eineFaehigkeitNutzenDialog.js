@@ -114,7 +114,7 @@ selectAttributTrue=0;
 weißerWurfel = parseInt( selectAttributFalse ) + parseInt( selectBonus );
 schwarzerWurfel = parseInt( selectAttributTrue ) + parseInt( selectZustand ) + parseInt( selectVerbessern ) + parseInt( selectSpielzug );
 
-        let ergebnis = game.macros.getName('etwasHerausfinden').execute({wurfelWeiss: weißerWurfel, wurfelSchwarz: schwarzerWurfel, numberRuin: 3}); 
+        let ergebnis = game.macros.getName('eineFaehigkeitNutzen').execute({wurfelWeiss: weißerWurfel, wurfelSchwarz: schwarzerWurfel, numberRuin: 3}); 
 console.log(ergebnis);
       }
     },

@@ -121,4 +121,3 @@ ChatMessage.create({
 	content: results_html+results3_html+results4_html+results2_html 
         //content: results_html
 });
-

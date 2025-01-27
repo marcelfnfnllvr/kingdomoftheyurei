@@ -51,22 +51,22 @@ Dein Ergebnis ist eine <strong>${ergebnis[0][1]}</strong> in der Farbe <strong>$
 
 switch (ergebnis[0][1]) {
   case 1:
-    results2_html = "Die Spielleitung erhält einen <strong>Verderbnispunkt</strong>.";
+    results2_html = "<br>Die Spielleitung erhält einen <strong>Verderbnispunkt</strong>.";
     break;
   case 2:
-    results2_html = "Die Spielleitung erhält einen <strong>Verderbnispunkt</strong>.";
+    results2_html = "<br>Die Spielleitung erhält einen <strong>Verderbnispunkt</strong>.";
     break;
   case 3:
-    results2_html = "Du entfernst die letzten zwei <strong>Zustände</strong>.";
+    results2_html = "<br>Du entfernst die letzten zwei <strong>Zustände</strong>.";
     break;
   case 4:
-    results2_html = "Du entfernst die letzten zwei <strong>Zustände</strong>.";
+    results2_html = "<br>Du entfernst die letzten zwei <strong>Zustände</strong>.";
     break;
   case 5:
-    results2_html = "Du entfernst die letzten drei <strong>Zustände</strong>. Die Spielleitung gibt dir einen <strong>Hinweis</strong>.";
+    results2_html = "<br>Du entfernst die letzten drei <strong>Zustände</strong>. Die Spielleitung gibt dir einen <strong>Hinweis</strong>.";
     break;
   case 6:
-    results2_html = "Du entfernst die letzten drei <strong>Zustände</strong>. Die Spielleitung gibt dir einen <strong>Hinweis</strong>.";
+    results2_html = "<br>Du entfernst die letzten drei <strong>Zustände</strong>. Die Spielleitung gibt dir einen <strong>Hinweis</strong>.";
 }
 
 //Ist der Wurf wiederholbar?
@@ -75,7 +75,7 @@ switch (ergebnis[0][0]) {
     results3_html = "";
     break;
   case "Weiß":
-    results3_html = "<i>Du kannst den Wurf wiederholen, indem du einen weiteren schwarzen Würfel hinzufügst und neu würfelst.<i>";
+    results3_html = "<i>Du kannst den Wurf wiederholen, indem du einen weiteren schwarzen Würfel hinzufügst und neu würfelst.</i>";
 }
 
 if(ergebnis[0][1]==6) {results3_html = "";}
@@ -86,12 +86,7 @@ if(ergebnis[0][0]=="Schwarz"){
 results4_html = "Du bekommst einen <strong>Zustand</strong>.";
 }
 
-ChatMessage.create({
-	user: game.user._id,
-	speaker: ChatMessage.getSpeaker({token: actor}),
-	content: results_html+results3_html+results4_html 
-        //content: results_html
-});
+
 
 //Hier wird nach einem Pasch auf den beiden höchsten Augenzahlen geschaut.
 if (arr.length>1) {
@@ -109,14 +104,19 @@ function compareSecondColumn(a, b) {
 }
 if(arr[0][1] == 6 & arr[1][1] == 6){
 	console.log("Sechserpasch")
-  		return results2_html+" <br><strong>Sechserpasch</strong> - Du entfernst alle deine <strong>Zustände</strong>.";
+  		results2_html=results2_html+" <br><strong>Sechserpasch</strong> - Du entfernst alle deine <strong>Zustände</strong>.";
     }
     else if(arr[0][1] == 1 & arr[1][1] == 1){
     console.log("Einerpasch")    
-		return results2_html+" <br><strong>Einerpasch</strong> - Die Spielleitung bekommt einen <strong>Verderbnispunkt</strong>.";
+		results2_html=results2_html+" <br><strong>Einerpasch</strong> - Die Spielleitung bekommt einen <strong>Verderbnispunkt</strong>.";
     }else{
 	console.log("KeinPasch")
-		return results2_html;
+		
 	}
 }
-
+ChatMessage.create({
+	user: game.user._id,
+	speaker: ChatMessage.getSpeaker({token: actor}),
+	content: results_html+results3_html+results4_html+results2_html 
+        //content: results_html
+});

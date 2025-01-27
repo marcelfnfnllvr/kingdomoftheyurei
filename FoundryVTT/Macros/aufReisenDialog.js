@@ -20,19 +20,20 @@ Attribut6=Attribut6+" (weiß)"}else{
 Attribut6=Attribut6+" (schwarz)"}
 console.log("bis hier?");
 let d = new Dialog({
-  title: 'Etwas riskieren',
+  title: 'Auf Reisen',
   content: `
-Wenn du eine Person befragst oder einen Raum untersuchst, würfelst du auf diesen Spielzug. Du bekommst einen weißen Würfel für diesen Spielzug.
+Dieser Spielzug darf pro Spielendem nur einmal pro Abenteuer verwendet werden. Erzählt von einem Moment auf der Reise, um allein oder gemeinsam Zustände abzubauen. Dieser Spielzug gibt einen weißen Würfel. Um einen weiteren Würfel zu erhalten, muss die Erzählung etwas mit dem Attribut zu tun haben, von dem der Charakter den zweiten Würfel für diesen Spielzug bekommen soll. 
 <br><br>
-- 1&1 Die Spielleitung erhält einen zusätzlichen Verderbnispunkt.<br>
-- 1-4 Die Spielleitung erhält einen Verderbnispunkt.<br>
-- 5-6 Du bekommst einen Hinweis.<br>
-- 6&6 Du bekommst einen weiteren Hinweis.<br><br>
+- 1&1 Die Spielleitung bekommt einen weiteren Verderbnispunkt.<br>
+- 1-2 Die Spielleitung bekommt einen Verderbnispunkt.<br>
+- 3-4 Du entfernst die letzten zwei Zustände. <br>
+- 5-6 Du entfernst die letzten drei Zustände. Die Spielleitung gibt dir einen Hinweis.<br>
+- 6&6 Du entfernst alle deine Zustände.<br><br>
     <form class="Spielzug">
       <div class="form-group">
         <label for="SpielzugSelect">Spielzugwürfel</label>
         <select name="SpielzugSelect">
-          <option value="1">Ein schwarzer Spielzugwürfel</option>
+          <option value="1">Ein weißer Spielzugwürfel</option>
         </select>
       </div>
     </form>
@@ -49,20 +50,6 @@ Wenn du eine Person befragst oder einen Raum untersuchst, würfelst du auf diese
           <option value="${Attribut6W}">${Attribut6}</option>
           <option value="false">Freier Attributsslot (weiß)</option>
           <option value="true">Freier Attributsslot (schwarz)</option>
-        </select>
-      </div>
-    </form>
-   <form class="Zustand">
-      <div class="form-group">
-        <label for="ZustandSelect">Angst oder Zustandswürfel</label>
-        <select name="ZustandSelect">
-          <option value="0">Keine passende Angst vorhanden</option>
-          <option value="1">${Angst1}</option>
-          <option value="1">${Angst2}</option>
-          <option value="1">${Zustand2}</option>
-          <option value="1">${Zustand3}</option>
-          <option value="1">${Zustand4}</option>
-          <option value="1">${Zustand5}</option>
         </select>
       </div>
     </form>
@@ -96,7 +83,6 @@ Wenn du eine Person befragst oder einen Raum untersuchst, würfelst du auf diese
       callback: (html) => {
         let selectSpielzug = html.find('[name="SpielzugSelect"]').val();
         let selectAttribut = html.find('[name="AttributSelect"]').val();
-        let selectZustand = html.find('[name="ZustandSelect"]').val();
         let selectBonus = html.find('[name="BonusSelect"]').val();
         let selectVerbessern = html.find('[name="Verbessernelect"]').val();
 
@@ -110,11 +96,11 @@ selectAttributTrue=1;
 selectAttributFalse=0;
 selectAttributTrue=0;
 }
-weißerWurfel = parseInt( selectAttributFalse ) + parseInt( selectBonus );
-schwarzerWurfel = parseInt( selectAttributTrue ) + parseInt( selectZustand ) + parseInt( selectVerbessern )+ parseInt( selectSpielzug );
+weißerWurfel = parseInt( selectAttributFalse ) + parseInt( selectBonus )+ parseInt( selectSpielzug );
+schwarzerWurfel = parseInt( selectAttributTrue ) + parseInt( selectVerbessern ) ;
 
-        let ergebnis = game.macros.getName('etwasRiskieren').execute({wurfelWeiss: weißerWurfel, wurfelSchwarz: schwarzerWurfel, numberRuin: 3}); 
-//console.log(ergebnis);
+        let ergebnis = game.macros.getName('aufReisen').execute({wurfelWeiss: weißerWurfel, wurfelSchwarz: schwarzerWurfel, numberRuin: 3}); 
+console.log(ergebnis);
       }
     },
   },
@@ -123,3 +109,5 @@ schwarzerWurfel = parseInt( selectAttributTrue ) + parseInt( selectZustand ) + p
     console.log('Example Dialog Closed');
   }
 }).render(true);
+
+return Attribut1
