@@ -1,3 +1,31 @@
+## Ablauf einer Session
+
+##### Session 0 - Vor dem Spiel
+
+Vor der ersten Session, vor allem wenn es sich um einen Oneshot handelt, sollten die CATS an die Spielenden gegeben werden. Außerdem sollten die Lines and Veils abgeklärt werden. So wird die Gefahr minimiert, dass es Missverständnisse und falsche Erwartungen gibt oder jemand aus der Gruppe mit für ihn oder sie zu unangenehmen Themen konfrontiert wird.
+<!-- Entwicklerkommentar incoming-->
+Auch wenn es möglich ist seinen Charakter in Gänze zu würfeln, tendiere ich dazu bei den Spielenden einen Namen, das Aussehen und ein Reittier abzufragen. Nachdem ich über die CATS an dem Abend das Spiel grob erklärt habe, gehe ich meistens noch 10 Minuten näher auf die Punkte ein, die in der allgemeinen Beschreibung aufgeführt sind. Auch über den Ton des Abends rede ich noch etwas ausführlicher. Hier ist vor allem wichtig, dass sich alle auf einen gemeinsamen Nenner einigen und nicht welcher genau das ist. Dieses Regelwerk kann sehr ernst aber auch eher locker gespielt werden. Mir ist immer dabei immer wichtig, dass die Spielenden ihre Charaktere ernst nehmen.
+
+Nachdem das geklärt ist, werden die Charaktere ganz nach dem Kapitel "Charaktererstellung" erstellt.
+
+##### Vorbereitungen
+
+Ist die Session 0 abgeschlossen und haben alle ihre Charaktere, dann kann ins erste Abenteuer gestartet werden. Davor müssen die Spielenden nur noch die drei Abenteueraufgaben wählen, die sie versuchen möchten in der Session abzuschließen.
+
+##### Im Spiel
+
+Danach führt die SL die Gruppe in das Abenteuer ein. Dafür gibt es bei jedem Abenteuer den Punkt *Eröffnung*. Hier wird der Einstieg beschrieben, also in welcher Szene sich die Gruppe gerade befindet. Außerdem gibt es hier auch schon die erste Frage an die Spielenden, damit sie leichter in die Szene reinfinden. Am Anfang eines neuen Abenteuers ist es zusätzlich auch noch wichtig der Gruppe die Problemstellung des Abenteuers und auch die Abenteuerfrage zu nennen.
+
+Mit der Eröffnung steigen die Spielenden direkt ins Abenteuer ein. Nach dieser Szene steht es ihnen frei wie sie weiter agieren und in welcher Reihenfolge sie mit NSCs sprechen und die verschiedenen Schauplätze besuchen möchten. Da die Hinweise eher unspezifisch sind, können sie von der SL so flexibel vergeben werden, dass sie sich gut in die jeweilige Handlung oder Szene einfügen. Es ist also grundsätzlich nicht nötig, dass die Spielenden eine bestimmte Reihenfolge einhalten. 
+Gelangen sie an einen neuen Schauplatz, können sie auch diesen häufig im Rahmen einer Paint-the-Scene-Frage mitgestalten. Die Antworten auf diese Frage kann die SL wiederum im Lauf der Szene wieder verwenden, beispielsweise wenn sie auf einen gewissen Hinweis deuten, der gut zur Szenerie passt. 
+Im späteren Verlauf der Session kann das Geschehen auch noch durch einen Kampf aufgelockert werden, den die SL mit gesammelten Verderbnispunkten kauft. Allein da hierfür die Verderbnispunkte ausgegeben werden müssen, kann sich diese Art von Kampf tendenziell erst später ereignen. 
+Hat die Gruppe irgendwann genügend Hinweise gesammelt (abhängig von der Schwierigkeit des Abenteuers), beendet die SL vorerst das Rollenspiel. Nun folgt die Aufgabe für die Gruppe, die Hinweise zu einer plausiblen Geschichte zusammenzubauen und eine Lösung für das Problem zu präsentieren. Das Austüfteln der Geschichte dauert meist ein wenig, also sollte auch für diesen Schritt genügend Zeit eingeplant werden (grob geschätzt 15min, je nach Spielgruppe). Nachdem den Spielenden für diese Aufgabe genügend Zeit eingeräumt wurde, präsentieren sie der Spielleitung ihre Lösung. Die SL zählt dabei mit, wie viele der gefundenen Hinweise in der Geschichte verbaut sind. Anschließend wird die Anzahl der verbauten Hinweise von der Schwierigkeit des Abenteuers abgezogen. Zuletzt würfeln die Spielenden mit zwei Würfeln gegen die so gesenkte Schwierigkeit des Abenteuers. Je nach Ergebnis folgt hierauf das Ende des Abenteuers oder der Endkampf.
+Damit ist das eigentliche Spiel vorbei und es bleibt nur noch zu prüfen ob und wie viele Abenteueraufgaben die Spielenden abhaken können und ob die so gewonnenen Abschnittspunkte für einen Abschnittswechsel ausgegeben werden.
+
+In den vorgefertigten Abenteuern sind alle wichtigen Elemente wie Schauplätze, NSCs, Eröffungsfragen, Problemstellung des Abenteuers etc. schon enthalten.
+
+## Tipps für die SL
+
 > Dieses Kapitel richtet sich vorrangig an die Spielleitenden, denn hier findet ihr neben einigen vorgefertigten Abenteuern auch Tipps für die richtige Stimmung, Informationen zum Abenteueraufbau und weitere Ideen, die ihr in Abenteuer verbauen könnt. Also: Achtung, Spoilergefahr! Weiterlesen auf eigene Gefahr. 
 
 Die hier vorgestellten Abenteuer lassen sich in ein bis zwei Sessions durchspielen, wobei wir bei einer Session von einer Dauer von ca. 4-5 Stunden ausgehen. Genau lässt sich das nie vorher sagen, denn Gruppen spielen einfach unterschiedlich. In den Geschichten in *Königreich der Yōkai* gibt es auch keine festgeschriebenen Events oder Reihenfolgen, sondern die Gruppe bewegt sich von Szene zu Szene. Wann genau eine Session also vorbei sein soll, kann relativ frei festgelegt werden. Natürlich wird aber die Wahrscheinlichkeit das Abenteuer friedlich abzuschließen größer, je mehr Hinweise die Gruppe sammeln konnte.  
