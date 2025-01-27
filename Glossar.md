@@ -15,7 +15,9 @@
 
 ### Rollenspielbegriffe
   - **CATS**  
-    **C**oncept - **A**im - **T**one - **S**ubject Matter. Ein maximal 200 Zeichen starker Text, der die wesentlichen Inhalte des Rollenspiels kurz und prägnant zusammenfasst.   
+    **C**oncept - **A**im - **T**one - **S**ubject Matter. Ein maximal 200 Zeichen starker Text, der die wesentlichen Inhalte des Rollenspiels kurz und prägnant zusammenfasst.
+  - **Lines & Veils**  
+    Safety Tool für Rollenspiele: Eine Liste von Themen, die entweder überhaupt nicht angesprochen werden sollen (Line = Grenze) oder nur angedeutet (Veil = Schleier) vorkommen, und an die sich alle halten sollen.     
   - **NSC**  
     Nicht-Spielercharakter. Von den Spielleitenden gesteuerte Charaktere, mit denen die Spielenden während eines Abenteuers interagieren können. Dabei kann es sich sowohl um Menschen und Tiere als auch um Geister und Dämonen handeln.
   - **Oneshot**  
