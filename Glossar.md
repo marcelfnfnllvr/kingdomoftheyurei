@@ -46,7 +46,7 @@
     Traditionelle, gesellige Kneipe, in dem alkoholisch Getränke, kleine Snacks und Speisen serviert werden. 
   - **Katsuobushi**  
     Flocken aus getrocknetem, geräucherten Bonito-Thunfisch.
-  - **Kumiko**
+  - **Kumiko**  
     Filigrane Holzverarbeitungstechnik, bei der flache Holzstücke ohne Leim oder Nägel zu geometrischen Mustern zusammengesteckt werden.
   - **Machiya**  
     Traditionelles, städtisches Holzhaus mit langem, schmalen Grundriss. Im Erdgeschoss häufig mit Geschäftsräumen (Werkstatt, Laden,...) unter den Wohnräumen im Obergeschoss.
