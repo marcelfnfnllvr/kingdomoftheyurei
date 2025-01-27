@@ -3,9 +3,9 @@
 Im Verlauf des Spiels nutzen die Spielenden Spielzüge, um Hinweise von NSCs zu erhalten, Hindernissen zu begegnen, Zustände abzubauen, Kämpfe auszutragen oder ihre Fähigkeiten einzusetzen. Ein Spielzug gibt entweder einen weißen oder einen schwarzen Würfel für den Würfelpool. Dies ist in der Beschreibung des Spielzugs angegeben. Die kritischen Erfolge (6&6) und Misserfolge (1&1) zählen zusätzlich zum Ergebnis des Spielzugs. So bedeutet eine Doppel-Sechs im Spielzug "Etwas herausfinden", dass den Spielenden zwei Hinweise von der Spielleitung mitgeteilt werden.
 
 >[1. Etwas herausfinden](#der-etwas-herausfinden-spielzug)  
->[2. Etwas riskieren](#der-etwas-riskieren-spielzug)   
->[3. Fähigkeit nutzen](#der-eine-fähigkeit-nutzen-spielzug)  
->[4. Auf Reisen](#der-auf-reisen-spielzug)  
+>[2. Etwas riskieren](#der-etwas-riskieren-spielzug)  
+>[3. Auf Reisen](#der-auf-reisen-spielzug)    
+>[4. Fähigkeit nutzen](#der-eine-fähigkeit-nutzen-spielzug)  
 >[5. Den Gegner schwächen](#der-den-gegner-schw%C3%A4chen-spielzug)   
 >[6. Kampf](#der-sich-dem-kampf-stellen-spielzug)  
 >[7. Hilfe anbieten](#der-hilfe-anbieten-spielzug)  
@@ -36,20 +36,6 @@ Wenn dir jemand misstraut oder wenn du etwas Riskantes tun willst, würfle auf d
 
 [Zurück nach oben](#spielz%C3%BCge)
 
-## Der „Eine Fähigkeit nutzen“ Spielzug
-
-Besprich mit der Spielleitung, was deine Fähigkeit bewirken soll. Du bekommst einen schwarzen Würfel von diesem Spielzug.
-
-- Unabhängig vom Würfelergebnis passiert in jedem Fall, was du wolltest.
-- 1&1 Die Spielleitung erhält einen weiteren Verderbnispunkt.
-- 1-4 Die Spielleitung erhält einen Verderbnispunkt.
-- 5-6 Du bekommst einen weißen Bonuswürfel, den du frei einsetzen darfst.
-- 6&6 Du bekommst einen Hinweis.
-
-*Dieser Spielzug wird verwendet, wenn die Spielenden eine Fähigkeit nutzen. Fähigkeiten, die die Spielenden so auslösen, können auf der erzählerischen Ebene nicht scheitern. Je nach Ergebnis des Wurfes kann es jedoch zu Verderbnispunkten oder Zuständen kommen.* 
-
-[Zurück nach oben](#spielz%C3%BCge)
-
 ## Der „Auf Reisen“ Spielzug
 
 Dieser Spielzug darf pro Spielendem nur einmal pro Abenteuer verwendet werden. Erzählt von einem Moment auf der Reise, um allein oder gemeinsam Zustände abzubauen. Dieser Spielzug gibt einen weißen Würfel. Um einen weiteren Würfel zu erhalten, muss die Erzählung etwas mit dem Attribut zu tun haben, von dem der Charakter den zweiten Würfel für diesen Spielzug bekommen soll. 
@@ -64,6 +50,29 @@ Dieser Spielzug darf pro Spielendem nur einmal pro Abenteuer verwendet werden. E
 
 [Zurück nach oben](#spielz%C3%BCge)
 
+## Würfelpool für "Etwas herausfinden" - "Etwas riskieren" - "Auf Reisen"
+
+1W6 [Spielzug - Weiß oder Schwarz]  
++1W6 [Attribut oder Gegenstand - Weiß oder Schwarz]  
++1W6 [Angst oder Zustand - Schwarz]  
++1W6 [Bonuswürfel - Weiß]  
+     -----------------------  
++1W6 [Den Wurf Verbessern - Schwarz]  
+
+------------------------------------------------------------------------
+## Der „Eine Fähigkeit nutzen“ Spielzug
+
+Besprich mit der Spielleitung, was deine Fähigkeit bewirken soll. Du bekommst einen schwarzen Würfel von diesem Spielzug.
+
+- Unabhängig vom Würfelergebnis passiert in jedem Fall, was du wolltest.
+- 1&1 Die Spielleitung erhält einen weiteren Verderbnispunkt.
+- 1-4 Die Spielleitung erhält einen Verderbnispunkt.
+- 5-6 Du bekommst einen weißen Bonuswürfel, den du frei einsetzen darfst.
+- 6&6 Du bekommst einen Hinweis.
+
+*Dieser Spielzug wird verwendet, wenn die Spielenden eine Fähigkeit nutzen. Fähigkeiten, die die Spielenden so auslösen, können auf der erzählerischen Ebene nicht scheitern. Je nach Ergebnis des Wurfes kann es jedoch zu Verderbnispunkten oder Zuständen kommen.* 
+
+[Zurück nach oben](#spielz%C3%BCge)
 
 ## Der „Den Gegner schwächen“ Spielzug
 
@@ -78,6 +87,15 @@ Es ist möglich, im Kampf die Gefahrenstufe des Gegners mithilfe von Fähigkeite
 
 [Zurück nach oben](#spielz%C3%BCge)
 
+## Würfelpool für "Eine Fähigkeit nutzen" - "Den Gegner schwächen"
+
+1W6 [Spielzug - Weiß oder Schwarz]  
++1W6 [Fähigkeit oder Etwas riskieren - Weiß oder Schwarz]  
++1W6 [Bonuswürfel - Weiß]  
+     -----------------------  
++1W6 [Den Wurf Verbessern - Schwarz]  
+
+------------------------------------------------------------------------
 
 ## Der „Sich dem Kampf stellen“ Spielzug
 
@@ -123,6 +141,12 @@ Der Spielzug "Hilfe anbieten" wird genutzt, nachdem die zu helfende Person den e
 *Es ist überhaupt nicht verwerflich, als Spielleitung nicht immer "Hilfe anbieten" zu erlauben. Es sollte allerdings belohnt werden, wenn die Spielenden sich kreative Wege überlegen, wie sie in der Szene doch helfen können. Dass mehr als eine Person hilft ist zwar regelkonform erlaubt, sollte aber nicht ausgenutzt werden und muss gut in die Szene passen.*
 
 [Zurück nach oben](#spielz%C3%BCge)
+
+## Würfelpool für "Hilfe anbieten"
+
+1W6 [Spielzug - Schwarz oder Attribut oder Gegenstand oder Bonuswürfel]  
+
+--------------------------------------------------------------
 
 ## Der „Das Abenteuer lösen“ Spielzug
 
