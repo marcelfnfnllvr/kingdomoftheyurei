@@ -1,8 +1,10 @@
 # Zufallstabellen
 
+>[Dämon](#d%C3%A4mon) - [Herkunft](#herkunft) - [Ängste](#%C3%A4ngste) - [Fähigkeiten](#f%C3%A4higkeiten) - [Reittiere](#reittiere) - [Namen](#namen) - [Waffen](#waffen)
+
 ## Dämon 
 
-| **1d20** | **Dämon**        | **Zeichnung**                                  | **Attribut 3**| Fähigkeiten                                                  |
+| **1d20** | **Dämon**        | **Zeichnung**                                  | **Attribut 3**| Fähigkeiten                                                 |
 | -------- | ---------------- | ---------------------------------------------- | ------------ | ------------------------------------------------------------ |
 | 1        | Hirsch           | Hirschgeweih                                   | Stechend     | Widerstandskraft - Die Kraft der Jugend                      |
 | 2        | Kitsune          | Rote Zeichnungen, Fuchsohren, Fuchsschwanz     | Gewandtheit  | Fuchsflammen - Erschaffe eine kleine schwebende Flamme, die auf Menschen eine unwiderstehliche anziehende Wirkung ausübt |
@@ -25,6 +27,7 @@
 | 19       | Iwana bōzu       | Schuppige Haut                                 | Ehrwürdig    | Gastfreundschaft - Du deeskalierst eine Situation            |
 | 20       | Onryō            | Lange schwarze Haare                           | Bedrohlich   | Schrecken - Zeige etwas seine tiefste Angst auf              |
 
+>[Dämon](#d%C3%A4mon) - [Herkunft](#herkunft) - [Ängste](#%C3%A4ngste) - [Fähigkeiten](#f%C3%A4higkeiten) - [Reittiere](#reittiere) - [Namen](#namen) - [Waffen](#waffen)
 
 ## Herkunft
 
@@ -35,7 +38,7 @@
 | 3        | Lehrer der Philosophie / Dichter                           | Verstand         | Inspiration         | Schreibwerkzeug                            |
 | 4        | Führer                                                     | Wegfindung       | Nahrungssuche       | Wanderstab                                 |
 | 5        | Teebauer / Reisbauer                                       | Pflanzen         | Umwelt              | Sichel                                     |
-| 6        | Priester / Mönch / Miko?                                   | Inspiration      | Erzählen            | Standesgemäße Kleidung                     |
+| 6        | Priester / Mönch / Miko                                    | Inspiration      | Erzählen            | Standesgemäße Kleidung                     |
 | 7        | Theaterdarsteller                                          | Akrobatik        | Geschichtenerzähler | Kabuki (Maske)                             |
 | 8        | Schmied / Schreiner                                        | Kraft / Geschick | Präzision           | Schmiedehammer                             |
 | 9        | Shinobi                                                    | Heimlich         | Verstand            | Kunai                                      |
@@ -51,6 +54,7 @@
 | 19       | Krieger - Ronin                                            | Zäh              | Heimlich            | Tanto - Kurzschwert                        |
 | 20       | Koch                                                       | Geschick         | Kochen              | Rezeptsammlung                             |
 
+>[Dämon](#d%C3%A4mon) - [Herkunft](#herkunft) - [Ängste](#%C3%A4ngste) - [Fähigkeiten](#f%C3%A4higkeiten) - [Reittiere](#reittiere) - [Namen](#namen) - [Waffen](#waffen)
 
 ## Ängste
 ### **Angst I**
@@ -103,6 +107,7 @@
 | 19   | Angst vor Wind und Stürmen                            |
 | 20   | Angst vor Nebel                                       |
 
+>[Dämon](#d%C3%A4mon) - [Herkunft](#herkunft) - [Ängste](#%C3%A4ngste) - [Fähigkeiten](#f%C3%A4higkeiten) - [Reittiere](#reittiere) - [Namen](#namen) - [Waffen](#waffen)
 
 ## Fähigkeiten
 ### Fähigkeiten I
@@ -155,6 +160,7 @@
 | 19       | Seelenwandler      | Streife die Bürde deines Körpers für kurze Zeit ab.                                      | 
 | 20       | Auszehren          | Entziehe jemand oder etwas Energie.                                                      |
 
+>[Dämon](#d%C3%A4mon) - [Herkunft](#herkunft) - [Ängste](#%C3%A4ngste) - [Fähigkeiten](#f%C3%A4higkeiten) - [Reittiere](#reittiere) - [Namen](#namen) - [Waffen](#waffen)
 
 ## **Reittiere**
 
@@ -180,6 +186,8 @@
 | 18       | Vielfraß         | Ausdauer        | 
 | 19       | Schildkröte      | Geschützt       | 
 | 20       | Skorpion         | Wehrhaft        |
+
+>[Dämon](#d%C3%A4mon) - [Herkunft](#herkunft) - [Ängste](#%C3%A4ngste) - [Fähigkeiten](#f%C3%A4higkeiten) - [Reittiere](#reittiere) - [Namen](#namen) - [Waffen](#waffen)
 
 ## Namen
 ### **Feminine Namen**
@@ -229,3 +237,29 @@
 | 18       | Hayato       |
 | 19       | Toki         |
 | 20       | Oswin        |
+
+>[Dämon](#d%C3%A4mon) - [Herkunft](#herkunft) - [Ängste](#%C3%A4ngste) - [Fähigkeiten](#f%C3%A4higkeiten) - [Reittiere](#reittiere) - [Namen](#namen) - [Waffen](#waffen)
+
+## **Waffen**
+| **1d20** | **Vornamen** |
+| -------- | ------------ |
+| 1        | Tonfa        |
+| 2        | Bo           |
+| 3        | Katana       |
+| 4        | Naginata     |
+| 5        | Sai          |
+| 6        | Yumi         |
+| 7        | Yari         |
+| 8        | Tessen       |
+| 9        | Jutte        |
+| 10       | Shuriken     |
+| 11       | Ninjato      |
+| 12       | Tetsubo      |
+| 13       | Nagamaki     |
+| 14       | Sasumata     |
+| 15       | Tsukumō      |
+| 16       | Ōdachi       |
+| 17       | Ofuda        |
+| 18       | Chigiriki    |
+| 19       | Kunai        |
+| 20       | Kusarigama   |
