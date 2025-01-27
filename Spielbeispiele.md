@@ -1,41 +1,12 @@
 # Spielbeispiele
 
->[1. Ablauf einer Session](#ablauf-einer-session)  
->[2. Etwas herausfinden - Eröffnungsfrage - Hilfe anbieten](#etwas-herausfinden---er%C3%B6ffnungsfrage---hilfe-anbieten)  
->[3. Fähigkeit nutzen](#f%C3%A4higkeiten-nutzen)  
->[4. Kampf - Den Gegner schwächen](#kampf---den-gegner-schw%C3%A4chen)  
->[5. Etwas riskieren - Außer Gefecht gesetzt](#etwas-riskieren---au%C3%9Fer-gefecht-gesetzt)  
->[6. Auf Reisen](#auf-reisen)  
->[7. Das Abenteuer lösen](#das-abenteuer-l%C3%B6sen)  
->[8. Ende einer Session - Stufenaufstieg - Außer Gefecht gesetzt](#am-ende-einer-spielsession---stufenaufstieg---au%C3%9Fer-gefecht-gesetzt)
-
-## Ablauf einer Session
-
-##### Session 0 - Vor dem Spiel
-
-Vor der ersten Session, vor allem wenn es sich um einen Oneshot handelt, sollten die CATS an die Spielenden gegeben werden. Außerdem sollten die Lines and Veils abgeklärt werden. So wird die Gefahr minimiert, dass es Missverständnisse und falsche Erwartungen gibt oder jemand aus der Gruppe mit für ihn oder sie zu unangenehmen Themen konfrontiert wird.
-<!-- Entwicklerkommentar incoming-->
-Auch wenn es möglich ist seinen Charakter in Gänze zu würfeln, tendiere ich dazu bei den Spielenden einen Namen, das Aussehen und ein Reittier abzufragen. Nachdem ich über die CATS an dem Abend das Spiel grob erklärt habe, gehe ich meistens noch 10 Minuten näher auf die Punkte ein, die in der allgemeinen Beschreibung aufgeführt sind. Auch über den Ton des Abends rede ich noch etwas ausführlicher. Hier ist vor allem wichtig, dass sich alle auf einen gemeinsamen Nenner einigen und nicht welcher genau das ist. Dieses Regelwerk kann sehr ernst aber auch eher locker gespielt werden. Mir ist immer dabei immer wichtig, dass die Spielenden ihre Charaktere ernst nehmen.
-
-Nachdem das geklärt ist, werden die Charaktere ganz nach dem Kapitel "Charaktererstellung" erstellt.
-
-##### Vorbereitungen
-
-Ist die Session 0 abgeschlossen und haben alle ihre Charaktere, dann kann ins erste Abenteuer gestartet werden. Davor müssen die Spielenden nur noch die drei Abenteueraufgaben wählen, die sie versuchen möchten in der Session abzuschließen.
-
-##### Im Spiel
-
-Danach führt die SL die Gruppe in das Abenteuer ein. Dafür gibt es bei jedem Abenteuer den Punkt *Eröffnung*. Hier wird der Einstieg beschrieben, also in welcher Szene sich die Gruppe gerade befindet. Außerdem gibt es hier auch schon die erste Frage an die Spielenden, damit sie leichter in die Szene reinfinden. Am Anfang eines neuen Abenteuers ist es zusätzlich auch noch wichtig der Gruppe die Problemstellung des Abenteuers und auch die Abenteuerfrage zu nennen.
-
-Mit der Eröffnung steigen die Spielenden direkt ins Abenteuer ein. Nach dieser Szene steht es ihnen frei wie sie weiter agieren und in welcher Reihenfolge sie mit NSCs sprechen und die verschiedenen Schauplätze besuchen möchten. Da die Hinweise eher unspezifisch sind, können sie von der SL so flexibel vergeben werden, dass sie sich gut in die jeweilige Handlung oder Szene einfügen. Es ist also grundsätzlich nicht nötig, dass die Spielenden eine bestimmte Reihenfolge einhalten. 
-Gelangen sie an einen neuen Schauplatz, können sie auch diesen häufig im Rahmen einer Paint-the-Scene-Frage mitgestalten. Die Antworten auf diese Frage kann die SL wiederum im Lauf der Szene wieder verwenden, beispielsweise wenn sie auf einen gewissen Hinweis deuten, der gut zur Szenerie passt. 
-Im späteren Verlauf der Session kann das Geschehen auch noch durch einen Kampf aufgelockert werden, den die SL mit gesammelten Verderbnispunkten kauft. Allein da hierfür die Verderbnispunkte ausgegeben werden müssen, kann sich diese Art von Kampf tendenziell erst später ereignen. 
-Hat die Gruppe irgendwann genügend Hinweise gesammelt (abhängig von der Schwierigkeit des Abenteuers), beendet die SL vorerst das Rollenspiel. Nun folgt die Aufgabe für die Gruppe, die Hinweise zu einer plausiblen Geschichte zusammenzubauen und eine Lösung für das Problem zu präsentieren. Das Austüfteln der Geschichte dauert meist ein wenig, also sollte auch für diesen Schritt genügend Zeit eingeplant werden (grob geschätzt 15min, je nach Spielgruppe). Nachdem den Spielenden für diese Aufgabe genügend Zeit eingeräumt wurde, präsentieren sie der Spielleitung ihre Lösung. Die SL zählt dabei mit, wie viele der gefundenen Hinweise in der Geschichte verbaut sind. Anschließend wird die Anzahl der verbauten Hinweise von der Schwierigkeit des Abenteuers abgezogen. Zuletzt würfeln die Spielenden mit zwei Würfeln gegen die so gesenkte Schwierigkeit des Abenteuers. Je nach Ergebnis folgt hierauf das Ende des Abenteuers oder der Endkampf.
-Damit ist das eigentliche Spiel vorbei und es bleibt nur noch zu prüfen ob und wie viele Abenteueraufgaben die Spielenden abhaken können und ob die so gewonnenen Abschnittspunkte für einen Abschnittswechsel ausgegeben werden.
-
-In den vorgefertigten Abenteuern sind alle wichtigen Elemente wie Schauplätze, NSCs, Eröffungsfragen, Problemstellung des Abenteuers etc. schon enthalten.
-
->[Zurück nach oben](#spielbeispiele)
+>[1. Etwas herausfinden - Eröffnungsfrage - Hilfe anbieten - freier Gegenstand](#etwas-herausfinden---er%C3%B6ffnungsfrage---hilfe-anbieten---freier-gegenstand)  
+>[2. Fähigkeit nutzen](#f%C3%A4higkeiten-nutzen)  
+>[3. Kampf - Den Gegner schwächen](#kampf---den-gegner-schw%C3%A4chen)  
+>[4. Etwas riskieren - Außer Gefecht gesetzt](#etwas-riskieren---au%C3%9Fer-gefecht-gesetzt)  
+>[5. Auf Reisen](#auf-reisen)  
+>[6. Das Abenteuer lösen](#das-abenteuer-l%C3%B6sen)  
+>[7. Ende einer Session - Stufenaufstieg - Außer Gefecht gesetzt](#am-ende-einer-spielsession---stufenaufstieg---au%C3%9Fer-gefecht-gesetzt)
 
 ## Spielszenen
 
@@ -48,7 +19,7 @@ Die Charaktere der drei heißen
 
 Wenn die Spielenden oder die Spielleiterin *in Character* sprechen, dann steht das in "Anführungsstrichen".
 
-### Etwas herausfinden - Eröffnungsfrage - Hilfe anbieten
+### Etwas herausfinden - Eröffnungsfrage - Hilfe anbieten - freier Gegenstand
 
 >**Martina**: Ihr geht auf den Dorfplatz und beobachtet das geschäftige Treiben. Heute findet ein Markt statt, also sind hier gerade auch einige Händler die lautstark ihre Waren anpreisen. Und da habe ich auch gleich mal eine *Paint the Scene*-Frage für euch: Ihr wisst, dass das Dorf einmal ein florierender Handelsort war. Woran merkt ihr, dass es aber seine besten Zeiten schon hinter sich hat?  
 >**Lydia**: Der Marktplatz ist relativ groß für so einen kleinen Ort, aber mindestens ein Drittel vom Platz ist völlig leer, ohne Marktstände oder Läden. Nur eine Katze liegt dort auf einer Mauer und sonnt sich.  
@@ -59,8 +30,8 @@ Wenn die Spielenden oder die Spielleiterin *in Character* sprechen, dann steht d
 >**Martina**: Yūsuke, du begibst dich zu der Traube Menschen und versuchst dich ein wenig vorzudrängeln, um den Stand sehen zu können. Durch den Spielzug "Etwas herausfinden" bekommst du hier einen weißen Würfel.   Allerdings hast du Angst vor Menschenmengen. Da du dich direkt in die dichte Menge begibst, bekommst du hier für auch noch einen schwarzen Würfel.  
 >**Ralph**: Ich habe eine weiße 3 und eine schwarze 2 geworfen.  
 >**Martina**: Das würde nicht für einen Hinweis reichen und ich würde dafür einen Verderbnispunkt bekommen.  
->**Lydia**: Ich möchte Yūsuke gerne helfen. Ayane ist zwar zierlich, aber vor ihrem großen Bären halten die meisten Menschen lieber etwas Abstand. Wir beide bahnen also eine kleine Schneise durch die Menge, sodass Yūsuke nach vorne kann und nicht ganz allein inmitten der ganzen unbekannten Menschen stehen muss.  
->**Martina**: Ich finde das passt gut und durch deinen Bär hast du auch noch ein passendes Attribut "bedrohlich". Das ist ein weißes Attribut, also darfst du mit einem weißen W6 helfen.  
+>**Lydia**: Ich möchte Yūsuke gerne helfen. Ayane ist zwar zierlich, aber wir hatten doch vorher so ein Horagai als Hinweis gefunden... Ich nehme also dieses Muschelhorn und puste kräftig hinein, damit uns die Menge Platz macht und Yūsuke  zusammen mit mir nach vorne kann. Dann steht er auch nicht ganz allein inmitten der ganzen unbekannten Menschen stehen muss.  
+>**Martina**: Ich finde das passt gut, den Hinweis kannst du über den freien Gegenstandslot einsetzen. Damit bekommst du einen weißen Attributswürfel dazu.    
 >**Lydia**: Ich habe eine 4 gewürfelt.  
 >**Martina**: Das reicht leider immer noch nicht. Yūsuke, du kannst den Wurf aber noch einmal mit einem zusätzlichen schwarzen Würfel rerollen, weil die höchste Augenzahl bisher dein weißer Würfel hatte.  
 >**Ralph**: Also gut, ich geh' das Risiko ein und würfle mit zwei schwarzen und einem weißen Würfel noch einmal. Ich habe eine weiße 6, eine weiße 3 und eine schwarze 4.  
