@@ -73,7 +73,8 @@ Bei jedem Aufstieg:
 
 6. Ändere ein Attribut oder einen Gegenstand. (Optional)
 7. Ändere das Aussehen deiner Zeichnung. (Optional)
-8. Du bist jetzt in einem Abschnitt, in dem du deinen Dämon gut unter Kontrolle hast. Dieser Abschnitt ist hell.
+8. Ändere eines der Attributfelder zurück in ein weißes. (Optional)
+9. Du bist jetzt in einem Abschnitt, in dem du deinen Dämon gut unter Kontrolle hast. Dieser Abschnitt ist hell.
 
 Stufe 2 - Bei 8 gesammelten Punkten:
 

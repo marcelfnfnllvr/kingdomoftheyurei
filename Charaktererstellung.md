@@ -32,6 +32,7 @@ Theoretisch ist es natürlich möglich, dass die Spielenden ein Veto gegen die W
    1. Fähigkeiten I - Kommt in Fähigkeit 2
    2. Fähigkeiten II - Kommt in Fähigkeit 3
 
+5. Dein Charakter beginnt in einem dunklen Abschnitt, der von seinem Dämon beherrscht wird. Ändere eines der Attribute auf dunkel.
 6. Optional
    1. Tabelle Reittier - sofern sich die Spielenden nicht schon selbst ein Reittier ausgesucht haben
    2. Tabellen Namen - sofern sich die Spielenden nicht selbst schon für Namen entschieden haben
