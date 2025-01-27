@@ -5,8 +5,8 @@ Im Verlauf des Spiels nutzen die Spielenden Spielzüge, um Hinweise von NSCs zu 
 >[1. Etwas herausfinden](#der-etwas-herausfinden-spielzug)  
 >[2. Etwas riskieren](#der-etwas-riskieren-spielzug)   
 >[3. Fähigkeit nutzen](#der-eine-fähigkeit-nutzen-spielzug)  
->[4. Den Gegner schwächen](#der-den-gegner-schw%C3%A4chen-spielzug)  
->[5. Auf Reisen](#der-auf-reisen-spielzug)  
+>[4. Auf Reisen](#der-auf-reisen-spielzug)
+>[5. Den Gegner schwächen](#der-den-gegner-schw%C3%A4chen-spielzug) 
 >[6. Kampf](#der-sich-dem-kampf-stellen-spielzug)  
 >[7. Hilfe anbieten](#der-hilfe-anbieten-spielzug)  
 >[8. Abenteuer lösen](#der-das-abenteuer-l%C3%B6sen-spielzug)
@@ -50,19 +50,6 @@ Besprich mit der Spielleitung, was deine Fähigkeit bewirken soll. Du bekommst e
 
 [Zurück nach oben](#spielz%C3%BCge)
 
-## Der „Den Gegner schwächen“ Spielzug
-
-Es ist möglich, im Kampf die Gefahrenstufe des Gegners mithilfe von Fähigkeiten zu senken. Du bekommst einen schwarzen Würfel von diesem Spielzug.
-
-- 1&1 Die Gefahrenstufe des Gegners steigt noch einmal um 1.
-- 1-2 Die Gefahrenstufe des Gegners steigt um 1.
-- 5-6 Du senkst die Gefahrenstufe um 1.
-- 6&6 Du senkst die Gefahrenstufe um 3.
-
-*Dieser Spielzug wird verwendet, um die Gefahrenstufe eines Gegners zu senken. Dies kann direkt vor einem Kampf geschehen, aber auch während des Kampfes. Die Fähigkeiten, die dafür verwendet werden, sollten im Kontext der Situation Sinn ergeben und eine gute Geschichte erzählen.*
-
-[Zurück nach oben](#spielz%C3%BCge)
-
 ## Der „Auf Reisen“ Spielzug
 
 Dieser Spielzug darf pro Spielendem nur einmal pro Abenteuer verwendet werden. Erzählt von einem Moment auf der Reise, um allein oder gemeinsam Zustände abzubauen. Dieser Spielzug gibt einen weißen Würfel. Um einen weiteren Würfel zu erhalten, muss die Erzählung etwas mit dem Attribut zu tun haben, von dem der Charakter den zweiten Würfel für diesen Spielzug bekommen soll. 
@@ -76,6 +63,21 @@ Dieser Spielzug darf pro Spielendem nur einmal pro Abenteuer verwendet werden. E
 *Erzählt von einem Moment, den ihr mit eurem Reittier verbracht habt, wie ihr mit der Gruppe am Feuer gesessen und über etwas gelacht habt oder wie ihr einfach einen Moment der Ruhe und Entspannung hattet. Dieser Spielzug ist nicht nur dazu da, um Zustände zu entfernen, sondern auch um dem Charakter Tiefe zu verleihen und seine Hintergrundgeschichte zu erweitern.*
 
 [Zurück nach oben](#spielz%C3%BCge)
+
+
+## Der „Den Gegner schwächen“ Spielzug
+
+Es ist möglich, im Kampf die Gefahrenstufe des Gegners mithilfe von Fähigkeiten zu senken. Du bekommst einen schwarzen Würfel von diesem Spielzug. Falls du keine passende Fähigkeit für diesen Spielzug hast, kannst du erst "Etwas riskieren". Ist dieser Wurf erfolgreich (5-6), darfst du auch ohne passende Fähigkeit versuchen den Gegner zu schwächen.
+
+- 1&1 Die Gefahrenstufe des Gegners steigt noch einmal um 1.
+- 1-2 Die Gefahrenstufe des Gegners steigt um 1.
+- 5-6 Du senkst die Gefahrenstufe um 1.
+- 6&6 Du senkst die Gefahrenstufe um 3.
+
+*Dieser Spielzug wird verwendet, um die Gefahrenstufe eines Gegners zu senken. Dies kann direkt vor einem Kampf geschehen, aber auch während des Kampfes. Die Fähigkeiten, die dafür verwendet werden, sollten im Kontext der Situation Sinn ergeben und eine gute Geschichte erzählen.*
+
+[Zurück nach oben](#spielz%C3%BCge)
+
 
 ## Der „Sich dem Kampf stellen“ Spielzug
 
