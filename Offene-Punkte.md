@@ -94,7 +94,9 @@
   - [ ] Mehr soziale Interaktion	
 - [ ] Adaption in das jetzt Japan
   - [ ] Yokai sind in vergessenheit geraten
+    - [ ] Ist das so oder spielt unsere Geschite doch in einem Detektivbüro?
   - [ ] Ihr seid jugendliche die über alte analoge Technik Yokai sehen können?
+    - [ ] eher wieder über natürliche Fähigkeiten, Berührungen, etc.
   - [ ] Aufgeteilt in zwei Phasen
     - [ ] Yokai bekämpfem
       - [ ] Etwas herrausfinden Phase
@@ -113,7 +115,23 @@
   - [ ] Abenteuer sollten immer 2-3 Abende lang sein
     - [ ] Probleme können paralell angegangen werden?
   - [ ] Haben die Personen Avatare in der Dortwelt?
+  - [ ] Wie ist das mit Kämpfen?
+    - [ ] Nur in der Geisterwelt?
+    - [ ] Als Avatar?
+    - [ ] Probleme die drüben gelößt werden lößen sich auch hier?
+      - [ ] Trotzdem muss auf beiden Ebenen ermittelt werden?
   - [ ] Diesmal aber wirklich in Japan. 
+  - [ ] Eventuell hat jeder als "übergeordnete" Handlung ein privates Yokai Problem 
+    - [ ] Dies kann dann nur über mehrer Abenteuer hinweg gelößt werden.
+  - [ ] Nicht nur das private Problem auch eine genrelle Bedrohnung für Japan
+  - [ ] Ausflüge in andere REegeionen Japans als eizelabenteuer?
+  - [ ] Eine Art Tagesabschnittsmanagment?
+    - [ ] So ein wenig wie bei die verbotenen Lande?
+    - [ ] zwei Orte pro Tag?
+    - [ ] Oder nur Jäger am ABend?
+      - [ ] Sozialleben?
+      - [ ] Wochenende?
+    - [ ] Arbeit und Schule? Studium?
 - [ ] Kampagnenstyle
   - [ ] Welt zusammen bauen am Abend
   - [ ] Pro Würfe
