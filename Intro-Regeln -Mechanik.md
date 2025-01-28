@@ -6,7 +6,7 @@ Durch das Handeln der Charaktere in der Welt werden Spielzüge ausgelöst, auf d
 
 <!-- Vorschlag Marcel -->
 
-Um die Spielenden noch stärker einzubinden und ihnen die Möglichkeit zu geben, die Welt aktiv mitzugestalten, gibt es in jedem Abenteuer die sogenannten "Die Szene ausmalen Fragen". Hier führt die Spielleitung in eine Szene ein und lässt die Spielenden diese Szene anhand von Fragen ausmalen. "Ihr betretet das altehrwürdige Teehaus in Gunma. Welche Gegenstände fallen euch sofort ins Auge?".
+Um die Spielenden noch stärker einzubinden und ihnen die Möglichkeit zu geben, die Welt aktiv mitzugestalten, gibt es in jedem Abenteuer die sogenannten "Eröffnungsfragen". Hier führt die Spielleitung in eine Szene ein und lässt die Spielenden diese Szene anhand von Fragen ausmalen. "Ihr betretet das altehrwürdige Teehaus in Gunma. Welche Gegenstände fallen euch sofort ins Auge?".
 
 <!-- -->
 
