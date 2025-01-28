@@ -95,7 +95,19 @@
 - [ ] Adaption in das jetzt Japan
   - [ ] Yokai sind in vergessenheit geraten
   - [ ] Ihr seid jugendliche die über alte analoge Technik Yokai sehen können?
-
+  - [ ] Aufgeteilt in zwei Phasen
+    - [ ] Yokai bekämpfem
+      - [ ] Etwas herrausfinden Phase
+    - [ ] Privatleben 
+      - [ ] "Leben" / Zustände abbauemregenerieren, Arbeiten?, Privatleben gestalten?
+    - [ ] Wohnugn als zentraler Hub? 
+      - [ ] Ein Zentraler hub für alle gemeinsam?
+    - [ ] Altersklassen? 
+      - [ ] Studenten
+      - [ ] Erwachsene
+      - [ ] Elder?
+    - [ ] Privatphase wird erzählt und Yokai Hunting gespielt?
+  
 - [ ] Kampagnenstyle
   - [ ] Welt zusammen bauen am Abend
   - [ ] Pro Würfe
