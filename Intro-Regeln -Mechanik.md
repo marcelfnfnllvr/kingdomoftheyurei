@@ -11,5 +11,3 @@ Um die Spielenden noch stärker einzubinden und ihnen die Möglichkeit zu geben,
 <!-- -->
 
 Ihr spielt „Play to find out“ und versucht, eine Lösung für das aktuelle Problem zu finden. Dazu sammelt ihr Hinweise und baut später daraus eine Lösung. Es wird aber nicht darauf gewürfelt, ob diese Lösung richtig ist, sondern nur, ob der von euch erdachte Weg zur Lösung des Problems auch so funktioniert. Wenn nicht, kommt es meist noch zu einer direkten Konfrontation. Die friedliche Lösung hat für die Fureru aber immer Vorrang.
-
-## Mitmachen und die Rool of Cool
