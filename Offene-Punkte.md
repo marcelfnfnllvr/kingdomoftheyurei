@@ -6,13 +6,14 @@
   - [ ] Um an einem Kampf teilnehmen zu können, benötigt der Charakter eine Waffe als Gegenstand oder eine entsprechende Fähigkeit. 
   - [ ] Ergibt das noch Sinn? --> wird in den nächsten Runden getestet (hoffentlich)
  - [ ] Spielprinzipien: Rule of Cool???
+   - [ ] Ist das nicht schon in Intro-Regeln --Marcel
+
 
 ## 2 Texte ergänzen/schreiben für's Regelwerk
 ### 2.1 Systembeschreibung
-- [ ] Allgemeine Erklärungen und Einführungen fertigstellen
-  - [ ] Player Principles fehlen nicht mehr. Sonst ok. Probe lesen? Probe lesen!
 - [ ] Mitmachen?
-  - [ ] 
+  - [ ] Die Szene ausmalen in Intro-Regeln ergänzt
+    - [ ] Gut? --Marcel
 
 - [ ] Bezeichnung vereinheitlichen: Welt/Reich Zwielichts, nicht Dämonenreich, Geisterebene etc.
   - [ ] 1x lesen Marcel
@@ -105,6 +106,9 @@
 ## erledigt
 
 - [x] evtl in den Spielbeispielen einen freien Gegenstand ergänzen
+- [x] Allgemeine Erklärungen und Einführungen fertigstellen
+  - [x] Player Principles fehlen nicht mehr. Sonst ok. Probe lesen? Probe lesen!
+    - [x] Schön. --Marcel (:
 - [x] Zufallstabelle
   - [x] Waffen?
 - [x] Ideen in Abenteuer verbauen (Optionen)
