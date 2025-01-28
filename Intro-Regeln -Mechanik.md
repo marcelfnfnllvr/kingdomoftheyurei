@@ -4,5 +4,12 @@ Oberstes Ziel von *Königreich der Yōkai* ist - neben dem Spaß am Spiel - dass
 Um genügend Freiraum für Erzählungen und Ideen zu schaffen, sind die Spielzüge, Attribute und Fähigkeiten bewusst vage gehalten. So können die Spielenden und die Spielleitung im jeweiligen Moment selbst entscheiden, ob eine Aktion zur Situation passt. Außerdem sollte den Spielenden bewusst sein, dass ihre Charaktere nicht nur auf die Attribute und Fähigkeiten in ihrem Charakterbogen beschränkt sind. Handlungen oder Fertigkeiten, die dort nicht explizit vermerkt sind, können je nach Situation über die Spielzüge "Etwas herausfinden" oder "Etwas riskieren" ermöglicht werden. Kreative Ideen sollen dabei auf jeden Fall belohnt werden. Ein "Dein Charakter kann das nicht" wird es hier nicht geben. Die Charaktere können höchstens beim Versuch etwas zu tun scheitern, weil ihnen das Würfelglück in dem Moment nicht vergönnt war.    
 Durch das Handeln der Charaktere in der Welt werden Spielzüge ausgelöst, auf die gewürfelt wird. Aber wenn das Ergebnis des Spielzugs steht, dann rücken das Erzählerische und auch das Rollenspiel wieder in den Vordergrund. Auch wenn - und manchmal genau weil - der eigentliche Spielzug misslingt, können sehr spannende Situationen entstehen und die Gruppe insgesamt in der Geschichte ein Stück weiterbringen. Für die Erzählung als Ganzes liegt die Verantwortung bei der Spielleitenden und den Spielenden gleichermaßen.  
 
+<!-- Vorschlag Marcel -->
+
+Um die Spielenden noch stärker einzubinden und ihnen die Möglichkeit zu geben, die Welt aktiv mitzugestalten, gibt es in jedem Abenteuer die sogenannten "Die Szene ausmalen Fragen". Hier führt die Spielleitung in eine Szene ein und lässt die Spielenden diese Szene anhand von Fragen ausmalen. "Ihr betretet das altehrwürdige Teehaus in Gunma. Welche Gegenstände fallen euch sofort ins Auge?".
+
+<!-- -->
+
 Ihr spielt „Play to find out“ und versucht, eine Lösung für das aktuelle Problem zu finden. Dazu sammelt ihr Hinweise und baut später daraus eine Lösung. Es wird aber nicht darauf gewürfelt, ob diese Lösung richtig ist, sondern nur, ob der von euch erdachte Weg zur Lösung des Problems auch so funktioniert. Wenn nicht, kommt es meist noch zu einer direkten Konfrontation. Die friedliche Lösung hat für die Fureru aber immer Vorrang.
 
+## Mitmachen und die Rool of Cool

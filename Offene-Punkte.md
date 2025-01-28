@@ -11,6 +11,9 @@
 ### 2.1 Systembeschreibung
 - [ ] Allgemeine Erklärungen und Einführungen fertigstellen
   - [ ] Player Principles fehlen nicht mehr. Sonst ok. Probe lesen? Probe lesen!
+- [ ] Mitmachen?
+  - [ ] 
+
 - [ ] Bezeichnung vereinheitlichen: Welt/Reich Zwielichts, nicht Dämonenreich, Geisterebene etc.
   - [ ] 1x lesen Marcel
     - [ ] Strg-F ist auch so ein Ding
