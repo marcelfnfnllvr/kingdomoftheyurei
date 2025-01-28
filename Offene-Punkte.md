@@ -16,6 +16,9 @@
     - [ ] Gut? --Marcel
 
 - [ ] Wie schreibt man ein Abenteuer?
+- [ ] Formulierung im Regelwerk grade ziehen?
+  - [ ] Regeln? Spielzüge? Alle ansprechen?
+
 - [ ] Bezeichnung vereinheitlichen: Welt/Reich Zwielichts, nicht Dämonenreich, Geisterebene etc.
   - [ ] 1x lesen Marcel
     - [ ] Strg-F ist auch so ein Ding
