@@ -107,7 +107,13 @@
       - [ ] Erwachsene
       - [ ] Elder?
     - [ ] Privatphase wird erzählt und Yokai Hunting gespielt?
-  
+  - [ ] Springen zwischen Welten?
+    - [ ] Das hier, die Menschenwelt
+    - [ ] Das dort, die Dämonenwelt?
+  - [ ] Abenteuer sollten immer 2-3 Abende lang sein
+    - [ ] Probleme können paralell angegangen werden?
+  - [ ] Haben die Personen Avatare in der Dortwelt?
+  - [ ] Diesmal aber wirklich in Japan. 
 - [ ] Kampagnenstyle
   - [ ] Welt zusammen bauen am Abend
   - [ ] Pro Würfe
