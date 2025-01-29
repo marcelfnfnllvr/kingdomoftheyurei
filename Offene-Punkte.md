@@ -5,8 +5,7 @@
 - [ ] Wie ist das mit der Teilnahme am Kampf?
   - [ ] Um an einem Kampf teilnehmen zu können, benötigt der Charakter eine Waffe als Gegenstand oder eine entsprechende Fähigkeit. 
   - [ ] Ergibt das noch Sinn? --> wird in den nächsten Runden getestet (hoffentlich)
-- [ ] Spielprinzipien: Rule of Cool???
-   - [ ] Ist das nicht schon in Intro-Regeln --Marcel
+
 
 
 ## 2 Texte ergänzen/schreiben für's Regelwerk
@@ -14,22 +13,29 @@
 - [ ] Mitmachen?
   - [ ] Die Szene ausmalen in Intro-Regeln ergänzt
     - [ ] Gut? --Marcel
-
-- [ ] Wie schreibt man ein Abenteuer?
+    - [ ] find schon
+- [ ] Cheatsheet nochmal prüfen und aktualisieren
+- [ ] Wie schreibt man ein Abenteuer? "Jetzt erzählen Sie doch mal." *hältMikrofondirektunterdieNase*
+    - [ ] Idee für Abenteuer entwickeln
+    - [ ] Schauplätze und NPCs
+    - [ ] Hinweise für die Spielenden
+    - [ ] Abenteuerfrage
+    - [ ] Beurteilen, wie viele Sessions ein Abenteuer vermutlich dauern wird
+    - [ ] Abenteuerstufe festlegen
 - [ ] Formulierung im Regelwerk grade ziehen?
-  - [ ] Regeln? Spielzüge? Alle ansprechen?
+  - [x] Regeln? Spielzüge? Alle ansprechen? --> zumindest bei Regeln sollt's jetzt passen
 
 - [ ] Bezeichnung vereinheitlichen: Welt/Reich Zwielichts, nicht Dämonenreich, Geisterebene etc.
   - [ ] 1x lesen Marcel
-    - [ ] Strg-F ist auch so ein Ding
-  - [ ] 1x lesen Doro
+    - [ ] Strg-F ist auch so ein Ding - und funktioniert auch in github
+  - [x] 1x lesen Doro
 - [x] Spielbeispiel Gegner schwächen --> Fähigkeit ergänzen wg Spielzug
 - [ ] Ablauf Spielabend / Abenteuer
   - [ ] Gameplay Loop soll Schematisch im Regelwerk abgebildet werden. Ein Diagramm.
   - [x] Kommt in Abenteuer_Vorwort.md 
   - [x] Nicht vergessen, dass die Spielenden am Anfang eines neuen Abenteuers ihre Aufgaben wählen müssen. Steht das schon irgendwo? --> jetzt schon, ja
   - [x] Abschnittspunkte - "Fragen" ersetzen durch Aufgaben
-- [ ] Safety Tools
+- [x] Safety Tools
 
 ### 2.2 Weltbeschreibung
 - [ ] Abenteuer schreiben
@@ -103,7 +109,7 @@
     - [ ] eher wieder über natürliche Fähigkeiten, Berührungen, etc.
   - [ ] Aufgeteilt in zwei Phasen
     - [ ] Yokai bekämpfem
-      - [ ] Etwas herrausfinden Phase
+      - [ ] Etwas herausfinden Phase
     - [ ] Privatleben 
       - [ ] "Leben" / Zustände abbauemregenerieren, Arbeiten?, Privatleben gestalten?
     - [ ] Wohnugn als zentraler Hub? 
@@ -145,10 +151,12 @@
 
 ## erledigt
 
+- [x] Spielprinzipien: Rule of Cool???
+   - [x] Ist das nicht schon in Intro-Regeln --Marcel
 - [x] evtl in den Spielbeispielen einen freien Gegenstand ergänzen
 - [x] Allgemeine Erklärungen und Einführungen fertigstellen
   - [x] Player Principles fehlen nicht mehr. Sonst ok. Probe lesen? Probe lesen!
-    - [x] Schön. --Marcel (:
+    - [x] Schön. --Marcel (: -- <3
 - [x] Zufallstabelle
   - [x] Waffen?
 - [x] Ideen in Abenteuer verbauen (Optionen)
