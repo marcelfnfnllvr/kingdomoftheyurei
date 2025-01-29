@@ -1,8 +1,8 @@
 # Regeln
 
-Hier findest du alle Regeln, die du zum Spielen von *Augen des Zwielichts: Königreich der Yōkai* brauchst. Den genauen Spielablauf findest du in den Spielbeispielen. Bitte beachte, dass du das gesamte Regelwerk gelesen haben solltest, bevor du ein Abenteuer leitest. Nur die Regeln zu lesen wird nicht ausreichen, um die Stimmung, das Gefühl, die Abenteuer, aber auch einfach den mechanischen Ablauf ausreichend zu verinnerlichen.
+Hier findet ihr alle Regeln, die ihr zum Spielen von *Augen des Zwielichts: Königreich der Yōkai* braucht. Den genauen Spielablauf findet ihr in den Spielbeispielen. Bitte beachtet dass zumindest die Spielleitenden das gesamte Regelwerk gelesen haben sollten, bevor sie ein Abenteuer leiten. Nur die Regeln zu lesen wird nicht ausreichen, um die Stimmung, das Gefühl, die Abenteuer, aber auch einfach den mechanischen Ablauf ausreichend zu verinnerlichen. Natürlich ist es auch für die Spielenden gut, wenn sie sich schon vor dem Spiel mit den Regeln auseinandergesetzt haben.  
 
-Deine Spielenden versuchen durch Spielzüge Hinweise zu sammeln und diese am Ende des Abenteuers zu kombinieren. Für die Spielzüge stellen sie einen Würfelpool zusammen, der aus schwarzen und weißen Würfeln bestehen kann. Dieser Pool wird dann gewürfelt und die zwei höchsten Augenzahlen werden gewertet. Welche Augenzahlen dabei zu welchem Ergebnis führen, findest du in dem jeweiligen Spielzug. Alle anderen Regeln, die du zum Spielen brauchst, findest du hier. Um das System besser zu verstehen und zu verinnerlichen, solltest du dir auch die Spielbeispiele durchlesen.
+Die Spielenden versuchen durch Spielzüge Hinweise zu sammeln und diese am Ende des Abenteuers zu kombinieren. Für die Spielzüge stellen sie einen Würfelpool zusammen, der aus schwarzen und weißen Würfeln bestehen kann. Dieser Pool wird dann gewürfelt und die zwei höchsten Augenzahlen werden gewertet. Welche Augenzahlen dabei zu welchem Ergebnis führen, findet ihr in dem jeweiligen Spielzug. Alle anderen Regeln stehen im folgenden Abschnitt. Die Spielleitung würfelt in diesem System nie selbst. Um das System besser zu verstehen und zu verinnerlichen, solltet ihr euch auch die Spielbeispiele durchlesen.  
 
 ## Der Würfelpool - Würfel sammeln
 
@@ -22,7 +22,7 @@ Für jeden Spielzug erhältst du einen Würfel. Für ungefährliche Spielzüge g
 
 ## Der Wurf
 
-Nachdem der Spielende seinen Würfelpool zusammengestellt hat, würfelt er. Ziel ist, eine möglichst hohe Augenzahl mit einem der Würfel zu erreichen. Beispielsweise hat der Spielende zwei weiße und einen schwarzen Würfel in seinem Pool. Er würfelt eine weiße 4, eine weiße 3 und eine schwarze 3. Damit steht als vorläufiges Ergebnis die weiße 4. Wenn wir jetzt zum Beispiel den Spielzug "Etwas herausfinden" betrachten, dann wäre eine 4 das Ergebnis: 1-4 -> Die Spielleitung erhält einen Verderbnispunkt. Sollte der Spielende damit nicht zufrieden sein, kann er seinen Wurf verbessern. Das neue Ergebnis zählt.
+Nachdem der oder die Spielende den Würfelpool für den Spielzug zusammengestellt hat, wird gewürfelt. Ziel ist, eine möglichst hohe Augenzahl mit einem der Würfel zu erreichen. Beispielsweise besteht der Pool aus zwei weißen und einem schwarzen Würfel. Der Wurf ergibt eine weiße 4, eine weiße 3 und eine schwarze 3. Damit steht als vorläufiges Ergebnis die weiße 4. Wenn wir jetzt zum Beispiel den Spielzug "Etwas herausfinden" betrachten, dann wäre eine 4 das Ergebnis: 1-4 -> Die Spielleitung erhält einen Verderbnispunkt. Sollte der oder die Spielende damit nicht zufrieden sein, kann der Wurf einmalig wiederholt werden. Das neue Ergebnis zählt.
 
 ## Den Wurf verbessern
 
@@ -67,9 +67,9 @@ Wenn ein Charakter sechs Zustände aufbaut, ist er außer Gefecht gesetzt. Es er
 
 Euer Charakter verdient sich nach jeder Spielsession Abschnittspunkte. Diese werden gesammelt und können für einen Aufstieg der Stufe 1, 2 oder 3 ausgegeben werden. Bedenkt allerdings, dass alle gesammelten Punkte verloren gehen, falls ihr außer Gefecht gesetzt werden solltet. Der Abschnittswechsel ist eine Art Alterungsprozess des Charakters. Kein Charakter ist für die Ewigkeit gemacht. Es werden die Punkte "Bei jedem Aufstieg" und die Punkte zugehörig zur jeweilige Stufe abgehandelt.
 
-Bei jedem Aufstieg:
+Bei jedem Aufstieg (Stufe 1):
 
-1. Setze deinen Aufstiegspunktezähler zurück.
+1. Setze deinen Abschnittspunktezähler zurück.
 2. Setze deine Zustände zurück. 
 3. Wenn du es schaffst, es mit dem aktuellen Abenteuer in Einklang zu bringen, verlierst du eine Angst.
 4. Beantworte die nächste Frage auf der Abschnittstabelle.
@@ -83,7 +83,7 @@ Bei jedem Aufstieg:
 
 Stufe 2 - Bei 8 gesammelten Punkten:
 
-1. Du darfst, für eine passende Erzählung, eine Angst deiner Wahl verlieren. (Optional)
+1. Du darfst für eine passende Erzählung eine Angst deiner Wahl verlieren. (Optional)
 2. Würfle einmal auf die Fähigkeiten-Tabelle 1 oder 2 und tausche eine Fähigkeit gegen eine neue. Die Dämonenfähigkeit kann nicht getauscht werden. (Optional)
 
 Stufe 3 - Bei 10 gesammelten Punkten:
@@ -114,4 +114,4 @@ Alle Spielenden dürfen am Ende einer Spielsession folgende Schritte ausführen:
 1. Du darfst - falls noch nicht geschehen - die Frage des Abenteuers beantworten und einen Zustand abbauen. Der Spielzug "Auf Reisen" ist nur im Abenteuer möglich, nicht am Ende. 
 2. Du darfst deinen Titel wechseln.
 3. Du überprüfst am Ende der Sitzung, ob du die von dir gewählten Aufgaben abhaken kannst. Falls ja, dann bekommst du für jede gewählte und abgehakte Aufgabe einen Abschnittspunkt und kannst gegebenenfalls einen Abschnittswechsel durchführen. Ist das Abenteuer noch nicht vorbei, wählst du im Anschluss wieder drei Aufgaben aus der Liste für die nächste Session aus.
-*Zwei der fünf Aufgaben, für die die Spielenden Abschnittspunkte erhalten können, sind immer angewählt: wurde das aktive Problem des Abenteuers gelöst und wurde es friedlich gelöst? Diese Augaben können immer nur am Ende eines Abenteuers beantwortet werden. Dauert ein Abenteuer also beispielsweise zwei Sessions, dann können zum Ende der ersten Session maximal drei Abschnittspunkte generiert werden. 
+*Zwei der fünf Aufgaben, für die die Spielenden Abschnittspunkte erhalten können, sind immer angewählt: wurde das aktive Problem des Abenteuers gelöst und wurde es friedlich gelöst? Diese Aufgaben können immer nur am Ende eines Abenteuers beantwortet werden. Dauert ein Abenteuer also beispielsweise zwei Sessions, dann können zum Ende der ersten Session maximal drei Abschnittspunkte generiert werden. <!--Einen Bonus-Abschnittspunkt gibt es noch obendrauf, wenn du über das Abenteuer und die Geschehnisse ein Haiku verfasst??? -->*
