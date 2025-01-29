@@ -14,7 +14,7 @@
   - [ ] Die Szene ausmalen in Intro-Regeln ergänzt
     - [ ] Gut? --Marcel
     - [ ] find schon
-- [ ] Cheatsheet nochmal prüfen und aktualisieren
+- [x] Cheatsheet nochmal prüfen und aktualisieren
 - [ ] Wie schreibt man ein Abenteuer? "Jetzt erzählen Sie doch mal." *hältMikrofondirektunterdieNase*
     - [ ] Idee für Abenteuer entwickeln
     - [ ] Schauplätze und NPCs
