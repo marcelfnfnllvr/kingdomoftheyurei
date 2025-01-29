@@ -44,6 +44,8 @@
     Faltbare weiche Matratze und Bettdecke, die untertags im Schrank aufbewahrt und erst abends auf die Tatami zum Schlafen gelegt werden.
   - **Hiyayakko**  
     Kalter Seidentofu, der mit verschiedenen Toppings gar niert wird, z.B. Katsuobushi, Sojasoße, Frühlingszwiebel oder Ingwer.
+  - **Horagai**  
+    Blasmusikinstrument bestehend aus der geschwungenen Schale einer großen Meeresschnecke (Tritonshorn), mit dem über ein Mundstück drei bis fünf verschiedene Töne erzeugt werden können.
   - **Izakaya**  
     Traditionelle, gesellige Kneipe, in dem alkoholisch Getränke, kleine Snacks und Speisen serviert werden. 
   - **Katsuobushi**  
