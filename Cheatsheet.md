@@ -1,12 +1,19 @@
 ## Spielzüge und Regeln
 ### Würfeln
-#### Würfelpool
+#### Würfelpools
+Wenn ein schwarzer W6 den höchsten Wert hat --> + 1 Zustand --> + 1 Korruption
+##### Etwas herausfinden - Etwas riskieren - Auf Reisen
 1W6 [Spielzug - Weiß oder Schwarz] +1W6 [Attribut oder Equipment - Weiß oder Schwarz]  
 +1W6 [Angst oder Zustand - Schwarz]  
 +1W6 [Bonuswürfel - Weiß]  
-**Wenn ein schwarzer W6 den höchsten Wert hat --> + 1 Zustand --> + 1 Korruption**
+##### Eine Fähigkeiten nutzen - Den Gegner schwächen
+1W6 [Spielzug - Weiß oder Schwarz]  
++1W6 [Fähigkeit oder Etwas riskieren - Weiß oder Schwarz]  
++1W6 [Bonuswürfel - Weiß]  
+##### Hilfe anbieten
+1W6 [Spielzug - Schwarz oder Attribut oder Gegenstand oder Bonuswürfel]
 #### Wurf verbessern
-Wurf kann einmalig verbessert werden, wenn der höchste Wert eines Wurfs von einem weißen W6 stammt.
+Wurf kann einmalig verbessert werden, wenn der höchste Wert eines Wurfs von einem weißen W6 stammt. --> Würfelpool +1 schwarzer W6
 
 #### Verderbnispunkte ausgeben (SL)
 | **Anzahl** | **Ergebnis**                                       |
@@ -53,7 +60,7 @@ Wurf kann einmalig verbessert werden, wenn der höchste Wert eines Wurfs von ein
 | 5-6        | 1 weißer Bonuswürfel             |
 | 6&6        | 1 Hinweis + 1 weißer Bonuswürfel |
 
-### Zustände abbauen
+#### Zustände abbauen
 #### Auf Reisen - weißer W6 - pro Spielendem 1x/Abenteuer
 | **2W6kh2** | **Ergebnis**                        |
 | ---------- | ----------------------------------- | 
@@ -70,6 +77,7 @@ Beantworten der Abenteuerfrage --> - 1 Zustand, ohne Wurf
 #### Ablauf
 1. Vorbereitung
   - Gefahrenstufe bestimmen (SL)
+  - SC ohne Kampfattribute und -fähikeiten: "Etwas riskieren" für Teilnahme am Kampf
   - Schwachpunkt aufwürfeln (alle SP) mit 2W6kh1 (für hellen Abschnitt) oder 2W6kl1 (für dunklen Abschnitt)
   - optional: Gegner schwächen (s.u.)
 2. Kampfrunde
