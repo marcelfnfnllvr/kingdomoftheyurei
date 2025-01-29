@@ -1,4 +1,5 @@
 ## Spielzüge und Regeln
+[Würfelpools](#w%C3%BCrfelpools) - [Verderbnispunkte](#verderbnispunkte-ausgeben-sl) - [Etwas herausfinden](#etwas-herausfinden---wei%C3%9Fer-w6) - [Etwas riskieren](#etwas-riskieren---schwarzer-w6) - [Hilfe anbieten](#hilfe-anbieten-1) - [Fähigkeit nutzen](#eine-f%C3%A4higkeit-nutzen---schwarzer-w6---f%C3%A4higkeit-selbst-gelingt-immer) - [Zustände abbauen](#zust%C3%A4nde-abbauen) - [Kampf](#kampf) - [Gegner schwächen](#gegner-schw%C3%A4chen---schwarzer-w6---muss-eingesetzt-werden-wenn-gegner-gefahrenstufe-12) - [Abenteuer lösen](#abenteuer-l%C3%B6sen)
 ### Würfeln
 #### Würfelpools
 Wenn ein schwarzer W6 den höchsten Wert hat --> + 1 Zustand --> + 1 Korruption
@@ -15,6 +16,8 @@ Wenn ein schwarzer W6 den höchsten Wert hat --> + 1 Zustand --> + 1 Korruption
 #### Wurf verbessern
 Wurf kann einmalig verbessert werden, wenn der höchste Wert eines Wurfs von einem weißen W6 stammt. --> Würfelpool +1 schwarzer W6
 
+[Würfelpools](#w%C3%BCrfelpools) - [Verderbnispunkte](#verderbnispunkte-ausgeben-sl) - [Etwas herausfinden](#etwas-herausfinden---wei%C3%9Fer-w6) - [Etwas riskieren](#etwas-riskieren---schwarzer-w6) - [Hilfe anbieten](#hilfe-anbieten-1) - [Fähigkeit nutzen](#eine-f%C3%A4higkeit-nutzen---schwarzer-w6---f%C3%A4higkeit-selbst-gelingt-immer) - [Zustände abbauen](#zust%C3%A4nde-abbauen) - [Kampf](#kampf) - [Gegner schwächen](#gegner-schw%C3%A4chen---schwarzer-w6---muss-eingesetzt-werden-wenn-gegner-gefahrenstufe-12) - [Abenteuer lösen](#abenteuer-l%C3%B6sen)
+
 #### Verderbnispunkte ausgeben (SL)
 | **Anzahl** | **Ergebnis**                                       |
 | ---------- | -------------------------------------------------- | 
@@ -30,6 +33,8 @@ Wurf kann einmalig verbessert werden, wenn der höchste Wert eines Wurfs von ein
 | 1-4        | 1 Verderbnispunkt  |
 | 5-6        | 1 Hinweis          |
 | 6&6        | 2 Hinweise         |
+
+[Würfelpools](#w%C3%BCrfelpools) - [Verderbnispunkte](#verderbnispunkte-ausgeben-sl) - [Etwas herausfinden](#etwas-herausfinden---wei%C3%9Fer-w6) - [Etwas riskieren](#etwas-riskieren---schwarzer-w6) - [Hilfe anbieten](#hilfe-anbieten-1) - [Fähigkeit nutzen](#eine-f%C3%A4higkeit-nutzen---schwarzer-w6---f%C3%A4higkeit-selbst-gelingt-immer) - [Zustände abbauen](#zust%C3%A4nde-abbauen) - [Kampf](#kampf) - [Gegner schwächen](#gegner-schw%C3%A4chen---schwarzer-w6---muss-eingesetzt-werden-wenn-gegner-gefahrenstufe-12) - [Abenteuer lösen](#abenteuer-l%C3%B6sen)
 
 #### Etwas riskieren - schwarzer W6
 | **2W6kh2** | **Ergebnis**                      |
@@ -52,6 +57,8 @@ Wurf kann einmalig verbessert werden, wenn der höchste Wert eines Wurfs von ein
    - Wurf mit schwarzem W6 oder
    - wenn der eigene W6 den Wert eines schwarzen W6 des zu helfenden SP trifft.
 
+[Würfelpools](#w%C3%BCrfelpools) - [Verderbnispunkte](#verderbnispunkte-ausgeben-sl) - [Etwas herausfinden](#etwas-herausfinden---wei%C3%9Fer-w6) - [Etwas riskieren](#etwas-riskieren---schwarzer-w6) - [Hilfe anbieten](#hilfe-anbieten-1) - [Fähigkeit nutzen](#eine-f%C3%A4higkeit-nutzen---schwarzer-w6---f%C3%A4higkeit-selbst-gelingt-immer) - [Zustände abbauen](#zust%C3%A4nde-abbauen) - [Kampf](#kampf) - [Gegner schwächen](#gegner-schw%C3%A4chen---schwarzer-w6---muss-eingesetzt-werden-wenn-gegner-gefahrenstufe-12) - [Abenteuer lösen](#abenteuer-l%C3%B6sen)
+
 #### Eine Fähigkeit nutzen - schwarzer W6 - Fähigkeit selbst gelingt immer
 | **2W6kh2** | **Ergebnis**                     |
 | ---------- | -------------------------------- | 
@@ -61,7 +68,7 @@ Wurf kann einmalig verbessert werden, wenn der höchste Wert eines Wurfs von ein
 | 6&6        | 1 Hinweis + 1 weißer Bonuswürfel |
 
 #### Zustände abbauen
-#### Auf Reisen - weißer W6 - pro Spielendem 1x/Abenteuer
+##### Auf Reisen - weißer W6 - pro Spielendem 1x/Abenteuer
 | **2W6kh2** | **Ergebnis**                        |
 | ---------- | ----------------------------------- | 
 | 1&1        | 2 Verderbnispunkte                  |
@@ -70,8 +77,10 @@ Wurf kann einmalig verbessert werden, wenn der höchste Wert eines Wurfs von ein
 | 5-6        | letzte 3 Zustände entfernen + 1 Hinweis |
 | 6&6        | alle Zustände entfernen + 1 Hinweis |
 
-#### Abenteuerfrage beantworten - pro Spielendem 1x/Abenteuer
+##### Abenteuerfrage beantworten - pro Spielendem 1x/Abenteuer
 Beantworten der Abenteuerfrage --> - 1 Zustand, ohne Wurf
+
+[Würfelpools](#w%C3%BCrfelpools) - [Verderbnispunkte](#verderbnispunkte-ausgeben-sl) - [Etwas herausfinden](#etwas-herausfinden---wei%C3%9Fer-w6) - [Etwas riskieren](#etwas-riskieren---schwarzer-w6) - [Hilfe anbieten](#hilfe-anbieten-1) - [Fähigkeit nutzen](#eine-f%C3%A4higkeit-nutzen---schwarzer-w6---f%C3%A4higkeit-selbst-gelingt-immer) - [Zustände abbauen](#zust%C3%A4nde-abbauen) - [Kampf](#kampf) - [Gegner schwächen](#gegner-schw%C3%A4chen---schwarzer-w6---muss-eingesetzt-werden-wenn-gegner-gefahrenstufe-12) - [Abenteuer lösen](#abenteuer-l%C3%B6sen)
 
 ### Kampf
 #### Ablauf
@@ -94,6 +103,8 @@ Beantworten der Abenteuerfrage --> - 1 Zustand, ohne Wurf
     - 2 Hinweise für 2 Kampfrunden
     - 3 Hinweise für 3 oder mehr Kampfrunden
 
+[Würfelpools](#w%C3%BCrfelpools) - [Verderbnispunkte](#verderbnispunkte-ausgeben-sl) - [Etwas herausfinden](#etwas-herausfinden---wei%C3%9Fer-w6) - [Etwas riskieren](#etwas-riskieren---schwarzer-w6) - [Hilfe anbieten](#hilfe-anbieten-1) - [Fähigkeit nutzen](#eine-f%C3%A4higkeit-nutzen---schwarzer-w6---f%C3%A4higkeit-selbst-gelingt-immer) - [Zustände abbauen](#zust%C3%A4nde-abbauen) - [Kampf](#kampf) - [Gegner schwächen](#gegner-schw%C3%A4chen---schwarzer-w6---muss-eingesetzt-werden-wenn-gegner-gefahrenstufe-12) - [Abenteuer lösen](#abenteuer-l%C3%B6sen)
+
 #### Gegner schwächen - schwarzer W6 - *muss* eingesetzt werden wenn Gegner-Gefahrenstufe >12
 | **2W6kh2** | **Ergebnis**      |
 | ---------- | ----------------- | 
@@ -109,3 +120,5 @@ Beantworten der Abenteuerfrage --> - 1 Zustand, ohne Wurf
   - Ergebnis >= Abenteuerstufe --> friedliche Lösung
   - Ergebnis < Abenteuerstufe --> Endkampf
   - Ergebnis 1&1 --> Endkampf
+
+[Würfelpools](#w%C3%BCrfelpools) - [Verderbnispunkte](#verderbnispunkte-ausgeben-sl) - [Etwas herausfinden](#etwas-herausfinden---wei%C3%9Fer-w6) - [Etwas riskieren](#etwas-riskieren---schwarzer-w6) - [Hilfe anbieten](#hilfe-anbieten-1) - [Fähigkeit nutzen](#eine-f%C3%A4higkeit-nutzen---schwarzer-w6---f%C3%A4higkeit-selbst-gelingt-immer) - [Zustände abbauen](#zust%C3%A4nde-abbauen) - [Kampf](#kampf) - [Gegner schwächen](#gegner-schw%C3%A4chen---schwarzer-w6---muss-eingesetzt-werden-wenn-gegner-gefahrenstufe-12) - [Abenteuer lösen](#abenteuer-l%C3%B6sen)
