@@ -28,6 +28,8 @@
     Eine Gesprächsrunde mit der Spielleitung und der gesamten Gruppe, bevor die eigentliche Pen&Paper-Runde losgeht. Hier wird z.B. über den Ablauf gesprochen und über die Erwartung aller Beteiligten. Außerdem können dabei Sicherheitsmechanismen und Tabuthemen besprochen und die Charaktere gebaut werden.
   - **SL**    
     Der oder die Spielleitende. Gibt die Rahmenhandlung für das Abenteuer vor, spielt die Nicht-Spieler-Charaktere (NSC), verteilt Hinweise für erfolgreiche Würfe und gestaltet so gemeinsam mit den Spielenden die Runde.
+  - **Virtual Tabletop (VTT)**  
+    Bei Online-Runden genutztes digitales Tool, das den analogen Tisch ersetzt: Hier können z.B. Karten und Spielfiguren liegen, außerdem kann die Spielleitung hierüber Hinweise oder NSCs mit den Spielenden teilen. Darüber hinaus hat ein VTT in der Regel einen eingebauten Würfelbot, mit dem alle möglichen Würfel geworfen werden können - häufig auch direkt über die digitalen Charakterbögen.
   - **W6**  
     Sechsseitiger Würfel, entweder traditionell mit Augenzahlen von 1 bis 6 oder mit Ziffern.
   - **W20**  
