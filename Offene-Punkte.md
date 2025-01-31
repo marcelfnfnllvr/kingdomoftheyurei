@@ -10,10 +10,10 @@
 
 ## 2 Texte ergänzen/schreiben für's Regelwerk
 ### 2.1 Systembeschreibung
-- [ ] Mitmachen?
-  - [ ] Die Szene ausmalen in Intro-Regeln ergänzt
-    - [ ] Gut? --Marcel
-    - [ ] find schon
+- [x] Mitmachen?
+  - [x] Die Szene ausmalen in Intro-Regeln ergänzt
+    - [x] Gut? --Marcel
+    - [x] find schon
 - [x] Cheatsheet nochmal prüfen und aktualisieren
 - [ ] Wie schreibt man ein Abenteuer? "Jetzt erzählen Sie doch mal." *hältMikrofondirektunterdieNase*
     - [ ] Idee für Abenteuer entwickeln
