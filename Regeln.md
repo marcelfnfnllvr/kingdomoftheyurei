@@ -114,6 +114,11 @@ Die Zustände können auf zwei verschiedene Arten reduziert werden. Jeder dieser
 Alle Spielenden dürfen am Ende einer Spielsession folgende Schritte ausführen:
 
 1. Du darfst - falls noch nicht geschehen - die Frage des Abenteuers beantworten und einen Zustand abbauen. Der Spielzug "Auf Reisen" ist nur im Abenteuer möglich, nicht am Ende. 
+
 2. Du darfst deinen Titel wechseln.
+
 3. Du überprüfst am Ende der Sitzung, ob du die von dir gewählten Aufgaben abhaken kannst. Falls ja, dann bekommst du für jede gewählte und abgehakte Aufgabe einen Abschnittspunkt und kannst gegebenenfalls einen Abschnittswechsel durchführen. Ist das Abenteuer noch nicht vorbei, wählst du im Anschluss wieder drei Aufgaben aus der Liste für die nächste Session aus.
-*Zwei der fünf Aufgaben, für die die Spielenden Abschnittspunkte erhalten können, sind immer angewählt: wurde das aktive Problem des Abenteuers gelöst und wurde es friedlich gelöst? Diese Aufgaben können immer nur am Ende eines Abenteuers beantwortet werden. Dauert ein Abenteuer also beispielsweise zwei Sessions, dann können zum Ende der ersten Session maximal drei Abschnittspunkte generiert werden. <!--Einen Bonus-Abschnittspunkt gibt es noch obendrauf, wenn du über das Abenteuer und die Geschehnisse ein Haiku verfasst??? -->*
+
+4. Du bekommst für die Bonusaufgabe noch einen zusätzlichen Abschnittspunkt. Die Bonusaufgabe steht einaml pro Abenteuer zur Verfügung. 
+
+*Zwei der fünf Aufgaben, für die die Spielenden Abschnittspunkte erhalten können, sind immer angewählt: wurde das aktive Problem des Abenteuers gelöst und wurde es friedlich gelöst? <!--umformulieren--> Diese Aufgaben können immer nur am Ende eines Abenteuers beantwortet werden. Dauert ein Abenteuer also beispielsweise zwei Sessions, dann können zum Ende der ersten Session maximal drei Abschnittspunkte generiert werden. Dies betrifft ebenfalls die Bonusaufgabe. Auch diese gibt nur den Abschnittspunkt einmal am Ende des Abenteuers.*
