@@ -1,25 +1,17 @@
 # Offene Punkte
 
 ## 1 Änderungen/Ergänzungen für Regeln u. Spielzüge
-- [ ] Haiku als Mechanik?  - Marcel hat eine Idee.
-- [ ] Wie ist das mit der Teilnahme am Kampf?
-  - [ ] Um an einem Kampf teilnehmen zu können, benötigt der Charakter eine Waffe als Gegenstand oder eine entsprechende Fähigkeit. 
-  - [ ] Ergibt das noch Sinn? --> NÖ
+- [x] Haiku als Mechanik?  - Marcel hatte eine gute Idee.
+  - [ ] Haiku Regel ergänzen
 - [ ] Umformulieren
   - [ ] Löst das momentan aktive Problem auf friedliche Art.
-    - [ ] Weg von dem firedlich hin zum direkten Wurf. 
+    - [ ] Weg von dem friedlich hin zum direkten Wurf. --> siehe neuen Vorschlag, mal gucken ob das besser passt? Beschreibung des Spielzugs auch angepasst. 
     - [ ] Die Aufgabe lösen
-
-
 
 
 ## 2 Texte ergänzen/schreiben für's Regelwerk
 ### 2.1 Systembeschreibung
-- [x] Mitmachen?
-  - [x] Die Szene ausmalen in Intro-Regeln ergänzt
-    - [x] Gut? --Marcel
-    - [x] find schon
-- [x] Cheatsheet nochmal prüfen und aktualisieren
+
 - [ ] Wie schreibt man ein Abenteuer? "Jetzt erzählen Sie doch mal." *hältMikrofondirektunterdieNase*
     - [ ] Idee für Abenteuer entwickeln
     - [ ] Schauplätze und NPCs
@@ -29,16 +21,13 @@
     - [ ] Abenteuerstufe festlegen
 - [ ] Formulierung im Regelwerk grade ziehen?
   - [x] Regeln? Spielzüge? Alle ansprechen? --> zumindest bei Regeln sollt's jetzt passen
-- [ ] Aufgabe firedlich lösen umformulieren
-- [ ] kein Risk Roll, um ohne Fähikeiten am Kampf teilzunehmen
-
-- [ ] Formulieren das es gewünscht ist das sich die Gruppe trennt, wieder zusammenfinden, gemein geht, trennt, und so weiter...
-
+- [x] Aufgabe friedlich lösen umformulieren
+- [x] kein Risk Roll, um ohne Fähigkeiten am Kampf teilzunehmen
+- [x] Formulieren, dass es gewünscht ist das sich die Gruppe trennt, wieder zusammenfinden, gemein geht, trennt, und so weiter... --> siehe Abenteuer_Vorwort
 - [ ] Bezeichnung vereinheitlichen: Welt/Reich Zwielichts, nicht Dämonenreich, Geisterebene etc.
   - [ ] 1x lesen Marcel
     - [ ] Strg-F ist auch so ein Ding - und funktioniert auch in github
   - [x] 1x lesen Doro
-- [x] Spielbeispiel Gegner schwächen --> Fähigkeit ergänzen wg Spielzug
 - [ ] Ablauf Spielabend / Abenteuer
   - [ ] Gameplay Loop soll Schematisch im Regelwerk abgebildet werden. Ein Diagramm.
   - [ ] Abenteuerschwierigkeit anpassen.
@@ -47,7 +36,7 @@
       - [ ] Schwierig 16
     - [ ] Zwei Abende
       - [ ] Einfach 18
-      - [ ] Schwierig 22
+      - [ ] Schwierig 22 
   - [x] Kommt in Abenteuer_Vorwort.md 
   - [x] Nicht vergessen, dass die Spielenden am Anfang eines neuen Abenteuers ihre Aufgaben wählen müssen. Steht das schon irgendwo? --> jetzt schon, ja
   - [x] Abschnittspunkte - "Fragen" ersetzen durch Aufgaben
@@ -116,6 +105,11 @@
 - [ ] 8. ?????Hinten drauf: CATS????  
 
 ## 4 Zukunftsmusik?
+
+- [x] Wie ist das mit der Teilnahme am Kampf?
+  - [x] Um an einem Kampf teilnehmen zu können, benötigt der Charakter eine Waffe als Gegenstand oder eine entsprechende Fähigkeit. 
+  - [x] Ergibt das noch Sinn? --> NÖ --> weg damit
+- [x] Spielbeispiel Gegner schwächen --> Fähigkeit ergänzen wg Spielzug
 - [ ] Adaption für Müllsammler im All
   - [ ] Mehr soziale Interaktion	
 - [ ] Adaption in das jetzt Japan
@@ -167,6 +161,11 @@
 
 ## erledigt
 
+- [x] Mitmachen?
+  - [x] Die Szene ausmalen in Intro-Regeln ergänzt
+    - [x] Gut? --Marcel
+    - [x] find schon
+- [x] Cheatsheet nochmal prüfen und aktualisieren
 - [x] Spielprinzipien: Rule of Cool???
    - [x] Ist das nicht schon in Intro-Regeln --Marcel
 - [x] evtl in den Spielbeispielen einen freien Gegenstand ergänzen
