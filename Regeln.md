@@ -41,6 +41,8 @@ Die Spielleitung sammelt Verderbnispunkte im Spielverlauf, wenn die Spielenden S
 - Gib 3 Punkte aus für die Bekämpfung einer Gefahr der Stufe 10.
 - Gib 4 Punkte aus für die Bekämpfung einer Gefahr der Stufe 12.
 
+*Verwendet Verderbnispunkte, um das Spiel spannend zu machen und die Spielenden herauszufordern. Die erlebte Geschichte steht über den Regeln und die Spielenden sollten sich nie bestraft fühlen. Lasst zu das die Spielenden "Etwas riskieren" können um einen Level 8 Kampf zu vermeiden. Lasst zu das die Spielenden "Den Gegner schwächen" einmal benutzen können, bevor sie gegen eine Stufe 10 oder 12 Gefahr kämpfen müssen. Wenn es sich nicht richtig anfühlt, lasst die Punkte einfach verfallen. Die Punkte sind für den Spannungsaufbau gedacht und müssen nicht unbedingt genutzt werden.*
+
 ## Der freie Gegenstand
 
 Dieses Feld wird nie beschrieben, sondern immer nur im Kontext des Abenteuers und der Szene verwendet. Hier soll es möglich sein, dass die Charaktere durch ihre Umgebung oder durch Hinweise, die sie finden, einen Attributswürfel erhalten. Dieser Würfel ist weiß.
