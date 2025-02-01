@@ -32,6 +32,8 @@
 - [ ] Aufgabe firedlich lösen umformulieren
 - [ ] kein Risk Roll, um ohne Fähikeiten am Kampf teilzunehmen
 
+- [ ] Formulieren das es gewünscht ist das sich die Gruppe trennt, wieder zusammenfinden, gemein geht, trennt, und so weiter...
+
 - [ ] Bezeichnung vereinheitlichen: Welt/Reich Zwielichts, nicht Dämonenreich, Geisterebene etc.
   - [ ] 1x lesen Marcel
     - [ ] Strg-F ist auch so ein Ding - und funktioniert auch in github
@@ -39,6 +41,13 @@
 - [x] Spielbeispiel Gegner schwächen --> Fähigkeit ergänzen wg Spielzug
 - [ ] Ablauf Spielabend / Abenteuer
   - [ ] Gameplay Loop soll Schematisch im Regelwerk abgebildet werden. Ein Diagramm.
+  - [ ] Abenteuerschwierigkeit anpassen.
+    - [ ] Ein Abend
+      - [ ] Einfach 14 
+      - [ ] Schwierig 16
+    - [ ] Zwei Abende
+      - [ ] Einfach 18
+      - [ ] Schwierig 22
   - [x] Kommt in Abenteuer_Vorwort.md 
   - [x] Nicht vergessen, dass die Spielenden am Anfang eines neuen Abenteuers ihre Aufgaben wählen müssen. Steht das schon irgendwo? --> jetzt schon, ja
   - [x] Abschnittspunkte - "Fragen" ersetzen durch Aufgaben

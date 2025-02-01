@@ -146,17 +146,38 @@ Stufe 2 -  [    ] [    ] [    ]
 
 Stufe 3 -  [    ]		
 
-| **Wähle drei zusätzliche Aufgaben                       | Gewählt |
-| ------------------------------------------------------- | ------- |
-| Löst das momentan aktive Problem.                       | X       |
-| Löst das momentan aktive Problem auf friedliche Art.    | X       |
-| Bestehe erfolgreich eine physische Probe.               |         |
-| Entlocke einer Person ein Geheimnis.                    | O       |
-| Deeskaliere eine Situation.                             |         |
-| Stelle dich einem Kampf.                                | O       |
-| Erzähle eine Rückblende.                                | O       |
-| Setze eine deiner Fähigkeiten ein.                      |         |
-| Senke im Kampf das Gefahrenlevel des Gegners.           |         |
+| **Wähle drei zusätzliche Aufgaben                    | Gewählt |
+| ---------------------------------------------------- | ------- |
+| Löst das momentan aktive Problem.                    | X       |
+| Löst das momentan aktive Problem auf friedliche Art. | X       |
+| Bestehe erfolgreich eine physische Probe.            |         |
+| Entlocke einer Person ein Geheimnis.                 | O       |
+| Deeskaliere eine Situation.                          |         |
+| Stelle dich einem Kampf.                             | O       |
+| Erzähle eine Rückblende.                             | O       |
+| Setze eine deiner Fähigkeiten ein.                   |         |
+| Senke im Kampf das Gefahrenlevel des Gegners.        |         |
+
+### Bonusaufgabe
+
+Schreibe ein Haiku über das aktuelle Abenteuer.
+
+| Beispiel:                                                    | Aufbau:                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Ein alter Teich<br />Ein Frosch springt hinein<br />Geräusch des Wassers | nur 3 Zeilen.<br> 5,7,5 Silben oder etwas freier: <br />10 bis 17 Silben gesamt;<br> die mittlere Zeile ist meist die längste.<br> Kein Titel.<br> Keine Reime. |
+
+### Haiku		
+
+| Abenteuer | Haiku |
+| --------- | ----- |
+|           |       |
+|           |       |
+|           |       |
+|           |       |
+|           |       |
+|           |       |
+|           |       |
+|           |       |
 
 ### Ehrungen		
 
