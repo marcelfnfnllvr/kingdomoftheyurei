@@ -20,7 +20,7 @@ Freund der Hausgeister - Einfühlsam
 
 Kann sich dein Charakter vorstellen in so einem Anwesen seinen Ruhestand zu verbringen? Warum oder warum nicht?
 
-### Eröffnung:
+### Einleitung:
 
 Ein langer und anstrengender Aufstieg liegt hinter euch. Der Pass hier hinauf war teilweise so eng und eingeschneit, dass ihr zu Fuß gehen musstet und nicht eure Reittiere nutzen konntet. Die letzten Meter zum Anwesen führen über eine mit grünen Wiesen bestechend schöne Hochebene. 
 

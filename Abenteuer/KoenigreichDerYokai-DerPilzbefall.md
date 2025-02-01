@@ -23,7 +23,7 @@ Dein Charakter hatte schon einmal die Möglichkeit die berühmten Pilze aus Hara
 *oder*  
 Wenn dein Charakter noch eine Sache an diesem Dorf ändern könnte, was wäre das?
 
-### Eröffnung:
+### Einleitung:
 
 Die Wanderer sind auf dem Weg zum Dorf, als ein infizierter Hund auf sie zu rennt und sie angreift. 
 

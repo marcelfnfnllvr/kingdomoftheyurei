@@ -28,7 +28,7 @@ Meister des Waldes - Überleben
 
 > Was hofft euer Charakter in der abgelegenen Festung zu finden?
 
-### Eröffnung:
+### Einleitung:
 
 Ihr seid seit Tagen unterwegs durch den endlosen Wald. In der Mitte soll es eine fortschrittliche und wohlhabende Festung mit einer gnädigen Fürstin geben. Ganz ohne Einfluss der Zentralregierung.
 

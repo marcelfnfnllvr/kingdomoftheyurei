@@ -26,7 +26,7 @@ Aschegeist - Feuerfest
 
 >Wann war dein Charakter das erste Mal in einem Onsen und wie war es für ihn?
 
-### Eröffnung:
+### Einleitung:
 
 Ihr seid auf dem Weg in das Dorf „Supa“. Es ist berühmt für sein schönes Bad, welches vielen Gästen angenehme Stunden bereitet. Mehr noch: Das heiße Wasser soll durch seine vulkanische Herkunft eine heilende Wirkung haben. Entsprechend viele Reisende zieht das Dorf an. Seit einer Weile jedoch ist das wohltuende Idyll in Supa gestört, denn außerhalb des Dorfes tauchen immer wieder Gestalten aus Asche auf und töten die Unglückseligen, die ihnen über den Weg laufen. Aus Angst davor bleiben bald die Besucher aus.  
 Eure Gruppe hat der Hilferuf des Dorfes erreicht und ihr seid gerade auf dem Weg dorthin. Ihr folgt dem Pfad durch das Geröllfeld und die schwefelgeschwängerte Luft bis ihr schließlich schweißgebadet den Bogen aus schwarzem Basalt erreicht, der den Eingang zur Siedlung bildet.
