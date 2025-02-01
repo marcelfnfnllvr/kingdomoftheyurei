@@ -41,7 +41,7 @@ Die Spielleitung sammelt Verderbnispunkte im Spielverlauf, wenn die Spielenden S
 - Gib 3 Punkte aus für die Bekämpfung einer Gefahr der Stufe 10.
 - Gib 4 Punkte aus für die Bekämpfung einer Gefahr der Stufe 12.
 
-*Verwendet Verderbnispunkte, um das Spiel spannend zu machen und die Spielenden herauszufordern. Die erlebte Geschichte steht über den Regeln und die Spielenden sollten sich nie bestraft fühlen. Lasst zu das die Spielenden "Etwas riskieren" können um einen Level 8 Kampf zu vermeiden. Lasst zu das die Spielenden "Den Gegner schwächen" einmal benutzen können, bevor sie gegen eine Stufe 10 oder 12 Gefahr kämpfen müssen. Wenn es sich nicht richtig anfühlt, lasst die Punkte einfach verfallen. Die Punkte sind für den Spannungsaufbau gedacht und müssen nicht unbedingt genutzt werden.*
+*Verwendet Verderbnispunkte, um das Spiel spannend zu machen und die Spielenden herauszufordern. Die erlebte Geschichte steht über den Regeln und die Spielenden sollten sich nie bestraft fühlen. Lasst zu, dass die Spielenden "Etwas riskieren" können, um einen Kampf der Gefahrenstufe 8 zu vermeiden. Lasst zu, dass die Spielenden "Den Gegner schwächen" einmal benutzen können, bevor sie gegen eine Gefahr der Stufe 10 oder 12 Gefahr kämpfen müssen. Wenn es sich nicht richtig anfühlt, lasst die Punkte einfach verfallen. Die Punkte sind für den Spannungsaufbau gedacht und müssen nicht unbedingt genutzt werden. Sie dienen nicht dazu, dass die Spielleitung ihre Macht über den Verlauf der Geschichte demonstriert oder den Spielenden eins auswischt.*
 
 ## Der freie Gegenstand
 
@@ -119,6 +119,6 @@ Alle Spielenden dürfen am Ende einer Spielsession folgende Schritte ausführen:
 
 3. Du überprüfst am Ende der Sitzung, ob du die von dir gewählten Aufgaben abhaken kannst. Falls ja, dann bekommst du für jede gewählte und abgehakte Aufgabe einen Abschnittspunkt und kannst gegebenenfalls einen Abschnittswechsel durchführen. Ist das Abenteuer noch nicht vorbei, wählst du im Anschluss wieder drei Aufgaben aus der Liste für die nächste Session aus.
 
-4. Du bekommst für die Bonusaufgabe noch einen zusätzlichen Abschnittspunkt. Die Bonusaufgabe steht einaml pro Abenteuer zur Verfügung. 
+4. Du bekommst noch einen zusätzlichen Abschnittspunkt, wenn du die Bonusaufgabe absolvierst. Sie steht einmal pro Abenteuer zur Verfügung. 
 
-*Zwei der fünf Aufgaben, für die die Spielenden Abschnittspunkte erhalten können, sind immer angewählt: wurde das aktive Problem des Abenteuers gelöst und wurde es friedlich gelöst? <!--umformulieren--> Diese Aufgaben können immer nur am Ende eines Abenteuers beantwortet werden. Dauert ein Abenteuer also beispielsweise zwei Sessions, dann können zum Ende der ersten Session maximal drei Abschnittspunkte generiert werden. Dies betrifft ebenfalls die Bonusaufgabe. Auch diese gibt nur den Abschnittspunkt einmal am Ende des Abenteuers.*
+*Zwei der fünf Aufgaben, für die die Spielenden Abschnittspunkte erhalten können, sind immer angewählt: wurde das aktive Problem des Abenteuers gelöst und war der Wurf auf "Das Abenteuer lösen" erfolgreich, sodass die Lösung von allen Beteiligten akzeptiert wurde? Diese Aufgaben können immer nur am Ende eines Abenteuers beantwortet werden. Dauert ein Abenteuer also beispielsweise zwei Sessions, dann können zum Ende der ersten Session maximal drei Abschnittspunkte generiert werden. Dies betrifft ebenfalls die Bonusaufgabe. Auch diese gibt nur den Abschnittspunkt einmal am Ende des Abenteuers.*
