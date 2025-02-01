@@ -100,7 +100,7 @@ Es ist möglich, im Kampf die Gefahrenstufe des Gegners mithilfe von Fähigkeite
 ## Der „Sich dem Kampf stellen“ Spielzug
 
 Jeder Spielercharakter, der an dem Kampf teilnimmt, hat pro Runde einen W6 als Kampfwürfel zur Verfügung. Ziel im Kampf ist es, mit der Summe der beiden höchsten Augenzahlen aller Kampfteilnehmer die Gefahrenstufe des Gegners zu erreichen oder zu übertreffen. Sobald die Gruppe dies in einer Runde erreicht, ist der Gegner besiegt. Mit dem Spielzug "Den Gegner schwächen" kann die Gefahrenstufe des Gegners gesenkt werden. Bei Gegnern, die eine höhere Gefahrenstufe als 12 haben, ist es zwingend notwendig diese erst zu senken. Dies ist sowohl vor Beginn des Kampfes als auch während des Kampfes möglich. Allerdings zählt der Kampfwürfel von Charakteren, die den Spielzug "Den Gegner schwächen" einsetzen, in dieser Kampfrunde nicht in den Kampfwürfelpool dazu. Sollte es mal brenzlich werden, kann der Charakter sich nur durch einen erfolgreichen Wurf auf "Etwas riskieren" aus dem Kampf zurückziehen. Außerdem muss ein anderer Kampfteilnehmer dessen Schwäche übernehmen.  
-Um an einem Kampf teilnehmen zu können, benötigt der Charakter eine Waffe als Gegenstand oder ein entsprechendes Attribut. Verfügt der Charakter über keines von beidem, muss er erst einen Wurf auf "Etwas riskieren" ablegen und erzählen, wie er am Kampf teilnehmen will. <!-- dieser Absatz entfällt, wenn doch mit Chill-Regeln gespielt wird. In diesem Fall gilt: Grundsätzlich können alle SC am Kampfgeschehen teilnehmen."-->
+Grundsätzlich können alle SC am Kampfgeschehen teilnehmen.
 
 Ablauf eines Kampfes:
 
@@ -108,11 +108,9 @@ Ablauf eines Kampfes:
    1. Die Spielleitung teilt die zu erreichende Gefahrenstufe des Gegners oder der Gegnergruppe mit.
       - Auch eine Gruppe von Gegnern hat nur eine Gefahrenstufe und wird regeltechnisch als Einheit behandelt. Zum Beispiel kann ein dämonisches Wildschwein allein Gefahrenstufe 10 haben, als Gruppe aber Gefahrenstufe 12.
 
-   2. Hat ein Charakter weder eine Waffe noch ein für den Kampf geeignetes Attribut, muss er auf "Etwas riskieren" würfeln, um am Kampf teilnehmen zu können. <!-- entfällt, wenn doch mit Chill-Regeln gespielt wird-->
+   2. Mit dem Spielzug "Den Gegner schwächen" kann die Gefahrenstufe des Gegners gesenkt werden. Wenn die Stufe des Gegners höher als 12 ist, muss dieser erst mit diesem Spielzug geschwächt werden, ansonsten ist es nicht möglich für die Gruppe den Kampf zu gewinnen.
 
-   3. Mit dem Spielzug "Den Gegner schwächen" kann die Gefahrenstufe des Gegners gesenkt werden. Wenn die Stufe des Gegners höher als 12 ist, muss dieser erst mit diesem Spielzug geschwächt werden, ansonsten ist es nicht möglich für die Gruppe den Kampf zu gewinnen.
-
-   4. Alle Charaktere, die direkt am Kampf teilnehmen, würfeln ihren Schwachpunkt. Sie tun dies mit
+   3. Alle Charaktere, die direkt am Kampf teilnehmen, würfeln ihren Schwachpunkt. Sie tun dies mit
       - 2W6 und behalten den höheren von beiden, wenn der letzte Abschnittswechsel ihres Charakters durch einen Stufenaufstieg lief (heller Abschnitt) oder
       - 2W6 und behalten den niedrigeren von beiden, wenn ihr letzter Abschnittswechsel durch einen sechsten Zustand und damit einem Durchbrechen des Dämons verursacht wurde oder sie noch keinen Abschnittswechsel vollzogen haben (dunkler Abschnitt).  
       
