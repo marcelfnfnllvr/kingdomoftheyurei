@@ -14,11 +14,11 @@ Die Eskalation, die ausgelöst wird, wenn der Gruppe der "Die Aufgabe lösen" Sp
 
 Der Name der Ehrung - Das Attribut der Ehrung. Erhalten die Spielenden, wenn sie das Abenteuer abgeschlossen haben.
 
-### Eröffnung:
+### Einleitung:
 
-Eine Eröffnung wie die Charaktere am Abenteuerort ankommen. 
+Eine einleitende Beschreibung wie die Charaktere am Abenteuerort ankommen. 
 
-> eine passende "Die Szene Ausmalen"-Frage für die Spielenden, um die Welt mitzugestalten
+> eine passende Eröffnungsfrage für die Spielenden, um die Welt mitzugestalten
 
 ### Gefahren:
 
