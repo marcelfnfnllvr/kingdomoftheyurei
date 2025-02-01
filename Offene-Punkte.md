@@ -5,6 +5,11 @@
 - [ ] Wie ist das mit der Teilnahme am Kampf?
   - [ ] Um an einem Kampf teilnehmen zu können, benötigt der Charakter eine Waffe als Gegenstand oder eine entsprechende Fähigkeit. 
   - [ ] Ergibt das noch Sinn? --> NÖ
+- [ ] Umformulieren
+  - [ ] Löst das momentan aktive Problem auf friedliche Art.
+    - [ ] Weg von dem firedlich hin zum direkten Wurf. 
+    - [ ] Die Aufgabe lösen
+
 
 
 
