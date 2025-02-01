@@ -88,17 +88,17 @@ Stufe 2 -  [    ] [    ] [    ]
 
 Stufe 3 -  [    ]		
 
-| **Wähle drei zusätzliche Aufgaben                    | Gewählt |
-| ---------------------------------------------------- | ------- |
-| Löst das momentan aktive Problem.                    | X       |
-| Löst das momentan aktive Problem auf friedliche Art. | X       |
-| Bestehe erfolgreich eine physische Probe.            |         |
-| Entlocke einer Person ein Geheimnis.                 |         |
-| Deeskaliere eine Situation.                          |         |
-| Stelle dich einem Kampf.                             |         |
-| Erzähle eine Rückblende.                             |         |
-| Setze eine deiner Fähigkeiten ein.                   |         |
-| Senke im Kampf das Gefahrenlevel des Gegners.        |         |
+| **Wähle drei zusätzliche Aufgaben                                                          | Gewählt |
+| ------------------------------------------------------------------------------------------ | ------- |
+| Löst das momentan aktive Problem.                                                          | X       |
+| Schlagt eine Lösung für das aktive Problem vor, die von allen Beteiligten akzeptiert wird. | X       |
+| Bestehe erfolgreich eine physische Probe.                                                  |         |
+| Entlocke einer Person ein Geheimnis.                                                       |         |
+| Deeskaliere eine Situation.                                                                |         |
+| Stelle dich einem Kampf.                                                                   |         |
+| Erzähle eine Rückblende.                                                                   |         |
+| Setze eine deiner Fähigkeiten ein.                                                         |         |
+| Senke im Kampf das Gefahrenlevel des Gegners.                                              |         |
 
 ### Bonusaufgabe
 
