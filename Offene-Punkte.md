@@ -24,6 +24,8 @@
     - [ ] Abenteuerstufe festlegen
 - [ ] Formulierung im Regelwerk grade ziehen?
   - [x] Regeln? Spielzüge? Alle ansprechen? --> zumindest bei Regeln sollt's jetzt passen
+- [ ] Aufgabe firedlich lösen umformulieren
+- [ ] kein Risk Roll, um ohne Fähikeiten am Kampf teilzunehmen
 
 - [ ] Bezeichnung vereinheitlichen: Welt/Reich Zwielichts, nicht Dämonenreich, Geisterebene etc.
   - [ ] 1x lesen Marcel
