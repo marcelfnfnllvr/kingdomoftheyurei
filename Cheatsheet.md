@@ -86,7 +86,6 @@ Beantworten der Abenteuerfrage --> - 1 Zustand, ohne Wurf
 #### Ablauf
 1. Vorbereitung
   - Gefahrenstufe bestimmen (SL)
-  - SC ohne Kampfattribute und -fähikeiten: "Etwas riskieren" für Teilnahme am Kampf
   - Schwachpunkt aufwürfeln (alle SP) mit 2W6kh1 (für hellen Abschnitt) oder 2W6kl1 (für dunklen Abschnitt)
   - optional: Gegner schwächen (s.u.)
 2. Kampfrunde
