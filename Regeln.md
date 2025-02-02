@@ -107,7 +107,11 @@ Wenn die Korruption zunimmt, bekommt dein Charakter einen Zustand. Zustände zei
 Die Zustände können auf zwei verschiedene Arten reduziert werden. Jeder dieser beiden Wege kann von jedem Spielenden einmal pro Abenteuer angewendet werden.
 
 1. Beantworte die Abenteuerfrage. Damit kann ein Zustand abgebaut werden.
-3. Benutze den Spielzug "Auf Reisen".
+2. Benutze den Spielzug "Auf Reisen".
+
+## Bonusaufgabe
+
+Die Bonusaufgabe gibt den Spielenden die Möglichkeit, durch das Verfassen eines Haikus zum Abenteuer einen zusätzlichen Abschnittspunkt zu erhalten. Diese Bonusaufgabe ist einmal pro Abenteuer möglich. Du solltest die Bonusaufgabe zu Beginn des Abenteuers mit den Spielenden besprechen, damit sie genügend Zeit haben, darüber nachzudenken und ein Haiku zu schreiben.
 
 ## Am Ende einer Spielsession
 
