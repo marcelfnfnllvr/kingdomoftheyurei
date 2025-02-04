@@ -12,7 +12,7 @@
 | 4        | Steinbock        | Hufe                                           | Stoisch      | Geländegängig - Bewege dich durch schwergängiges Gelände     |
 | 5        | Affe             | Fell                                           | Klettern     | Schauspieltalent - Ahme jemanden nach                        |
 | 6        | Koi              | Schuppen                                       | Aussehen     | Glück - Fortuna ist dir hold                                 |
-| 7        | Katze            | Katzenaugen, Katzenohren                       | Aufmerksam   | Zwielichtpfad - Leg eine kurze Strecke durch die Geisterwelt zurück um schneller und ungesehen von A nach B zu kommen |
+| 7        | Katze            | Katzenaugen, Katzenohren                       | Aufmerksam   | Zwielichtpfad - Lege eine kurze Strecke durch die Geisterwelt zurück, um schneller und ungesehen von A nach B zu kommen |
 | 8        | Insekt           | Chitinpanzer                                   | Robust       | Schutz - Schütze dich und diejenigen in deiner Nähe          |
 | 9        | Yuki Onna        | bleiche Haut                                   | Kälte        | Frost: Du kannst die Temperatur senken                       |
 | 10       | Nure Onna        | Vampirzähne, Schlangenschuppen, Schlangenzunge | Aussehen     | Dominanz - Anderen deinen Willen aufzwingen                  |
@@ -130,7 +130,7 @@
 | 14       | Die Aura spüren    | Zeigt Emotionen und wahre Absichten auf.                                                 | 
 | 15       | Ablenkung          | Lass deine Stimme an einer anderen Stellen erscheinen.                                   |
 | 16       | Farben des Gesangs | Ein Publikum wird von dir in seinen Bann gezogen.                                        |
-| 17       | Täuschungsbann     | Decke das wahre Ich eines Wesens auf. <!-- ? Blick ins Wesen? Blick ins Zwielicht? Hinter die Fassade?-->                        |
+| 17       | Täuschungsbann     | Decke das wahre Ich eines Wesens auf.                                                    |
 | 18       | Elementarbändiger  | Herrsche über die Elemente.                                                              |
 | 19       | Ein ruhiger Geist  | Lässt dich auf deinen inneren Geist hören.                                               | 
 | 20       | Tierfreund         | Tiere vertrauen und helfen dir.                                                          |
