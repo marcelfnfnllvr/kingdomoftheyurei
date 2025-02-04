@@ -1,6 +1,6 @@
 # Der Berg erwacht
 
-Schwierigkeit: 18 - längeres Abenteuer - zwei Abende
+Schwierigkeit: 18 - längeres Abenteuer - zwei bis drei Abende
 
 Gesammelte Verderbnispunkte: [  1  ]
 

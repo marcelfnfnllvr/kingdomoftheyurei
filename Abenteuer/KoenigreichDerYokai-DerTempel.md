@@ -1,8 +1,8 @@
 # Der Tempel
 
-Schwierigkeit: 16 – ein kurzes und aber eher schwerers und düsteres Abenteuer - ein Abend  
+Schwierigkeit: 16 – ein kurzes und aber eher schwerers und düsteres Abenteuer - ein bis zwei Abende  
 
-Gesammelte Verderbnispunkte: [  5 - 2 = 3 + 1 = 2 + 1 = 3 ]
+Gesammelte Verderbnispunkte: [  n ]
 
 ### Hinweise für Spielleitende:
 
@@ -20,7 +20,7 @@ Bewahrende der Ruhe - Ruhig
 
 Was gibt dir Halt in dieser Welt der Geister und Dämonen? In dieser Welt, in der du für immer mit deinem Dämon verbunden bist und nie weißt, wie weit dein Weg noch ist?
 
-### Eröffnung:
+### Einleitung:
 
 > Was Sucht euer Charakter hier in der Tempelanlage Takedera?
 
@@ -118,23 +118,24 @@ Gefährlich
 ### Hinweise:
 
 -	[ ] Niemand stirbt hier. 
--	[x] Mönche gehen in den Wald und verschwinden.
+-	[ ] Mönche gehen in den Wald und verschwinden.
 -	[ ] Ein Schrei in der Nacht. Niemand scheint ihn gehört zu haben.
 -	[ ] Aufgaben werden einfach erledigt aber niemand koordiniert diese. 
 -	[ ] Leute scheinen physisch nichts zu fühlen. 
 -	[ ] Euch ist auf dem Weg hierher niemand entgegengekommen.
 -	[ ] Eine schimmernde Siloutte im Wasserfall.
--	[x] Fußabdrücke die von Menschlich zu Pfoten gehen.
+-	[ ] Fußabdrücke die von Menschlich zu Pfoten gehen.
 -	[ ] Eure Reflextion im Wasser scheint immer durchsichtiger und dünner zu werden.
--	[x] Jemand der verbotene Gebete an böse Kami Geister zitiert. 
--	[x] Eine der Statuen hat eine tropfenförmige rote Flüssigkeit unter den Augen.
--	[x] Ein Gesprächen oder eine Schriftrolle die bestätigt das es hier Mal Frauen gegeben haben muss.
--	[x] Der Duft von Räucherwerk und ein leises Kichern.
+-	[ ] Jemand der verbotene Gebete an böse Kami Geister zitiert. 
+-	[ ] Eine der Statuen hat eine tropfenförmige rote Flüssigkeit unter den Augen.
+-	[ ] Ein Gesprächen oder eine Schriftrolle die bestätigt das es hier Mal Frauen gegeben haben muss.
+-	[ ] Das schlagen von Trommeln
+-	[ ] Der Duft von Räucherwerk und ein leises Kichern.
 -	[ ] Jemand der glücklich morgens den Tempel verlässt. Ein Gast. Ihr habt die Person noch nie zuvor gesehen.
--	[x] Die Mönche reden von andere Gästen aber ihr könnt niemanden sehen außer euch.
--	[x] Die Füchsin, die dich auf den falschen Weg führt.
+-	[ ] Die Mönche reden von andere Gästen aber ihr könnt niemanden sehen außer euch.
+-	[ ] Die Füchsin, die dich auf den falschen Weg führt.
 -	[ ] Schatten wo keine Schatten sind.
--	[x] „Sie kehren zurück in den Zyklus“
--	[x] Es scheinen nie Lebensmittel gebracht zu werden und trotzdem sind die Lager niemals leer.
--	[x] Die Mönche sehen zunehmen ähnlicher aus.
+-	[ ] „Sie kehren zurück in den Zyklus“
+-	[ ] Es scheinen nie Lebensmittel gebracht zu werden und trotzdem sind die Lager niemals leer.
+-	[ ] Die Mönche sehen zunehmen ähnlicher aus.
 -	[ ] Eine jahrhundertealte Schriftrollen mit Gebeten. Bei genaurem Hinsehen verschwimmen die Worte und übrig bleibt nur ein einzige Wort nur ein einziges Wort: „Kaeshite“ (返して) – „Gib es zurück.“

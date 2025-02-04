@@ -1,6 +1,6 @@
 # Das Anwesen
 
-Schwierigkeit: 14 – ein kurzes und eher einfaches Abenteuer - ein Abend  
+Schwierigkeit: 14 – ein kurzes und eher einfaches Abenteuer - ein bis zwei Abende  
 
 Gesammelte Verderbnispunkte: [  n  ]
 

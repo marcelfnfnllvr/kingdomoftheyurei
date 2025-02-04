@@ -2,7 +2,7 @@
 
 ## 1 Änderungen/Ergänzungen für Regeln u. Spielzüge
 - [x] Haiku als Mechanik?  - Marcel hatte eine gute Idee.
-  - [ ] Haiku Regel ergänzen
+  - [x] Haiku Regel ergänzen
 - [ ] Umformulieren
   - [ ] Löst das momentan aktive Problem auf friedliche Art.
     - [ ] Weg von dem friedlich hin zum direkten Wurf. --> siehe neuen Vorschlag, mal gucken ob das besser passt? Beschreibung des Spielzugs auch angepasst. 
