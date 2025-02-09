@@ -20,7 +20,7 @@
     - [ ] Beurteilen, wie viele Sessions ein Abenteuer vermutlich dauern wird
     - [ ] Abenteuerstufe festlegen
 - [ ] Formulierung im Regelwerk grade ziehen?
-  - [x] Regeln? Spielzüge? Alle ansprechen? --> zumindest bei Regeln sollt's jetzt passen
+  - [x] Regeln? Spielzüge? Alle ansprechen? --> zumindest bei Regeln sollt's jetzt passen - außer Marcel ändert wieder was T_T
 - [x] Aufgabe friedlich lösen umformulieren
 - [x] kein Risk Roll, um ohne Fähigkeiten am Kampf teilzunehmen
 - [x] Formulieren, dass es gewünscht ist das sich die Gruppe trennt, wieder zusammenfinden, gemein geht, trennt, und so weiter... --> siehe Abenteuer_Vorwort
