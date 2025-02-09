@@ -111,7 +111,7 @@ Die Zustände können auf zwei verschiedene Arten reduziert werden. Jeder dieser
 
 ## Bonusaufgabe
 
-Die Bonusaufgabe gibt den Spielenden die Möglichkeit, durch das Verfassen eines Haikus zum Abenteuer einen zusätzlichen Abschnittspunkt zu erhalten. Diese Bonusaufgabe ist einmal pro Abenteuer möglich. Du solltest die Bonusaufgabe zu Beginn des Abenteuers mit den Spielenden besprechen, damit sie genügend Zeit haben, darüber nachzudenken und ein Haiku zu schreiben.
+Die Bonusaufgabe gibt den Spielenden die Möglichkeit, durch das Verfassen eines Haikus zum Abenteuer einen zusätzlichen Abschnittspunkt zu erhalten. Diese Bonusaufgabe ist einmal pro Abenteuer möglich. Die Spielleitung sollte die Bonusaufgabe zu Beginn des Abenteuers mit den Spielenden besprechen, damit sie genügend Zeit haben, um darüber nachzudenken und ein Haiku zu schreiben.
 
 ## Am Ende einer Spielsession
 
