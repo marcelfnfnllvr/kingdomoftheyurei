@@ -7,6 +7,7 @@
   - [ ] Löst das momentan aktive Problem auf friedliche Art.
     - [ ] Weg von dem friedlich hin zum direkten Wurf. --> siehe neuen Vorschlag, mal gucken ob das besser passt? Beschreibung des Spielzugs auch angepasst. 
     - [ ] Die Aufgabe lösen
+- [ ] weiße Bonuswürfel auf dem Charsheet 
 
 
 ## 2 Texte ergänzen/schreiben für's Regelwerk
