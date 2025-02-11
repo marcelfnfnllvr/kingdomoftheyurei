@@ -86,13 +86,13 @@ Bei jedem Aufstieg (Stufe 1):
 Stufe 2 - Bei 8 gesammelten Punkten:
 
 1. Du darfst für eine passende Erzählung eine Angst deiner Wahl verlieren. (Optional)
-2. Würfle einmal auf die Fähigkeiten-Tabelle 1 oder 2 und tausche eine Fähigkeit gegen eine neue. Die Dämonenfähigkeit kann nicht getauscht werden. (Optional)
+2. Würfle mit 2W20 auf die Fähigkeiten-Tabellen 1 und 2 und tausche eine Fähigkeit gegen eine der beiden ausgewürfelten. Die Dämonenfähigkeit kann nicht getauscht werden. (Optional)
 
 Stufe 3 - Bei 10 gesammelten Punkten:
 
 1. Du darfst für eine passende Erzählung eine Angst deiner Wahl verlieren. (Optional)
 2. Ändere ein weiteres Attribut oder einen Gegenstand. (Optional)
-3. Würfle jeweils einmal auf die Fähigkeiten Tabelle 1 und 2 und tausche jeweils eine Fähigkeit gegen eine neue. Die Dämonenfähigkeit kann nicht getauscht werden. (Optional)
+3. Würfle jeweils einmal mit einem W20 auf die Fähigkeiten-Tabellen 1 und 2 und tausche eine Fähigkeit gegen eine der beiden ausgewürfelten. Die Dämonenfähigkeit kann nicht getauscht werden. (Optional)
 
 ## Korruption
 
