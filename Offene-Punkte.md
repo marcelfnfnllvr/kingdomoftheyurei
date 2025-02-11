@@ -7,13 +7,13 @@
   - [ ] Löst das momentan aktive Problem auf friedliche Art.
     - [ ] Weg von dem friedlich hin zum direkten Wurf. --> siehe neuen Vorschlag, mal gucken ob das besser passt? Beschreibung des Spielzugs auch angepasst. 
     - [ ] Die Aufgabe lösen
-- [ ] weiße Bonuswürfel auf dem Charsheet 
+- [ ] weiße Bonuswürfel auf dem Charsheet in Foundry
 
 
 ## 2 Texte ergänzen/schreiben für's Regelwerk
 ### 2.1 Systembeschreibung
 
-- [ ] Wie schreibt man ein Abenteuer? "Jetzt erzählen Sie doch mal." *hältMikrofondirektunterdieNase*
+- [ ] Wie schreibt man ein Abenteuer? "Jetzt erzählen Sie doch mal. Das Publikum wartet gebannt..." *hältMikrofondirektunterdieNase*
     - [ ] Idee für Abenteuer entwickeln
     - [ ] Schauplätze und NPCs
     - [ ] Hinweise für die Spielenden
@@ -31,12 +31,12 @@
   - [x] 1x lesen Doro
 - [ ] Ablauf Spielabend / Abenteuer
   - [ ] Gameplay Loop soll Schematisch im Regelwerk abgebildet werden. Ein Diagramm.
-  - [ ] Abenteuerschwierigkeit anpassen.
-    - [ ] Ein Abend
-      - [ ] Einfach 14 
-      - [ ] Schwierig 16
+  - [x] Abenteuerschwierigkeit anpassen.
+    - [x] Ein Abend
+      - [x] Einfach 14 
+      - [x] Schwierig 16
     - [ ] Zwei Abende
-      - [ ] Einfach 18
+      - [x] Einfach 18
       - [ ] Schwierig 22 
   - [x] Kommt in Abenteuer_Vorwort.md 
   - [x] Nicht vergessen, dass die Spielenden am Anfang eines neuen Abenteuers ihre Aufgaben wählen müssen. Steht das schon irgendwo? --> jetzt schon, ja
@@ -44,7 +44,7 @@
 - [x] Safety Tools
 
 ### 2.2 Weltbeschreibung
-- [ ] Abenteuer schreiben
+- [ ] Abenteuer schreiben!!!!!
   - [x] Der Wald
   - [x] Die Aschegeister
   - [x] Der Berg erwacht
