@@ -114,10 +114,25 @@
 - [ ] Adaption für Müllsammler im All
   - [ ] Mehr soziale Interaktion	
 - [ ] Adaption in das jetzt Japan
+  - [ ] Jeden Tag ein Ort.
+    - [ ] Vormittags Schule
+    - [ ] Nachmittags ein Ort
+      - [ ] Dates oder Freunde treffen als Ausgleich zum Energie auffüllen?
+  
+  - [ ] Fokus mehr auf einzelne Yokai und ihre Geschichte
+  - [ ] Ein Kaffee als Hub der Spielenden mit einem verrückten alten
+    - [ ] Er war früher selner Yokai Jäger aber es ist ruhig geworden
+    - [ ] Nicht mehr die Yokai sind wieder aktiv
+  
   - [ ] Yokai sind in vergessenheit geraten
     - [ ] Ist das so oder spielt unsere Geschite doch in einem Detektivbüro?
   - [ ] Ihr seid jugendliche die über alte analoge Technik Yokai sehen können?
     - [ ] eher wieder über natürliche Fähigkeiten, Berührungen, etc.
+    - [ ] Kampf gegen die Yokai mit analoger Technik?
+      - [ ] oder in der anderen Welt aber immer erst nach Vorbereitung?
+      - [ ] also quasi 
+        - [ ] Planungs- und Investigativphase
+        - [ ] Kampf- oder Beseitigungsphase
   - [ ] Aufgeteilt in zwei Phasen
     - [ ] Yokai bekämpfem
       - [ ] Etwas herausfinden Phase
@@ -133,6 +148,10 @@
   - [ ] Springen zwischen Welten?
     - [ ] Das hier, die Menschenwelt
     - [ ] Das dort, die Dämonenwelt?
+    - [ ] Oder mehr so wie Vaesen wo man den direkten Kampf immer vermeiden sollte?
+      - [ ] wahrscheinlich klüger
+      - [ ] Kämpfen im Zweifel dann wie Alan Wake aber sau gefährlich
+        - [ ] wegen sterben sowas wie Verses schreiben?
   - [ ] Abenteuer sollten immer 2-3 Abende lang sein
     - [ ] Probleme können paralell angegangen werden?
   - [ ] Haben die Personen Avatare in der Dortwelt?
@@ -153,6 +172,7 @@
       - [ ] Sozialleben?
       - [ ] Wochenende?
     - [ ] Arbeit und Schule? Studium?
+  
 - [ ] Kampagnenstyle
   - [ ] Welt zusammen bauen am Abend
   - [ ] Pro Würfe
