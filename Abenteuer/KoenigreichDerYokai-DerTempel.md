@@ -2,7 +2,10 @@
 
 Schwierigkeit: 16 – ein kurzes und aber eher schwerers und düsteres Abenteuer - ein bis zwei Abende  
 
-Gesammelte Verderbnispunkte: [  n ]
+Gesammelte Verderbnispunkte: [  n - 1 + 1 + 1 + 1]
+
+Notizen:
+Miyamoto steht in Rüstung hinter ihnen. Er ist darauf gepolt ihnen was anzutun. Allerdings können sie das noch verhindern. Er weiß allerdings auch nicht viel. Ist leer. Ist programmiert quasi. Stufe 2 ist diese Begegnung. 
 
 ### Hinweise für Spielleitende:
 
@@ -89,7 +92,7 @@ Ungefährlich
 
 ##### Der Wasserfall
 
-EIn malerischer Wasserfall nicht Weit vom Tempelkomplex gelegen. Das stetige rauschen ist selbst in den hintersten Räumen des Tempels noch zu hören. Affen hängen in den riesigen Bäumen die sich zu den Seiten erstrecken. Vor euch liegt ein kleine See in dem sich das herabstürzende Wasser staut. 
+Ein malerischer Wasserfall nicht Weit vom Tempelkomplex gelegen. Das stetige rauschen ist selbst in den hintersten Räumen des Tempels noch zu hören. Affen hängen in den riesigen Bäumen die sich zu den Seiten erstrecken. Vor euch liegt ein kleine See in dem sich das herabstürzende Wasser staut. 
 
 Ungefährlich
 
@@ -118,24 +121,24 @@ Gefährlich
 ### Hinweise:
 
 -	[ ] Niemand stirbt hier. 
--	[ ] Mönche gehen in den Wald und verschwinden.
+-	[x] Mönche gehen in den Wald und verschwinden.
 -	[ ] Ein Schrei in der Nacht. Niemand scheint ihn gehört zu haben.
 -	[ ] Aufgaben werden einfach erledigt aber niemand koordiniert diese. 
 -	[ ] Leute scheinen physisch nichts zu fühlen. 
 -	[ ] Euch ist auf dem Weg hierher niemand entgegengekommen.
--	[ ] Eine schimmernde Siloutte im Wasserfall.
+-	[x] Eine schimmernde Siloutte im Wasserfall.
 -	[ ] Fußabdrücke die von Menschlich zu Pfoten gehen.
 -	[ ] Eure Reflextion im Wasser scheint immer durchsichtiger und dünner zu werden.
 -	[ ] Jemand der verbotene Gebete an böse Kami Geister zitiert. 
--	[ ] Eine der Statuen hat eine tropfenförmige rote Flüssigkeit unter den Augen.
+-	[x] Eine der Statuen hat eine tropfenförmige rote Flüssigkeit unter den Augen.
 -	[ ] Ein Gesprächen oder eine Schriftrolle die bestätigt das es hier Mal Frauen gegeben haben muss.
 -	[ ] Das schlagen von Trommeln
 -	[ ] Der Duft von Räucherwerk und ein leises Kichern.
--	[ ] Jemand der glücklich morgens den Tempel verlässt. Ein Gast. Ihr habt die Person noch nie zuvor gesehen.
--	[ ] Die Mönche reden von andere Gästen aber ihr könnt niemanden sehen außer euch.
--	[ ] Die Füchsin, die dich auf den falschen Weg führt.
+-	[x] Jemand der glücklich morgens den Tempel verlässt. Ein Gast. Ihr habt die Person noch nie zuvor gesehen.
+-	[x] Die Mönche reden von andere Gästen aber ihr könnt niemanden sehen außer euch.
+-	[x] Die Füchsin, die dich auf den falschen Weg führt.
 -	[ ] Schatten wo keine Schatten sind.
 -	[ ] „Sie kehren zurück in den Zyklus“
 -	[ ] Es scheinen nie Lebensmittel gebracht zu werden und trotzdem sind die Lager niemals leer.
--	[ ] Die Mönche sehen zunehmen ähnlicher aus.
+-	[x] Die Mönche sehen zunehmen ähnlicher aus.
 -	[ ] Eine jahrhundertealte Schriftrollen mit Gebeten. Bei genaurem Hinsehen verschwimmen die Worte und übrig bleibt nur ein einzige Wort nur ein einziges Wort: „Kaeshite“ (返して) – „Gib es zurück.“
