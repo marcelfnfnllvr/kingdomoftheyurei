@@ -1,6 +1,6 @@
 # Die Burg
 
-Schwierigkeit: 20 – ein längeres und aber eher schwerers und düsteres Abenteuer - zwei Abende  
+Schwierigkeit: 20 – ein längeres und aber eher schwerers und düsteres Abenteuer - zwei-drei Abende  
 
 Gesammelte Verderbnispunkte: [  n  ]
 
@@ -65,22 +65,77 @@ Die Burg Yūgetsu-jō liegt in der Stadt Yuèyǐng im östlichen Teil des König
 *Spricht mit ruhig - Wohlgesonnen*
 Ein älterer Samurai, den alle in der Burg zu respektieren scheinen. Er wirkt immer ruhig, kann aber aufbrausend werden, wenn er in die Enge getrieben wird oder sich bedroht fühlt. Widmet sich die meiste Zeit dem Studium alter Schriften.
 
+**Ryōkan Taigu - Mönch**
 
+*Exzentrischer aufgeregt - Freundlich*
+Bekannt für seine Haiku, ist er ebenso ein Poet wie ein Spielkind, das schnell aufbrausend wird. Ein Künstler durch und durch. Er kritisiert gerne den Shogun und seine Art, mit dem Volk und vor allem mit den hier lebenden Yokai umzugehen.
+
+Geister und Dämonen im Land
+Sind und sind nicht so wie wir
+Verstehen und verstehen sie nicht
+
+Eine Geisha
+
+Ein Händler / Ein Teehausbesitzter?
+
+Diverse Dorfbewohner
 
 ### Schauplätze:
 
 ##### Die Burg Yūgetsu
 
-Mitten in der Stadt gelegen, überragen die Türme der Burg alle anderen Gebäude.Die Burg wurde vor nicht allzu langer Zeit modernisiert und strahlt in ihrer ganzen Pracht über die Stadt.Die Samurai, die hier leben, haben sich größtenteils auf das Studium und die Kunst spezialisiert und üben nur noch selten den Kampf.Der Shogun soll hier oft zu Gast sein und die Gesellschaft und den Rat der Samurai zu schätzen wissen. 
+In der Mitte der Stadt gelegen, überragen die Türme der Burg alle anderen Gebäude. Die Burg wurde vor nicht allzu langer Zeit modernisiert und strahlt in ihrer ganzen Pracht über die Stadt. Die Samurai, die hier leben, haben sich größtenteils auf Studium und Kunst spezialisiert und üben nur noch selten den Kampf. Der Shogun soll hier oft zu Gast gewesen sein und die Gesellschaft und den Rat der Samurai geschätzt haben. 
 
 Ungefährlich
 
 > Eröffnungsfrage: Irgendetwas hier erinnert euch an eure eigene Ausbildung und Jugend. Was genau?
 
+##### Der große Garten
 
+Malerischer Garten, der direkt an den Burggraben angrenzt. Gut strukturiert mit Kirschbäumen, Wegen, kleinen Brücken, angelegten Bächen und Teichen. In die Landschaft gesetzte Steine kontrastieren das Grün. Kiesbeete, die durch wellenförmig geharkte Linien einen ausgetrockneten Flusslauf imitieren sollen, werden von den Mönchen gepflegt und laden zum Meditieren und Verweilen ein.
 
+Ungefährlich
 
+> Eröffnungsfrage: Worin besteht für euch die Schönheit der Gartenanlage?
+
+##### Der Tempel Tenkai
+
+Etwas oberhalb der Stadt liegt der Tenkai-Tempel mit seinen grauen Mönchen. Die Mönche pflegen den großen Garten der Stadt, leiten die Zeremonien im Tempel, stellen Tee und Saake her und werden regelmäßig vom Shogun konsultiert und um Rat gefragt. Der Tempel selbst ist so alt wie die Stadt und es gibt Gerüchte, dass der Mönch **Ryōkan Taigu** von Anfang an im Tempel verweilt und eigentlich ein herabgestiegener Gott ist.
+
+Ungefährlich
+
+> Eröffnungsfrage: Die Verbindung zwischen dem Tempel und den Yokai ist unmittelbar spürbar. Durch was?
+
+##### Das Tatami-Zimmer der Geister
+
+Das Zimmer kann in jedem Haus der Stadt, im Tempel oder in der Burg auftauchen. Es existiert nur in der Geisterwelt, nicht in unserer physischen Welt. Die Fureru können es natürlich sehen und auch betreten. Hunderte von kleinen Geisterwesen schlafen dort friedlich auf den Tatami-Matten. Die Fureru können mit ihnen sprechen und Hinweise erhalten, aber sie müssen vorsichtig sein. Die Ruhe ist trügerisch und kann in einem gefährlichen Chaos enden. 
+
+Potentiell Gefährlich
+
+> Eröffnungsfrage: Welche Geister erkennt ihr wieder?
+
+##### Die Stadt Yuèyǐng
+
+Die Stadt liegt an einem breiten Fluss, mit hölzernen Brücken, die geschäftige Händler, Samurai und Bauern überqueren. Enge, von Laternen erleuchtete Straßen schlängeln sich zwischen dicht gedrängten Holzhäusern, während in kleinen Teehäusern der Duft von frisch gebrühtem Matcha die Luft erfüllt.
+
+Im Zentrum thront eine gewaltige Burg mit weißen Mauern und geschwungenen Dächern, umgeben von Wassergräben und dem großen Garten. In den belebten Märkten rufen Straßenhändler ihre Waren aus – Reis, Fisch, bunte Seidenstoffe und handgefertigte Lackwaren.
+
+Tempelglocken klingen in der Ferne, während Mönche in einfachen Roben durch die Stadt schreiten. 
+
+Potentiell Gefährlich
+
+> Eröffnungsfrage: ?
+
+##### Das Vergnügungsviertel
+
+Versteckt hinter hölzernen Toren und leuchtenden Papierlaternen liegt das Vergnügungsviertel – ein Ort, an dem die strengen Regeln der Edo-Zeit für einen Moment verblassen. Hier fließt der Sake in endlosen Schalen, während die melancholischen Klänge der Shamisen durch die Gassen hallen. Geishas in kunstvollen Kimonos unterhalten Gäste mit Tanz, Musik und feinsinniger Konversation, während Kabuki-Schauspieler auf den Bühnen der Theater dramatische Geschichten zum Leben erwecken.
+
+Potentiell Gefährlich
+
+> Eröffnungsfrage: ?
 
 ### Hinweise:
 
 -	[ ] Die Burg wird Burg des Geistermondes genannt
+-	[ ] Nachts patrolieren kleine Papierfiguren in der Burg umher.
+-	[ ] Mönche in ungewöhnlichen roten Roben.
