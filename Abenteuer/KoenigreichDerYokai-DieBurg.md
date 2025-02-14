@@ -1,4 +1,4 @@
-# Die Burg
+# Die Stadt **Fukusaki**
 
 Schwierigkeit: 20 – ein längeres und aber eher schwerers und düsteres Abenteuer - zwei-drei Abende  
 
@@ -6,15 +6,25 @@ Gesammelte Verderbnispunkte: [  n  ]
 
 ### Hinweise für Spielleitende:
 
-Die guten und einfachen Zeiten in Yuèyǐng sind längst vorbei. Der Shogun regiert hinter den Kulissen mit eiserner Hand und erhält so das Trugbild einer strahlenden Stadt. Die Verbindung zur Geisterwelt wird immer schwächer und die Einzigartigkeit Yuèyǐngs scheint langsam zu schwinden. Er zwingt, sich zur Ruhe gesetzte Fureru für ihn zu arbeiten die Geister zu zwingen hier weiterhin präsent zu bleiben und die Bevölkerung zu unterstützen. Gleichzeitig infiltrieren die Mönche des Roten Ordens die Stadt und treiben die Geister zurück in ihre Welt. Zu ihrem eigenen Schutz, versteht sich. In der Bevölkerung haben sich verschiedene Gruppen gebildet, die die Geister untersuchen. Diese Gruppen werden natürlich unterdrückt und sollen mit aller Macht verhindert werden.
+Die guten und einfachen Zeiten in Fukusaki sind längst vorbei. Der Shogun regiert hinter den Kulissen mit eiserner Hand und erhält so das Trugbild einer strahlenden Stadt. Die Verbindung zur Geisterwelt wird immer schwächer und die Einzigartigkeit Fukusakis scheint langsam zu schwinden. Er zwingt, sich zur Ruhe gesetzte Fureru für ihn zu arbeiten die Geister zu zwingen hier weiterhin präsent zu bleiben und die Bevölkerung zu unterstützen. Gleichzeitig infiltrieren die Mönche des Roten Ordens die Stadt und treiben die Geister zurück in ihre Welt. Zu ihrem eigenen Schutz, versteht sich. In der Bevölkerung haben sich verschiedene Gruppen gebildet, die die Geister untersuchen. Diese Gruppen werden natürlich unterdrückt und sollen mit aller Macht verhindert werden.
 
 ### Fragestellung, Eskalation und Ehrung:
 
-Eine Fragestellung, die es zu lösen gilt: Was geschieht in Yuèyǐng? 
+Eine Fragestellungen, die es, in der Reihenfolge, zu lösen gilt: 
+
+1. Welches Uralte Geheimins liegt in Fukusaki begraben? (Schwierigkeit 8)
+   1. Es gibt keine direkte Konsequenz für das scheitern der Fragegestellung aber die Gefahrenstufe und die Schwierigkeit der lezten Aufgabe erhöhen sich um 2 Punkte.
+2. Wieso ist das Gleichgewicht zwischen den Geistern und den Menschen in Fukusaki gestört? (Schwierigkeit 8)
+   1. Es gibt keine direkte Konsequenz für das scheitern der Fragegestellung aber die Gefahrenstufe und die Schwierigkeit der lezten Aufgabe erhöhen sich um 4 Punkte.
+3. Wie stellt ihr das gleichgewicht wieder her und schadet dabei möglichst wenig Menschen?  (Schwierigkeit 12)
 
 Eskalation: Die Yokai drehen vollkommen durch und verwüssten die Stadt. Eine Bedrohnung der Gefahrenstufe 16.
 
 Ehrung: Meister/Meisterin der Yokai - Geist
+
+### Besonderheiten des Abenteuers:
+
+Es ist in diesem Abenteuer erlaubt zwei Mal den Spielzug "Auf Reisen" zu nutzen.
 
 ### Abenteuerfrage:
 
@@ -22,7 +32,7 @@ Ehrung: Meister/Meisterin der Yokai - Geist
 
 ### Einleitung:
 
-Die Burg Yūgetsu-jō liegt in der Stadt Yuèyǐng im östlichen Teil des Königreichs Soho. Die Burg liegt mitten im Stadtzentrum und ist von einem tiefen Wassergraben umgeben. Daran schließt sich ein malerischer Park an, der von den hiesigen Mönchen gepflegt wird. Die Stadt Yuèyǐng ist dafür bekannt, dem Königreich eine gewisse Stabilität zu verleihen. Aufstände sind selten, die Stadt ist im Allgemeinen wohlhabend und der regierende Shogun sorgt dafür, dass es der Stadt und ihren Bewohnern gut geht. Die Stadt ist zudem tief mit den Geistern verbunden. Seit Jahrhunderten ist die Wand zwischen den Welten hier so dünn, dass die Geister einfach friedlich unter den Menschen leben. Sie helfen ihnen sogar. Yuki Onna, die Wasser zu Eis gefrieren lassen, oder Füchse, die sich in Kitsune verwandeln und beim Feuermachen helfen, sind hier an der Tagesordnung und machen die Stadt zu einem beliebten Ausflugsziel für die wohlhabendere Bevölkerung Sohos. Zumindest bis jetzt. Es tauschen unter der Bevölkerung immer mehr Gerüchte auf das verschiedene Yokai gesichtet worden sind. Kinder verschwinden und werden von Chinouya, Dämonen die wie gutherzige Frauen aussehen, ins Wasser gezogen. Ein an Pocken erkrankter Riese in Kindergestalt, Hashika dōji genannt, hat eine ganze Straßenzeile verwüstet und mehrere Menschen schwer verletzt. Onryō, die Geister tragisch Verstorbener, erscheinen tagsüber in den Straßen und beunruhigen die Bevölkerung. Der Shogun versuchte, die Bevölkerung zu beruhigen, was ihm jedoch nicht gelang. Niemand hat die Gespenster je direkt gesehen. Man kennt nur jemanden, der jemanden kennt. Ohne Aussicht auf Besserung der Situation hat er sich an das Königreich gewandt und ihr wurdet nach Yuèyǐng geschickt, um zu klären, was dort wirklich vor sich geht.
+Die Burg Yūgetsu-jō liegt in der Stadt Fukusaki im östlichen Teil des Königreichs Soho. Die Burg liegt mitten im Stadtzentrum und ist von einem tiefen Wassergraben umgeben. Daran schließt sich ein malerischer Park an, der von den hiesigen Mönchen gepflegt wird. Die Stadt Fukusaki ist dafür bekannt, dem Königreich eine gewisse Stabilität zu verleihen. Aufstände sind selten, die Stadt ist im Allgemeinen wohlhabend und der regierende Shogun sorgt dafür, dass es der Stadt und ihren Bewohnern gut geht. Die Stadt ist zudem tief mit den Geistern verbunden. Seit Jahrhunderten ist die Wand zwischen den Welten hier so dünn, dass die Geister einfach friedlich unter den Menschen leben. Sie helfen ihnen sogar. Yuki Onna, die Wasser zu Eis gefrieren lassen, oder Füchse, die sich in Kitsune verwandeln und beim Feuermachen helfen, sind hier an der Tagesordnung und machen die Stadt zu einem beliebten Ausflugsziel für die wohlhabendere Bevölkerung Sohos. Zumindest bis jetzt. Es tauschen unter der Bevölkerung immer mehr Gerüchte auf das verschiedene Yokai gesichtet worden sind. Kinder verschwinden und werden von Chinouya, Dämonen die wie gutherzige Frauen aussehen, ins Wasser gezogen. Ein an Pocken erkrankter Riese in Kindergestalt, Hashika dōji genannt, hat eine ganze Straßenzeile verwüstet und mehrere Menschen schwer verletzt. Onryō, die Geister tragisch Verstorbener, erscheinen tagsüber in den Straßen und beunruhigen die Bevölkerung. Der Shogun versuchte, die Bevölkerung zu beruhigen, was ihm jedoch nicht gelang. Niemand hat die Gespenster je direkt gesehen. Man kennt nur jemanden, der jemanden kennt. Ohne Aussicht auf Besserung der Situation hat er sich an das Königreich gewandt und ihr wurdet nach Fukusaki geschickt, um zu klären, was dort wirklich vor sich geht.
 
 ### Gefahren:
 
@@ -56,7 +66,8 @@ Die Burg Yūgetsu-jō liegt in der Stadt Yuèyǐng im östlichen Teil des König
 
 ### Momente:
 
--	
+-	Ihr seht wie die handgefertigten Origami-Figuren, die die Burg schmücken, sich von ihren Position lösen, sich langsam entfalten und zu kleinen Wächtern werden. Sie fangen an in der Burg die Gänge zu patrollieren. Ihre Bewegung klingen wie leiser Windhauch.
+-	Glühwürmchen tanzen in Luft und sich dabei choreografiert wie die schönste Aufführung im Theather. Immer wenn ihr zu lange auf eine Gruppe schaut verschwindet sie und taucht 3 Meter weiter wieder auf. Ein Tanz der euch fast in Trance versetzt wenn ihr nicht genau aufpasst.
 
 ### Personen:
 
@@ -79,6 +90,8 @@ Eine Geisha
 Ein Händler / Ein Teehausbesitzter?
 
 Diverse Dorfbewohner
+
+Diverse Yokai / Der genaue Yokai kann er auflistung oben entnommen werden.
 
 ### Schauplätze:
 
@@ -114,7 +127,15 @@ Potentiell Gefährlich
 
 > Eröffnungsfrage: Welche Geister erkennt ihr wieder?
 
-##### Die Stadt Yuèyǐng
+##### Der verborgene Garten
+
+Der Garten kann in jedem Haus der Stadt, im Tempel oder in der Burg auftauchen. Er existiert nur in der Geisterwelt, nicht in unserer physischen Welt. Die Fureru können ihn natürlich sehen und auch betreten. Es ist eine Oase voller schwebender Kirschblüten und leuchtender Pflanzen. Riesige majestätische Ahornbäume umgeben den Garten. Koi schwimmen in vielen verschiedenen Farben durch den Garten und man sieht eine schattenhafte Gestalt auf einer kleinen Erhöhung in der Mitte hocken. Sie hockt dort mit dem Rücken zu euch und wirkt leicht verschwommen. 
+
+Potentiell Gefährlich
+
+> Eröffnungsfrage: ?
+
+##### Die Stadt Fukusaki
 
 Die Stadt liegt an einem breiten Fluss, mit hölzernen Brücken, die geschäftige Händler, Samurai und Bauern überqueren. Enge, von Laternen erleuchtete Straßen schlängeln sich zwischen dicht gedrängten Holzhäusern, während in kleinen Teehäusern der Duft von frisch gebrühtem Matcha die Luft erfüllt.
 
