@@ -122,7 +122,7 @@ Gefährlich
 
 > Was zeigt euch, dass der Umgang mit der Plantage das Gleichgewicht zwischen Menschen und den Naturgeistern nicht mehr respektiert hat?
 
-Herausforderung: Sollte der Pilz direkt untersucht werden, wäre ein Wurf auf „Sich einem Risiko aussetzen“ angebracht. Auch für Verwunschene<!-- Sollen die so viele verschiedene Bezeichnungen haben? --> ist es nicht risikofrei mit Dämonen in Kontakt zu kommen.
+Herausforderung: Sollte der Pilz direkt untersucht werden, wäre ein Wurf auf „Etwas riskieren“ angebracht. Auch für Fureru ist es nicht risikofrei mit Dämonen in Kontakt zu kommen.
 
 ##### Das Dorf
 
