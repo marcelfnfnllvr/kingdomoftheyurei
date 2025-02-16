@@ -7,7 +7,7 @@
   - [ ] Löst das momentan aktive Problem auf friedliche Art.
     - [ ] Weg von dem friedlich hin zum direkten Wurf. --> siehe neuen Vorschlag, mal gucken ob das besser passt? Beschreibung des Spielzugs auch angepasst. 
     - [ ] Die Aufgabe lösen
-- [ ] weiße Bonuswürfel auf dem Charsheet in Foundry
+- [ ] weiße Bonuswürfel auf dem Charsheet in Foundry tracken
 
 
 ## 2 Texte ergänzen/schreiben für's Regelwerk
@@ -48,8 +48,8 @@
   - [x] Der Wald
   - [x] Die Aschegeister
   - [x] Der Berg erwacht
-  - [ ] Etwas in/mit einer Festung
-  - [ ] was am Meer/Strand
+  - [x] Etwas in/mit einer Festung
+  - [x] was am Meer/Strand
   - [ ] Abenteuer um Bräuche herum schreiben?
   - [ ] Ein Fest (Kinderedition)
     - [ ] Die Karpfen Papierfahnen
