@@ -60,7 +60,7 @@ Ist erst seit einem Jahr in dem Dorf. Berichtet, dass ihr beim Aufbau des alten 
 
 ##### Svenja Iho - Tochter und kleines Mädchen
 
-*Misstrauisch - blickt häufig zu Boden - spricht stockend mit leiser Stimme* <!-- nur ein Vorschlag, weil sie schüchtern sein soll -->
+*Misstrauisch - blickt häufig zu Boden - spricht stockend mit leiser Stimme* 
 
 Ein kleines Mädchen. Etwas schüchtern, verspielt und auf ihre Art wild. Sie kann sich in einen Wolf verwandeln. Ihre Mutter hat gesagt, dass sie sich den Pilzen auf keinen Fall nähern darf. Dort lauert der Tod. Sie ging allerdings trotzdem und konnte in ihrer Wolfsform mit dem Pilz reden. Sie hat sich über ihn lustig gemacht. Er ist so bewegungslos.
 
@@ -84,7 +84,7 @@ Er sieht sehr gut aus, ist aber eher von einfacherem Gemüt. Er behauptet noch n
 
 ##### Hotaru Iwa - Dorfarzt aus dem Reich
 
-*Misstrauisch - weiße Haare - geht leicht gebückt - redet mit brüchiger Stimme* <!-- Nur ein Vorschlag, da ich annehme er ist recht alt -->
+*Misstrauisch - weiße Haare - geht leicht gebückt - redet mit brüchiger Stimme* 
 
 Lebte früher in der großen Stadt. Kam zum Dorf, um sich zur Ruhe zu setzen und hat dann wieder angefangen zu arbeiten. Er mag die Dorfälteste, aber sie mag ihn nicht. Er hat mit den Pilzen experimentiert, um ein Potenzmittel zu finden, da das Geweih von Wanderern rar geworden ist und nur noch selten zur Verfügung steht. Sein Haus ist etwas abseits im Dorf.
 
@@ -164,15 +164,15 @@ Herausforderung: Es ist dunkel und die Umgebung nur mit Fackeln beleuchtet. Übe
 
 - [ ] Ein verendeter Eber nahe dem Dorf. Er ist infiziert. Er wurde zum Teil ausgeweidet.
 - [ ] Ein Pilzmesser mit menschlichen Blut dran.
-- [ ] Infizierte Pilzreste plattgetreten am Boden.
+- [ ] Infizierte Pilzreste, plattgetreten am Boden.
 - [ ] Es wird berichtet, dass eine Dame im Freudenhaus geschwängert wurde.
 - [ ] Ein Brief, in dem steht, dass die größere Lieferung bald erwartet wird.
 - [ ] Es soll sich vermehrt Gesindel in der Gaststätte direkt neben dem hiesigen Hotel herumtreiben.
 - [ ] Ein Brief, in dem um Fruchtbarkeitsmedizin gebeten wird. Unterschrieben von UNLESERLICH.
 - [ ] Briefe, die Handel mit dem Norden andeuten.
 - [ ] Ein unautorisiert getötetes Nara-Reh.
-- [ ] Potenzmittel hergestellt aus dem Horn eines Markierten.
-- [ ] Eine Anleitung wie man aus Markierten Potenzmittel herstellt.
+- [ ] Potenzmittel hergestellt aus dem Horn eines Wandernden.
+- [ ] Eine Anleitung wie man aus Fureru Potenzmittel herstellt.
 - [ ] Eine Bisswunde von einem Wolf
 - [ ] Ritualmesser sollen früher dazu genutzt worden sein die Geister bei der Schlachtung von Tieren zu besänftigen.
 - [ ] Ein Brief, in dem steht, dass die Liebe nicht lohnt wenn sie kein Leben erschaffen kann. 
