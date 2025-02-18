@@ -43,6 +43,7 @@ Euer Bekannter und Kamerad Kenji war Gerüchten zufolge hier, um einen Auftrag z
 - Am Fischmarkt klaut eine Katze einen großen Fisch von einem Stand und wird von der laut zeternden Händlerin verfolgt.
 - In der Nähe des Hafens strandet plötzlich ein großer Wal. Einige Dorfbewohner sammeln sich um ihn und beginnen zu diskutieren, ob sie ihn töten oder versuchen sollen, ihn zurück ins Meer zu bringen.
 - Ein hungriges Kind isst am Hafen sein Onigiri, als plötzlich eine Möwe auf seinem Kopf landet und ihm den Rest seines Essens direkt aus der Hand schnappt und im Ganzen verschlingt. 
+- Eine Frau nimmt mit geübten, flinken Händen einen Fisch aus. Ihr beobachtet sie genauer und plötzlich fällt euch auf, dass sie das Messer und den Fisch nicht mit ihren Händen hält, sondern mit mehreren Tentakeln.  
 
 ### Personen:
 
@@ -82,6 +83,13 @@ Möchte ebenfalls, dass die Opferungen aufhören, ist aber in seinem Protest geg
 *Misstrauisch - brüchige, leise Stimme - weiße Robe mit maritimen Symbolen und eine lange Perlenkette um den Hals*
 
 Alte Priesterin, die sich um den Schrein oben auf der Klippe kümmert und an ihren Ritualen festhalten will. Bildet bei den Opferungen die spirituelle Seite und ist maßgeblich an der Auswahl des nächsten Opfers beteiligt. Ist davon überzeugt, dass sie selbst für das Gleichgewicht zwischen Dorf und Meer verantwortlich ist und duldet keine Einmischung von außen. Als ehrwürdige Priesterin hat ihr Wort in der Gemeinschaft einiges Gewicht.
+
+##### Nora Yohei - Hausfrau/Oktopus-Yōkai
+
+*Wohlgesonnen - spricht lansam und mit merkwürdiger Intonation, als wüsste sie nicht, wie manche Worte betont werden - einfacher bodenlanger Kimono, der untere Rand ist nass*
+
+Kümmert sich um den Haushalt, währned ihr Mann fischen geht. Kann sehr gut kochen und lädt gerne Gäste zum Essen ein. Versucht ihre wahre Identität zu vertuschen und spielt Anmerkungen zu ihrem Aussehen freundlich/peinlich berührt runter. Explizit auf ihr Geheimnis angesprochen, fleht sie die Gruppe an, ihr Geheimnis nicht zu verraten, sonst muss sie zurück ins Meer, in die Bucht.
+
 
 ##### Kenji - Wandernder
 
