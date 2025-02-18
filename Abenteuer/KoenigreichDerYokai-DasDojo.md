@@ -50,10 +50,10 @@ Ihr wollt gerade in den Innenhof gehen, da kommt euch plötzlich eine panisch ru
 
 Mittelalter Mann mit ordentlich zusammengebundenen Haaren. Hat das Dojo vor Kurzem übernommen, nachdem er den alten Meister im Kampf besiegt hat. Ist es gewöhnt, dass seinen Befehlen Folge geleistet wird. Empfängt Neuankömmlinge freundlich. Identifiziert die Gruppe als Wandernde und wird sie um Hilfe bitten, wenn sie es nicht von sich aus anbieten.
 
-##### ?? – Hilfslehrerin 
+##### Miho Takanori – Hilfslehrerin 
 
-*Wohlgesonnen - 
-Tot aufgefundener unehelicher Sohn des Yoshiteru. Er war auf dem Anwesen als Koch angestellt.<!-- Wäre es evtl noch interessant zu wissen ob die Geschwister wussten, dass das der uneheliche Sohn war? Also für die SL zumindest? Oder überlässt du das dem Lauf der Geschichte? -->
+*Wohlgesonnen - ruhige und aufmunternde Art - trägt ebenfalls Hakama und Keikogi, aber in Dunkelblau*
+Ranghöchste Schülerin und Hilfslehrerin im Dojo. Hat noch unter Shinobu-sensei gelernt. Verantwortungsbewusst übernimmt sie diverse Pflichten im Dojo, fungiert aber auch als Vertrauensperson für die Anderen. Bedauert das Ableben des alten Meisters sehr, akzeptiert aber den natürlichen Lauf der Dinge.
 
 ##### Hiro Okajima – Fortgeschrittener Schüler
 
@@ -61,29 +61,30 @@ Tot aufgefundener unehelicher Sohn des Yoshiteru. Er war auf dem Anwesen als Koc
 
 Glaubt, dass die Fureru selbst hinter den Störungen und Phänomenen stecken - schließlich fällt ihre Ankunft genau mit dem Beginn davon zusammen. 
 
-##### ?? – Köchin, Hausmeisterin, Gärtnerin
+##### Itō Yamaguchi – Köchin, Hausmeisterin, Gärtnerin
 
-*Misstrauisch*
+*Misstrauisch - flucht ständig und ist genervt - klein, sehnig und vom Alter gebeugt, trägt einfache Kleidung , die Ärmel mit meinem Band hochgebunden, und eine Schürze*
 
-Sie ist sehr alt. 
+Sie ist sehr alt, keiner weiß genau wie alt, denn niemand traut sich zu fragen. Stets schlecht gelaunt schimpft sie über quasi alles - nur über den Meister nicht, jedenfalls nicht zu laut. Kümmert sich im Dojo um alles, was mit Haus und Ordnung zu tun hat. Die Küche ist ihr Heiligtum. 
 
 ##### Jun und Kyō – Alte Hundegeschwister
 
 *Wohlgesonnen*
 
 Waren mal Wachhunde, sind aber mittlerweile recht alt und gemütlich geworden und liegen am liebsten im Garten in der Sonne. Spielen der Haushälterin manchmal Streiche und versuchen immer Essen zu klauen. Beschimpfen sie (nicht ernsthaft) und haben im Gegensatz zu allen Schülerinnen und Schülern keine Angst vor ihr.
-Kannten den alten Meister sehr gut und mochten ihn, er hat ihnen oft etwas aus der Küche gemopst.
+Kannten den alten Meister sehr gut und mochten ihn, er hat ihnen oft etwas aus der Küche gemopst. Sind insbesondere gegen "Bezahlung" gerne zu Auskünften bereit.
 
 ##### Die roten Kobolde 
 
 *Misstrauisch*
 
-
+Wurden gebeten, für Unruhe und vor allem Lärm zu sorgen. Eine Pflicht, die sie sehr ernst nehmen. Verraten aber nicht ihren Auftraggeber. Betriebsgeheimnisse und so.
 
 ##### Shinobu-sensei - verstorbener Meister und direkter Vorgänger von Kaname
 
-*Wohlgesonnen*
+*Wohlgesonnen - rüstiger alter Mann mit wehklagender Stimme - weißes Totengewand, schwebt über dem Boden und ist halb durchsichtig*
 
+Erscheint erst, wenn er durch ein Ritual gerufen wird. Wurde durch den neuen Meister besiegt und findet keine Ruhe.
 
 
 ### Schauplätze:
@@ -95,17 +96,20 @@ Ungefährlich
 > Eröffnungsfrage: 
 
 ##### Das Dojo
-Ungefährlich
 
-> Eröffnungsfrage: 
+Ungefährlich
+Großer möbelloser Raum mit Tatami-Matten. An der Wand gegenüber des Eingangs hängt mittig eine große Papierrolle, auf der der alte Meister zu sehen ist. 
+
+> Eröffnungsfrage: Was zeugt von den vielen Übungsstunden, die die zahlreichen Gäste des Dojo hier verbracht haben?
 
 ##### Das Wohnhaus
 
 Ungefährlich
+Hier essen und schlafen die Schülerinnen und Schüler in Gemeinschaftsräume, der Meister hat seine eigenen Räumlichkeiten.
 
 > Eröffnungsfrage: 
 
-##### Gefährlicher Ort
+##### Küche 
 
 Gefährlich
 
