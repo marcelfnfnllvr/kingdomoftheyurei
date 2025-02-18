@@ -18,10 +18,7 @@ Pilzbefall ade - Pflanzen <!-- das tut mir nur ein ganz bisschen weh, dass hier 
 
 ### Abenteuerfrage:
 
-Vorschläge <!--(mir gefällt der erste am besten ^^) -->:  
 Dein Charakter hatte schon einmal die Möglichkeit die berühmten Pilze aus Haran zu probieren. Bei welcher Gelegenheit war das und wie haben sie ihm geschmeckt?  
-*oder*  
-Wenn dein Charakter noch eine Sache an diesem Dorf ändern könnte, was wäre das?
 
 ### Einleitung:
 
