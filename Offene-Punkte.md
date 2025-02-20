@@ -13,6 +13,11 @@
 ## 2 Texte ergänzen/schreiben für's Regelwerk
 ### 2.1 Systembeschreibung
 
+- [ ] Beispielschauplätze/NPCs
+   - [ ] Ryokan
+   - [ ] Izakaya
+   - [ ] Badehaus-Besitzer
+   - [ ] Tavernenwirt
 - [ ] Wie schreibt man ein Abenteuer? "Jetzt erzählen Sie doch mal. Das Publikum wartet gebannt..." *hältMikrofondirektunterdieNase*
     - [ ] Idee für Abenteuer entwickeln
     - [ ] Schauplätze und NPCs
