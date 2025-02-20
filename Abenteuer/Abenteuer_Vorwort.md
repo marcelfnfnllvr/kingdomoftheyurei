@@ -30,7 +30,7 @@ In den vorgefertigten Abenteuern sind alle wichtigen Elemente wie Schauplätze, 
 
 Die hier vorgestellten Abenteuer lassen sich in ein bis zwei Sessions durchspielen, wobei wir bei einer Session von einer Dauer von ca. 4-5 Stunden ausgehen. Genau lässt sich das nie vorher sagen, denn Gruppen spielen einfach unterschiedlich. In den Geschichten in *Königreich der Yōkai* gibt es auch keine festgeschriebenen Events oder Reihenfolgen, sondern die Gruppe bewegt sich von Szene zu Szene. Wann genau eine Session also vorbei sein soll, kann relativ frei festgelegt werden. Natürlich wird aber die Wahrscheinlichkeit das Abenteuer friedlich abzuschließen größer, je mehr Hinweise die Gruppe sammeln konnte.  
 
-Natürlich müsst ihr aber keines der vorgefertigten Abenteuer verwenden, sondern könnt euch selbst eigene Abenteuer ausdenken. Einige Tipps und Tricks hierzu findet ihr ebenfalls in diesem Kapitel. Die vorgefertigten Abenteuer können aber besonders am Anfang auch der Spielleitung helfen, ein Gefühl für das System und die Struktur der Geschichten zu entwickeln. Alle der hier beschriebenen fünf Abenteuer wurden mehrfach mit verschiedenen Spielgruppen getestet, mal mit drei Spielenden und mal mit vier. Die Einschätzung zur Länge der Abenteuer beruht auf diesen Erfahrungen.  
+Natürlich müsst ihr aber keines der vorgefertigten Abenteuer verwenden, sondern könnt euch selbst eigene Abenteuer ausdenken. Einige Tipps und Tricks hierzu findet ihr ebenfalls in diesem Kapitel. Die vorgefertigten Abenteuer können aber besonders am Anfang auch der Spielleitung helfen, ein Gefühl für das System und die Struktur der Geschichten zu entwickeln. Alle der hier beschriebenen Abenteuer wurden mehrfach mit verschiedenen Spielgruppen getestet, mal mit drei Spielenden und mal mit vier. Die Einschätzung zur Länge der Abenteuer beruht auf diesen Erfahrungen.  
 
 Dieses System ist ausgelegt für Gruppen mit drei bis vier Spielenden. Bei weniger wird die Gefahr zu groß, dass die Charaktere zu schnell zu viele Zustände sammeln, weil sich die Würfe auf nur noch ein bis zwei Personen konzentrieren. Bei Gruppen mit mehr als 4 Spielenden dauern die einzelnen Szenen länger, wenn der Anteil an Rollenspiel gleich bleiben soll. Außerdem besteht die Gefahr, dass einer Person nicht genügend Raum zum Spielen gegeben wird und so Frustration aufkommt. Darüber hinaus bedeuten größere Spielgruppen im Kampf, dass mehr Kampfwürfel geworfen werden. Das wiederum führt dazu, dass im Kampf die Wahrscheinlichkeit steigt, Zustände zu erhalten. Wenn es für dich als Spielleitung in Ordnung ist, dann kann sich die Gruppe auch zwischendurch aufteilen, wenn sie verschiedene Schauplätze untersuchen oder mit anderen NSCs interagieren wollen. Nach einer oder nach wenigen Szenen können die Teile der Gruppe dann wieder aufeinander treffen und sich gegenseitig erzählen, was sie in der Zwischenzeit erlebt haben. Das ist einerseits ein einfacher Weg, um den Dialog und das Zusammenspiel zwischen den Spielenden zu fördern und andererseits kann es auch dabei helfen, dass alle Spielenden einmal das Spotlight bekommen. Das erfordert nur ein wenig Koordination, damit nicht der eine Teil der Gruppe zu lange nichts zu tun hat. Du kannst zwischen den Teilen der Gruppe hin und her wechseln, wenn beispielsweise ein Gespräch vorbei ist, oder wenn sich eine Situation als kleiner Cliffhanger anbietet. 
 
@@ -61,6 +61,10 @@ Schauplätze
   > Woran merkt ihr, dass ihr der Welt des Zwielichts hier näher seid?
 - Wegschrein: Hinter einem rot lackierten Torii führt ein Weg durch einen Bambushain hoch zu einem großen Schrein. Eine schmale Treppe führt hinauf, gesäumt von steinernen Laternen.
   > Der Schrein hat schon bessere Zeiten gesehen. Was gibt euch trotzdem das Gefühl, dass hier noch immer Menschen herkommen, um zu beten?
+- Ryokan: In der mit einem Tuschegemälde und einem frichen Blumengesteck dekorierten Eingangshalle stehen die Schuhe der anderen Gäste sauber aufgereiht an der Stufe. Weiter hinten führt eine Treppe hinauf zu den Gästezimmern.  
+  > Auch wenn hier alles sehr gut in Schuss ist, merkt ihr, dass das Ryokan schon eine lange Geschichte hinter sich hat. Woran?  
+- Izakaya: An der Wand hängt grob gekritzelt die Speisekarte, der Schankraum ist gefüllt mit niedrigen Tischen auf Tatami-Matten und der Geruch von Sake steht in der Luft.  
+  > Welche der Speisen fällt euch ins Auge und warum?  
 
 NSCs
 - Keiko Ishida - Lackwaren-Händlerin  
@@ -84,3 +88,5 @@ Erkennt die Wandernden als das, was sie sind und offenbart sich ihnen, wenn niem
 - Hideo Yamamura - Kumiko-Handwerker  
   *wohlgesonnen - helle, robuste Kleidung, Tuch um den Kopf gewickelt - genervt, wenn er bei der Arbeit gestört wird*  
   Ist sehr konzentriert bei der Arbeit, schneidet kleine Holzstücke zu und legt sie in Rahmen. Interessiert sich für wenig abseits seiner Arbeit und zeigt stolz seine Werke. 
+- Ai Sato - Hausdame im Ryokan
+- Yoshiyuki Kaneda - Wirt im Izakaya
