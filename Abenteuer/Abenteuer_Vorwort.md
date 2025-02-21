@@ -88,5 +88,9 @@ Erkennt die Wandernden als das, was sie sind und offenbart sich ihnen, wenn niem
 - Hideo Yamamura - Kumiko-Handwerker  
   *wohlgesonnen - helle, robuste Kleidung, Tuch um den Kopf gewickelt - genervt, wenn er bei der Arbeit gestört wird*  
   Ist sehr konzentriert bei der Arbeit, schneidet kleine Holzstücke zu und legt sie in Rahmen. Interessiert sich für wenig abseits seiner Arbeit und zeigt stolz seine Werke. 
-- Ai Sato - Hausdame im Ryokan
-- Yoshiyuki Kaneda - Wirt im Izakaya
+- Ai Sato - Hausdame im Ryokan  
+*wohlgesonnen - makelloser, schlichter Kimono, Haare ordentlich zusammengesteckt - ruhige, freundliche Stimme*  
+Heißt freundlich die Gäste willkommen, zeigt ihnen die Zimmer und erzählt dabei allgemeine Informationen über Ort, Geschichte und Attraktionen.
+- Yoshiyuki Kaneda - Wirt im Izakaya  
+*misstrauisch - einfache dunkle Kleidung unter heller Schürze - recht einsilbig und schroff*    
+Mag keine Fremden und bewirtet sie entsprechend deutlich weniger freundlich als Einheimische. Ist sehr stolz auf seine Spezialgericht und ist beleidigt, wenn es verschmäht wird.
