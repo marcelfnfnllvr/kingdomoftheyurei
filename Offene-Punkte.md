@@ -14,10 +14,10 @@
 ### 2.1 Systembeschreibung
 
 - [ ] Beispielschauplätze/NPCs
-   - [ ] Ryokan
-   - [ ] Izakaya
+   - [x] Ryokan
+   - [x] Izakaya
    - [ ] Badehaus-Besitzer
-   - [ ] Tavernenwirt
+   - [x] Tavernenwirt
 - [ ] Wie schreibt man ein Abenteuer? "Jetzt erzählen Sie doch mal. Das Publikum wartet gebannt..." *hältMikrofondirektunterdieNase*
     - [ ] Idee für Abenteuer entwickeln
     - [ ] Schauplätze und NPCs
