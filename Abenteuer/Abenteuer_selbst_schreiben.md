@@ -4,11 +4,11 @@
 
 Abenteuer in *Königreich der Yōkai* sind nicht bis ins letzte Detail ausdefiniert. Durch das Spielprinzip "Play to find out" ist das auch überhaupt nicht notwendig, denn die tatsächliche Geschichte entwickelt ihr erst beim Spielen gemeinsam.  
 Was du zum Entwerfen eines eigenen Abenteuers benötigst, sind  
-  eine Idee für das Problem, um das sich das Abenteuer drehen soll,  
-  einen Spielort,  
-  Schauplätze, Momente und NSCs,  
-  Hinweise und  
-  eine Abenteuerfrage.  
+ - eine Idee für das Problem, um das sich das Abenteuer drehen soll,  
+ - einen Spielort,  
+ - Schauplätze, Momente und NSCs,  
+ - Hinweise und  
+ - eine Abenteuerfrage.  
 Außerdem solltest du ungefähr abschätzen, wie lange das Abenteuer wahrscheinlich dauern wird und welche Gefahrenstufe es hat. 
 Die eine richtige Vorgehensweise gibt es beim Schreiben nicht. Vielleicht fällt dir eine Geschichte ein, um die du das Abenteuer stricken möchtest. Oder es ist ein ganz bestimmter NSCs, der dort unbedingt vorkommen soll. Wir erkären hier die Vorgehensweise, wie sie für uns funktioniert. Wir starten dabei mit dem Grundgerüst und arbeiten die nötigen Details danach aus. 
 
@@ -36,4 +36,7 @@ Wie viele Hinweise wir für ein Abenteuer benötigen, steht nicht fest. Zweifels
 
 ## Boilerplate
 
-Abenteuerfrage, Gefahrenstufe, Ehrung
+Damit sind die Rahmenbedingungen für die Geschichte und das Abenteuer ans sich festgelegt - soweit das im Vorfeld zur Spielrunde möglich ist. Zuletzt müssen wir uns jetzt noch um die Zahlen und anderen Elemente kümmern, die jedes Abenteuer hat.  
+Die Abenteuerfrage dient spielmechanisch dazu, dass die Spielenden für ihren Charakter einen Zustand abbauen können, ohne würfeln zu müssen. Darüber hinaus ist die Frage dafür gedacht, dass die Charaktere durch das Beantworten etwas mehr Tiefe bekommen. Sie soll sich also darum drehen, wie die SCs zu etwas stehen, das im Abenteuer eine wichtige Rolle spielt, oder ob sie mit so etwas schon eigene Erfahrungen gesammelt haben. Wenn es bei dem Abenteuer beispielsweise thematisch u.a. um ein berühmtes Essen geht, dann könnte die Frage gestellt werden, ob die SCs das schon einmal gegessen haben und ob es ihnen geschmeckt hat. Spielt das Abenteuer in einem Wald, dann wäre stattdessen vielleicht interessant, ob sie in ihrem Heimatdorf auch so einen Wald hatten und wie dieser ihnen gefallen hat.  
+Die restlichen noch fehlenden Punkte für das Abenteuer sind die Ehrung und die Gefahrenstufe. Letztere richtet sich nach der Länge des Abenteuers: je länger ein Abenteuer ist, desto mehr Hinweise können die Spielenden finden. Damit die Lösung des Abenteuers also nicht zu einfach wird, sollte für längere Abenteuer die Gefahrenstufe entsprechend höher sein. Zur Orientierung: bei den vorgefertigten Abenteuern liegt die Gefahrenstufe für kurze Abenteuer (1 Session) bei 12-14 und für längere Abenteuer (2-3 Sessions) bei un die 18.  
+Die Ehrung ist der Titel, den die Spielcharaktere erhalten, wenn sie ein Abenteuer absolviert haben. Der Titel ist verbunden mit einem Attribut. Beides sollte in irgendeiner Form zum Abenteuer passen. 
