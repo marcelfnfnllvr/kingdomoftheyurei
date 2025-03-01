@@ -2,7 +2,7 @@
 
 Schwierigkeit: 16 – ein kurzes und aber eher schwerers und düsteres Abenteuer - ein bis zwei Abende  
 
-Gesammelte Verderbnispunkte: [  n - 1 + 1 + 1 + 1]
+Gesammelte Verderbnispunkte: [ n ]
 
 Notizen:
 Miyamoto steht in Rüstung hinter ihnen. Er ist darauf gepolt ihnen was anzutun. Allerdings können sie das noch verhindern. Er weiß allerdings auch nicht viel. Ist leer. Ist programmiert quasi. Stufe 2 ist diese Begegnung. 
@@ -13,9 +13,9 @@ Die Gruppe sucht Ruhe in der berühmten Tempelanlage Takedera, weit weg von ande
 
 ### Fragestellung, Eskalation und Ehrung:
 
-Eine Fragestellung, die es zu lösen gilt: Entkommt der Tempelanlage Takedera! 
+Fragestellung, die es zu lösen gilt: Entkommt der Tempelanlage Takedera! 
 
-Falls die Situation eskaliert, mutiert der alte Herr zu einer riesigen Gestalt mit sechs Armen und packt nach jedem und schlingt ihn einfach hinunter. Der Einfluss der Hausgeister scheint ihn stark verändert zu haben. Er kann aufgehalten werden, fängt aber mit der Schwierigkeit 14 an.
+Falls die Situation eskaliert, lassen sich entweder die Füchse oder Affen nicht beruhigen oder von ihrem Plan abbringen. Chaos bricht im Tempel aus und der Konflikt zwischen den Parteien eskaliert.
 
 Bewahrende der Ruhe - Ruhig
 
@@ -25,17 +25,17 @@ Was gibt dir Halt in dieser Welt der Geister und Dämonen? In dieser Welt, in de
 
 ### Einleitung:
 
-> Was Sucht euer Charakter hier in der Tempelanlage Takedera?
+> Was sucht euer Charakter hier in der Tempelanlage Takedera?
 
-Ihr befindet euch beim morgenlichen Frühstück. Es gibt Natto, fermentierte Bohnen, Reis und dazu Miso-Suppe. Wie immer habt ihr bei der Zubereitung heute morgen geholfen.
+Ihr befindet euch beim morgendlichen Frühstück. Es gibt Natto, fermentierte Bohnen, Reis und dazu Miso-Suppe. Wie immer habt ihr bei der Zubereitung heute morgen geholfen.
 
 ### Gefahren:
 
 -	Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden.  
--	Eine horde Affen fällt über euch her. Sie reißen und zerren an euch und ihr habt das Gefühl in Stücke gerissen zu werden.
+-	Eine Horde Affen fällt über euch her. Sie reißen und zerren an euch und ihr habt das Gefühl in Stücke gerissen zu werden.
 -	Der Charakter wird mit seiner schlimmsten Angst konfrontiert.
--	Ein Mönch greift euch mit einer Samurai Rüstung an. Seine Augen glühen rot.
--	Eine Papierrolle die sie angreift. Allgemein Gegnstände. 
+-	Ein Mönch greift euch mit einer Samurai-Rüstung an. Seine Augen glühen rot.
+-	Eine Papierrolle, die sie angreift. Allgemein Gegenstände. 
 
 ### Momente:
 
@@ -48,17 +48,16 @@ Ihr befindet euch beim morgenlichen Frühstück. Es gibt Natto, fermentierte Boh
 ##### **Tadakatsu** – Mönch
 
 *Spricht mit ruhiger, etwas dünner aber gut zu verstehender Stimme - Wohlgesonnen*
-Ein netter, sehr alter Herr. Hat hier früher mit seiner Frau Hiroko gelebt. Sie verschwand eines Tages spurlos. Er besitzt Land und lässt Reis anbauen. Er sagt er sei gütig und er mag die Hausgeister. Sie leisten ihm immer Gesellschaft und sind nicht so unheimlich wie Mütterchen und Väterchen. 
+Hier fehlt noch was! :D 
 
 ##### **Ryōma** – Der Biliothekar - Mönch
 
-Tot aufgefundener unehelicher Sohn des Yoshit
+Hier fehlt auch noch was! 
 
 ##### **Hanzo** – Mönch
 
 *Nasale Stimme, die leicht hochnäsig wirkt - Wohlgesonnen - Trägt edle Gewänder, die teuer aussehen*
-
-Er ist ca. 50-60 Jahre alt. Erst seit Kurzem wieder auf dem Anwesen. In den großen Städten ist es viel angenehmer und lukrativer zu wohnen. Möchte hier schnell wieder weg. Auf die Gesellschaft seiner Schwester kann er verzichten. An Geister glauben nur Kinder und Narren.
+Hier auch!! Un-fass-bar!
 
 **Miyamoto Musashi - angehender Mönch**
 
@@ -66,25 +65,25 @@ Er ist ca. 50-60 Jahre alt. Erst seit Kurzem wieder auf dem Anwesen. In den gro�
 
 > Eröffnungsfrage: Welches Detail an seinem Mönchsrobe erinnert euch an einen Samurai?
 
-Ein alter Samurai der seinen Lebensabend im Tempel verbringen wollte. Er ist noch nicht komplett verwandelt und kann noch zum Teil Sinnvoll Antworten.
+Ein alter Samurai, der seinen Lebensabend im Tempel verbringen wollte. Er ist noch nicht komplett verwandelt und kann noch zum Teil sinnvoll antworten.
 
 ##### Die Füchse
 
 *Sie sprechen alle gleich, denn alle sind gleich.*
 
-Sie reden nur in Rätseln und geben keinerlei Sinnvolle Antworten. 
+Sie reden nur in Rätseln und geben keinerlei sinnvolle Antworten. 
 
 ##### Der schwarze Brüllaffe Genta
 
 *Wohlgesonnen*
 
-Dick und Rund und mit sehr tiefer Stimme. Er schwingt trotz den grazil druch die Baumwipfel. Er ist nett und kann die Wanderer davor warnen hier zu lange zu bleiben. Die Füchsen sind Böse und sie lassen niemanden wieder gehen.
+Dick und rund und mit sehr tiefer Stimme. Er schwingt trotzdem grazil durch die Baumwipfel und offenliegende Deckenbalken. Er ist nett und kann die Wanderer davor warnen hier zu lange zu bleiben. Die Füchsen sind böse und sie lassen niemanden wieder gehen.
 
 ### Schauplätze:
 
 ##### Die Tempelanlage
 
-Natürlich besteht die Tempelanlage nicht nur aus dem Tempel ansich. Es gibt Schlafräume, eine Küche, Vorratsräume, ein Bad und natürlich einen klassischen Garten den die Mönche Pflegen.
+Natürlich besteht die Tempelanlage nicht nur aus dem Tempel an sich. Es gibt Schlafräume, eine Küche, Vorratsräume, ein Bad und natürlich einen klassischen Garten, den die Mönche pflegen.
 
 Ungefährlich
 
@@ -92,53 +91,53 @@ Ungefährlich
 
 ##### Der Wasserfall
 
-Ein malerischer Wasserfall nicht Weit vom Tempelkomplex gelegen. Das stetige rauschen ist selbst in den hintersten Räumen des Tempels noch zu hören. Affen hängen in den riesigen Bäumen die sich zu den Seiten erstrecken. Vor euch liegt ein kleine See in dem sich das herabstürzende Wasser staut. 
+Ein malerischer Wasserfall nicht weit vom Tempelkomplex gelegen. Das stetige Rauschen ist selbst in den hintersten Räumen des Tempels noch zu hören. Affen hängen in den riesigen Bäumen, die sich zu den Seiten erstrecken. Vor euch liegt ein kleine See, in dem sich das herabstürzende Wasser staut. 
 
 Ungefährlich
 
 > Eröffnungsfrage: Welches Detail an diesem Ort lässt sich hinter sein Schönheit blicken?
 
-Herausforderung: Der See kann optional als Gefahrenquellen dienen. 
+Herausforderung: Der See kann optional als Gefahrenquelle dienen. 
 
-##### Der Bambooswald
+##### Der Bambuswald
 
 Gefährlich
 
-> Eröffnungsfrage: An was Erinnert euch die größe und das Wachstum der Bamboosstämme?
+> Eröffnungsfrage: An was erinnert euch die Größe und das Wachstum der Bambusstämme?
 
-Herausforderung: Der Bambooswald scheint wie ein sich immer änderndes Labyrinth zu sein. Mit jedem Besuch wird es schwerer den Ausgang zu finden. 
+Herausforderung: Der Bambuswald scheint wie ein sich immer änderndes Labyrinth zu sein. Mit jedem Besuch wird es schwerer den Ausgang zu finden. 
 
 ##### Der verborgene Pfad
 
-Ihr wandert einen mit Moos bewachsenen Pfad entlang, der von uralten Steinlaternen gesäumt ist. Eine nach der anderen beginnen sie zu leuchten, als ob sie deinen Weg sanft erhellen würden. Kein Mensch weit und breit – nur das leise Zirpen der Zikaden und der entfernte Klang einer Flöte aus dem Tempel. Ein Gefühl von Zeitlosigkeit überkommt euch, als ob dieser Moment schon tausendmal geschehen ist. der Pfad führt zu einem kleinen Schrein.
+Ihr wandert einen mit Moos bewachsenen Pfad entlang, der von uralten Steinlaternen gesäumt ist. Eine nach der anderen beginnen sie zu leuchten, als ob sie euren Weg sanft erhellen würden. Kein Mensch weit und breit – nur das leise Zirpen der Zikaden und der entfernte Klang einer Flöte aus dem Tempel. Ein Gefühl von Zeitlosigkeit überkommt euch, als ob dieser Moment schon tausendmal geschehen ist. Der Pfad führt zu einem kleinen Schrein.
 
 Gefährlich
 
-> Eröffnungsfrage: Ihr seht Papierzetteln an ein schweres Seil gebunden welches die Begrenzung zum Wald zeigt. Welcher Wunsch steht auf dem Zettel den ihr euch anschaut?
+> Eröffnungsfrage: Ihr seht Papierzettel an ein schweres Seil gebunden, welches die Begrenzung zum Wald zeigt. Welcher Wunsch steht auf dem Zettel, den ihr euch anschaut?
 
 
 
 ### Hinweise:
 
 -	[ ] Niemand stirbt hier. 
--	[x] Mönche gehen in den Wald und verschwinden.
+-	[ ] Mönche gehen in den Wald und verschwinden.
 -	[ ] Ein Schrei in der Nacht. Niemand scheint ihn gehört zu haben.
--	[ ] Aufgaben werden einfach erledigt aber niemand koordiniert diese. 
+-	[ ] Aufgaben werden einfach erledigt, aber niemand koordiniert diese. 
 -	[ ] Leute scheinen physisch nichts zu fühlen. 
 -	[ ] Euch ist auf dem Weg hierher niemand entgegengekommen.
--	[x] Eine schimmernde Siloutte im Wasserfall.
--	[ ] Fußabdrücke die von Menschlich zu Pfoten gehen.
--	[ ] Eure Reflextion im Wasser scheint immer durchsichtiger und dünner zu werden.
--	[ ] Jemand der verbotene Gebete an böse Kami Geister zitiert. 
--	[x] Eine der Statuen hat eine tropfenförmige rote Flüssigkeit unter den Augen.
--	[ ] Ein Gesprächen oder eine Schriftrolle die bestätigt das es hier Mal Frauen gegeben haben muss.
--	[ ] Das schlagen von Trommeln
+-	[ ] Eine schimmernde Silhouette im Wasserfall.
+-	[ ] Fußabdrücke, die von menschlich zu Pfoten gehen.
+-	[ ] Eure Reflektion im Wasser scheint immer durchsichtiger und dünner zu werden.
+-	[ ] Jemand, der verbotene Gebete an böse Kami-Geister zitiert. 
+-	[ ] Eine der Statuen hat eine tropfenförmige rote Flüssigkeit unter den Augen.
+-	[ ] Ein Gespräch oder eine Schriftrolle ,die bestätigt, dass es hier früher einmal Frauen gegeben haben muss.
+-	[ ] Das Schlagen von Trommeln.
 -	[ ] Der Duft von Räucherwerk und ein leises Kichern.
--	[x] Jemand der glücklich morgens den Tempel verlässt. Ein Gast. Ihr habt die Person noch nie zuvor gesehen.
--	[x] Die Mönche reden von andere Gästen aber ihr könnt niemanden sehen außer euch.
--	[x] Die Füchsin, die dich auf den falschen Weg führt.
--	[ ] Schatten wo keine Schatten sind.
--	[ ] „Sie kehren zurück in den Zyklus“
+-	[ ] Jemand, der glücklich morgens den Tempel verlässt. Ein Gast. Ihr habt die Person noch nie zuvor gesehen.
+-	[ ] Die Mönche reden von anderen Gästen, aber ihr könnt niemanden sehen außer euch.
+-	[ ] Die Füchsin, die dich auf den falschen Weg führt.
+-	[ ] Schatten, wo keine Schatten sind.
+-	[ ] „Sie kehren zurück in den Zyklus.“
 -	[ ] Es scheinen nie Lebensmittel gebracht zu werden und trotzdem sind die Lager niemals leer.
--	[x] Die Mönche sehen zunehmen ähnlicher aus.
--	[ ] Eine jahrhundertealte Schriftrollen mit Gebeten. Bei genaurem Hinsehen verschwimmen die Worte und übrig bleibt nur ein einzige Wort nur ein einziges Wort: „Kaeshite“ (返して) – „Gib es zurück.“
+-	[ ] Die Mönche sehen sich zunehmend ähnlicher.
+-	[ ] Eine jahrhundertealte Schriftrollen mit Gebeten. Bei genaurem Hinsehen verschwimmen die Worte und übrig bleibt nur ein einziges Wort: „Kaeshite“ (返して) – „Gib es zurück.“
