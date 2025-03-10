@@ -81,7 +81,8 @@ Bei jedem Aufstieg (Stufe 1):
 6. Ändere ein Attribut oder einen Gegenstand. (Optional)
 7. Ändere das Aussehen deiner Zeichnung. (Optional)
 8. Ändere eines der Attributfelder zurück in ein weißes. (Optional)
-9. Du bist jetzt in einem Abschnitt, in dem du deinen Dämon gut unter Kontrolle hast. Dieser Abschnitt ist hell.
+9. Bist du jetzt in Abschnitt 2 oder 3, dann darfst du dir eine vierte bzw. fünfte Fähigkeit auswürfeln. Werfe hierfür mit je einem W20 auf die beiden Zufallstabellen und wähle eine der beiden erwürfelten Fähigkeiten.
+10. Du bist jetzt in einem Abschnitt, in dem du deinen Dämon gut unter Kontrolle hast. Dieser Abschnitt ist hell.
 
 Stufe 2 - Bei 8 gesammelten Punkten:
 
