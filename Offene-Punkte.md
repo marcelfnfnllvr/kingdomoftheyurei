@@ -7,7 +7,10 @@
   - [ ] Löst das momentan aktive Problem auf friedliche Art.
     - [ ] Weg von dem friedlich hin zum direkten Wurf. --> siehe neuen Vorschlag, mal gucken ob das besser passt? Beschreibung des Spielzugs auch angepasst. 
     - [ ] Die Aufgabe lösen
-- [ ] weiße Bonuswürfel auf dem Charsheet in Foundry tracken
+- [x] weiße Bonuswürfel auf dem Charsheet in Foundry tracken
+- [ ] Auf Reisen umfomulieren? Das mit dem Attribut ist glaube ich unnötig. Kann als Ideengeber drin bleiben.
+- [ ] Sind Hinweise bei Auf Reisen notwenig? Fühlt sich das komisch an?
+- [ ] Außerdem sollten wir auch nochmal drüber nachdenken wie das bei längeren Abenteuern geregelt wird, oder?
 
 
 ## 2 Texte ergänzen/schreiben für's Regelwerk
