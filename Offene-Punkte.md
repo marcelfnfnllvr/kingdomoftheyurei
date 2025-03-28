@@ -11,6 +11,8 @@
 - [ ] Auf Reisen umfomulieren? Das mit dem Attribut ist glaube ich unnötig. Kann als Ideengeber drin bleiben.
 - [ ] Sind Hinweise bei Auf Reisen notwenig? Fühlt sich das komisch an?
 - [ ] Außerdem sollten wir auch nochmal drüber nachdenken wie das bei längeren Abenteuern geregelt wird, oder?
+- [ ] Wurf auf Schwachpunkt beim Kampf doch nur D6 für alle?
+- [ ] eventuell doch im Kampf ENTWEDER schwächen oder kämpfen --> wenn schwächen erfolgreich muss nicht der Kampfwürfel geworfen werden?
 
 
 ## 2 Texte ergänzen/schreiben für's Regelwerk
