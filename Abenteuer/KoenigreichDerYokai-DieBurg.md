@@ -160,3 +160,4 @@ Potentiell Gefährlich
 -	[ ] Die Burg wird Burg des Geistermondes genannt
 -	[ ] Nachts patrolieren kleine Papierfiguren in der Burg umher.
 -	[ ] Mönche in ungewöhnlichen roten Roben.
+-	[ ] Eine Art schwarzes Öl strömt aus riessen der Welt in unserer.

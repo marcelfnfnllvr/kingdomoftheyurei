@@ -2,7 +2,7 @@
 
 Schwierigkeit: 18 – längeres Abenteuer – zwei bis drei Abende
 
-Gesammelte Verderbnispunkte: [  n  ]
+Gesammelte Verderbnispunkte: [ n ]
 
 ### Hinweise für Spielleitende:
 
@@ -14,7 +14,7 @@ Was hat das Ungleichgewicht ausgelöst und den Dämon erschaffen? Wie kann der P
 
 Falls die Situation eskaliert, brechen überall Schläferpilze aus dem Menschen. Er kann aufgehalten werden, fängt aber mit der Schwierigkeit 18 an.
 
-Pilzbefall ade - Pflanzen <!-- das tut mir nur ein ganz bisschen weh, dass hier Pilze mit Pflanzen gleichgesetzt werden ^^; Also vielleicht doch eher Umwelt? Schließlich gibt es nicht nur das Pilzthema, sondern auch die Tiere und Pflanzen im angrenzenden Wald, die ja auch durchaus eine gewisse Rolle zu spielen haben -->
+Pilzbefall ade - Umwelt <!-- das tut mir nur ein ganz bisschen weh, dass hier Pilze mit Pflanzen gleichgesetzt werden ^^; Also vielleicht doch eher Umwelt? Schließlich gibt es nicht nur das Pilzthema, sondern auch die Tiere und Pflanzen im angrenzenden Wald, die ja auch durchaus eine gewisse Rolle zu spielen haben -->
 
 ### Abenteuerfrage:
 
@@ -153,7 +153,7 @@ Herausforderung: Im Wald hängen vermehrt Pilzsporen in der Luft. Die Gruppe sie
 
 Ungefährlich
 
-> Das Fest ist das Ritual zum Verzehr des gegebenen Fleisches der Nara-Rehe. Wir wurde der Platz geschmückt? Was fällt euch besonders auf? Was erinnert euch an eure Heimat?
+> Das Fest ist das Ritual zum Verzehr des gegebenen Fleisches der Nara-Rehe. Wir wurde der Platz geschmückt? Was fällt euch besonders auf? Was erinnert euch an eure Heimat?k
 
 Herausforderung: Es ist dunkel und die Umgebung nur mit Fackeln beleuchtet. Überall sind ausgelassene Menschen. Es ist eines der wenigen Feste, an dem Männer und Frauen gemeinsam teilnehmen. Sich zu bewegen fällt in der Menschenmenge teilweise schwer.
 
@@ -170,7 +170,7 @@ Herausforderung: Es ist dunkel und die Umgebung nur mit Fackeln beleuchtet. Übe
 - [ ] Ein unautorisiert getötetes Nara-Reh.
 - [ ] Potenzmittel hergestellt aus dem Horn eines Wandernden.
 - [ ] Eine Anleitung wie man aus Fureru Potenzmittel herstellt.
-- [ ] Eine Bisswunde von einem Wolf
+- [ ] Eine Bisswunde von einem Wolf.
 - [ ] Ritualmesser sollen früher dazu genutzt worden sein die Geister bei der Schlachtung von Tieren zu besänftigen.
 - [ ] Ein Brief, in dem steht, dass die Liebe nicht lohnt wenn sie kein Leben erschaffen kann. 
 - [ ] Eine Katze weicht einer Person aus. Euch fällt auf, dass die Person für einen Moment so etwas wie Fuchsohren hat?
@@ -178,12 +178,12 @@ Herausforderung: Es ist dunkel und die Umgebung nur mit Fackeln beleuchtet. Übe
 - [ ] Zwei Personen unterhalten sich darüber, dass sie dringend Fleisch bräuchten und es sonst so einem Unglück käme. Ihre Art ist einfach auf das Fleisch angewiesen.
 - [ ] Fremdartige Kleidung mit Blut.
 - [ ] Ein Ritualdolch mit Menschenblut.
-- [ ] Die Dorfälteste kennt das Geheimnis von Asamis Tochter
-- [ ] Ein Nördler ist im Dorf
+- [ ] Die Dorfälteste kennt das Geheimnis von Asamis Tochter.
+- [ ] Ein Nördler ist im Dorf.
 - [ ] Bäume im Wald sehen zunehmend krank und ungesund aus.
 - [ ] Es sollen vermehrt Wölfe mit menschlicher Kleidung gesichtet worden sein.
-- [ ] Pilzbefall an einer bestimmten Stelle des Dorfes
-- [ ] Pilzwurzeln, die sich unter der Erde ausbreiten
+- [ ] Pilzbefall an einer bestimmten Stelle des Dorfes.
+- [ ] Pilzwurzeln, die sich unter der Erde ausbreiten.
 - [ ] Pilzsporen in der Luft. Infizieren kleine Tiere.
 - [ ] Jemand im Dorf ist in einer unanständigen Liaison
 - [ ] Im Dorf tragen die Bewohner auffällig oft teuren Schmuck

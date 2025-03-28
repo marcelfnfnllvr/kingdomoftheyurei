@@ -11,7 +11,7 @@ Die Gruppe hat von einem hervorragenden Dōjō gehört, in dem ein neuer Meister
 
 Eine Fragestellung, die es zu lösen gilt: Wer sorgt für die Störungen im Dōjō und warum?  
 
-Falls die Situation eskaliert, manifestiert sich der alte Meister vollständig und beginnt in seiner Rage alles niederzureißen und anzugreifen, das in seinem Weg ist.  
+Falls die Situation eskaliert, manifestiert sich der alte Meister vollständig und beginnt in seiner Rage alles niederzureißen und anzugreifen, das in seinem Weg ist.  Schwierigkeit 12
 
 Schüler des Wegs - Disziplin
 
@@ -40,7 +40,7 @@ Ihr wollt gerade in den Innenhof gehen, da kommt euch plötzlich eine panisch ru
 -	Ein Schüler versucht gerade zu meditieren, als eine Zikade auf seinem Kopf landet und anfängt, ohrenbetäubend zu zirpen. Der Schüler verzieht immer mehr das Gesicht, bis er sich schließlich nicht mehr beherrschen kann, wild mit den Händen wedelt und nach der Zikade schlägt.
 -	Zahlreiche Wesen erscheinen, die aussehen wie Miniaturmenschen mit roter Haut. Sie schlagen laut auf den Helm einer Samurai-Rüstung, hauen Tatami klatschend gegeneinander, trampeln auf den Holzfußböden, klopfen auf Töpfe und klappern mit dem Geschirr. 
 -   Drei farbige Flammen schweben über einem großen Stein im Garten. Nähert man sich, dann fliegen die Flammen im Kreis um einen herum, bevor sie verschwinden, wie eine ausgepustete Kerzenflamme.
- 
+
 ### Personen:
 
 ##### Kaname-sensei – neuer Meister im Dōjō
@@ -126,19 +126,19 @@ Herausforderung: Die Gruppe darf sich nicht von der Köchin Itō erwischen lasse
 -	[ ] Ein verstecktes, zerbrochenes Holzschwert.
 -   [ ] Ein Brief, in dem "mehr von dem Mittel" bestellt wird.
 -   [ ] Itō scheint immer dann aufzutauchen, wenn man etwas tut, das in ihren Augen falsch ist.
--   [ ] Ein zerrissenes Bild von Shinobu-sensei, dem alten Meister.
--   [ ] Eine kleine Kiste mit viel Geld.
--   [ ] Eine Notiz mit der Warnung "Wir vergessen nicht."
+-   [x] Ein zerrissenes Bild von Shinobu-sensei, dem alten Meister.
+-   [x] Eine kleine Kiste mit viel Geld.
+-   [x] Eine Notiz mit der Warnung "Wir vergessen nicht."
 -   [ ] Eine Kendo-Trainingsrüstung mit einem großen Durchstich.
--   [ ] Ein kostbares Katana mit einem eingravierten Tengu.
--   [ ] Das gemalte Portrait von einem jungen Shinobu-sensei, der einen sehr jungen Schüler anleitet.
--   [ ] Früher sind ab und zu Dinge verschwunden, doch seit Kurzem häufen sich solche Vorkommnisse.
+-   [x] Ein kostbares Katana mit einem eingravierten Tengu.
+-   [x] Das gemalte Portrait von einem jungen Shinobu-sensei, der einen sehr jungen Schüler anleitet.
+-   [x] Früher sind ab und zu Dinge verschwunden, doch seit Kurzem häufen sich solche Vorkommnisse.
 -   [ ] Ein halb verbrannter Baum im Garten.
--   [ ] Die Bitte an einen Schüler, doch lieber in ein anderes Dōjō zu wechseln.
--   [ ] Räucherstäbchen, die einen widerlichen Gestank verbreiten.
+-   [x] Die Bitte an einen Schüler, doch lieber in ein anderes Dōjō zu wechseln.
+-   [x] Räucherstäbchen, die einen widerlichen Gestank verbreiten.
 -   [ ] Das Katana von Shinobu-sensei, angelaufen und rostend.
--   [ ] Eine Schülerin hat nachts ein merkwürdiges blaues Leuchten von draußen gesehen.
--   [ ] Ein großer Stein im Garten hat einen frischen, tiefen Riss.
+-   [x] Eine Schülerin hat nachts ein merkwürdiges blaues Leuchten von draußen gesehen.
+-   [x] Ein großer Stein im Garten hat einen frischen, tiefen Riss.
 -   [ ] Reste von verbranntem Räucherwerk in einer Schale.
 -   [ ] Eine fein gefertigte, sehr hochwertige Begräbnisrobe.
--   [ ] Ein Stück Papier, grob zu menschlicher Form zugeschnitten, mit einem großen Loch in der Mitte. 
+-   [x] Ein Stück Papier, grob zu menschlicher Form zugeschnitten, mit einem großen Loch in der Mitte. 

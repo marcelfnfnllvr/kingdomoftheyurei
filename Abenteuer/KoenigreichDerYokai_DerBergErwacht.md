@@ -2,7 +2,7 @@
 
 Schwierigkeit: 18 - längeres Abenteuer - zwei bis drei Abende
 
-Gesammelte Verderbnispunkte: [  1  ]
+Gesammelte Verderbnispunkte: [  n  ]
 
 Stahl anstatt Eisen <!-- was heißt das? --> 
 
