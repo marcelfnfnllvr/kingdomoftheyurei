@@ -124,6 +124,7 @@
 - [ ] Adaption für Müllsammler im All
   - [ ] Mehr soziale Interaktion	
 - [ ] Adaption in das jetzt Japan
+  - [ ] evtl interessante Inspo-Quelle: Urban Myth Dissolution Center
   - [ ] Jeden Tag ein Ort.
     - [ ] Vormittags Schule
     - [ ] Nachmittags ein Ort
