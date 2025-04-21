@@ -1,24 +1,25 @@
-Frühlingsszeit
+# Frühlingsszeit
 Schwierigkeit: 14 – ein kurzes und eher lockeres Abenteuer - eine Session
 
 Gesammelte Verderbnispunkte: [ n ]
 
-Hinweise für Spielleitende:
+### Hinweise für Spielleitende:
 
+Ōkawa ist ein kleines Dorf in einem grünen Tal, durch das ein großer Fluss fließt. Das Dorf liegt direkt an dem Fluss Aikawa, der sich hier verzweigt und eine kleine Insel umschließt. Auf der Insel wurde ein kunstvoller Garten angelegt, dessen Schmuckstück seit Jahr und Tag ein riesiger Obstbaum ist. Niemand kann sich mehr an eine Zeit ohne diesen Baum erinnern, der das Dorf zusätzlich mit wunderbaren Früchten versorgt. Bald soll wieder zu seinen Ehren ein großes Fest stattfinden, doch seit kurzer Zeit geht es dem Baum zusehends schlechter. Da der Baum alles für das Dorf bedeutet, haben die Bewohnerinnen und Bewohner die Gruppe um Hilfe gebeten. Wer auch immer es war, das muss die Gruppe herausfinden. Doch die Dorfgemeinschaft ist engverbunden. Zwar sind alle sehr höflich und zollen den Fureru Respekt, aber verraten nur ungern mehr. Wie können sie sie aus der Reserve locken?  
 
-Fragestellung, Eskalation und Ehrung:
+### Fragestellung, Eskalation und Ehrung:  
 Fragestellung, die es zu lösen gilt: Was ist mit dem Großen Baum geschehen?
 
 Falls die Situation eskaliert:
 
-Ehrung: Baumpfleger 
+Ehrung: Baumpfleger - Umwelt 
 
 Abenteuerfrage:
 Wie sähe ein Garten aus, in dem dein Charakter gerne verweilen möchte?
 
 
-Einleitung:
-Ihr wurdet von den Bewohnern und Bewohnerinnen des Dorfes xyz eingeladen und gebeten herauszufinden, was mit ihrem geliebten und verehrten Baum geschehen ist. 
+### Einleitung:
+Ihr wurdet von den Bewohnern und Bewohnerinnen des Dorfes Ōkawa eingeladen und gebeten herauszufinden, was mit ihrem geliebten und verehrten Baum geschehen ist. 
 Schön von weitem könnt ihr das Dorf sehen: Zwei Siedlungen werden durch einen Fluss geteilt, über den mehrere Brücken führen. Im Fluss liegt eine Insel mit einem Garten, in dem mittig auf einer kleinen Anhöhe ein riesiger Baum thront.  
 
 Als ihr in das Dorf kommt, werdet ihr von den Menschen freundlich begrüßt, sie nicken oder winken euch zu, einige verbeugen sich.  
@@ -26,24 +27,30 @@ Als ihr in das Dorf kommt, werdet ihr von den Menschen freundlich begrüßt, sie
 Wodurch erkennt ihr, dass der Baum für das Dorf eine herausragende Bedeutung hat?
 
 
-Gefahren:
-Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden.  
-Mehrere Kappas springen aus dem Fluss und greifen an!  
-Ein Pflanzenwesen versucht verzweifelt den Baum zu retten und greift alle an, die sich nähern wollen.  
+### Gefahren:
+- Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden.  
+- Mehrere Kappas springen aus dem Fluss und greifen an!  
+- Ein Pflanzenwesen versucht verzweifelt den Baum zu retten und greift alle an, die sich nähern wollen.  
 
 
-Momente:
+### Momente:
 Eine frische Brise kommt auf und bringt die Bäume zum Rascheln. Laub und Blütenblätter fliegen durch die Luft. Plötzlich sammeln sie sich und verdichten sich zu einer menschenartigen Gestalt. Sie streckt einen Arm nach euch aus und fast habt ihr den Eindruck ein trauriges Seufzen im Wind zu hören. Dann legt er sich langsam und die Gestalt zerfällt wieder, die Blätter sinken langsam zu Boden.  
 Jemand beißt in eine Frucht den Baumes. Doch anstelle von süßem, fruchtigem Saft läuft ein widerlich stinkender, klebriger grauer Schleim heraus. Angewidert spuckt sie das Stück wieder aus und wirft die Frucht weg.  
 Ein kleiner weißer Vogel mit langen Schwanzfedern landet auf einem niedrigen Ast und beginnt zu singen. Plötzlich kommt aus dem Nichts eine Katze und springt hoch, um den Vogel zu fangen. Im letzten Moment kann er der Gefahr ausweichen. Er landet weiter oben, wo ihn die Katze nicht erwischen kann, und scheint sie beinahe auszulachen.  
 
 
-Personen:
-?? – Dorfvorsteherin. 
-Spricht mit ruhiger, etwas dünner aber gut zu verstehender Stimme - Wohlgesonnen Hier fehlt noch was! :D
+### Personen:
+##### Tomoe – Dorfvorsteherin   
 
-??? – Gärtner und Baumhüter  
-Hier fehlt auch noch was!
+*Sehr alte, gebückt gehende Frau - brüchige Stimme - lächelt und wirkt etwas verwirrt - wohlgesonnen*
+
+Bittet um Hilfe, ist sehr höflich. Kann sich an keine Zeit erinnerin, als es den Baum nicht gab, er hat das Dorf schon immer geschützt. Ihr Mann ist der Gärtner und Baumhüter, der sich um die Insel kümmert.
+
+##### Hanzo – Gärtner und Baumhüter  
+
+*sehr alter, rüstiger Herr - noch kräftige Stimme - one-track mind was Gärtnern angeht - wohlgesonnen*
+
+Bittet die Gruppe um Hilfe, will aber alles sehen, was sie tun im Garten. Stolz auf sein Werk auf der Insel und sehr besorgt um das Wohl des Baumes. Hat schon mit diversen Mitteln versucht ihn zu retten, ist jetzt aber mit seinem Latein am Ende.
 
 ??? – Priester. 
 Nasale Stimme, die leicht hochnäsig wirkt - Wohlgesonnen - Trägt edle Gewänder, die teuer aussehen Hier auch!! Un-fass-bar!
@@ -66,7 +73,7 @@ Wohlgesonnen
 
 Dick und rund und mit sehr tiefer Stimme. Er schwingt trotzdem grazil durch die Baumwipfel und offenliegende Deckenbalken. Er ist nett und kann die Wanderer davor warnen hier zu lange zu bleiben. Die Füchsen sind böse und sie lassen niemanden wieder gehen.
 
-Schauplätze:
+### Schauplätze:
 Der Garten auf der Flussinsel
 
 Ungefährlich
@@ -96,7 +103,7 @@ Gefährlich
 
 Eröffnungsfrage: Ihr seht Papierzettel an ein schweres Seil gebunden, welches die Begrenzung zum Wald zeigt. Welcher Wunsch steht auf dem Zettel, den ihr euch anschaut?
 
-Hinweise:
+### Hinweise:
  Niemand stirbt hier.
  Mönche gehen in den Wald und verschwinden.
  Ein Schrei in der Nacht. Niemand scheint ihn gehört zu haben.
