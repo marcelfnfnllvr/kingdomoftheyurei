@@ -55,32 +55,20 @@ Bittet die Gruppe um Hilfe, will aber alles sehen, was sie tun im Garten. Stolz 
 ??? – Priester. 
 Nasale Stimme, die leicht hochnäsig wirkt - Wohlgesonnen - Trägt edle Gewänder, die teuer aussehen Hier auch!! Un-fass-bar!
 
-??? - Obstverkäufer. 
+##### - Obstverkäufer (Tanuki im Dorf) 
 
 Redet kurz - Wohlgesonnen
 
-Eröffnungsfrage: Welches Detail an seinem Mönchsrobe erinnert euch an einen Samurai?
-
-Ein alter Samurai, der seinen Lebensabend im Tempel verbringen wollte. Er ist noch nicht komplett verwandelt und kann noch zum Teil sinnvoll antworten.
-
-Die Füchse
-Sie sprechen alle gleich, denn alle sind gleich.
-
-Sie reden nur in Rätseln und geben keinerlei sinnvolle Antworten.
-
-Der schwarze Brüllaffe Genta
-Wohlgesonnen
-
-Dick und rund und mit sehr tiefer Stimme. Er schwingt trotzdem grazil durch die Baumwipfel und offenliegende Deckenbalken. Er ist nett und kann die Wanderer davor warnen hier zu lange zu bleiben. Die Füchsen sind böse und sie lassen niemanden wieder gehen.
+##### Die Tanuki
 
 ### Schauplätze:
-Der Garten auf der Flussinsel
+##### Der Garten auf der Flussinsel
 
 Ungefährlich
 
 Eröffnungsfrage: Was hier erinnert euch an zu Hause?
 
-Der Dorfplatz  
+##### Das Dorf  
 Ein malerischer Wasserfall nicht weit vom Tempelkomplex gelegen. Das stetige Rauschen ist selbst in den hintersten Räumen des Tempels noch zu hören. Affen hängen in den riesigen Bäumen, die sich zu den Seiten erstrecken. Vor euch liegt ein kleine See, in dem sich das herabstürzende Wasser staut.
 
 Ungefährlich
@@ -89,8 +77,8 @@ Eröffnungsfrage: Welches Detail an diesem Ort lässt sich hinter sein Schönhei
 
 Herausforderung: Der See kann optional als Gefahrenquelle dienen.
 
-Der Bambuswald
-Gefährlich
+##### Der Marktplatz
+Ungefährlich
 
 Eröffnungsfrage: An was erinnert euch die Größe und das Wachstum der Bambusstämme?
 
@@ -104,25 +92,18 @@ Gefährlich
 Eröffnungsfrage: Ihr seht Papierzettel an ein schweres Seil gebunden, welches die Begrenzung zum Wald zeigt. Welcher Wunsch steht auf dem Zettel, den ihr euch anschaut?
 
 ### Hinweise:
- Niemand stirbt hier.
- Mönche gehen in den Wald und verschwinden.
- Ein Schrei in der Nacht. Niemand scheint ihn gehört zu haben.
- Aufgaben werden einfach erledigt, aber niemand koordiniert diese.
- Leute scheinen physisch nichts zu fühlen.
- Euch ist auf dem Weg hierher niemand entgegengekommen.
- Eine schimmernde Silhouette im Wasserfall.
- Fußabdrücke, die von menschlich zu Pfoten gehen.
- Eure Reflektion im Wasser scheint immer durchsichtiger und dünner zu werden.
- Jemand, der verbotene Gebete an böse Kami-Geister zitiert.
- Eine der Statuen hat eine tropfenförmige rote Flüssigkeit unter den Augen.
- Ein Gespräch oder eine Schriftrolle ,die bestätigt, dass es hier früher einmal Frauen gegeben haben muss.
- Das Schlagen von Trommeln.
- Der Duft von Räucherwerk und ein leises Kichern.
- Jemand, der glücklich morgens den Tempel verlässt. Ein Gast. Ihr habt die Person noch nie zuvor gesehen.
- Die Mönche reden von anderen Gästen, aber ihr könnt niemanden sehen außer euch.
- Die Füchsin, die dich auf den falschen Weg führt.
- Schatten, wo keine Schatten sind.
- „Sie kehren zurück in den Zyklus.“
- Es scheinen nie Lebensmittel gebracht zu werden und trotzdem sind die Lager niemals leer.
- Die Mönche sehen sich zunehmend ähnlicher.
- Eine jahrhundertealte Schriftrollen mit Gebeten. Bei genaurem Hinsehen verschwimmen die Worte und übrig bleibt nur ein einziges Wort: „Kaeshite“ (返して) – „Gib es zurück.“
+- [ ] 1. Ein dickes Tau mit *Shide* (Zickzack-Papierbänder), zerstört
+- [ ] 2. Gerüchte, dass unter dem Baum jemand begraben wurde
+- [ ] 3. Eine Frucht des Baumes, aus der eine ölige, stinkende, schwarze Substanz austritt
+- [ ] 4. Pflanzendünger, hergestellt aus Fureru-Teilen
+- [ ] 5. Eine kleine Schatulle mit Samen des Großen Baums
+- [ ] 6. Ein Brief aus dem Norden über einen Handelsvorschlag
+- [ ] 7. geschwärzte, faulige Wurzeln
+- [ ] 8. Demnächst soll eine Delegation aus dem Norden durch das Dorf kommen
+- [ ] 9. dunkle, pulsierende Adern in den Blättern des Baumes
+- [ ] 10. ein kleiner Kodama, sieht sehr schwach aus
+- [ ] 11. Gerüchte über Tunnel unter dem Garten
+- [ ] 12. Das abgezogene Fell eines Tanuki
+- [ ] 13. Mehrere Kisten mit Früchten des Großen Baums sind verschwunden
+- [ ] 14. Schriftrolle mit Geheimnissen des Gärtnerns
+
