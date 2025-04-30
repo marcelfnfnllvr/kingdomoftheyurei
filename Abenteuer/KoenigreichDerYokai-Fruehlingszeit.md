@@ -5,12 +5,12 @@ Gesammelte Verderbnispunkte: [ n ]
 
 ### Hinweise für Spielleitende:
 
-Ōkawa ist ein kleines Dorf in einem grünen Tal, durch das ein großer Fluss fließt. Das Dorf liegt direkt an dem Fluss Aikawa, der sich hier verzweigt und eine kleine Insel umschließt. Auf der Insel wurde ein kunstvoller Garten angelegt, dessen Schmuckstück seit Jahr und Tag ein riesiger Obstbaum ist. Niemand kann sich mehr an eine Zeit ohne diesen Baum erinnern, der das Dorf zusätzlich mit wunderbaren Früchten versorgt. Bald soll wieder zu seinen Ehren ein großes Fest stattfinden, doch seit kurzer Zeit geht es dem Baum zusehends schlechter. Da der Baum alles für das Dorf bedeutet, haben die Bewohnerinnen und Bewohner die Gruppe um Hilfe gebeten. Wer auch immer es war, das muss die Gruppe herausfinden. Doch die Dorfgemeinschaft ist engverbunden. Zwar sind alle sehr höflich und zollen den Fureru Respekt, aber verraten nur ungern mehr. Wie können sie sie aus der Reserve locken?  
+Ōkawa ist ein kleines Dorf in einem grünen Tal, durch das ein großer Fluss fließt. Das Dorf liegt direkt an dem Fluss Kanda, der sich hier verzweigt und eine kleine Insel umschließt. Auf der Insel wurde ein kunstvoller Garten angelegt, dessen Schmuckstück seit Jahr und Tag ein riesiger Obstbaum ist. Niemand kann sich mehr an eine Zeit ohne diesen Baum erinnern, der das Dorf zusätzlich mit wunderbaren Früchten versorgt. Bald soll wieder zu seinen Ehren ein großes Fest stattfinden, doch seit kurzer Zeit geht es dem Baum zusehends schlechter. Da der Baum alles für das Dorf bedeutet, haben die Bewohnerinnen und Bewohner die Gruppe um Hilfe gebeten. Wer auch immer es war, das muss die Gruppe herausfinden. Doch die Dorfgemeinschaft ist engverbunden. Zwar sind alle sehr höflich und zollen den Fureru Respekt, aber scheinbar hüten sie ein Geheimnis. Wie kann die Gruppe sie aus der Reserve locken?  
 
 ### Fragestellung, Eskalation und Ehrung:  
-Fragestellung, die es zu lösen gilt: Was ist mit dem Großen Baum geschehen?
+Fragestellung, die es zu lösen gilt: Was ist mit dem Großen Baum geschehen?  
 
-Falls die Situation eskaliert:
+Falls die Situation eskaliert: Der Baum verdorrt und wird schwarz. Seine Blätter fallen ab und unter Ächzen erhebt sich der kahle Baum aus der Erde. Mit langen spitzen Zweigen und peitschenden Ästen greift er die Gruppe an.  
 
 Ehrung: Baumpfleger - Umwelt 
 
@@ -34,62 +34,60 @@ Wodurch erkennt ihr, dass der Baum für das Dorf eine herausragende Bedeutung ha
 
 
 ### Momente:
-Eine frische Brise kommt auf und bringt die Bäume zum Rascheln. Laub und Blütenblätter fliegen durch die Luft. Plötzlich sammeln sie sich und verdichten sich zu einer menschenartigen Gestalt. Sie streckt einen Arm nach euch aus und fast habt ihr den Eindruck ein trauriges Seufzen im Wind zu hören. Dann legt er sich langsam und die Gestalt zerfällt wieder, die Blätter sinken langsam zu Boden.  
-Jemand beißt in eine Frucht den Baumes. Doch anstelle von süßem, fruchtigem Saft läuft ein widerlich stinkender, klebriger grauer Schleim heraus. Angewidert spuckt sie das Stück wieder aus und wirft die Frucht weg.  
-Ein kleiner weißer Vogel mit langen Schwanzfedern landet auf einem niedrigen Ast und beginnt zu singen. Plötzlich kommt aus dem Nichts eine Katze und springt hoch, um den Vogel zu fangen. Im letzten Moment kann er der Gefahr ausweichen. Er landet weiter oben, wo ihn die Katze nicht erwischen kann, und scheint sie beinahe auszulachen.  
+- Eine frische Brise kommt auf und bringt die Bäume zum Rascheln. Laub und Blütenblätter fliegen durch die Luft. Plötzlich sammeln sie sich und verdichten sich zu einer menschenartigen Gestalt. Sie streckt einen Arm nach euch aus und fast habt ihr den Eindruck ein trauriges Seufzen im Wind zu hören. Dann legt er sich langsam und die Gestalt zerfällt wieder, die Blätter sinken langsam zu Boden.    
+- Jemand beißt in eine Frucht den Baumes. Doch anstelle von süßem, fruchtigem Saft läuft ein widerlich stinkender, klebriger grauer Schleim heraus. Angewidert spuckt sie das Stück wieder aus und wirft die Frucht weg.
+- Ein kleiner weißer Vogel mit langen Schwanzfedern landet auf einem niedrigen Ast und beginnt zu singen. Plötzlich kommt aus dem Nichts eine Katze und springt hoch, um den Vogel zu fangen. Im letzten Moment kann er der Gefahr ausweichen. Er landet weiter oben, wo ihn die Katze nicht erwischen kann, und scheint sie beinahe auszulachen.  
 
 
 ### Personen:
 ##### Tomoe – Dorfvorsteherin   
 
-*Sehr alte, gebückt gehende Frau - brüchige Stimme - lächelt und wirkt etwas verwirrt - wohlgesonnen*
+*Sehr alte, gebückt gehende Frau - brüchige Stimme - lächelt und wirkt etwas verwirrt - wohlgesonnen*  
 
-Bittet um Hilfe, ist sehr höflich. Kann sich an keine Zeit erinnerin, als es den Baum nicht gab, er hat das Dorf schon immer geschützt. Ihr Mann ist der Gärtner und Baumhüter, der sich um die Insel kümmert.
+Bittet um Hilfe, ist sehr höflich. Kann sich an keine Zeit erinnerin, als es den Baum nicht gab, er hat das Dorf schon immer geschützt. Ihr Mann ist der Gärtner und Baumhüter, der sich um die Insel kümmert.  
 
 ##### Hanzo – Gärtner und Baumhüter  
 
-*sehr alter, rüstiger Herr - noch kräftige Stimme - one-track mind was Gärtnern angeht - wohlgesonnen*
+*sehr alter, rüstiger Herr - noch kräftige Stimme - one-track mind was Gärtnern angeht - wohlgesonnen*  
 
-Bittet die Gruppe um Hilfe, will aber alles sehen, was sie tun im Garten. Stolz auf sein Werk auf der Insel und sehr besorgt um das Wohl des Baumes. Hat schon mit diversen Mitteln versucht ihn zu retten, ist jetzt aber mit seinem Latein am Ende.
+Bittet die Gruppe um Hilfe, will aber alles sehen, was sie tun im Garten. Stolz auf sein Werk auf der Insel und sehr besorgt um das Wohl des Baumes. Hat schon mit diversen Mitteln versucht ihn zu retten, ist jetzt aber mit seinem Latein am Ende.  
 
-??? – Priester. 
-Nasale Stimme, die leicht hochnäsig wirkt - Wohlgesonnen - Trägt edle Gewänder, die teuer aussehen Hier auch!! Un-fass-bar!
+##### Yoshio - Obstverkäufer (Tanuki im Dorf) 
 
-##### - Obstverkäufer (Tanuki im Dorf) 
+*beleibter, junger Mann - lacht/kichert häufig beim Reden - sein puscheliger Schwanz guckt unter seiner Kleidung hervor - misstrauisch* 
 
-Redet kurz - Wohlgesonnen
+Verkauft sowohl die Früchte des Großen Baums als auch weiteres Obst an seinem Marktstand. Mag Menschen und hält sich gern unter ihnen auf, wo er sie beobachtet und sich über ihr merkwürdiges Verhalten amüsiert. Ist den Fureru misstrauisch gegenüber und hat (erst einmal) Angst vor ihnen.   
 
-##### Die Tanuki
+##### Rina - Wirtin
+
+*resolute mittelalte Frau - Schürze und Kopfbedeckung - wohlgesonnen*  
+
+Ist sehr stolz auf ihre Mochi, gefüllt mit Fruchtgelee. Ist daher auf den Großen Baum und seine Ernte direkt angewiesen.   
 
 ### Schauplätze:
 ##### Der Garten auf der Flussinsel
 
-Ungefährlich
+Im fein gepflegten Garten auf der felsigen Insel oberhalb des Flusses ist alles friedlich. Mehrere Kieswege schlängeln sich zwischen Kiefern, Kirschbäumen, Sträuchern und moosbewachsenen Steinen hindurch. Über allem thront majestätisch der Große Baum. Einige Kaninchen mümmeln am frischen Gras.  
 
-Eröffnungsfrage: Was hier erinnert euch an zu Hause?
+Ungefährlich   
 
-##### Das Dorf  
-Ein malerischer Wasserfall nicht weit vom Tempelkomplex gelegen. Das stetige Rauschen ist selbst in den hintersten Räumen des Tempels noch zu hören. Affen hängen in den riesigen Bäumen, die sich zu den Seiten erstrecken. Vor euch liegt ein kleine See, in dem sich das herabstürzende Wasser staut.
+Eröffnungsfrage: Was zeigt euch, dass jemand diesen Garten schon lange mit viel Liebe pflegt?  
 
-Ungefährlich
-
-Eröffnungsfrage: Welches Detail an diesem Ort lässt sich hinter sein Schönheit blicken?
-
-Herausforderung: Der See kann optional als Gefahrenquelle dienen.
+Herausforderung: Auf den Baum zu klettern ist gefährlich und risikoreich, selbst die tiefsten Äste hängen viele Meter über dem Boden.  
 
 ##### Der Marktplatz
+
+Einige Händlerinnen und Händler preisen an kleinen Ständen lautstark ihre Waren an. Eine faule Katze beobachtet das Treiben von einer Mauer aus. Ein junger, beleibter Händler wirft ihr einen Pfirsich von seinem Stand zu, den sie aber völlig ignoriert. Der Händler zuckt mit den Schultern - ihr Verlust. 
+
+Ungefährlich  
+
+Eröffnungsfrage: Welche Marktstände fallen euch ins Auge?  
+
+##### Das Izakaya
+
+Der Duft von frischem Gemüse, heißer Brühe und Tee steigt euch in die Nase, als ihr die kurzen Vorhänge beiseite schiebt und die Schankstube betretet. Die Wirtin gibt euch kleine feuchte Handtücher und führt euch an einen Tisch. Neben dem Eingang zur Küche hängt eine Tafel, auf der einige einfache Gerichte stehen. 
+
 Ungefährlich
-
-Eröffnungsfrage: An was erinnert euch die Größe und das Wachstum der Bambusstämme?
-
-Herausforderung: Der Bambuswald scheint wie ein sich immer änderndes Labyrinth zu sein. Mit jedem Besuch wird es schwerer den Ausgang zu finden.
-
-Der verborgene Pfad
-Ihr wandert einen mit Moos bewachsenen Pfad entlang, der von uralten Steinlaternen gesäumt ist. Eine nach der anderen beginnen sie zu leuchten, als ob sie euren Weg sanft erhellen würden. Kein Mensch weit und breit – nur das leise Zirpen der Zikaden und der entfernte Klang einer Flöte aus dem Tempel. Ein Gefühl von Zeitlosigkeit überkommt euch, als ob dieser Moment schon tausendmal geschehen ist. Der Pfad führt zu einem kleinen Schrein.
-
-Gefährlich
-
-Eröffnungsfrage: Ihr seht Papierzettel an ein schweres Seil gebunden, welches die Begrenzung zum Wald zeigt. Welcher Wunsch steht auf dem Zettel, den ihr euch anschaut?
 
 ### Hinweise:
 - [ ] 1. Ein dickes Tau mit *Shide* (Zickzack-Papierbänder), zerstört
@@ -98,7 +96,7 @@ Eröffnungsfrage: Ihr seht Papierzettel an ein schweres Seil gebunden, welches d
 - [ ] 4. Pflanzendünger, hergestellt aus Fureru-Teilen
 - [ ] 5. Eine kleine Schatulle mit Samen des Großen Baums
 - [ ] 6. Ein Brief aus dem Norden über einen Handelsvorschlag
-- [ ] 7. geschwärzte, faulige Wurzeln
+- [ ] 7. geschwärzte, angenagte Wurzeln
 - [ ] 8. Demnächst soll eine Delegation aus dem Norden durch das Dorf kommen
 - [ ] 9. dunkle, pulsierende Adern in den Blättern des Baumes
 - [ ] 10. ein kleiner Kodama, sieht sehr schwach aus
