@@ -3,10 +3,13 @@
 ## 1 Änderungen/Ergänzungen für Regeln u. Spielzüge
 - [x] Haiku als Mechanik?  - Marcel hatte eine gute Idee.
   - [x] Haiku Regel ergänzen
-- [ ] Umformulieren
-  - [ ] Löst das momentan aktive Problem auf friedliche Art.
-    - [ ] Weg von dem friedlich hin zum direkten Wurf. --> siehe neuen Vorschlag, mal gucken ob das besser passt? Beschreibung des Spielzugs auch angepasst. 
-    - [ ] Die Aufgabe lösen
+- [ ] Kapitel zu TPK schreiben (worst case-Szenario am Schauplatz; aus der Geisterwelt befreien)
+- [ ] Außer Gefecht erst am Szenenende lösen?
+- [ ] Wenn im Kampf der Char mit dem höchsten Kampfwürfel down geht und der Kampf weiterläuft, klären ob/wer den zweiten Kampfwürfel "erbt"
+- [x] Umformulieren
+  - [x] Löst das momentan aktive Problem auf friedliche Art.
+    - [x] Weg von dem friedlich hin zum direkten Wurf. --> siehe neuen Vorschlag, mal gucken ob das besser passt? Beschreibung des Spielzugs auch angepasst. 
+    - [x] Die Aufgabe lösen
 - [x] weiße Bonuswürfel auf dem Charsheet in Foundry tracken
 - [ ] Auf Reisen umfomulieren? Das mit dem Attribut ist glaube ich unnötig. Kann als Ideengeber drin bleiben.
 - [ ] Sind Hinweise bei Auf Reisen notwenig? Fühlt sich das komisch an?
