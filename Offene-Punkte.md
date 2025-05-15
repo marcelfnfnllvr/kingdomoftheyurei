@@ -4,7 +4,12 @@
 - [x] Haiku als Mechanik?  - Marcel hatte eine gute Idee.
   - [x] Haiku Regel ergänzen
 - [ ] Kapitel zu TPK schreiben (worst case-Szenario am Schauplatz; aus der Geisterwelt befreien)
+- [ ] Grober Aufbau der Welt, der Strukturen und des Landes
+- [ ] Darstellung der Welt  -> Landschaft
 - [ ] Außer Gefecht erst am Szenenende lösen?
+- [ ] Regeln
+  - [ ] Kritische Ergebnisse können nicht neu geworfen werden.
+
 - [ ] Wenn im Kampf der Char mit dem höchsten Kampfwürfel down geht und der Kampf weiterläuft, klären ob/wer den zweiten Kampfwürfel "erbt"
 - [x] Umformulieren
   - [x] Löst das momentan aktive Problem auf friedliche Art.
@@ -71,21 +76,29 @@
 
 ## 3 Das *BUCH*
 - [ ] Autorenkommentare hervorheben?
+
 - [ ] Begriffe, die im Glossar erklärt sind, hervorheben?
+
 - [ ] Rechtschreib- und Grammatikprüfung über den Text laufen lassen
 
 - [ ] Aufbau - Buch
 
 - [ ] 1. Einführung und Übersicht (Allgemeines.md)  
-   - [ ]    1.1 Worum geht es  
-   - [ ]    1.2 Wie spielt sich...  
-   - [ ]    1.3 Wie sind die Abenteuer aufgebaut?  
-   - [ ]    1.4 In welcher Welt spielt...  
-   - [ ]    1.5 Geister, Dämonen und Fureru  
-   - [ ]    1.6 Wie unterscheidet sich die Welt  
-   - [ ]    1.7 Darstellung der Welt  
-     - [ ]    - Häuser und Orte  
-     - [ ]    - Essen  
+  - [ ] 1.1 Einführung
+    - [ ] 1.1.1 Worum geht es  
+    - [ ] 1.1.2 Wie spielt sich...  
+    - [ ] 1.1.3 Wie sind die Abenteuer aufgebaut?  
+  - [ ] 1.2 Übersicht
+    - [ ] 1.2.1 In welcher Welt spielt...  
+    - [ ] 1.2.2 Geister, Dämonen und Fureru  
+    - [ ] 1.2.3 Wie unterscheidet sich die Welt  
+    - [ ] 1.2.4 Grober Aufbau der Welt, der Strukturen und des Landes
+  - [ ] 1.3 Darstellung
+    - [ ] 1.3.1 Darstellung der Welt  
+      - [ ] Architektur
+      - [ ] Orte
+      - [ ] Landschaft?  
+      - [ ] Essen  
   
 - [ ] 2. Regeln + Spielzüge  
    - [ ]    Einleitung (Intro-Regeln-Mechanik.md)  
@@ -102,11 +115,15 @@
    - [ ]    5.1 Einführung (Abenteuer_Vorwort.md)  
    - [ ]    5.2 Aufbau (Abenteueraufbau.md)  
    - [ ]    5.3 Abenteuer  
-     - [ ]    - Das Anwesen  
-     - [ ]    - Der Pilzbefall  
-     - [ ]    - Der Berg erwacht  
-     - [ ]    - Der Wald  
-     - [ ]    - Die Aschegeister  
+     - [ ]    Das Anwesen  
+     - [ ]    Der Pilzbefall  
+     - [ ]    Der Berg erwacht  
+     - [ ]    Der Wald  
+     - [ ]    Die Aschegeister  
+     - [ ]    Das Dojo
+     - [ ]    Die Burg
+     - [ ]    Frühlingszeit
+     - [ ]    Der Verschollene
   
 - [ ] 6. Glossar (Glossar.md)  
 
