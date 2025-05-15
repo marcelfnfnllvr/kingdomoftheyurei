@@ -206,6 +206,12 @@
   - [ ] Paralellwelten
     - [ ] Tagsüber normales Tokyo
     - [ ] Nachts zerstörtes dysopisches Tokyo
+  - [ ] Runtergeschrieben
+    - [ ] Eine kleiner runtergekommener Mangaverlag der zu Recherschezwecken Yokai ausfindig und dingfest macht die aus dem paralellen Tokyo in unsere Welt dringen wollen. Sie verurschen allerhand Probleme die die normalen Menschen nicht wirklich wahrnehmen und sich alle möglich kruden Erklärungen ausdenken um das offensichtliche zu leugnen. Es gibt längst Monster in unserer Welt. Unser "Helden" arbeiten alle in dem Verlag. Ob als Mangaka, Schülerassitenz, verkaterter Chef, Storyschreiberling oder Recherchefachkraft. Die Abenteuer die sie erleben werden in Manga vom eigenen Verlag veröffentlicht. Sind manchmal aber zu skurril und werden oft als albern und übertrieben abgetan. So richtig durchstarten scheint der Manga nicht aber die Gefahren werden immer größer und bedrohlicher. Was stimmt mit dieser Welt nicht? Wie kann sie geretten werden?
+      - [ ] Welches Regelwerk? Otherscape?
+      - [ ] Es soll möglichkeiten geben auch Privatleben auszuspielen und zu beleuchten
+      - [ ] Kampf ein fester bestandteil, aber wie? Immer mehr Lösungswege? Also doch Oterhscape?
+      - [ ] Unsere "Helden" haben Fähigkeiten, aber welche? Und woher?
   
 - [ ] Kampagnenstyle
   - [ ] Welt zusammen bauen am Abend
