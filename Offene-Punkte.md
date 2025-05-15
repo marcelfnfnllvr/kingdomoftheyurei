@@ -186,6 +186,9 @@
       - [ ] Sozialleben?
       - [ ] Wochenende?
     - [ ] Arbeit und Schule? Studium?
+  - [ ] Paralellwelten
+    - [ ] Tagsüber normales Tokyo
+    - [ ] Nachts zerstörtes dysopisches Tokyo
   
 - [ ] Kampagnenstyle
   - [ ] Welt zusammen bauen am Abend
