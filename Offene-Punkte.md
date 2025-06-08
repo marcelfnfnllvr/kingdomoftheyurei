@@ -12,6 +12,7 @@
 - [ ] Auf Reisen umfomulieren? Das mit dem Attribut ist glaube ich unnötig. Kann als Ideengeber drin bleiben. --> Marcel
 - [ ] Charaktererstellung - Marcel macht was
 - [ ] Landkarte (A4) + Sticker für Abenteuerschauplätze --> Topflappen + Brunhvitr
+- [ ] Wüste auf Landkarte --> Topflappen
 - [ ] Illustrationen als Postkarten --> Topflappen + Brunhvitr
 
 ## 2 Texte ergänzen/schreiben für's Regelwerk
