@@ -1,6 +1,7 @@
 # Offene Punkte
 
 ## 1 Änderungen/Ergänzungen für Regeln u. Spielzüge
+- [ ] Kapitel "Abenteuer selbst schreiben" korrekturlesen und ergänzen --> Marcel
 - [ ] Kapitel zu TPK schreiben (worst case-Szenario am Schauplatz; aus der Geisterwelt befreien) --> Marcel
 - [ ] Grober Aufbau der Welt, der Strukturen und des Landes --> Allgemeines --> Marcel
 - [ ] Darstellung der Welt  -> Landschaft --> Allgemeines --> Marcel
