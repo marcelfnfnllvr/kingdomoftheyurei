@@ -38,7 +38,8 @@ Wenn dir jemand misstraut oder wenn du etwas Riskantes tun willst, würfle auf d
 
 ## Der „Auf Reisen“ Spielzug
 
-Dieser Spielzug darf pro Spielendem nur einmal pro Abenteuer verwendet werden. Erzählt von einem Moment auf der Reise, um allein oder gemeinsam Zustände abzubauen. Dieser Spielzug gibt einen weißen Würfel. Um einen weiteren Würfel zu erhalten, muss die Erzählung etwas mit dem Attribut zu tun haben, von dem der Charakter den zweiten Würfel für diesen Spielzug bekommen soll. 
+Dieser Spielzug darf pro Spielendem nur einmal pro Abenteuer verwendet werden. Falls das Abenteuer für mehr als 2 Sessions ausgelegt ist, kann der Spielzug einmal pro Session angewendet werden.  
+Erzählt von einem Moment auf der Reise, um allein oder gemeinsam Zustände abzubauen. Dieser Spielzug gibt einen weißen Würfel. Um einen weiteren Würfel zu erhalten, muss die Erzählung etwas mit dem Attribut zu tun haben, von dem der Charakter den zweiten Würfel für diesen Spielzug bekommen soll. 
 
 - 1&1 Die Spielleitung bekommt einen weiteren Verderbnispunkt.
 - 1-2 Die Spielleitung bekommt einen Verderbnispunkt.
