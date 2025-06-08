@@ -104,4 +104,6 @@ Ungefährlich
 - [ ] 12. Das abgezogene Fell eines Tanuki
 - [ ] 13. Mehrere Kisten mit Früchten des Großen Baums sind verschwunden
 - [ ] 14. Schriftrolle mit Geheimnissen des Gärtnerns
+- [ ] 15. Gerücht, dass man im Baum ein Heulen hört
+- [ ] 16. Eine Säge mit abgebrochenen Zähnen
 
