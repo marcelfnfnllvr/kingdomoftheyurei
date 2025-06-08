@@ -1,27 +1,17 @@
 # Offene Punkte
 
 ## 1 Änderungen/Ergänzungen für Regeln u. Spielzüge
-- [x] Haiku als Mechanik?  - Marcel hatte eine gute Idee.
-  - [x] Haiku Regel ergänzen
-- [ ] Kapitel zu TPK schreiben (worst case-Szenario am Schauplatz; aus der Geisterwelt befreien)
-- [ ] Grober Aufbau der Welt, der Strukturen und des Landes
-- [ ] Darstellung der Welt  -> Landschaft
-- [ ] Außer Gefecht erst am Szenenende lösen?
+- [ ] Kapitel zu TPK schreiben (worst case-Szenario am Schauplatz; aus der Geisterwelt befreien) --> Marcel
+- [ ] Grober Aufbau der Welt, der Strukturen und des Landes --> Allgemeines --> Marcel
+- [ ] Darstellung der Welt  -> Landschaft --> Allgemeines --> Marcel
 - [ ] Regeln
-  - [ ] Kritische Ergebnisse können nicht neu geworfen werden.
-
-- [ ] Wenn im Kampf der Char mit dem höchsten Kampfwürfel down geht und der Kampf weiterläuft, klären ob/wer den zweiten Kampfwürfel "erbt"
-- [x] Umformulieren
-  - [x] Löst das momentan aktive Problem auf friedliche Art.
-    - [x] Weg von dem friedlich hin zum direkten Wurf. --> siehe neuen Vorschlag, mal gucken ob das besser passt? Beschreibung des Spielzugs auch angepasst. 
-    - [x] Die Aufgabe lösen
-- [x] weiße Bonuswürfel auf dem Charsheet in Foundry tracken
-- [ ] Auf Reisen umfomulieren? Das mit dem Attribut ist glaube ich unnötig. Kann als Ideengeber drin bleiben.
-- [ ] Sind Hinweise bei Auf Reisen notwenig? Fühlt sich das komisch an?
-- [ ] Außerdem sollten wir auch nochmal drüber nachdenken wie das bei längeren Abenteuern geregelt wird, oder?
-- [ ] Wurf auf Schwachpunkt beim Kampf doch nur D6 für alle?
-- [ ] eventuell doch im Kampf ENTWEDER schwächen oder kämpfen --> wenn schwächen erfolgreich muss nicht der Kampfwürfel geworfen werden?
-
+  - [ ] Außer Gefecht erst am Szenenende lösen? Ja! --> Regeln --> Außer Gefecht --> Topflappen 
+- [ ] Wenn im Kampf der Char mit dem höchsten Kampfwürfel down geht und der Kampf weiterläuft, klären ob/wer den zweiten Kampfwürfel "erbt" --> den kriegt keiner --> Topflappen
+- [ ] freien Attributsslot-Würfel erklären --> Regeln --> Marcel
+- [ ] Auf Reisen umfomulieren? Das mit dem Attribut ist glaube ich unnötig. Kann als Ideengeber drin bleiben. --> Marcel
+- [ ] Charaktererstellung - Marcel macht was
+- [ ] Landkarte (A4) + Sticker für Abenteuerschauplätze --> Topflappen + Brunhvitr
+- [ ] Illustrationen als Postkarten --> Topflappen + Brunhvitr
 
 ## 2 Texte ergänzen/schreiben für's Regelwerk
 ### 2.1 Systembeschreibung
@@ -82,7 +72,8 @@
 - [ ] Rechtschreib- und Grammatikprüfung über den Text laufen lassen
 
 - [ ] Aufbau - Buch
-
+- [ ] Impressum (Copyright-Hinweise!!)
+- [ ] Safety Tools
 - [ ] 1. Einführung und Übersicht (Allgemeines.md)  
   - [ ] 1.1 Einführung
     - [ ] 1.1.1 Worum geht es  
@@ -103,24 +94,23 @@
 - [ ] 2. Regeln + Spielzüge  
    - [ ]    Einleitung (Intro-Regeln-Mechanik.md)  
    - [ ]    2.1 Regeln (Regeln.md)  
-   - [ ]    2.2 Spielzüge (Spielzüge.md)  
-   - [ ]    2.3 ?????Cheatsheet?????  
+   - [ ]    2.2 Spielzüge (Spielzüge.md)
+   - [ ]    2.3 Spielbeispiele (Spielbeispiele.md)  
   
 - [ ] 3. Charaktere  
    - [ ]    3.1 Charaktererstellung (Charaktererstellung.md)  
-  
-- [ ] 4. Spielbeispiele (Spielbeispiele.md)  
 
-- [ ] 5. Abenteuer  
-   - [ ]    5.1 Einführung (Abenteuer_Vorwort.md)  
-   - [ ]    5.2 Aufbau (Abenteueraufbau.md)  
-   - [ ]    5.3 Abenteuer  
+- [ ] 4. Abenteuer  
+   - [ ]    4.1 Einführung (Abenteuer_Vorwort.md)  
+   - [ ]    4.2 Aufbau (Abenteueraufbau.md)  
+   - [ ]    4.3 Abenteuer  
      - [ ]    Das Anwesen  
      - [ ]    Der Pilzbefall  
      - [ ]    Der Berg erwacht  
      - [ ]    Der Wald  
      - [ ]    Die Aschegeister  
      - [ ]    Das Dojo
+     - [ ]    Der Tempel
      - [ ]    Die Burg
      - [ ]    Frühlingszeit
      - [ ]    Der Verschollene
@@ -131,7 +121,8 @@
    - [ ]      - Abenteuerbogen  
    - [ ]      - Kampfbogen  
    - [ ]      - Charakterbogen  (vom Stil her wie ausgedruckt und dann per Hand ausgefüllt + Kommentare dazugekritzelt oder so?)
-   - [ ]      - Zufallstabellen  
+   - [ ]      - Zufallstabellen
+   - [ ]      - Cheatsheet  
   
 - [ ] 8. ?????Hinten drauf: CATS????  
 
@@ -221,7 +212,16 @@
 
 
 ## erledigt
-
+- [x] eventuell doch im Kampf ENTWEDER schwächen oder kämpfen --> wenn schwächen erfolgreich muss nicht der Kampfwürfel geworfen werden?
+- [x] Wurf auf Schwachpunkt beim Kampf doch nur D6 für alle?
+- [x] Außerdem sollten wir auch nochmal drüber nachdenken wie das mit Auf Reisen bei längeren Abenteuern geregelt wird, oder? --> bei Länge >2 Sessions pro Session 1x Auf Reisen
+- [x] weiße Bonuswürfel auf dem Charsheet in Foundry tracken
+- [x] Umformulieren
+  - [x] Löst das momentan aktive Problem auf friedliche Art.
+    - [x] Weg von dem friedlich hin zum direkten Wurf. --> siehe neuen Vorschlag, mal gucken ob das besser passt? Beschreibung des Spielzugs auch angepasst. 
+    - [x] Die Aufgabe lösen
+- [x] Haiku als Mechanik?  - Marcel hatte eine gute Idee.
+  - [x] Haiku Regel ergänzen
 - [x] Mitmachen?
   - [x] Die Szene ausmalen in Intro-Regeln ergänzt
     - [x] Gut? --Marcel
