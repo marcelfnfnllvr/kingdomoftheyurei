@@ -127,9 +127,10 @@ Herausforderung: Um durch das Labyrinth zu gelangen, ohne sich zu verlaufen, ist
 - [ ] Ein mit Stöcken und Zweigen bedecktes Loch. Am Boden ist Blut zu sehen.
 - [ ] Ein Haufen Knochen. Hauptsächlich Tierknochen, aber ihr könnt auch einige Menschenknochen erkennen.
 - [ ] Ihr hört eine Stimme in eurem Kopf: "Es ist gut. Riskiert nicht euer Leben für mich. Ich bin jetzt glücklicher als vorher."
-- [x] Ein Haufen toter, tiefschwarzer Würmer.
+- [ ] Ein Haufen toter, tiefschwarzer Würmer.
 - [ ] Ein alter Leichnam. Verwest und zerfallen. Ein Brief, ob sie nicht noch so einen Jungen bringen könnten.
 - [ ] Wandmalerei, die ein Ritual zeigt.
-- [x] Nebel zieht auf und verursacht ein starkes Unwohlsein.
+- [ ] Nebel zieht auf und verursacht ein starkes Unwohlsein.
 - [ ] Wisst ihr nicht, dass die fahrenden Händler Sklavenhändler sind und sich die Sklaven gerne für eine Weile zur Frau nehmen?
 - [ ] Der alte Weg, der vor dem neuen benutzt wurde. Viel kleiner und der Geographie des Waldes angepasst.
+- [ ] Bäume sind von einer seltsamen Krankheit befallen.
