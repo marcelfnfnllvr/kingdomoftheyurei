@@ -62,6 +62,7 @@ Er tut sehr unwissend, aber er ist bei weitem nicht dumm. Er weiß, dass die gro
 
 ##### Kaho Ryan – Tochter des Händlers
 
+trägt blaue Roben, schwarze Haare
 *Verschwunden*. 
 
 ##### Faheem Den – Jäger der Nomaden des Waldes
@@ -126,9 +127,9 @@ Herausforderung: Um durch das Labyrinth zu gelangen, ohne sich zu verlaufen, ist
 - [ ] Ein mit Stöcken und Zweigen bedecktes Loch. Am Boden ist Blut zu sehen.
 - [ ] Ein Haufen Knochen. Hauptsächlich Tierknochen, aber ihr könnt auch einige Menschenknochen erkennen.
 - [ ] Ihr hört eine Stimme in eurem Kopf: "Es ist gut. Riskiert nicht euer Leben für mich. Ich bin jetzt glücklicher als vorher."
-- [ ] Ein Haufen toter, tiefschwarzer Würmer.
+- [x] Ein Haufen toter, tiefschwarzer Würmer.
 - [ ] Ein alter Leichnam. Verwest und zerfallen. Ein Brief, ob sie nicht noch so einen Jungen bringen könnten.
 - [ ] Wandmalerei, die ein Ritual zeigt.
-- [ ] Nebel zieht auf und verursacht ein starkes Unwohlsein.
+- [x] Nebel zieht auf und verursacht ein starkes Unwohlsein.
 - [ ] Wisst ihr nicht, dass die fahrenden Händler Sklavenhändler sind und sich die Sklaven gerne für eine Weile zur Frau nehmen?
 - [ ] Der alte Weg, der vor dem neuen benutzt wurde. Viel kleiner und der Geographie des Waldes angepasst.
