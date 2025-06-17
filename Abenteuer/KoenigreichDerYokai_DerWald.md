@@ -108,7 +108,7 @@ Es geht ein paar Meter bergab. Überall ist dichter Wald. Man wird durch Felsspa
 
 > Woher wisst ihr, dass ihr nicht die Ersten seid, die dieses Naturlabyrinth betreten?
 
-Herausforderung: Um durch das Labyrinth zu gelangen, ohne sich zu verlaufen, ist mindestens ein Wurf auf "Sich der Gefahr stellen" erforderlich.
+Herausforderung: Um durch das Labyrinth zu gelangen, ohne sich zu verlaufen, ist mindestens ein Wurf auf "Etwas riskieren" erforderlich.
 
 ### Hinweise:
 
