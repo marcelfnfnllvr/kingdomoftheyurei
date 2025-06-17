@@ -205,6 +205,11 @@
       - [ ] Es soll möglichkeiten geben auch Privatleben auszuspielen und zu beleuchten
       - [ ] Kampf ein fester bestandteil, aber wie? Immer mehr Lösungswege? Also doch Oterhscape?
       - [ ] Unsere "Helden" haben Fähigkeiten, aber welche? Und woher?
+      - [ ] Vielleicht glitchen verrückt andere Welten nach Tokyo und fangen Personen dort. Die Gruppe bewegt sich in diesen Welten und muss infomation aus der hierwelt und der dortwelt zusammensetzen um die Welten wieder zu versiegeln. 
+      - [ ] Sie sind Schlüsselwächter mit gewissen begabungen? 
+      - [ ] Es ist nie klar was der Schlüssel und wo das Schloß ist und was man machen muss um die Welt wieder zu versiegeln
+      - [ ] Rote Tori als portale zwischen den Welten
+      - [ ] Vielleicht muss man durch Gespräch in der befallenen Gegend rausfinden wo das Tor ist und wer die Auslöser sind und warum?
   
 - [ ] Kampagnenstyle
   - [ ] Welt zusammen bauen am Abend

@@ -127,16 +127,16 @@ Herausforderung: Die Gruppe darf sich nicht von der Köchin Itō erwischen lasse
 -   [ ] Ein Brief, in dem "mehr von dem Mittel" bestellt wird.
 -   [ ] Itō scheint immer dann aufzutauchen, wenn man etwas tut, das in ihren Augen falsch ist.
 -   [x] Ein zerrissenes Bild von Shinobu-sensei, dem alten Meister.
--   [x] Eine kleine Kiste mit viel Geld.
+-   [ ] Eine kleine Kiste mit viel Geld.
 -   [x] Eine Notiz mit der Warnung "Wir vergessen nicht."
--   [ ] Eine Kendo-Trainingsrüstung mit einem großen Durchstich.
+-   [x] Eine Kendo-Trainingsrüstung mit einem großen Durchstich.
 -   [x] Ein kostbares Katana mit einem eingravierten Tengu.
 -   [x] Das gemalte Portrait von einem jungen Shinobu-sensei, der einen sehr jungen Schüler anleitet.
--   [x] Früher sind ab und zu Dinge verschwunden, doch seit Kurzem häufen sich solche Vorkommnisse.
+-   [ ] Früher sind ab und zu Dinge verschwunden, doch seit Kurzem häufen sich solche Vorkommnisse.
 -   [ ] Ein halb verbrannter Baum im Garten.
 -   [x] Die Bitte an einen Schüler, doch lieber in ein anderes Dōjō zu wechseln.
 -   [x] Räucherstäbchen, die einen widerlichen Gestank verbreiten.
--   [ ] Das Katana von Shinobu-sensei, angelaufen und rostend.
+-   [x] Das Katana von Shinobu-sensei, angelaufen und rostend.
 -   [x] Eine Schülerin hat nachts ein merkwürdiges blaues Leuchten von draußen gesehen.
 -   [x] Ein großer Stein im Garten hat einen frischen, tiefen Riss.
 -   [ ] Reste von verbranntem Räucherwerk in einer Schale.
