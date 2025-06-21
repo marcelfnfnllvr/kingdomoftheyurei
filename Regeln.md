@@ -22,7 +22,7 @@ Für jeden Spielzug erhältst du einen Würfel. Für ungefährliche Spielzüge g
 
 ## Der Bonuswürfel
 
-Der Bonuswürfel wird als gemeinschaftlicher Pool auf dem Abenteuerbogen festgehalten. Er darf einmalig und nur einzeln zu jedem Wurf hinzugefügt werden. Im Kampf gilt er wie der zweite Würfel, den man bekommt, und es wird wie gewohnt nur das höhere Ergebnis behandelt. Er kann außerdem dazu genutzt werden um direkt einen Zustand zu heilen. 
+Bonuswürfel werden in einem gemeinschaftlichen Pool auf dem Abenteuerbogen festgehalten. Ein Bonuswürfel darf einmalig und nur einzeln zu jedem Spielzug hinzugefügt werden, danach verfällt er. Im Kampf gilt er wie der zweite Würfel, den man ab Runde 2 bekommt, und es wird wie gewohnt nur das höhere Ergebnis behandelt. Ein Bonuswürfel kann außerdem dazu genutzt werden, um direkt einen Zustand zu heilen. 
 
 ## Der Wurf
 
