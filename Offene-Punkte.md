@@ -15,7 +15,9 @@
 - [ ] Regeln
   - [ ] Außer Gefecht erst am Szenenende lösen? Ja! --> Regeln --> Außer Gefecht --> Topflappen 
 - [ ] Wenn im Kampf der Char mit dem höchsten Kampfwürfel down geht und der Kampf weiterläuft, klären ob/wer den zweiten Kampfwürfel "erbt" --> den kriegt keiner --> Topflappen
-- [ ] freien Attributsslot-Würfel erklären --> Regeln --> Marcel
+- [x] freien Attributsslot-Würfel erklären --> Regeln --> Marcel
+  - [x] als eigener Abschnitt in den Regeln
+  - [ ] Korrekttur und Sinn lesen
 - [ ] Auf Reisen umfomulieren? Das mit dem Attribut ist glaube ich unnötig. Kann als Ideengeber drin bleiben. --> Marcel 
   - [ ] Im Prinzip ist es so formuliert. Es gibt ohne passende Story zum Attribut halt nur einen Würfel. Ist schon konsequent?
 
