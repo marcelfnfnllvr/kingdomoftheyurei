@@ -20,6 +20,10 @@ Für jeden Spielzug erhältst du einen Würfel. Für ungefährliche Spielzüge g
 
 - 1W6 [Den Wurf Verbessern - Schwarz]
 
+## Der Bonuswürfel
+
+Der Bonuswürfel wird als gemeinschaftlicher Pool auf dem Abenteuerbogen festgehalten. Er darf einmalig und nur einzeln zu jedem Wurf hinzugefügt werden. Im Kampf gilt er wie der zweite Würfel, den man bekommt, und es wird wie gewohnt nur das höhere Ergebnis behandelt. Er kann außerdem dazu genutzt werden um direkt einen Zustand zu heilen. 
+
 ## Der Wurf
 
 Nachdem der oder die Spielende den Würfelpool für den Spielzug zusammengestellt hat, wird gewürfelt. Ziel ist, eine möglichst hohe Augenzahl mit einem der Würfel zu erreichen. Beispielsweise besteht der Pool aus zwei weißen und einem schwarzen Würfel. Der Wurf ergibt eine weiße 4, eine weiße 3 und eine schwarze 3. Damit steht als vorläufiges Ergebnis die weiße 4. Wenn wir jetzt zum Beispiel den Spielzug "Etwas herausfinden" betrachten, dann wäre eine 4 das Ergebnis: 1-4 -> Die Spielleitung erhält einen Verderbnispunkt. Sollte der oder die Spielende damit nicht zufrieden sein, kann der Wurf einmalig wiederholt werden. Das neue Ergebnis zählt.

@@ -71,7 +71,7 @@ Besprich mit der Spielleitung, was deine Fähigkeit bewirken soll. Du bekommst e
 - 5-6 Du bekommst einen weißen Bonuswürfel, den du frei einsetzen darfst.
 - 6&6 Du bekommst einen Hinweis.
 
-*Dieser Spielzug wird verwendet, wenn die Spielenden eine Fähigkeit nutzen. Fähigkeiten, die die Spielenden so auslösen, können auf der erzählerischen Ebene nicht scheitern. Je nach Ergebnis des Wurfes kann es jedoch zu Verderbnispunkten oder Zuständen kommen.* 
+*Dieser Spielzug wird verwendet, wenn die Spielenden eine Fähigkeit nutzen. Fähigkeiten, die die Spielenden so auslösen, können auf der erzählerischen Ebene nicht scheitern. Je nach Ergebnis des Wurfes kann es jedoch zu Verderbnispunkten oder Zuständen kommen. Fähigkeiten können dafür benutzt werden, Probleme, die sonst über den „Etwas riskieren“-Spielzug abgehandelt werden, auf eine weniger riskante Weise zu lösen. Ob die Spielleitung in besonderen Situationen trotzdem noch einen zusätzlichen „Etwas riskieren“-Spielzug einfordert, bleibt ihr überlassen.*
 
 [Zurück nach oben](#spielz%C3%BCge)
 
