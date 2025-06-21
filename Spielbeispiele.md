@@ -70,23 +70,22 @@ Diese Interaktion von dem S1 und dem SL veranschaulicht wie eine Fähigkeit für
 >**Ralph**: Mein Reittier hat das Attribut "stark", vielleicht könnte mein Wasserbüffel Ken mir helfen?  
 >**Martina**: In Ordnung, für das Attribut bekommst du noch einen weißen W6 dazu. Dann würfel mal.  
 >**Ralph**: Ich habe eine weiße 5 und eine schwarze 3.  
->**Martina**: Damit senkst du die Gefahrenstufe des Gegners um 1. Sie ist jetzt also insgesamt bei 9. Wir sind ja ganz am Anfang vom Kampf, deshalb würfelt jetzt bitte alle mal euren jeweiligen Schwachpunkt für diesen Kampf aus. Da eure Charaktere alle noch keinen Abschnittswechsel hatten, seid ihr in einem dunklen Abschnitt. Das heißt ihr werft mit 2W6 und behaltet den niedrigeren Wert.  
->**Lydia**: Ich habe eine 5 und eine 3.  
->**Ralph**: Ich hab' zwei 3er.  
->**Hannes**: Meine Würfel sind eine 6 und eine 5.  
->**Martina**: Also 3, 3 und 5. Gut, dann beginnt jetzt die erste richtige Kampfrunde. Würfelt bitte alle nochmal einen W6, das ist euer Kampfwürfel für diese Runde. Um den Gegner zu besiegen, braucht ihr mit euren beiden höchsten Würfeln zusammen mindestens eine 9.  
->**Lydia**: Ich habe eine 2.  
->**Ralph**: Ich hab' 'ne 5!  
->**Hannes**: Bei mir ist es eine 4.  
->**Martina**: Gut, eine 2, 4 und 5. Da Yūsuke in dieser Runde schon den Gegner geschwächt hat, kann er jetzt nicht mehr angreifen. Das heißt ihr habt insgesamt 6 Punkte, das reicht leider nicht.  
+>**Martina**: Damit senkst du die Gefahrenstufe des Gegners um 1. Sie ist jetzt also insgesamt bei 9. Wir sind ja ganz am Anfang vom Kampf, deshalb würfelt jetzt bitte alle mal euren jeweiligen Schwachpunkt für diesen Kampf aus. Das heißt ihr werft mit 1W6 und tragt euren Wert dann in den Kampfbogen ein.  
+>**Lydia**: Ich habe eine 3.  
+>**Ralph**: Ich hab' auch eine 3.  
+>**Hannes**: Mein Würfel sagt eine 5.  
+>**Martina**: Also 3, 3 und 5. Gut, dann beginnt jetzt die erste richtige Kampfrunde. Würfelt bitte alle nochmal einen W6, das ist euer Kampfwürfel für diese Runde. Um den Gegner zu besiegen, braucht ihr mit euren beiden höchsten Würfeln zusammen mindestens eine 9. Ralph beziehungsweise Yūsuke hat schon den Gegner geschwächt, deshalb kann er diese Runde weder treffen noch getroffen werden und wirft keinen Kampfwürfel.   
+>**Lydia**: Ich habe eine 5.  
+>**Hannes**: Bei mir ist es eine 2.  
+>**Martina**: Gut, eine 2 und 5. Das heißt ihr habt insgesamt 7 Punkte, das reicht leider nicht.  
 >**Ralph**: Ja nun...  
->**Martina**: Außerdem haben wir eine 5, das ist der Schwachpunkt von Eran in diesem Kampf. Hannes, dein Charakter bekommt einen Zustand. Wenn ihr gleich erzählt, was ihr in der Kampfrunde so macht, können wir ja schauen was da passen könnte. Dann erzählt doch mal, was ihr so macht und wie das ggf. auch schief geht. Lydia, dein Kampfwürfel hatte den niedrigsten Wert, also fängst du an. Danach kommt dann Hannes und dann Ralph.  
->*Lydia, Ralph und Hannes erzählen, was ihre drei Charaktere in der Kampfrunde genau machen, wie sie angreifen und was ihnen in dieser Runde zum Verhängnis wird.*  
->**Martina**: Wunderbar, ihr habt eurem Gegner zwar ein wenig zusetzen können, aber noch sind fast alle am Leben und greifen euch weiter an. Ralph, du hattest in Runde 1 den höchsten Kampfwürfelwert mit deiner 5, deshalb bekommst du jetzt ab Runde 2 einen zweiten W6 in deinen Kampfwürfelpool. Möchte nochmal jemand den Gegner schwächen in Runde 2?  
+>**Martina**: Außerdem haben wir eine 5, das ist der Schwachpunkt von Eran in diesem Kampf. Hannes, dein Charakter bekommt einen Zustand. Wenn ihr gleich erzählt, was ihr in der Kampfrunde so macht, können wir ja schauen was da passen könnte. Dann erzählt doch mal, was ihr so macht und wie das ggf. auch schief geht. Ralph hat den Gegner geschwächt, also fängt er an. Hannes, dein Kampfwürfel hatte den niedrigsten Wert, also kommst du als nächstes. Zuletzt ist dann Lydia dran.  
+>*Ralph, Hannes und Lydia erzählen, was ihre drei Charaktere in der Kampfrunde genau machen, wie sie angreifen und was ihnen in dieser Runde zum Verhängnis wird.*  
+>**Martina**: Wunderbar, ihr habt eurem Gegner zwar ein wenig zusetzen können, aber noch sind fast alle am Leben und greifen euch weiter an. Lydia, du hattest in Runde 1 den höchsten Kampfwürfelwert mit deiner 5, deshalb bekommst du jetzt ab Runde 2 einen zweiten W6 in deinen Kampfwürfelpool. Möchte nochmal jemand den Gegner schwächen in Runde 2?  
 >**Hannes**: Lieber angreifen...  
 >**Ralph**: Ja, diesmal klappt es!  
->**Lydia**: Ich greif' auch an und habe eine 4 gewürfelt.  
->**Ralph**: Ich habe eine 2 und eine 6, darf ja aber den höheren behalten, also 6.  
+>**Lydia**: Ich habe eine 2 und eine 6, darf ja aber den höheren behalten, also 6.   
+>**Ralph**: Ich greif' auch an und habe eine 4 gewürfelt.  
 >**Hannes**. Bei mir ist es ne 3, upsi.  
 >**Martina**: Alles klar, ihr greift alle an und mit einer Summe von 10 könnt ihr den Gegner diese Runde besiegen! Allerdings kriegen Ayane und Yūsuke jeweils einen Zustand, weil ihr Schwachpunkt getroffen wurde. Dann erzählt mir mal wie ihr eure Widersacher alle platt macht. Erst ist Hannes dran, dann Lydia und das Grand Finale darf Ralph beschreiben.  
 >*Wieder beschreiben Lydia, Ralph und Hannes wie ihre Charaktere tapfer die Feinde bekämpfen und diese schließlich töten oder in die Flucht schlagen können.*  
