@@ -140,7 +140,7 @@ Wenn die Korruption zunimmt, bekommt dein Charakter einen Zustand. Zustände zei
 
 ## Außer Gefecht gesetzt
 
-Ein Charakter, der außer Gefecht gesetzt wurde, muss dann entweder über den Spielzug „Etwas riskieren” von einem anderen Charakter zurückgeholt werden oder er erwacht automatisch nach einigen Stunden Spielzeit. Für diesen Charakter muss die Regel „Außer Gefecht gesetzt” angewendet werden. Dies kann, um den Spielfluss nicht zu stören, auch nach einem Kampf oder einer Situation passieren.
+Ein Charakter, der außer Gefecht gesetzt wurde, muss dann entweder über den Spielzug „Etwas riskieren” von einem anderen Charakter, aus der Geisterwelt befreit werden oder er erwacht automatisch nach einigen Stunden Spielzeit. Für diesen Charakter muss die Regel „Außer Gefecht gesetzt” angewendet werden. Dies kann, um den Spielfluss nicht zu stören, auch nach einem Kampf oder einer Situation passieren.
 
 ## TPK - Total Party Kill
 
@@ -153,6 +153,10 @@ Die Zustände können auf zwei verschiedene Arten reduziert werden. Jeder dieser
 1. Beantworte die Abenteuerfrage. Damit kann ein Zustand abgebaut werden.
 2. Benutze den Spielzug "Auf Reisen".
 3. Setze einen Bonuswürfel ein, um einen Zustand sofort zu heilen.
+
+## Der freie Attributsslot - Attribut, Freier Slot
+
+Auf dem Charakterbogen gibt es ein Attribut mit dem Titel „Freier Slot”. Dieser Slot gibt der Spielleitung die Möglichkeit, den Spielenden für Situationen, die sie sich erarbeitet haben, oder Gegenstände, die sie im Abenteuer gefunden haben und bei sich tragen, einen weißen oder schwarzen Würfel zu geben. Gab es beispielsweise ein magisches Buch als Hinweis und konfrontiert die Gruppe einen NSC damit? Hier wäre ein passender Zeitpunkt, das Buch als weißen oder schwarzen Attributswürfel einzusetzen. Dieser Slot zählt wie alle anderen Attributsslots und ist kein zusätzlicher Würfel.
 
 ## Bonusaufgabe
 
