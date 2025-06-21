@@ -18,8 +18,8 @@
 - [x] freien Attributsslot-Würfel erklären --> Regeln --> Marcel
   - [x] als eigener Abschnitt in den Regeln
   - [ ] Korrekttur und Sinn lesen
-- [ ] Auf Reisen umfomulieren? Das mit dem Attribut ist glaube ich unnötig. Kann als Ideengeber drin bleiben. --> Marcel 
-  - [ ] Im Prinzip ist es so formuliert. Es gibt ohne passende Story zum Attribut halt nur einen Würfel. Ist schon konsequent?
+- [x] Auf Reisen umfomulieren? Das mit dem Attribut ist glaube ich unnötig. Kann als Ideengeber drin bleiben. --> Marcel 
+  - [x] Im Prinzip ist es so formuliert. Es gibt ohne passende Story zum Attribut halt nur einen Würfel. Ist schon konsequent?
 
 - [ ] Charaktererstellung - Marcel macht was
 - [ ] Landkarte (A4) + Sticker für Abenteuerschauplätze --> Topflappen + Brunhvitr
