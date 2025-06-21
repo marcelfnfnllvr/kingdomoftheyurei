@@ -134,9 +134,17 @@ Korruption beschreibt das Ausmaß, in dem der Dämon von dem Charakter Besitz er
 
 ## Zustände
 
-Wenn die Korruption zunimmt, bekommt dein Charakter einen Zustand. Zustände zeigen den geistigen und körperlichen Verfall deines Charakters. Erhält ein Charakter während des Abenteuers einen sechsten Zustand, so ist er vorerst außer Gefecht gesetzt.
+Wenn die Korruption zunimmt, bekommt dein Charakter einen Zustand. Zustände zeigen den geistigen und körperlichen Verfall deines Charakters. Erhält ein Charakter während des Abenteuers einen sechsten Zustand, so ist er vorerst außer Gefecht gesetzt. 
 
 >[Nach oben](Regeln)
+
+## Außer Gefecht gesetzt
+
+Ein Charakter, der außer Gefecht gesetzt wurde, muss dann entweder über den Spielzug „Etwas riskieren” von einem anderen Charakter zurückgeholt werden oder er erwacht automatisch nach einigen Stunden Spielzeit. Für diesen Charakter muss die Regel „Außer Gefecht gesetzt” angewendet werden. Dies kann, um den Spielfluss nicht zu stören, auch nach einem Kampf oder einer Situation passieren.
+
+## TPK - Total Party Kill
+
+Sollten alle Charaktere gleichzeitig außer Gefecht gesetzt werden, endet das Abenteuer sofort und die Spielleitung lässt es mit dem schlechtmöglichsten Ausgang enden. Sie kann die Spielenden in diese Erzählung einbeziehen und mit ihnen gemeinsam überlegen, welche Narben diese Erfahrung bei den Charakteren hinterlassen hat. Die Regel „Am Ende einer Spielsession” wird trotzdem abgehandelt. In diesem Fall können für die ersten beiden Aufgaben jedoch keine Punkte vergeben werden.
 
 ## Zustände abbauen
 
@@ -144,6 +152,7 @@ Die Zustände können auf zwei verschiedene Arten reduziert werden. Jeder dieser
 
 1. Beantworte die Abenteuerfrage. Damit kann ein Zustand abgebaut werden.
 2. Benutze den Spielzug "Auf Reisen".
+3. Setze einen Bonuswürfel ein, um einen Zustand sofort zu heilen.
 
 ## Bonusaufgabe
 
