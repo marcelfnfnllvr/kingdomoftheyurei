@@ -2,18 +2,28 @@
 
 ## 1 Änderungen/Ergänzungen für Regeln u. Spielzüge
 - [ ] Kapitel "Abenteuer selbst schreiben" korrekturlesen und ergänzen --> Marcel
-- [ ] Kapitel zu TPK schreiben (worst case-Szenario am Schauplatz; aus der Geisterwelt befreien) --> Marcel
-- [ ] Grober Aufbau der Welt, der Strukturen und des Landes --> Allgemeines --> Marcel
-- [ ] Darstellung der Welt  -> Landschaft --> Allgemeines --> Marcel
+- [x] Kapitel zu TPK schreiben (worst case-Szenario am Schauplatz; aus der Geisterwelt befreien) --> Marcel
+  - [ ] Korrekttur und Sinn lesen
+
+- [x] Grober Aufbau der Welt, der Strukturen und des Landes --> Allgemeines --> Marcel
+  - [x] Wird mit dem Punkt, direkt hier drunter, abgehandelt.
+
+- [x] Darstellung der Welt  -> Landschaft --> Allgemeines --> Marcel
+  - [x] Unter "Darstellung der Welt" als Einleitungstext
+  - [ ] Korrekttur und Sinn lesen
+
 - [ ] Regeln
   - [ ] Außer Gefecht erst am Szenenende lösen? Ja! --> Regeln --> Außer Gefecht --> Topflappen 
 - [ ] Wenn im Kampf der Char mit dem höchsten Kampfwürfel down geht und der Kampf weiterläuft, klären ob/wer den zweiten Kampfwürfel "erbt" --> den kriegt keiner --> Topflappen
 - [ ] freien Attributsslot-Würfel erklären --> Regeln --> Marcel
-- [ ] Auf Reisen umfomulieren? Das mit dem Attribut ist glaube ich unnötig. Kann als Ideengeber drin bleiben. --> Marcel
+- [ ] Auf Reisen umfomulieren? Das mit dem Attribut ist glaube ich unnötig. Kann als Ideengeber drin bleiben. --> Marcel 
+  - [ ] Im Prinzip ist es so formuliert. Es gibt ohne passende Story zum Attribut halt nur einen Würfel. Ist schon konsequent?
+
 - [ ] Charaktererstellung - Marcel macht was
 - [ ] Landkarte (A4) + Sticker für Abenteuerschauplätze --> Topflappen + Brunhvitr
 - [ ] Wüste auf Landkarte --> Topflappen
 - [ ] Illustrationen als Postkarten --> Topflappen + Brunhvitr
+- [ ] Zum Essen noch Beispiele? Sonst wirkt da so leer?
 
 ## 2 Texte ergänzen/schreiben für's Regelwerk
 ### 2.1 Systembeschreibung
