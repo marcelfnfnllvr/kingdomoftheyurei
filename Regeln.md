@@ -4,6 +4,21 @@ Hier findet ihr alle Regeln, die ihr zum Spielen von *Augen des Zwielichts: Kön
 
 Die Spielenden versuchen durch Spielzüge Hinweise zu sammeln und diese am Ende des Abenteuers zu kombinieren. Für die Spielzüge stellen sie einen Würfelpool zusammen, der aus schwarzen und weißen Würfeln bestehen kann. Dieser Pool wird dann gewürfelt und die zwei höchsten Augenzahlen werden gewertet. Welche Augenzahlen dabei zu welchem Ergebnis führen, findet ihr in dem jeweiligen Spielzug. Alle anderen Regeln stehen im folgenden Abschnitt. Die Spielleitung würfelt in diesem System nie selbst. Um das System besser zu verstehen und zu verinnerlichen, solltet ihr euch auch die Spielbeispiele durchlesen.  
 
+>[1. Der Würfelpool](#der-w%C3%BCrfelpool---w%C3%BCrfel-sammeln)  
+>[2. Der Bonuswürfel](#der-bonusw%C3%BCrfel)  
+>[3. Der Wurf](#der-wurf)  
+>[4. Den Wurf verbessern](#den-wurf-verbessern)  
+>[5. Der schwarze Würfel](#der-schwarze-w%C3%BCrfel)  
+>[6. Verderbnispunkte](#verderbnispunkte)  
+>[7. Der freie Gegenstand](#der-freie-gegenstand)  
+>[8. Außer Gefecht gesetzt](#au%C3%9Fer-gefecht-gesetzt)  
+>[9. Der Abschnittswechsel](#der-abschnittswechsel)  
+>[10. Korruption](#korruption)  
+>[11. Zustände](#zust%C3%A4nde)  
+>[12. Zustände abbauen](#zust%C3%A4nde-abbauen)  
+>[13. Die Bonusaufgabe](#bonusaufgabe)  
+>[14. Am Ende einer Spielsession](#am-ende-einer-spielsession)  
+
 ## Der Würfelpool - Würfel sammeln
 
 Für jeden Spielzug erhältst du einen Würfel. Für ungefährliche Spielzüge gibt es einen weißen Würfel, für gefährliche einen schwarzen. Für ein passendes Attribut bekommst du einen zweiten Würfel. Je nach Attribut kann dieser weiß oder schwarz sein. Den dritten Würfel bekommst du entweder für eine Angst oder einen Zustand. Bei bestimmten Spielzügen werden die Attributs- und Gegenstandswürfel durch den Fähigkeitswürfel ersetzt. Dieser kann ebenfalls weiß oder schwarz sein. Außerdem kannst du durch bestimmte Aktionen Bonuswürfel sammeln, die du zusätzlich einmalig einsetzen kannst. Für einen Spielzug kann dabei aber höchstens ein Bonuswürfel eingesetzt werden, nicht mehrere auf einmal. Maximal kann der Würfelpool beim ersten Wurf auf einen Spielzug vier Würfel beinhalten.
@@ -20,6 +35,8 @@ Für jeden Spielzug erhältst du einen Würfel. Für ungefährliche Spielzüge g
 
 - 1W6 [Den Wurf Verbessern - Schwarz]
 
+>[Nach oben](Regeln)
+
 ## Der Bonuswürfel
 
 Bonuswürfel werden in einem gemeinschaftlichen Pool auf dem Abenteuerbogen festgehalten. Ein Bonuswürfel darf einmalig und nur einzeln zu jedem Spielzug hinzugefügt werden, danach verfällt er. Im Kampf gilt er wie der zweite Würfel, den man ab Runde 2 bekommt, und es wird wie gewohnt nur das höhere Ergebnis behandelt. Ein Bonuswürfel kann außerdem dazu genutzt werden, um direkt einen Zustand zu heilen. 
@@ -28,6 +45,8 @@ Bonuswürfel werden in einem gemeinschaftlichen Pool auf dem Abenteuerbogen fest
 
 Nachdem der oder die Spielende den Würfelpool für den Spielzug zusammengestellt hat, wird gewürfelt. Ziel ist, eine möglichst hohe Augenzahl mit einem der Würfel zu erreichen. Beispielsweise besteht der Pool aus zwei weißen und einem schwarzen Würfel. Der Wurf ergibt eine weiße 4, eine weiße 3 und eine schwarze 3. Damit steht als vorläufiges Ergebnis die weiße 4. Wenn wir jetzt zum Beispiel den Spielzug "Etwas herausfinden" betrachten, dann wäre eine 4 das Ergebnis: 1-4 -> Die Spielleitung erhält einen Verderbnispunkt. Sollte der oder die Spielende damit nicht zufrieden sein, kann der Wurf einmalig wiederholt werden. Das neue Ergebnis zählt.
 
+>[Nach oben](Regeln)
+
 ## Den Wurf verbessern
 
 Wenn du mit dem Würfelergebnis nicht zufrieden bist und ein weißer Würfel die höchste Augenzahl im Wurf hat, darfst du einmalig einen weiteren schwarzen Würfel in den Wurf geben. Dann würfelst du komplett neu. Das neue Ergebnis zählt. Bei gleicher Augenzahl von schwarzem und weißem Würfel zählt immer der schwarze Würfel als höchster Würfel. 
@@ -35,6 +54,8 @@ Wenn du mit dem Würfelergebnis nicht zufrieden bist und ein weißer Würfel die
 ## Der schwarze Würfel
 
 Immer wenn die Augenzahl eines schwarzen Würfels im Ergebnis größer oder gleich der höchsten Augenzahl eines weißen Würfels ist, erhält dein Charakter einen Zustand. Hat er sechs Zustände gesammelt, ist er außer Gefecht gesetzt.
+
+>[Nach oben](Regeln)
 
 ## Verderbnispunkte
 
@@ -47,11 +68,15 @@ Die Spielleitung sammelt Verderbnispunkte im Spielverlauf, wenn die Spielenden S
 
 *Verwendet Verderbnispunkte, um das Spiel spannend zu machen und die Spielenden herauszufordern. Die erlebte Geschichte steht über den Regeln und die Spielenden sollten sich nie bestraft fühlen. Lasst zu, dass die Spielenden "Etwas riskieren" können, um einen Kampf der Gefahrenstufe 8 zu vermeiden. Lasst zu, dass die Spielenden "Den Gegner schwächen" einmal benutzen können, bevor sie gegen eine Gefahr der Stufe 10 oder 12 Gefahr kämpfen müssen. Wenn es sich nicht richtig anfühlt, lasst die Punkte einfach verfallen. Die Punkte sind für den Spannungsaufbau gedacht und müssen nicht unbedingt genutzt werden. Sie dienen nicht dazu, dass die Spielleitung ihre Macht über den Verlauf der Geschichte demonstriert oder den Spielenden eins auswischt.*
 
+>[Nach oben](Regeln)
+
 ## Der freie Gegenstand
 
 Dieses Feld wird nie beschrieben, sondern immer nur im Kontext des Abenteuers und der Szene verwendet. Hier soll es möglich sein, dass die Charaktere durch ihre Umgebung oder durch Hinweise, die sie finden, einen Attributswürfel erhalten. Dieser Würfel ist weiß.
 
 *So kann beispielsweise ein "mystisches Buch" dazu genutzt werden, um einen Charakter, bei dem es gefunden wurde, weiter zu befragen. Das Buch gibt dann einen weißen Attributswürfel. Dieser Würfel zählt als Attributswürfel und nicht als Bonuswürfel. Er wird also nicht durch den Spielzug verbraucht.* 
+
+>[Nach oben](Regeln)
 
 ## Außer Gefecht gesetzt
 
@@ -68,6 +93,8 @@ Wenn ein Charakter sechs Zustände aufbaut, ist er außer Gefecht gesetzt. Es er
 8. Setze deine Aufstiegspunkte wieder zurück.
 9. Die Spielleitende Person bekommt einen Verderbnispunkt.
 10. Du bist jetzt in einem Abschnitt, in dem du langsam die Kontrolle über deinen Dämon verlierst. Dieser Abschnitt ist dunkel.
+
+>[Nach oben](Regeln)
 
 ## Der Abschnittswechsel
 
@@ -99,6 +126,8 @@ Stufe 3 - Bei 10 gesammelten Punkten:
 2. Ändere ein weiteres Attribut oder einen Gegenstand. (Optional)
 3. Würfle jeweils einmal mit einem W20 auf die Fähigkeiten-Tabellen 1 und 2 und tausche eine Fähigkeit gegen eine der beiden ausgewürfelten. Die Dämonenfähigkeit kann nicht getauscht werden. (Optional)
 
+>[Nach oben](Regeln)
+
 ## Korruption
 
 Korruption beschreibt das Ausmaß, in dem der Dämon von dem Charakter Besitz ergreift und ihn verändert. Der Charakter hat immer so viele Zustände, wie er Korruption besitzt. Die numerische Korruption ist vor allem im Kampf relevant.
@@ -106,6 +135,8 @@ Korruption beschreibt das Ausmaß, in dem der Dämon von dem Charakter Besitz er
 ## Zustände
 
 Wenn die Korruption zunimmt, bekommt dein Charakter einen Zustand. Zustände zeigen den geistigen und körperlichen Verfall deines Charakters. Erhält ein Charakter während des Abenteuers einen sechsten Zustand, so ist er vorerst außer Gefecht gesetzt.
+
+>[Nach oben](Regeln)
 
 ## Zustände abbauen
 
@@ -117,6 +148,8 @@ Die Zustände können auf zwei verschiedene Arten reduziert werden. Jeder dieser
 ## Bonusaufgabe
 
 Die Bonusaufgabe gibt den Spielenden die Möglichkeit, durch das Verfassen eines Haikus zum Abenteuer einen zusätzlichen Abschnittspunkt zu erhalten. Diese Bonusaufgabe ist einmal pro Abenteuer möglich. Die Spielleitung sollte die Bonusaufgabe zu Beginn des Abenteuers mit den Spielenden besprechen, damit sie genügend Zeit haben, um darüber nachzudenken und ein Haiku zu schreiben.
+
+>[Nach oben](Regeln)
 
 ## Am Ende einer Spielsession
 
@@ -131,3 +164,5 @@ Alle Spielenden dürfen am Ende einer Spielsession folgende Schritte ausführen:
 4. Du bekommst noch einen zusätzlichen Abschnittspunkt, wenn du die Bonusaufgabe absolvierst. Sie steht einmal pro Abenteuer zur Verfügung. 
 
 *Zwei der fünf Aufgaben, für die die Spielenden Abschnittspunkte erhalten können, sind immer angewählt: wurde das aktive Problem des Abenteuers gelöst und war der Wurf auf "Das Abenteuer lösen" erfolgreich, sodass die Lösung von allen Beteiligten akzeptiert wurde? Diese Aufgaben können immer nur am Ende eines Abenteuers beantwortet werden. Dauert ein Abenteuer also beispielsweise zwei Sessions, dann können zum Ende der ersten Session maximal drei Abschnittspunkte generiert werden. Dies betrifft ebenfalls die Bonusaufgabe. Auch diese gibt nur den Abschnittspunkt einmal am Ende des Abenteuers.*
+
+>[Nach oben](Regeln)
