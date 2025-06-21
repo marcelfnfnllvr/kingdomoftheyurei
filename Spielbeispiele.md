@@ -82,7 +82,7 @@ Diese Interaktion von dem S1 und dem SL veranschaulicht wie eine Fähigkeit für
 >**Ralph**: Ja nun...  
 >**Martina**: Außerdem haben wir eine 5, das ist der Schwachpunkt von Eran in diesem Kampf. Hannes, dein Charakter bekommt einen Zustand. Wenn ihr gleich erzählt, was ihr in der Kampfrunde so macht, können wir ja schauen was da passen könnte. Dann erzählt doch mal, was ihr so macht und wie das ggf. auch schief geht. Lydia, dein Kampfwürfel hatte den niedrigsten Wert, also fängst du an. Danach kommt dann Hannes und dann Ralph.  
 >*Lydia, Ralph und Hannes erzählen, was ihre drei Charaktere in der Kampfrunde genau machen, wie sie angreifen und was ihnen in dieser Runde zum Verhängnis wird.*  
->**Martina***: Wunderbar, ihr habt eurem Gegner zwar ein wenig zusetzen können, aber noch sind fast alle am Leben und greifen euch weiter an. Ralph, du hattest in Runde 1 den höchsten Kampfwürfelwert mit deiner 5, deshalb bekommst du jetzt ab Runde 2 einen zweiten W6 in deinen Kampfwürfelpool. Möchte nochmal jemand den Gegner schwächen in Runde 2?  
+>**Martina**: Wunderbar, ihr habt eurem Gegner zwar ein wenig zusetzen können, aber noch sind fast alle am Leben und greifen euch weiter an. Ralph, du hattest in Runde 1 den höchsten Kampfwürfelwert mit deiner 5, deshalb bekommst du jetzt ab Runde 2 einen zweiten W6 in deinen Kampfwürfelpool. Möchte nochmal jemand den Gegner schwächen in Runde 2?  
 >**Hannes**: Lieber angreifen...  
 >**Ralph**: Ja, diesmal klappt es!  
 >**Lydia**: Ich greif' auch an und habe eine 4 gewürfelt.  
@@ -114,7 +114,7 @@ Kämpfe dauern in der Regel nur eine bis wenige Runden. Dabei würfeln wie im re
 >**Lydia**: Ich würde dazu gerne auch mein Attribut Geschick einsetzen, denn das erfordert ja jetzt schon Fingerspitzengefühl, dass ich nicht aus Versehen Hisako dabei verletze.  
 >**Ralph**: Oh man, ob das was wird...  
 >**Martina**: Na gut, dann mach das so. Also erstmal "eine Fähigkeit einsetzen", mit einem schwarzen W6 für den Spielzug und einem weißen W6 für dein Attribut.  
->**Lydia**: Das ist eine schwarze 4 und eine weiße 6. Glück gehabt, das hat schonmal funktioniert!
+>**Lydia**: Das ist eine schwarze 4 und eine weiße 6. Glück gehabt, das hat schonmal funktioniert!  
 >**Martina**: Sehr schön, damit bekommst du einen weißen Bonuswürfel. Den wolltest du ja jetzt für deinen "Etwas riskieren"-Wurf einsetzen, um Hisako zu retten.  
 >**Lydia**: Genau, dann riskiere ich jetzt mal - Uh oh, ich habe eine weiße 3 und eine schwarze 6.  
 >**Hannes**: Och nööööö!   
@@ -167,7 +167,7 @@ Außerdem wechseln sich die drei Elemente Rollenspiel, Würfeln und Erzählung i
 >*Die Gruppe fängt an unter sich zu diskutieren. Es werden Verbindungen zwischen Hinweisen geknüpft und wieder verworfen, um dann an anderer Stelle wiederhergestellt zu werden. Immer wieder fällt jemandem auf, dass sie den einen oder anderen Hinweis aus der Liste ihrer gefundenen Hinweise noch nicht in der Geschichte eingebaut haben. Aber so langsam einigen sich alle auf eine bestimmte Abfolge.*  
 >**Martina**: So, wie schaut's denn bei euch aus? Das klingt ja schon so als wärt ihr mit eurer Geschichte so weit zufrieden. Dann erzählt mir jetzt bitte einmal der Reihe nach was eurer Meinung nach passiert ist. Ich hake dann die Hinweise ab, die ihr in der Geschichte eingebaut habt. Wer möchte denn anfangen?  
 >**Lydia**: Ralph hat mitgeschrieben, er erklärt das mal.  
->*Ralph erklärt noch einmal die ganze Geschichte von vorn bis hinten und erklärt dabei auch, welche Hinweise die Gruppe zu dieser Lösung gebracht haben. Außerdem erzählt sie, wie die Gruppe gedenkt dem Dorf zu helfen und damit das Problem zu lösen.*
+>*Ralph erklärt noch einmal die ganze Geschichte von vorn bis hinten und erklärt dabei auch, welche Hinweise die Gruppe zu dieser Lösung gebracht haben. Außerdem erzählt er, wie die Gruppe gedenkt dem Dorf zu helfen und damit das Problem zu lösen.*
 >**Martina**: Wunderbar, vielen Dank. Wenn ich richtig mitgezählt habe, dann habt ihr in eurer Geschichte 13 von 15 gefundenen Hinweisen verwendet, das ist ja schonmal eine ganze Menge.  
 >**Hannes**: Ja, für diesen Brief und die Aussage, dass A und B sich hassen, haben wir irgendwie nicht die richtige Stelle gefunden.  
 >**Martina**: Das macht nichts, ihr müsst ja nicht alle Hinweise verbauen. Die übrigen Hinweise können euch helfen, falls euer Wurf scheitert und es zum Kampf kommt. Jedenfalls habt ihr mit euren 13 Hinweisen die Schwierigkeit des Abenteuers von ursprünglich 16 auf 3 gesenkt. Über diesen Wert müsst ihr jetzt mit 2W6 würfeln. Wer mag denn? Ich würde sagen Ralph, er hat ja auch die Geschichte erzählt.  
@@ -212,11 +212,11 @@ Jede Gruppe baut aus den Hinweisen eine andere, ganz eigene Geschichte zusammen 
 >**Ralph**: Wie wäre es denn mit meiner Angst vor Kälte? Yūsuke hat ja zum Einen gesehen wie Ayane Kälte eingesetzt hat, um einen Menschen zu retten. Außerdem hat er seine Angst überwunden und ihr im Anschluss geholfen, als sie eine Eisskulptur war.  
 >**Martina**: Ja, ich finde das passt gut. Dann darfst du die Angst streichen. Außerdem darfst du deinen Abschnittscounter auch um 1 erhöhen und die dazugehörige Abschnittsfrage beantworten. Das ist dieselbe Frage wie bei Lydia. Im Gegensatz zu Ayane hat Yūsuke aber seinen Dämon weiterhin gut unter Kontrolle. Wenn du magst, dann kannst du jetzt auch noch ein Attribut oder einen Gegenstand ändern oder auch das Aussehen von deiner Markierung.  
 >**Ralph**: Also meine Attribute gefallen mir ganz gut, ich würde nur vielleicht sagen, dass das Geweih von Yūsuke etwas größer wird, so ähnlich wie vorhin, als er Ayane geholfen hat. Nur, dass es diesmal nicht aus grünem Licht ist, sondern halt ein normales, größeres Geweih.  
->**Martina**: Sehr schön. Dann darfst du für eine passende Erzählung auch noch deine zweite Angst verlieren, wenn du magst. Und zuletzt dürftest du auch noch einmal auf die Fhäigkeiten-Tabelle würfeln und eine deiner Fähigkeiten tauschen. Nur deine Dämonenfähigkeit, die bleibt. Ist aber beides optional.  
+>**Martina**: Sehr schön. Dann darfst du für eine passende Erzählung auch noch deine zweite Angst verlieren, wenn du magst. Und zuletzt dürftest du auch noch einmal auf die Fähigkeiten-Tabelle würfeln und eine deiner Fähigkeiten tauschen. Nur deine Dämonenfähigkeit, die bleibt. Ist aber beides optional.  
 >**Ralph**: Ach, mit der anderen Angst hab ich eigentlich nichts passendes. Aber auf die Fähigkeiten-Tabelle würde ich gerne nochmal würfeln.  
->**Martina**: Gut, dann gibt mir doch bitte auch nochmal einen W2 und einen W20.  
->**Ralph**: Ich hab' keinen W2, aber ich würfel einach einen W6 und gucke ob es 1/2/3 oder 4/5/6 ist. Das sind eine 2 und 8.  
->**Martina**: 2 und 8, das ist die Fähigkeit *Schleier - Du kannst von dir ausgehend einen Nebel erzeugen.*  
+>**Martina**: Gut, dann gibt mir doch bitte auch nochmal zwei W20.  
+>**Ralph**: Das sind eine 2 und 8.  
+>**Martina**: 2 und 8, das wären dann die Fähigkeiten *Wie der Wind - du bewegst dich flink* und *Schleier - Du kannst von dir ausgehend einen Nebel erzeugen.* Wenn du möchtest, kannst du eine deiner Fähigkeiten jetzt gegen eine von diesen beiden austauschen - mit Ausnahme deiner Dämonenfähigkeit, die bleibt immer gleich. 
 >**Ralph**: Ok, dann tausche ich mal.  
 >**Martina**: Ich denke damit sind dann alle fertig soweit. Ach nein, eins fehlt natürlich noch: Ihr habt ja das Abenteuer abgeschlossen, also bekommt ihr noch eine neue Ehrung! Sie heißt "Hüter des Waldes" und gibt euch das Attribut "Umwelt". Die tragt ihr euch im Charakterbogen ein. Mit der Zeit sammelt ihr mehr Ehrungen. Ihr könnt am Ende eines Abenteuers eine Ehrung aus eurer Sammlung wählen und quasi "ausrüsten", damit steht euch für das nächste Abenteuer das dazugehörige Attribut zur Verfügung. Das tragt ihr auch im Charakterbogen ein. Keine Angst, die Titel werden nicht verbraucht sondern bleiben euch. Aber wechseln könnt ihr nur am Ende eines Abenteuers, nicht mittendrin.
 
