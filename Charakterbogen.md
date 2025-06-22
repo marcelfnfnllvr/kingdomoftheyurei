@@ -79,6 +79,7 @@ Habt einen ruhigen Moment oder erzählt von einem auf Reisen, um alleine oder ge
 
 - Abenteuerfrage  - [    ]
 - Auf Reisen Spielzug  - [    ]
+- Einen Bonuswürfel ausgeben, um direkt einen Zustand abzubauen.
 
 ### Abschnittspunkte
 
@@ -86,7 +87,7 @@ Stufe 1 -  [    ] [    ] [    ] [    ] [    ]
 
 Stufe 2 -  [    ] [    ] [    ]
 
-Stufe 3 -  [    ]		
+Stufe 3 -  [    ] [    ]		
 
 | **Wähle drei zusätzliche Aufgaben                                                          | Gewählt |
 | ------------------------------------------------------------------------------------------ | ------- |

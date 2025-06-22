@@ -40,7 +40,7 @@ Theoretisch ist es natürlich möglich, dass die Spielenden ein Veto gegen die W
 
 # Charakterbogen
 
-*Hier wird exemplarisch ein Charakterbogen gezeigt, der im zweiten Abenteuer ist.* 
+*Hier wird exemplarisch ein Charakterbogen gezeigt, der im zweiten Abschnitt ist.* 
 
 ### Charakter
 
@@ -131,12 +131,15 @@ Korruption beschreibt, wie sehr der Dämon von eurem Charakter Besitz ergreift u
 | 5 - [    ] |                                          |
 | 6 - [    ] |                                          |
 
+*Mit jedem Zustand, den der Charakter erhält, steigt auch seine Korruptionsstufe. Die meisten Zustände erhalten Charaktere durch das Werfen schwarzer Würfel. Bei sechs „Korruption” wird der Charakter außer Gefecht gesetzt und muss die dazugehörige Regel abhandeln. Ein Zustand kann ein allgemeines Wort wie geschwächt, verletzt oder verwirrt sein, aber auch spezifischer formuliert werden, zum Beispiel zu lange wach oder am rechten Knie verletzt. Der erste Zustand wird niemals entfernt und gehört immer dem Dämon, mit dem der Charakter verschmolzen ist.*
+
 ### Zustände abbauen
 
-Habt einen ruhigen Augenblick oder erzählt von einem schönen, ruhigen oder lustigen Moment auf eurer Reise oder aus eurer Vergangenheit, um alleine oder gemeinsam Korruption abzubauen. Ihr könnt einen Zustand über die Abenteuerfrage reduzieren und weitere über den Spielzug "Auf Reisen".
+Habt einen ruhigen Augenblick oder erzählt von einem schönen, ruhigen oder lustigen Moment auf eurer Reise oder aus eurer Vergangenheit, um alleine oder gemeinsam Korruption abzubauen. Ihr könnt einen Zustand über die Abenteuerfrage reduzieren, einen Bonuswürfel dafür ausgeben oder den Spielzug "Auf Reisen" einsetzen.
 
 - Abenteuerfrage  - [    ]
 - Auf Reisen Spielzug  - [    ]
+- Einen Bonuswürfel ausgeben, um direkt einen Zustand abzubauen.
 
 ### Abschnittspunkte
 
@@ -144,7 +147,7 @@ Stufe 1 -  [    ] [    ] [    ] [    ] [    ]
 
 Stufe 2 -  [    ] [    ] [    ]
 
-Stufe 3 -  [    ]		
+Stufe 3 -  [    ] [    ]		
 
 | **Wähle drei zusätzliche Aufgaben                            | Gewählt |
 | ------------------------------------------------------------ | ------- |
@@ -157,6 +160,8 @@ Stufe 3 -  [    ]
 | Erzähle eine Rückblende.                                     | O       |
 | Setze eine deiner Fähigkeiten ein.                           |         |
 | Senke im Kampf das Gefahrenlevel des Gegners.                |         |
+
+*Abschnittspunkte können genutzt werden, um den Abschnittswechsel und die damit verbundene Charakterveränderung zu erreichen. Die Punkte werden über die zwei festen und drei frei wählbaren Aufgaben vergeben. Pro Abenteuer kann außerdem ein Bonuspunkt für die Beantwortung der Bonusaufgabe vergeben werden.*
 
 ### Bonusaufgabe
 
@@ -192,6 +197,8 @@ Schreibe ein Haiku über das aktuelle Abenteuer.
 |             |              |
 |             |              |
 
+*Die Charaktere verdienen sich nach jedem abgeschlossenen Abenteuer Ehrungen. Diese können zu Beginn des nächsten Abenteuers gewechselt werden. Es zählt immer nur die Ehrung, die direkt auf dem Charakterbogen eingetragen ist.*
+
 ### Abenteuerhistorie
 
 | Geplatzte Träume - Erzähle den letzten Albtraum, den dein Charakter hatte. |
@@ -214,6 +221,8 @@ Schreibe ein Haiku über das aktuelle Abenteuer.
 |                                                              |
 |                                                              |
 
+*Hier wird das letzte Abenteuer sowie die dazugehörige Abenteuerfrage und eure Antwort darauf festgehalten.*
+
 ### Abschnittsfragen
 
 | II. Erzähle, wie dein Charakter mit seinem Dämon verschmolzen ist. |
@@ -227,3 +236,5 @@ Schreibe ein Haiku über das aktuelle Abenteuer.
 |                                                              |
 | **VI. Wie verbringt dein Charakter seinen Lebensabend?**     |
 |                                                              |
+
+*Mithilfe der Abschnittsfragen könnt ihr eurem Charakter im Laufe der Zeit mehr Tiefe verleihen und über seine Vergangenheit und Zukunft nachdenken. Ihr könnt die Fragen für euch allein beantworten oder sie der Gruppe vorstellen, um ein klareres Bild eures Charakters zu entwickeln.*
