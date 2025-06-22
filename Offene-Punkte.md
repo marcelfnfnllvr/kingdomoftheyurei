@@ -1,7 +1,7 @@
 # Offene Punkte
 
 ## 1 Änderungen/Ergänzungen für Regeln u. Spielzüge
-- [ ] Kapitel "Abenteuer selbst schreiben" korrekturlesen und ergänzen --> Marcel
+- [x] Kapitel "Abenteuer selbst schreiben" korrekturlesen und ergänzen --> Marcel
 - [x] Kapitel zu TPK schreiben (worst case-Szenario am Schauplatz; aus der Geisterwelt befreien) --> Marcel
   - [x] Korrekttur und Sinn lesen
 
@@ -26,6 +26,10 @@
 - [ ] Wüste auf Landkarte --> Topflappen
 - [ ] Illustrationen als Postkarten --> Topflappen + Brunhvitr
 - [ ] Zum Essen noch Beispiele? Sonst wirkt da so leer?
+- [ ] Bögen
+  - [ ] Abenteuerbgen entwerfen
+  - [ ] Kampfbogen entwerfen
+
 
 ## 2 Texte ergänzen/schreiben für's Regelwerk
 ### 2.1 Systembeschreibung
@@ -75,6 +79,8 @@
   - [ ] Abenteuer um Bräuche herum schreiben?
   - [ ] Ein Fest (Kinderedition)
     - [ ] Die Karpfen Papierfahnen
+  - [ ] Ein Abenteuer in der Wüste
+    - [ ] Marcel macht das
 - [ ] Karte zu Abenteuern vereinheitlichen oder erstellen? Und schöner machen?
   - [ ] Bringt das mehr als eine Liste?
 
