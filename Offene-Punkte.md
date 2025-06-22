@@ -3,7 +3,7 @@
 ## 1 Änderungen/Ergänzungen für Regeln u. Spielzüge
 - [ ] Kapitel "Abenteuer selbst schreiben" korrekturlesen und ergänzen --> Marcel
 - [x] Kapitel zu TPK schreiben (worst case-Szenario am Schauplatz; aus der Geisterwelt befreien) --> Marcel
-  - [ ] Korrekttur und Sinn lesen
+  - [x] Korrekttur und Sinn lesen
 
 - [x] Grober Aufbau der Welt, der Strukturen und des Landes --> Allgemeines --> Marcel
   - [x] Wird mit dem Punkt, direkt hier drunter, abgehandelt.
@@ -13,15 +13,15 @@
   - [ ] Korrekttur und Sinn lesen
 
 - [ ] Regeln
-  - [ ] Außer Gefecht erst am Szenenende lösen? Ja! --> Regeln --> Außer Gefecht --> Topflappen 
-- [ ] Wenn im Kampf der Char mit dem höchsten Kampfwürfel down geht und der Kampf weiterläuft, klären ob/wer den zweiten Kampfwürfel "erbt" --> den kriegt keiner --> Topflappen
+  - [x] Außer Gefecht erst am Szenenende lösen? Ja! --> Regeln --> Außer Gefecht --> Topflappen 
+- [x] Wenn im Kampf der Char mit dem höchsten Kampfwürfel down geht und der Kampf weiterläuft, klären ob/wer den zweiten Kampfwürfel "erbt" --> den kriegt keiner --> Topflappen
 - [x] freien Attributsslot-Würfel erklären --> Regeln --> Marcel
   - [x] als eigener Abschnitt in den Regeln
-  - [ ] Korrekttur und Sinn lesen
+  - [x] Korrekttur und Sinn lesen
 - [x] Auf Reisen umfomulieren? Das mit dem Attribut ist glaube ich unnötig. Kann als Ideengeber drin bleiben. --> Marcel 
   - [x] Im Prinzip ist es so formuliert. Es gibt ohne passende Story zum Attribut halt nur einen Würfel. Ist schon konsequent?
 
-- [ ] Charaktererstellung - Marcel macht was
+- [ ] Charaktererstellung - Marcel macht was --> Korrektur lesen --> Topflappen
 - [ ] Landkarte (A4) + Sticker für Abenteuerschauplätze --> Topflappen + Brunhvitr
 - [ ] Wüste auf Landkarte --> Topflappen
 - [ ] Illustrationen als Postkarten --> Topflappen + Brunhvitr
