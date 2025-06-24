@@ -10,7 +10,7 @@
 
 - [x] Darstellung der Welt  -> Landschaft --> Allgemeines --> Marcel
   - [x] Unter "Darstellung der Welt" als Einleitungstext
-  - [ ] Korrekttur und Sinn lesen
+  - [x] Korrekttur und Sinn lesen
 
 - [ ] Regeln
   - [x] Außer Gefecht erst am Szenenende lösen? Ja! --> Regeln --> Außer Gefecht --> Topflappen 
