@@ -2,6 +2,8 @@
 
 **Abenteuername:** 
 
+**Spielernamen & Charakternamen:** 
+
 **Gefahrenstufe:**
 
 **Bonuswürfel:**
