@@ -27,8 +27,10 @@
 - [ ] Illustrationen als Postkarten --> Topflappen + Brunhvitr
 - [ ] Zum Essen noch Beispiele? Sonst wirkt da so leer?
 - [ ] Bögen
-  - [ ] Abenteuerbgen entwerfen
-  - [ ] Kampfbogen entwerfen
+  - [x] Abenteuerbgen entwerfen
+    - [ ] Brunhvitr illustriert
+  - [x] Kampfbogen entwerfen
+    - [ ] Brunhvitr illustriert
 
 
 ## 2 Texte ergänzen/schreiben für's Regelwerk
