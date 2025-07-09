@@ -31,6 +31,9 @@
     - [ ] Brunhvitr illustriert
   - [x] Kampfbogen entwerfen
     - [ ] Brunhvitr illustriert
+- [ ] Abenteuerbogen und Kampfbogen erklären.
+  - [ ] na toll....
+
 
 
 ## 2 Texte ergänzen/schreiben für's Regelwerk
