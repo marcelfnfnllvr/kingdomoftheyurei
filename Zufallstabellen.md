@@ -13,7 +13,7 @@
 | 5        | Affe             | Fell                                           | Klettern     | Schauspieltalent - Ahme jemanden nach                        |
 | 6        | Koi              | Schuppen                                       | Aussehen     | Glück - Fortuna ist dir hold                                 |
 | 7        | Katze            | Katzenaugen, Katzenohren                       | Aufmerksam   | Zwielichtpfad - Lege eine kurze Strecke durch die Geisterwelt zurück, um schneller und ungesehen von A nach B zu kommen |
-| 8        | Hone Onna        | durchscheinende Haut, Skelettfinger            | Furchterregend| Umarmung des Todes: Entziehe jemandem die Lebensenergie     |
+| 8        | Hone Onna        | durchscheinende Haut, Skelettfinger            | Furchterregend| Umarmung des Todes: Entziehe jemandem die Lebenskraft       |
 | 9        | Yuki Onna        | bleiche Haut                                   | Kälte        | Frost: Du kannst die Temperatur senken                       |
 | 10       | Nure Onna        | Vampirzähne, Schlangenschuppen, Schlangenzunge | Aussehen     | Dominanz - Anderen deinen Willen aufzwingen                  |
 | 11       | Hyakume          | Augen überall                                  | Aufmerksam   | Wächter -  Deinen Augen entgeht kein Verbrechen              |
