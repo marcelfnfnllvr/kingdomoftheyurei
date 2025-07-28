@@ -33,6 +33,7 @@
     - [ ] Brunhvitr illustriert
 - [ ] Abenteuerbogen und Kampfbogen erklären.
   - [ ] na toll....
+- [ ] Ablaufdiagramme für Session und Abenteuer
 
 
 
