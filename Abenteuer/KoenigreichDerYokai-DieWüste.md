@@ -1,145 +1,117 @@
 # Die Wüste
 
-Schwierigkeit: 16 – ein kurzes aber gefährliches Abenteuer - ein bis zwei Abende  
+Schwierigkeit: 18 – ein längeres und gefährliches Abenteuer - zwei Abende - kein gutes Startabenteuer
 
-Gesammelte Verderbnispunkte: [  n  ]
+Gesammelte Verderbnispunkte: [  n   ]
 
 ### Hinweise für Spielleitende:
 
-Die Gruppe hat von einem hervorragenden Dōjō gehört, in dem ein neuer Meister nie zuvor gesehene Kampftechniken lehrt. Um sich selbst besser für ihre Reisen und gefährliche Begegnungen zu wappnen, machen sie sich also auf den Weg dorthin, um von dem Meister zu lernen. Doch kaum angekommen müssen sie feststellen, dass das Dōjō und seine Schülerinnen und Schüler von übernatürlichen Phänomenen geplagt werden. Aber vielleicht ist der Meister ja eher dazu bereit, ihnen seine Künste zu zeigen, wenn sie das Dōjō von der Plage befreien?
+-Am Ende des zweiten Aktes bauen die spielenden die Geschichte und der dritte Akt wird auf diese Geschichte gebaut.
 
 ### Fragestellung, Eskalation und Ehrung:
 
-Eine Fragestellung, die es zu lösen gilt: Wer sorgt für die Störungen im Dōjō und warum?  
+Die Fragestellung, die es zu lösen gilt: Was geschieht in der Akai Sabaku Wüste?  
 
-Falls die Situation eskaliert, manifestiert sich der alte Meister vollständig und beginnt in seiner Rage alles niederzureißen und anzugreifen, das in seinem Weg ist.  Schwierigkeit 12
+Die Geister und die Personen in Rot wende sich gegen euch.  Schwierigkeit 12
 
 Weg der Wüste - Ausdauer
 
 ### Abenteuerfrage:
 
-Wenn du eine Art Schule hättest, was würdest du gerne lehren?
+Was war eure bisher schaurigste und erschreckendste Erfahrung?
 
 ### Einleitung:
 
-Vor einigen Tagen habt ihr von einem begeisterten Schüler den Bericht über ein nahegelegenes Dōjō gehört, das kürzlich von einem neuen Meister übernommen wurde. Da er bereit ist, neue Schülerinnen und Schüler aufzunehmen, und ihr euch besser auf Gefahren während eurer Reisen vorbereiten wollt, beschließt ihr, dem Dōjō einen Besuch abzustatten. Von der Hauptstraße seid ihr einem kleineren, aber gut ausgeschilderten Weg gefolgt und seht schon das offene Eingangstor.  
+Durch die Akai Sabaku, die rote Wüste, führte vor einiger Zeit noch eine der belebtesten Handels- und Verkehrssraßen von ganz Soho. Nach und nach sind dort allerdings immer mehr Menschen verschwunden und es wurde über Merkwürdige Phänome Berichtet. Lasst hier die Gruppe auf 3 Hinweise Würfeln. Sie bekommt die zum Start des Abenteuers. Die Gruppe der Spielenden wurde nun angewiesen sich um dieses Problem zu kümmern und die Straße wieder begehbar zu machen. 
 
-> Was hat der Schüler euch erzählt, das euch letztlich überzeugt hat, hier herzukommen?
-
-Ihr wollt gerade in den Innenhof gehen, da kommt euch plötzlich eine panisch rufende Menge Schüler entgegengerannt, dicht gefolgt von ihrem Meister sowie einigen Tatami-Matten und einer großen Papierrolle, die auf sie einschlagen.
+Ihr habt eine Gruppe Männer und Frauen zur Seite gestellte bekomen die für euch ein kleines Camp mitten in der Wüste errichtet habe. Sie sind mit euch bis zu dem Punkt gegangen als ihr angefangen habt zu spüren das sich hier "etwas verändert". Die Gruppe kümmert sich nun um das Camp während ihr euch tiefer in die Wüste aufgemacht habt um dem Problem auf den Grund zu gehen. 
 
 ### Gefahren:
 
--	Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden.  
--	Diverse Übungswaffen erwachen plötzlich zum Leben und greifen die Gruppe in der Luft schwebend an.  
--	Eine kleine Gang von fortgeschrittenen Auszubildenden will euch als Neuzugängen eine Abreibung verpassen.  
--	Einige magische blaue Flammen erscheinen wie aus dem Nichts und beginnen Dinge anzuzünden.
+-	Alle Yokai können hier als Gefahr verwendet werden. 
+-	Außerdem kann die Wüste selbst und ihre Merkwürdigkeiten als Gefahr dienen.
+-	Die Männer und Frauen in Rot. Sie greifen ohne zu Zögern an und sind schwerlich zum reden zu überzeugen.
 
 ### Momente:
 
--	Das Portrait des alten Meisters, das an der Stirnseite im Dōjō hängt, zerfällt plötzlich zu Staub.
--	Ein Schüler versucht gerade zu meditieren, als eine Zikade auf seinem Kopf landet und anfängt, ohrenbetäubend zu zirpen. Der Schüler verzieht immer mehr das Gesicht, bis er sich schließlich nicht mehr beherrschen kann, wild mit den Händen wedelt und nach der Zikade schlägt.
--	Zahlreiche Wesen erscheinen, die aussehen wie Miniaturmenschen mit roter Haut. Sie schlagen laut auf den Helm einer Samurai-Rüstung, hauen Tatami klatschend gegeneinander, trampeln auf den Holzfußböden, klopfen auf Töpfe und klappern mit dem Geschirr. 
--	Drei farbige Flammen schweben über einem großen Stein im Garten. Nähert man sich, dann fliegen die Flammen im Kreis um einen herum, bevor sie verschwinden, wie eine ausgepustete Kerzenflamme.
+-	Ein Wüstenfuchs steht einige Meter vor euch und sieht euch an. Er läuft ein Stück weg wenn ihr ihm näher kommt, fast als wollte er euch etwas zeigen. Nach einigen Schritten verschwindet er hinter einem Felsen.
+-	Ihr seht eine Merkwürdig versteinert aussehende Pflanze. Wenn ihr zu Nahe kommt Platz ihr Blüte und lässt einen schwall Sporen frei.
+-	
 
-### Personen:
+### Personen-Tabelle:
 
-##### Kaname-sensei – neuer Meister im Dōjō
+Ihr könnt euch Charaktere in diesem Abenteuer über diese Würfeltabelle beschaffen. Die Spalte Tier ist dafür da Eigenschaften diese Tieres auf den Charakter zu projezieren und ihn dadurch noch greifbarer zu gestalten. 
 
-*Wohlgesonnen - Spricht ruhig, aber befehlend - trägt einen weißen Hakama und Keikogi*
+| Würfel D8 | Name    | Gemüt       | Motivation                  | Tier      | Merkmal                | Beruf               | Verwerfliches |
+| --------- | ------- | ----------- | --------------------------- | --------- | ---------------------- | ------------------- | ------------- |
+| **1**     | Ichirō  | Ruhig       | Verlorenes Familienmitglied | Schlange  | Edler Kimono           | Bauer               | Ehebruch      |
+| **2**     | Jirō    | Geladen     | Stolz                       | Bär       | Hinkenes Bein          | Samurai             | Mord          |
+| **3**     | Heisuke | Aufbrausend | Verlorenes Tier             | Wiesel    | Edler Sonnenschirm     | Kaufmann            | Diebstahl     |
+| **4**     | Ryōma   | Stolz       | Nachfahren                  | Fuchs     | Geschorener Kopf       | Handwerker          | Betrug        |
+| **5**     | Haru    | Zweifelnd   | Beruf                       | Affe      | Augenklappe            | Geisha              | Lügen         |
+| **6**     | Fune    | Traurig     | Freunde                     | Hirsch    | Edle Brosche im Haar   | Straßenhändler      | Schabernack   |
+| **7**     | Kiku    | Unruhig     | Ruhe                        | Maderhund | Keine Kleidung         | Kabuki Schauspieler | Zerstörung    |
+| **8**     | Riyo    | Resigniert  | Gerechtigkeit               | Kranich   | Blutverschmierte Hände | Dieb                | Missgunst     |
 
-Mittelalter Mann mit ordentlich zusammengebundenen Haaren. Hat das Dōjō vor Kurzem übernommen, nachdem er den alten Meister im Kampf besiegt hat. Ist es gewöhnt, dass seinen Befehlen Folge geleistet wird. Empfängt Neuankömmlinge freundlich. Identifiziert die Gruppe als Wandernde und wird sie um Hilfe bitten, wenn sie es nicht von sich aus anbieten.
+- Kiku, Unruhig, Verlorenes Tier - Gaul Friedrich, Fuchs, Edler Kimono, Samurai, Ehebruch
+- Jirō, Geladen, Verlorenes Familienmitglied, Schlange, Keine Kleidung, Dieb, Diebstahl
+- Ichirō, Ruhig, Ruhe, Bär, Blutverschmierte Hände, Kaufmann, Diebstahl
+- Riyo, Geladen, Gerechtigkeit, Wiesel, Edler Sonnenschirm, Handwerker, Ehebruch
 
-##### Miho Takanori – Hilfslehrerin 
+#### Yokai-Tabelle:
 
-*Wohlgesonnen - ruhige und aufmunternde Art - trägt ebenfalls Hakama und Keikogi, aber in Dunkelblau*  
+Ihr könnt hier Yokai Wüfeln für die Begegnungen der Personen im Abenteuer.
 
-Ranghöchste Schülerin und Hilfslehrerin im Dōjō. Hat noch unter Shinobu-sensei gelernt. Verantwortungsbewusst übernimmt sie diverse Pflichten im Dōjō, fungiert aber auch als Vertrauensperson für die Anderen. Bedauert das Ableben des alten Meisters sehr, akzeptiert aber den natürlichen Lauf der Dinge.
+| **Würfel D8** | **Name**       | **Verhalten**                    | **Motivation**                     | **Typische Handlung**                                 | **Aussehen**                                               | **Stimme**                                               |
+| ------------- | -------------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------- |
+| 1             | **Kasa-obake** | Verspielt, frech                 | Langeweile, Vergessenwerden        | Hüpft umher, erschreckt Menschen                      | Einbeiniger Regenschirm mit Zunge & Auge                   | Hoch, kreischend, wie eine quietschende Tür              |
+| 2             | **Noppera-bō** | Ruhig, geisterhaft               | Lust am Erschrecken                | Zeigt plötzlich sein gesichtsloses Gesicht            | Menschlich, aber ohne Gesicht                              | Flüsternd, leer – wie Wind durch einen Tunnel            |
+| 3             | **Yuki-onna**  | Kühl, anmutig, tödlich           | Einsamkeit oder göttlicher Auftrag | Lässt Menschen im Schnee erfrieren oder verschont sie | Schöne Frau in weißem Kimono, blasse Haut                  | Leise, melodisch, eisig klirrend                         |
+| 4             | **Tengu**      | Stolz, streitlustig              | Testen oder bestrafen              | Lockt Menschen in den Wald, provoziert Kämpfe         | Roter Kopf, lange Nase oder Schnabel, Flügel               | Tief, nasallachend, wie ein alter Kriegsherr             |
+| 5             | **Rokurokubi** | Tagsüber ruhig, nachts neugierig | Neugier, Fluch                     | Beobachtet heimlich mit gestrecktem Hals              | Frau mit unnatürlich langem, biegsamem Hals                | Flüsternd, aber zieht sich endlos lang beim Sprechen     |
+| 6             | **Nurarihyon** | Arrogant, höflich                | Soziale Dominanz                   | Gibt sich als Hausherr aus, verwirrt echte Bewohner   | Alter Mann mit riesiger Stirn, edel gekleidet              | Selbstsicher, tief und ölig – wie ein Politiker          |
+| 7             | **Jorōgumo**   | Verführerisch, gefährlich        | Jagdtrieb, Täuschung               | Lockt Männer in ihr Netz, verschlingt sie             | Frau, die sich in eine Spinne verwandeln kann              | Sanft, sirenenhaft – mit einem bedrohlichen Unterton     |
+| 8             | **Akaname**    | Tierhaft, ekelhaft               | Unbewusster Instinkt               | Leckt dreckige Badezimmer mit langer Zunge            | Kleines, rotes, nacktes Wesen mit Krallen und langer Zunge | Nass, schleifend, sabbernd – wie ein schmatzender Goblin |
 
-##### Hiro Okajima – Fortgeschrittener Schüler
+### Geisterhafte-Schauplätze:
 
-*Misstrauisch - aufbrausend, laut, angeberisch*  
+| **Würfel D8** | **Schauplatz**                  | **Verhalten**                     | **Motivation / Bedeutung**                       | **Typisches Ereignis**                               | **Aussehen**                                                | **Geräuschkulisse**                            | **Gefahr**                                                   |
+| ------------- | ------------------------------- | --------------------------------- | ------------------------------------------------ | ---------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------ |
+| 1             | **Verlassener Shintō-Schrein**  | Unheimlich, ehrwürdig             | Ort verlorener Verehrung oder versiegelter Macht | Ein Yōkai wird versehentlich geweckt                 | Moosbedeckt, zerfallene Toriis, verwitterte Steinlaternen   | Wind in den Bäumen, fernes Glockenläuten       | **Versiegelter Dämon** wird entfesselt; falsche Schritte aktivieren Flüche |
+| 2             | **Nachtmarkt in Edo**           | Lebhaft, chaotisch                | Treffpunkt für Gerüchte und verborgene Magie     | Mysteriöse Händlerin verkauft „echte“ Zauberamulette | Enge Gassen, Laternenlicht, farbenfrohe Stände              | Stimmengewirr, Räuspern, heiseres Lachen       | **Verfluchte Objekte** führen zu Wahnsinn oder Besessenheit  |
+| 3             | **Onsen in den Bergen**         | Ruhig, mystisch                   | Ort der Reinigung und spirituellen Begegnung     | Ein Gast verschwindet spurlos                        | Dampfende Wasserbecken, Holzpavillons, Tannenwald           | Blubbern, Vogelrufe, entfernte Schreie         | **Wassergeister** ziehen Besucher in tiefe, endlose Quellen  |
+| 4             | **Kiefernwald bei Vollmond**    | Still, angespannt                 | Grenze zur Welt der Yōkai                        | Begegnung mit einer Yuki-onna                        | Nebelverhüllte Pfade, silbrige Schatten zwischen den Bäumen | Knacken, Wispern, Herzschläge im Ohr           | **Verirren**, endlose Schleifen; **Kältegeist** mit Blick, der lähmt |
+| 5             | **Yoshiwara-Viertel**           | Verführerisch, trügerisch         | Ort von Intrige, Verlangen und Illusion          | Eine Kurtisane warnt vor einem Fluch                 | Laternen, Musik, schwere Parfümschwaden                     | Shamisen-Klänge, Kichern, Flüstern             | **Verführerische Geister** locken in parallele Welt – Rückkehr unmöglich |
+| 6             | **Bergpfad mit Jizō-Statuen**   | Sanft, melancholisch              | Ort des Gebets und verlorener Seelen             | Jizō-Statuen verändern ihre Position                 | Steinpfad, rote Lätzchen, Blumen und Opfergaben             | Glockenspiel, Wind, leises Murmeln             | **Seelen verstorbener Kinder** suchen Körper – Besessenheitsgefahr |
+| 7             | **Verlassene Samurai-Residenz** | Still, ehrfurchtgebietend         | Ort eines alten Verrats oder Familienfluchs      | Geistererscheinung in der Nacht                      | Tatami-Räume, eingerostete Schwerter, verlassene Altäre     | Tropfen, Holzboden knarzt, Ketten rasseln      | **Samurai-Geister** greifen jeden an, der Waffen trägt oder lügt |
+| 8             | **Dorf am Nebel-Fluss**         | Fremd, misstrauisch, verschlossen | Vom Rest der Welt abgeschnitten                  | Fremde werden heimlich beobachtet                    | Nebelverhangen, Reetdächer, schiefe Häuser, kein Lachen     | Flussplätschern, ferne Schritte, leises Summen | **Dorf ist verflucht** – bei Einbruch der Nacht sind alle Bewohner Yōkai |
 
-Glaubt, dass die Fureru selbst hinter den Störungen und Phänomenen stecken - schließlich fällt ihre Ankunft genau mit dem Beginn davon zusammen. 
+### Besonderheiten der Ringe
 
-##### Itō Yamaguchi – Köchin, Hausmeisterin, Gärtnerin
-
-*Misstrauisch - flucht ständig und ist genervt - klein, sehnig und vom Alter gebeugt, trägt einfache Kleidung , die Ärmel mit meinem Band hochgebunden, und eine Schürze*
-
-Sie ist sehr alt, keiner weiß genau wie alt, denn niemand traut sich zu fragen. Stets schlecht gelaunt schimpft sie über quasi alles - nur über den Meister nicht, jedenfalls nicht zu laut. Kümmert sich im Dōjō um alles, was mit Haus und Ordnung zu tun hat. Die Küche ist ihr Heiligtum. 
-
-##### Jun und Kyō – Alte Hundegeschwister
-
-*Wohlgesonnen - bestätigen gegenseitig ihre Aussagen oder Fragen - zwei große, braun-weiße Akita Inu*  
-
-Eigentlich Wachhunde, sind aber mittlerweile recht alt und gemütlich geworden und liegen am liebsten im Garten in der Sonne. Spielen der Haushälterin manchmal Streiche und versuchen immer Essen zu klauen. Beschimpfen sie (nicht ernsthaft) und haben im Gegensatz zu allen Schülerinnen und Schülern keine Angst vor ihr.
-Kannten den alten Meister sehr gut und mochten ihn, er hat ihnen sogar ab und zu etwas aus der Küche gemopst. Sind insbesondere gegen "Bezahlung" gerne zu Auskünften bereit.
-
-##### Die roten Kobolde 
-
-*Misstrauisch*
-
-Wurden gebeten, für Unruhe und vor allem Lärm zu sorgen. Eine Pflicht, die sie sehr ernst nehmen. Verraten aber nicht ihren Auftraggeber. Betriebsgeheimnisse und so.
-
-##### Shinobu-sensei - verstorbener Meister und direkter Vorgänger von Kaname
-
-*Wohlgesonnen - rüstiger alter Mann mit wehklagender Stimme - weißes Totengewand, schwebt über dem Boden und ist halb durchsichtig*
-
-Erscheint erst, wenn er durch ein Ritual gerufen wird. Wurde durch den neuen Meister besiegt und findet keine Ruhe.
-
-
-### Schauplätze:
-
-##### Der Innenhof 
-
-Ungefährlich  
-
-> Eröffnungsfrage: Der Innenhof mit Garten ist auf den ersten Blick idyllisch, aber was gibt euch dennoch ein ungutes Gefühl?
-
-##### Das Dōjō
-
-Ungefährlich  
-
-Großer möbelloser Raum mit Tatami-Matten. An der Wand gegenüber des Eingangs hängt mittig eine große Papierrolle, auf der der alte Meister zu sehen ist. 
-
-> Eröffnungsfrage: Was zeugt von den vielen Übungsstunden, die die zahlreichen Gäste des Dōjō hier verbracht haben?
-
-##### Das Wohnhaus
-
-Ungefährlich  
-
-Hier essen und schlafen die Schülerinnen und Schüler in Gemeinschaftsräumen, der Meister hat seine eigenen Räumlichkeiten.
-
-> Eröffnungsfrage: Was vermittelt euch hier ein starkes Gemeinschaftsgefühl?
-
-##### Küche 
-
-Gefährlich  
-
-> Eröffnungsfrage: Was fällt euch auf, das ihr nicht in einer Küche erwarten würdet?
-
-Herausforderung: Die Gruppe darf sich nicht von der Köchin Itō erwischen lassen, sie erlaubt niemand den Zutritt zu ihrer Küche. 
-
+1. verschiedene Yokai tauchen als Geisterhafte Erscheinungen kurzzeitig auf und verschwinden wieder
+2. ein massiver Wüstensturm zieht auf und erschwert das bewegen und die Sicht
+3. es entsehen überall Löcher mit Treibsand und fangen an alles um euch herum zu verschlucken
+4. die Sonne steht direkt über euch am Himmel und verbrennt alles was sie berührt
+5. egal wie schnell ihr euch bewegt alles erscheint immer weiter entfernt
+6. ihr werdet Sand-Schneeblind und müsste euch komplett auf eure restlichen Sinne verlassen
+7. 
 
 ### Hinweise:
 
--	[ ] Jemand will beobachtet haben, wie Kaname mit einem merkwürdigen Pulver hantierte.
--	[ ] Ein verstecktes, zerbrochenes Holzschwert.
--	[ ] Ein Brief, in dem "mehr von dem Mittel" bestellt wird.
--	[ ] Itō scheint immer dann aufzutauchen, wenn man etwas tut, das in ihren Augen falsch ist.
--	[x] Ein zerrissenes Bild von Shinobu-sensei, dem alten Meister.
--	[ ] Eine kleine Kiste mit viel Geld.
--	[x] Eine Notiz mit der Warnung "Wir vergessen nicht."
--	[x] Eine Kendo-Trainingsrüstung mit einem großen Durchstich.
--	[x] Ein kostbares Katana mit einem eingravierten Tengu.
--	[x] Das gemalte Portrait von einem jungen Shinobu-sensei, der einen sehr jungen Schüler anleitet.
--	[ ] Früher sind ab und zu Dinge verschwunden, doch seit Kurzem häufen sich solche Vorkommnisse.
--	[ ] Ein halb verbrannter Baum im Garten.
--	[x] Die Bitte an einen Schüler, doch lieber in ein anderes Dōjō zu wechseln.
--	[x] Räucherstäbchen, die einen widerlichen Gestank verbreiten.
--	[x] Das Katana von Shinobu-sensei, angelaufen und rostend.
--	[x] Eine Schülerin hat nachts ein merkwürdiges blaues Leuchten von draußen gesehen.
--	[x] Ein großer Stein im Garten hat einen frischen, tiefen Riss.
--	[ ] Reste von verbranntem Räucherwerk in einer Schale.
--	[ ] Eine fein gefertigte, sehr hochwertige Begräbnisrobe.
--	[x] Ein Stück Papier, grob zu menschlicher Form zugeschnitten, mit einem großen Loch in der Mitte. 
+-	[ ] ein Mensch in Blutroten Yukata hat mich vor ein paar Tagen angesprochen
+-	[x] Banzettel in einer Sprache die euch nicht geläufig ist
+-	[x] ein zerrissene Schriftrollte gekennzeichnet mit einem roten Rosenblatt
+-	[ ] der Geist soll sich in einem Menschen verwandelt haben
+-	[x] ein toter in einem roten Yukata
+-	[ ] Holzpfäle mit Zeichen in einer Fremden Sprache
+-	[x] Bericht: "Ich war wie hypnotisiert. Ich musste weiter in die Wüste gehen." 
+-	[ ] Bericht: "Man sagt ich habe einen starken Geist, aber ich habe mich noch nie so alleine gefühlt wie an den vier Tagen der letzten Druchquerung."
+-	[x] Ein Teil einer Kreisrunden Linie aus Blut. Mit Sand verdeckt. 
+-	[ ] ein toter der einen bleichen Arm hat und schwarze lange Haar
+-	[x] Ein Zettel mit einem Ritualablauf und einer Anweisung diesen danach zu verbrennen.
+-	[ ] Überreste eine Camps. Ihr seht Vorräte und Schalfplätze für ungefähr 3-5 Personen. Es wirkt als wäre das Camp einfach verlassen worden.
+-	[x] kleine Glocken sind an die wenigen Bäume gehangen die es in der Wüste gibt
+-	[x] Eine Phiole mit Blutroter Flüssigkeit. (Kann man nehmen. Zeigt Sich riskieren nach sich. Heilt den Charakter bei Erfolg komplett.)
+-	[x] ein Geist trennt sich von einem Körper
+-	[x] Geister die gerufen wurden 
+-	[x] Menschen mit verschiedenen Yokai Masken
