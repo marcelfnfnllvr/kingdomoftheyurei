@@ -14,7 +14,7 @@ Was hat das Ungleichgewicht ausgelöst und den Dämon erschaffen? Wie kann der P
 
 Falls die Situation eskaliert, brechen überall Schläferpilze aus dem Menschen. Er kann aufgehalten werden, fängt aber mit der Schwierigkeit 18 an.
 
-Pilzbefall ade - Umwelt <!-- das tut mir nur ein ganz bisschen weh, dass hier Pilze mit Pflanzen gleichgesetzt werden ^^; Also vielleicht doch eher Umwelt? Schließlich gibt es nicht nur das Pilzthema, sondern auch die Tiere und Pflanzen im angrenzenden Wald, die ja auch durchaus eine gewisse Rolle zu spielen haben -->
+Pilzbefall ade - Umwelt 
 
 ### Abenteuerfrage:
 
@@ -95,7 +95,7 @@ Sie ist die Dorfälteste. Ruhig und weise, aber mit allen Wassern gewaschen. Wen
 
 *Wohlgesonnen*
 
-Seiko handelt ganz im Interesse des Wolfrudels. Sie führt ihr Freudenhaus mit strenger Hand und hat nur hoch gebildete, zärtliche und gut aussehende Männer eingestellt.<!-- Wie verträgt sich das mit Mouri Kusuyo? Ist der ne Ausnahme? Freischaffend? --> Natürlich ist niemand von Ihnen fruchtbar. Da sie schon älter ist, fällt ihr der Fleischentzug zunehmend schwerer.
+Seiko handelt ganz im Interesse des Wolfrudels. Sie führt ihr Freudenhaus mit strenger Hand und hat nur hoch gebildete, zärtliche und gut aussehende Männer eingestellt. Mouri Kusuyo ist im Freudehaus wohl eher eine Ausnahme. Natürlich ist niemand von Ihnen fruchtbar. Da sie schon älter ist, fällt ihr der Fleischentzug zunehmend schwerer.
 
 ##### Die Katzen
 
@@ -107,7 +107,7 @@ Seiko handelt ganz im Interesse des Wolfrudels. Sie führt ihr Freudenhaus mit s
 
 *Wohlgesonnen*
 
-> Wie sehen die Rehe anders aus, als die hiesigen Rehe?<!-- Die Frage versteh ich nicht. Die hiesigen Rehe gucken wir doch gerade an? Also wer soll da jetzt verglichen werden -->
+> Wie sehen die Rehe anders aus? Was macht sie besonders?
 
 Es ist eine stolze Gruppe von Tieren, die irgendwann mit den Menschen einen Pakt geschlossen hat, um mit ihnen auszukommen. Es dürfen immer wieder Tiere geschlachtet werden, aber nur so viele dass die Gruppe stark bleibt und nicht ausdünnt. Die Menschen hielten sich jahrzehntelang an diesen Pakt. Kürzlich ist aber dieser Pilz mutiert und es wurde ein Reh ohne Absprache getötet. Die Gruppe weiß bis heute nicht welcher Mensch dafür verantwortlich ist. Das Tier, welches mit den Wanderern spricht, bekommt für den Moment ein fast menschlich aussehendes Gesicht.
 

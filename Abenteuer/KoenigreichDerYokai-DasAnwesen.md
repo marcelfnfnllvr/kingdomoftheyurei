@@ -2,7 +2,9 @@
 
 Schwierigkeit: 14 – ein kurzes und eher einfaches Abenteuer - ein bis zwei Abende  
 
-Gesammelte Verderbnispunkte: [  n  ]
+Gesammelte Verderbnispunkte: [  n ]
+
+Yuriko, Mabin, Hoshi
 
 ### Hinweise für Spielleitende:
 
@@ -47,11 +49,12 @@ Es kommen Väterchen und Mütterchen auf euch zugelaufen und begrüßen euch. Si
 ##### Yoshiteru Sugimoto – Reicher Besitzer des Anwesens
 
 *Spricht mit ruhiger, etwas dünner aber gut zu verstehender Stimme - Wohlgesonnen*
+
 Ein netter, sehr alter Herr. Hat hier früher mit seiner Frau Hiroko gelebt. Sie verschwand eines Tages spurlos. Er besitzt Land und lässt Reis anbauen. Er sagt er sei gütig und er mag die Hausgeister. Sie leisten ihm immer Gesellschaft und sind nicht so unheimlich wie Mütterchen und Väterchen. 
 
 ##### Anwar Kazushige – unehelicher Sohn von Yoshiteru
 
-Tot aufgefundener unehelicher Sohn des Yoshiteru. Er war auf dem Anwesen als Koch angestellt.<!-- Wäre es evtl noch interessant zu wissen ob die Geschwister wussten, dass das der uneheliche Sohn war? Also für die SL zumindest? Oder überlässt du das dem Lauf der Geschichte? -->
+Tot aufgefundener unehelicher Sohn des Yoshiteru. Er war auf dem Anwesen als Koch angestellt.
 
 ##### Kyuso Sugimoto – Sohn von Yoshiteru
 
@@ -69,8 +72,7 @@ Sie ist ca. 50-60 Jahre alt. Sie reist durch das Land und kontrolliert die Länd
 
 *Komische Stimmen. Unregelmäßige Sprache - Wiederholen sich oft - Wohlgesonnen*
 
-Sind dankbar und haben jetzt mehr Arbeit, wo die Hausgeister fehlen. Waren schon immer hier. Vor dem alten Herrn. Lange vorher. Wiederholen sich.<!-- <-Diese Beschreibung wiederholt sich auch ^^ --> Sie können sich nicht mehr daran erinnern, dass sie mal Hausgeister waren.
-Die anderen Hausgeister denken, dass beim Ankommen des Herrn 10 von Ihnen verschwunden sind. Dabei haben sich jeweils fünf nur zu den Bediensteten verwandelt.<!-- Versteh ich das richtig, dass sich 5 Geister in Ephram und 5 weitere in Eru verwandelt haben? Finde den Satz etwas unklar. Vorschlag: Sie sind jedoch weder tot noch haben sie das Anwesen verlassen: 5 Geister haben sich zusammen in Ephram und 5 weitere Geister in Eru verwandelt. -->
+Sie sind dankbar und haben jetzt mehr Arbeit, seit die Hausgeister fehlen. Sie waren schon immer hier. Vor dem alten Herrn. Sie können sich nicht mehr daran erinnern, dass sie einst Hausgeister waren. Die anderen Hausgeister denken, dass beim Ankommen des alten Herrn zehn von ihnen verschwunden sind. Sie sind jedoch weder tot, noch haben sie das Anwesen verlassen: Fünf Geister haben sich in Ephram und fünf weitere in Eru verwandelt.
 
 ##### Die Hausgeister
 

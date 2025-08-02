@@ -6,10 +6,6 @@ Schwierigkeit: 14 – kurzes Abenteuer – ein Abend
 
 Gesammelte Verderbnispunkte: [  n  ]
 
-#### Karte:
-
-![DerWald_Karte](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Abenteuer/DerWald_Karte.png)
-
 ### Hinweise für Spielleitende:
 
 Die Gruppe befindet sich auf einem Handelsweg durch ein riesiges Waldgebiet. Es ist nicht der einzige, aber der sicherste Weg. Am Wegesrand finden sie einen kaputten Karren mit einem lebenden und einem toten Ochsen. 
@@ -45,7 +41,7 @@ Am Horizont seht ihr einen älteren Mann mit einem Ochsen und einem kaputten Kar
 
 ### Momente:
 
-- Wie von Zauberhand fällt das Licht durch die Baumkronen und taucht den Wald in ein frisches, leuchtendes Grün. Für einen Moment verschmilzt euer Geist mit dem Wald und findet Frieden.<!-- Hmm, das ist 1:1 dieselbe Beschreibung wie beim Pilzabenteuer - ich hab nur die Farbe von Rot nach Grün geändert -->
+- Wie von Zauberhand fällt das Licht durch die Baumkronen und taucht den Wald in ein frisches, leuchtendes Grün. Für einen Moment verschmilzt euer Geist mit dem Wald und findet Frieden.
 - Eine mit Flechten überwachsene Statue eines Wildschweins. Sieht zwar verwittert aus, aber offenbar hat sich jemand vor kurzer Zeit die Mühe gemacht und Laub und Dreck davon weggewischt.
 - Kleine Wesen - nicht größer als Kolibris - fliegen als Schwarm durch den Wald. Sie bilden zusammen ein größeres Abbild ihrer selbst.  
 - In der Nähe eines besonders großen, alten Baumes taucht ein kleines Irrlicht auf. Erst scheint es die Gruppe zu beobachten, dann tanzt es ein wenig um sie herum und verschwindet dann wieder.  
@@ -77,7 +73,7 @@ Ein ruhiger Zeitgenosse, der sich seiner Überlegenheit im Wald sicher ist. Er h
 
 *Wortkarg und redet gerne in Rätseln - Neutral - Sein Kopf ist weiß bemalt und er ist viel größer als alle anderen Wildschweine*
 
-? <!-- ???? -->
+Setze diese Gruppe situativ passend ein. Sie kann als großes Finale im Abenteuer dienen, aber auch nur am Rande auftreten. Entweder löst sie das Rätsel oder sie macht es noch kryptischer. Die Wildschweine sind vielschichtig und schwer zu durchschauen.
 
 ##### Sayomi Leonhard - Eigenbrötlerin - alte Fureru - Hexe
 

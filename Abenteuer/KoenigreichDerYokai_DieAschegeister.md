@@ -4,15 +4,11 @@ Schwierigkeit: 18 – längeres Abenteuer – zwei bis drei Abende
 
 Gesammelte Verderbnispunkte: [  n  ]
 
-#### Karte:
-
-Präsentiere der Gruppe als erstes das Onsen und das Izakaya. Die weiteren beiden Orte können durch das Finden von Hinweisen aufgedeckt werden.
-
-![DieAschegeister_Karte](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Abenteuer/DieAschegeister_Karte.png)
-
 ### Hinweise für Spielleitende:
 
 Die Gruppe befindet sich in einem Dorf am Rande einer Vulkanwüste. Die Menschen hier sterben seit einigen Monaten auf unerklärliche Weise. Es gibt Berichte, dass sie Geister sehen, bevor sie sterben. Allerdings kann wohl nur die sterbende Person diesen Geist sehen. Nachdem die Person gestorben ist, fängt ihre Haut an zu brennen und sie steht wieder auf. Lediglich das komplette Löschen mit Wasser lässt sie für immer ruhen. Während die Gruppe dort ist, stirbt eine Person genau vor ihren Augen. So haben sie die Chance diese genauer zu befragen.
+
+Präsentiere der Gruppe als erstes das Onsen und das Izakaya. Die weiteren beiden Orte können durch das Finden von Hinweisen freigeschaltet werden.
 
 ### Fragestellung, Eskalation und Ehrung:
 
@@ -63,17 +59,19 @@ Alter Mann, aber sehr nett und zuvorkommend. Lädt die Gruppe gerne ein im Badeh
 
 #### Aoki Sadayuki - Tochter des Inhaber des Badehauses
 
-*Misstrauisch*
+*Misstrauisch* - trägt einfache Kleidung -  hat Schwielen an den Händen
 
 Zierliche junge Frau. Wirkt etwas blass. Hilft im Badehaus alles am Laufen zu halten. Das ewige Gefrage nach dem Wasser der Quellen nervt sie. "Da ist nix besonderes dran. Der Vulkan gibt uns das heiße Wasser und wir nutzen es."
 
 #### Seki Haruchika, Shijou Tamehiko, Nagatani Sukemochi & Sue Ima - Wohlhabende Badegäste
 
-*Wohlwollend / Misstrauisch* <!--ja was denn nun? ^^; wovon hängt das ab? Oder ist es 2/2? -->
+*Wohlwollend / Misstrauisch* 
+
+Setze die Badegäste je nach Situation passend ein. Wenn ein schnippischer Badegast, der Ärger macht, benötigt wird, dann ist er hier sicherlich dabei. Falls du aber einen älteren Badegast benötigst, der Hilfe braucht, wirst du hier ebenfalls fündig.
 
 #### Ishii Akihiko, Hojo Saya & Irie Koro - Der Dorfrat
 
-*Misstrauisch*
+*Misstrauisch* - edle aber sehr alte Kleidung - sprechen unangenehm laut
 
 Immer im Izakaya anzutreffen. Zumeist betrunken und gut gelaunt. Geben nicht immer Sinnvolles von sich. 
 
