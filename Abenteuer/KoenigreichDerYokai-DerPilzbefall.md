@@ -1,6 +1,6 @@
 # Der Pilzbefall
 
-Schwierigkeit: 18 – längeres Abenteuer – zwei bis drei Abende
+Schwierigkeit: 20 – längeres Abenteuer – zwei bis drei Abende
 
 Gesammelte Verderbnispunkte: [ n ]
 
