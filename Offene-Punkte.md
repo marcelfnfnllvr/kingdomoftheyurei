@@ -36,6 +36,9 @@
 - [ ] Ablaufdiagramme für Session und Abenteuer
 - [ ] Checkliste für den Anfang des Spiels
   - [ ] Für Spielende und Leitende Personen
+- [ ] aus dem Kampf fliehen
+  - [ ] Hitdice geht auf andere Person
+
 
 
 
