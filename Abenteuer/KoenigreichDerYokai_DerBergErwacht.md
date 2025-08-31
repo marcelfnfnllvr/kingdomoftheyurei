@@ -38,7 +38,7 @@ Ein hochgelegenes Bergdorf, welches sich nur über einen schmalen Pass erreichen
 ### Momente:
 
 - Das Licht im flackert und wenn ihr wieder sehen könnt, habt ihr das Gefühl der Stein neben euch ist euch näher gekommen. 
-<!-- Wir hatten doch das, dass uns auf einmal ganz viele kleine Steine entgegensprangen als wir Ito Sato unter Druck gesetzt hatten oder so - könnte man evtl auch einen Moment draus machen? -->
+- Es fangen kleine Steine an, auf euch zuzurollen und gegen euch zu springen. Es wirkt fast so, als wäre der Berg sauer.
 - Ein Stück von der Eisenhütte entfernt hört ihr mehrere Frauenstimmen lachen. Es scheint von einem Wasserfall zu kommen. Doch als ihr den Wasserfall nahe des Weges seht, ist dort niemand zu sehen.
 - Von einer Feldwand kullern euch einige Steine vor die Füße. Doch anstatt liegen zu bleiben, wie man das von Steinen erwarten würde, wachsen ihnen plötzlich dünne Arme und Beine und sie laufen an euch vorbei.
 - An den Enden des Dachfirsts eines Hauses erscheinen plötzlich Flammensäulen. Sie springen auf die Firste der benachbarten Häuser und breiten sich wie ein Lauffeuer über alle Häuser aus. Dann verschwinden sie schlagartig und ohne Schaden anzurichten wieder.
