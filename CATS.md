@@ -17,3 +17,4 @@ https://200wordrpg.github.io/2016/supplement/2016/04/12/CATS.html
 **S – Subject Matter / Thema** 
 
 > In Augen des Zwielichts: Königreich der Yokai geht es darum, Dämonen zu vertreiben. Es kann blutig, eklig und magisch zugehen. Es ist nicht unbedingt ein Horror-Rollenspiel und sollte auch nicht als solches gespielt werden.
+
