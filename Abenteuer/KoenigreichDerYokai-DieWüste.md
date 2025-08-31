@@ -2,7 +2,7 @@
 
 Schwierigkeit: 18 – ein längeres und gefährliches Abenteuer - zwei Abende - kein gutes Startabenteuer
 
-Gesammelte Verderbnispunkte: [  n   ]
+Gesammelte Verderbnispunkte: [  n  ]
 
 ### Hinweise für Spielleitende:
 
@@ -53,10 +53,11 @@ Ihr könnt euch Charaktere in diesem Abenteuer über diese Würfeltabelle bescha
 | **7**     | Kiku    | Unruhig     | Ruhe                        | Maderhund | Keine Kleidung         | Kabuki Schauspieler | Zerstörung    |
 | **8**     | Riyo    | Resigniert  | Gerechtigkeit               | Kranich   | Blutverschmierte Hände | Dieb                | Missgunst     |
 
-- Kiku, Unruhig, Verlorenes Tier - Gaul Friedrich, Fuchs, Edler Kimono, Samurai, Ehebruch
-- Jirō, Geladen, Verlorenes Familienmitglied, Schlange, Keine Kleidung, Dieb, Diebstahl
-- Ichirō, Ruhig, Ruhe, Bär, Blutverschmierte Hände, Kaufmann, Diebstahl
-- Riyo, Geladen, Gerechtigkeit, Wiesel, Edler Sonnenschirm, Handwerker, Ehebruch
+- **Haru** – Eine zweifelnde Geisha mit einer schwarzen Augenklappe. Ihr tierischer Begleiter, ein listiger Affe, ist Teil ihrer Auftritte. Sie lebt für ihren Beruf, doch ihre Neigung zum Lügen hat ihr bereits viele Feinde eingebracht.
+- **Jirō** – Ein wütender Samurai mit einem hinkenden Bein und der Stärke eines Bären. Sein Stolz ist legendär, doch in seiner Vergangenheit klebt Blut an seinen Händen – er hat einen Mord begangen, den er nie bereute.
+- **Heisuke** – Ein aufbrausender Kaufmann mit einem edlen Sonnenschirm, immer begleitet von einem wendigen Wiesel. Auf der Suche nach einem verloren gegangenen Tier ist er bereit, zu stehlen, wenn es sein Ziel voranbringt.
+- **Fune** – Eine traurige Straßenhändlerin mit einer prächtigen Brosche im Haar und dem sanften Blick eines Hirsches. Sie schätzt ihre Freunde über alles, doch ihr schelmischer Sinn für Schabernack bringt sie oft in Schwierigkeiten.
+- **Ryōma** – Ein stolzer Handwerker mit kahlgeschorenem Kopf und der List eines Fuchses. Er arbeitet unermüdlich für das Wohl seiner Nachfahren, doch seine Geschäfte sind von Betrug und Täuschung durchzogen. 
 
 #### Yokai-Tabelle:
 
@@ -98,20 +99,22 @@ Ihr könnt hier Yokai Wüfeln für die Begegnungen der Personen im Abenteuer.
 
 ### Hinweise:
 
--	[ ] ein Mensch in Blutroten Yukata hat mich vor ein paar Tagen angesprochen
+-	[x] ein Mensch in Blutroten Yukata hat mich vor ein paar Tagen angesprochen
 -	[x] Banzettel in einer Sprache die euch nicht geläufig ist
 -	[x] ein zerrissene Schriftrollte gekennzeichnet mit einem roten Rosenblatt
 -	[ ] der Geist soll sich in einem Menschen verwandelt haben
 -	[x] ein toter in einem roten Yukata
--	[ ] Holzpfäle mit Zeichen in einer Fremden Sprache
+-	[x] Holzpfäle mit Zeichen in einer Fremden Sprache
 -	[x] Bericht: "Ich war wie hypnotisiert. Ich musste weiter in die Wüste gehen." 
 -	[ ] Bericht: "Man sagt ich habe einen starken Geist, aber ich habe mich noch nie so alleine gefühlt wie an den vier Tagen der letzten Druchquerung."
--	[x] Ein Teil einer Kreisrunden Linie aus Blut. Mit Sand verdeckt. 
+-	[x] Ein Teil einer roten Kreisrunden Linie. Mit Sand verdeckt. 
 -	[ ] ein toter der einen bleichen Arm hat und schwarze lange Haar
 -	[x] Ein Zettel mit einem Ritualablauf und einer Anweisung diesen danach zu verbrennen.
--	[ ] Überreste eine Camps. Ihr seht Vorräte und Schalfplätze für ungefähr 3-5 Personen. Es wirkt als wäre das Camp einfach verlassen worden.
+-	[x] Überreste eine Camps. Ihr seht Vorräte und Schalfplätze für ungefähr 3-5 Personen. Es wirkt als wäre das Camp einfach verlassen worden.
 -	[x] kleine Glocken sind an die wenigen Bäume gehangen die es in der Wüste gibt
 -	[x] Eine Phiole mit Blutroter Flüssigkeit. (Kann man nehmen. Zeigt Sich riskieren nach sich. Heilt den Charakter bei Erfolg komplett.)
 -	[x] ein Geist trennt sich von einem Körper
 -	[x] Geister die gerufen wurden 
 -	[x] Menschen mit verschiedenen Yokai Masken
+-	[x] einen ausgedoorten Baum der aussieht wie ein laufdender Mensch, der Arm liegt abgebrochen auf dem Boden
+-	[x] "Ich habe gesehen was ich am meisten begehrt habe."
