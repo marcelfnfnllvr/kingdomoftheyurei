@@ -147,3 +147,39 @@ Und um Himmels willen, erfrieren Sie nicht..
 **Safety-Tools**: Falls ihr Tabuthemen habt, teilt mir diese bitte vorher per Direktnachricht mit. Falls ihr keinen Spaß habt oder euch die Situation/Themen unangenehm sind, habt ihr natürlich jederzeit die Möglichkeit auszusteigen. Eine kurze Direktnachricht an mich wäre in diesem Fall nett, damit ich weiß das ihr nicht einfach aussteigt. 
 
 **Angemeldete Spielerinnen 0/4**: 
+
+
+
+**Abenteuername**: The Horror On Tau Sigma 7& Dying Hard On Hardlight Station
+
+**Regelwerk**: Mothership
+
+**Voraussetzung**: Wir spielen über Foundry VTT. Ihr braucht nur einen Webbrowser und eine Internetverbindung.
+
+**Regelkenntnisse**: Nicht notwendig / Für Neueinsteiger geeignet
+
+**Abenteuerdauer**: Few-Shot / Mehrere Abende. 
+
+**Datum, Uhrzeit & Spieldauer**: 10.09., 17.09., 24.09. & 01.10.2026 ab 19.00 Uhr bis ~22.30 Uhr 
+
+**Beschreibung**: Mothership ist ein preisgekröntes Sci-Fi-Horror-Rollenspiel, das dich und deine Crew in die dunkelsten Ecken des Alls führt.
+
+Ihr spielt einfache Leute – Raumtrucker, Söldner, Wissenschaftler, Androiden – die für ein paar Credits alles riskieren: von interstellaren Transporten über gefährliche Bergbau-Missionen bis zu dubiosen Forschungsaufträgen.
+
+Das Problem ist nur: Das All ist leer, kalt und gleichgültig. Eure Schiffe sind alt, die Technik unzuverlässig, und hinter jedem Auftrag könnte etwas lauern, das euch zerreißt – fremde Lebensformen, außer Kontrolle geratene KI, klaustrophobische Wracks, verseuchte Kolonien.
+
+Während ihr versucht zu überleben, wachsen Stress, Panik und Paranoia – bis die Crew an ihren eigenen Entscheidungen zerbricht.
+
+*Mothership* kombiniert schnelle, tödliche Regeln mit einem Fokus auf Horror, Isolation und Wahnsinn. Jede Mission ist wie ein Horrorfilm im Weltall – voller Spannung, Unvorhersehbarkeit und Entscheidungen, die buchstäblich über Leben und Tod bestimmen.
+
+Am Ende bleibt nur eine Frage: Wer von euch schafft es lebend nach Hause?
+
+**Charaktererstellung**: Wir erstellen am ersten Abend die Charaktere zusammen.
+
+**Was erwartet mich**? Ich möchte das System gerne ausprobieren. Es werden sicher mal Regeln nachgelesen oder Dinge falsch gespielt. Ich habe das Ganze extra auf vier Abende gelegt, damit wir genug Zeit haben, beide Abenteuer zu spielen.
+
+Der Ton des Spiels ist eher ernst.
+
+**Safety-Tools**: Falls ihr Tabuthemen habt, teilt mir diese bitte vorher per Direktnachricht mit. Falls ihr keinen Spaß habt oder euch die Situation/Themen unangenehm sind, habt ihr natürlich jederzeit die Möglichkeit auszusteigen. Eine kurze Direktnachricht an mich wäre in diesem Fall nett, damit ich weiß das ihr nicht einfach aussteigt. 
+
+**Angemeldete Spielerinnen 2/4**: 
