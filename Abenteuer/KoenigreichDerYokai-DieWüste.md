@@ -70,22 +70,22 @@ Jeder Ring hat eine besondere Eigenschaft. Diese kann ihn gefährlicher machen o
 
 ### Hinweise:
 
--	[ ] ein Mensch in Blutroten Yukata hat mich vor ein paar Tagen angesprochen
+-	[ ] Vor ein paar Tagen hat mich ein Mensch in einem blutroten Yukata angesprochen.
 -	[ ] Banzettel in einer Sprache die euch nicht geläufig ist
--	[ ] ein zerrissene Schriftrollte gekennzeichnet mit einem roten Rosenblatt
--	[ ] der Geist soll sich in einem Menschen verwandelt haben
--	[ ] ein toter in einem roten Yukata
+-	[ ] Eine zerrissene Schriftrolle, die mit einem roten Rosenblatt gekennzeichnet ist.
+-	[ ] Der Geist soll sich in einen Menschen verwandelt haben.
+-	[ ] Ein Toter in einem roten Yukata.
 -	[ ] Holzpfäle mit Zeichen in einer Fremden Sprache
 -	[ ] Bericht: "Ich war wie hypnotisiert. Ich musste weiter in die Wüste gehen." 
--	[ ] Bericht: "Man sagt ich habe einen starken Geist, aber ich habe mich noch nie so alleine gefühlt wie an den vier Tagen der letzten Druchquerung."
--	[ ] Ein Teil einer roten Kreisrunden Linie. Mit Sand verdeckt. 
--	[ ] ein toter der einen bleichen Arm hat und schwarze lange Haar
--	[ ] Ein Zettel mit einem Ritualablauf und einer Anweisung diesen danach zu verbrennen.
--	[ ] Überreste eine Camps. Ihr seht Vorräte und Schalfplätze für ungefähr 3-5 Personen. Es wirkt als wäre das Camp einfach verlassen worden.
--	[ ] kleine Glocken sind an die wenigen Bäume gehangen die es in der Wüste gibt
--	[ ] Eine Phiole mit Blutroter Flüssigkeit. (Kann man nehmen. Zeigt Sich riskieren nach sich. Heilt den Charakter bei Erfolg komplett.)
--	[ ] ein Geist trennt sich von einem Körper
--	[ ] Geister die gerufen wurden 
--	[ ] Menschen mit verschiedenen Yokai Masken
--	[ ] einen ausgedoorten Baum der aussieht wie ein laufdender Mensch, der Arm liegt abgebrochen auf dem Boden
--	[ ] "Ich habe gesehen was ich am meisten begehrt habe."
+-	[ ] Bericht: „Man sagt, ich hätte einen starken Geist, aber ich habe mich noch nie so allein gefühlt wie an den vier Tagen der letzten Durchquerung.“
+-	[ ] Es ist ein Teil einer roten, kreisrunden Linie. Mit Sand bedeckt.
+-	[ ] Ein Toter mit einem bleichen Arm und schwarzen langen Haaren.
+-	[ ] Es handelt sich um einen Zettel mit einem Ritualablauf und der Anweisung, diesen anschließend zu verbrennen.
+-	[ ] Die Überreste eines Camps. Ihr seht Vorräte und Schlafplätze für etwa drei bis fünf Personen. Es wirkt, als wäre das Camp einfach verlassen worden.
+-	[ ] An die wenigen Bäume, die es in der Wüste gibt, sind kleine Glocken gehängt.
+-	[ ] Eine Phiole mit blutroter Flüssigkeit. (Kann man nehmen. Zieht einen "Etwas risikieren" Spielzug nach sich. Bei Erfolg heilt sie den Charakter komplett.)
+-	[ ] Ein Geist trennt sich von einem Körper.
+-	[ ] Geister, die gerufen wurden. 
+-	[ ] Menschen mit verschiedenen Yokai-Masken
+-	[ ] Einen ausgedörrten Baum, der wie ein laufender Mensch aussieht. Der abgebrochene Arm liegt auf dem Boden.
+-	[ ] „Ich habe gesehen, was ich am meisten begehrte.“
