@@ -241,25 +241,75 @@
 >[Dämon](#d%C3%A4mon) - [Herkunft](#herkunft) - [Ängste](#%C3%A4ngste) - [Fähigkeiten](#f%C3%A4higkeiten) - [Reittiere](#reittiere) - [Namen](#namen) - [Waffen](#waffen)
 
 ## **Waffen**
-| **1d20** | **Vornamen** |
-| -------- | ------------ |
-| 1        | Tonfa        |
-| 2        | Bo           |
-| 3        | Katana       |
-| 4        | Naginata     |
-| 5        | Sai          |
-| 6        | Yumi         |
-| 7        | Yari         |
-| 8        | Tessen       |
-| 9        | Jutte        |
-| 10       | Shuriken     |
-| 11       | Ninjato      |
-| 12       | Tetsubo      |
-| 13       | Nagamaki     |
-| 14       | Sasumata     |
-| 15       | Tsukumō      |
-| 16       | Ōdachi       |
-| 17       | Ofuda        |
-| 18       | Chigiriki    |
-| 19       | Kunai        |
-| 20       | Kusarigama   |
+| **1d20** | **Waffe**  | Beschreibung |
+| -------- | ---------- | ------------ |
+| 1        | Tonfa      |              |
+| 2        | Bo         |              |
+| 3        | Katana     |              |
+| 4        | Naginata   |              |
+| 5        | Sai        |              |
+| 6        | Yumi       |              |
+| 7        | Yari       |              |
+| 8        | Tessen     |              |
+| 9        | Jutte      |              |
+| 10       | Shuriken   |              |
+| 11       | Ninjato    |              |
+| 12       | Tetsubo    |              |
+| 13       | Nagamaki   |              |
+| 14       | Sasumata   |              |
+| 15       | Tsukumō    |              |
+| 16       | Ōdachi     |              |
+| 17       | Ofuda      |              |
+| 18       | Chigiriki  |              |
+| 19       | Kunai      |              |
+| 20       | Kusarigama |              |
+
+## **Ideengeber**
+
+| 1d6  | Wetter      | Thema        | Gefühl      | Stichwort 1 | Stichwort 2    |
+| ---- | ----------- | ------------ | ----------- | ----------- | -------------- |
+| 1    | diesig      | Freundschaft | aufgeregt   | Feindschaft | Yokai          |
+| 2    | bedeckt     | Arbeit       | bedrückt    | Trinkgelage | Tempel/Schrein |
+| 3    | sonnig      | Unterhaltung | fröhlich    | Duell       | Izakaya        |
+| 4    | Monsun      | Familie      | griesgrämig | Essen       | Shōji/Tatami   |
+| 5    | stickig     | Feier/Fest   | euphorisch  | Bergdorf    | Onsen          |
+| 6    | Nieselregen | Reise        | bestürzt    | Glücksspiel | Fureru         |
+
+## Personen
+
+| Würfel D8 | Name    | Gemüt       | Motivation                  | Tier      | Merkmal                | Beruf               | Verwerfliches |
+| --------- | ------- | ----------- | --------------------------- | --------- | ---------------------- | ------------------- | ------------- |
+| **1**     | Ichirō  | Ruhig       | Verlorenes Familienmitglied | Schlange  | Edler Kimono           | Bauer               | Ehebruch      |
+| **2**     | Jirō    | Geladen     | Stolz                       | Bär       | Hinkenes Bein          | Samurai             | Mord          |
+| **3**     | Heisuke | Aufbrausend | Verlorenes Tier             | Wiesel    | Edler Sonnenschirm     | Kaufmann            | Diebstahl     |
+| **4**     | Ryōma   | Stolz       | Nachfahren                  | Fuchs     | Geschorener Kopf       | Handwerker          | Betrug        |
+| **5**     | Haru    | Zweifelnd   | Beruf                       | Affe      | Augenklappe            | Geisha              | Lügen         |
+| **6**     | Fune    | Traurig     | Freunde                     | Hirsch    | Edle Brosche im Haar   | Straßenhändler      | Schabernack   |
+| **7**     | Kiku    | Unruhig     | Ruhe                        | Maderhund | Keine Kleidung         | Kabuki Schauspieler | Zerstörung    |
+| **8**     | Riyo    | Resigniert  | Gerechtigkeit               | Kranich   | Blutverschmierte Hände | Dieb                | Missgunst     |
+
+## Yokai-Tabelle:
+
+| **Würfel D8** | **Name**       | **Verhalten**                    | **Motivation**                     | **Typische Handlung**                                 | **Aussehen**                                               | **Stimme**                                               |
+| ------------- | -------------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------- |
+| 1             | **Kasa-obake** | Verspielt, frech                 | Langeweile, Vergessenwerden        | Hüpft umher, erschreckt Menschen                      | Einbeiniger Regenschirm mit Zunge & Auge                   | Hoch, kreischend, wie eine quietschende Tür              |
+| 2             | **Noppera-bō** | Ruhig, geisterhaft               | Lust am Erschrecken                | Zeigt plötzlich sein gesichtsloses Gesicht            | Menschlich, aber ohne Gesicht                              | Flüsternd, leer – wie Wind durch einen Tunnel            |
+| 3             | **Yuki-onna**  | Kühl, anmutig, tödlich           | Einsamkeit oder göttlicher Auftrag | Lässt Menschen im Schnee erfrieren oder verschont sie | Schöne Frau in weißem Kimono, blasse Haut                  | Leise, melodisch, eisig klirrend                         |
+| 4             | **Tengu**      | Stolz, streitlustig              | Testen oder bestrafen              | Lockt Menschen in den Wald, provoziert Kämpfe         | Roter Kopf, lange Nase oder Schnabel, Flügel               | Tief, nasallachend, wie ein alter Kriegsherr             |
+| 5             | **Rokurokubi** | Tagsüber ruhig, nachts neugierig | Neugier, Fluch                     | Beobachtet heimlich mit gestrecktem Hals              | Frau mit unnatürlich langem, biegsamem Hals                | Flüsternd, aber zieht sich endlos lang beim Sprechen     |
+| 6             | **Nurarihyon** | Arrogant, höflich                | Soziale Dominanz                   | Gibt sich als Hausherr aus, verwirrt echte Bewohner   | Alter Mann mit riesiger Stirn, edel gekleidet              | Selbstsicher, tief und ölig – wie ein Politiker          |
+| 7             | **Jorōgumo**   | Verführerisch, gefährlich        | Jagdtrieb, Täuschung               | Lockt Männer in ihr Netz, verschlingt sie             | Frau, die sich in eine Spinne verwandeln kann              | Sanft, sirenenhaft – mit einem bedrohlichen Unterton     |
+| 8             | **Akaname**    | Tierhaft, ekelhaft               | Unbewusster Instinkt               | Leckt dreckige Badezimmer mit langer Zunge            | Kleines, rotes, nacktes Wesen mit Krallen und langer Zunge | Nass, schleifend, sabbernd – wie ein schmatzender Goblin |
+
+## Geisterhafte-Schauplätze:
+
+| **Würfel D8** | **Schauplatz**                  | **Verhalten**                     | **Motivation / Bedeutung**                       | **Typisches Ereignis**                               | **Aussehen**                                                | **Geräuschkulisse**                            | **Gefahr**                                                   |
+| ------------- | ------------------------------- | --------------------------------- | ------------------------------------------------ | ---------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------ |
+| 1             | **Verlassener Shintō-Schrein**  | Unheimlich, ehrwürdig             | Ort verlorener Verehrung oder versiegelter Macht | Ein Yōkai wird versehentlich geweckt                 | Moosbedeckt, zerfallene Toriis, verwitterte Steinlaternen   | Wind in den Bäumen, fernes Glockenläuten       | **Versiegelter Dämon** wird entfesselt; falsche Schritte aktivieren Flüche |
+| 2             | **Nachtmarkt in Edo**           | Lebhaft, chaotisch                | Treffpunkt für Gerüchte und verborgene Magie     | Mysteriöse Händlerin verkauft „echte“ Zauberamulette | Enge Gassen, Laternenlicht, farbenfrohe Stände              | Stimmengewirr, Räuspern, heiseres Lachen       | **Verfluchte Objekte** führen zu Wahnsinn oder Besessenheit  |
+| 3             | **Onsen in den Bergen**         | Ruhig, mystisch                   | Ort der Reinigung und spirituellen Begegnung     | Ein Gast verschwindet spurlos                        | Dampfende Wasserbecken, Holzpavillons, Tannenwald           | Blubbern, Vogelrufe, entfernte Schreie         | **Wassergeister** ziehen Besucher in tiefe, endlose Quellen  |
+| 4             | **Kiefernwald bei Vollmond**    | Still, angespannt                 | Grenze zur Welt der Yōkai                        | Begegnung mit einer Yuki-onna                        | Nebelverhüllte Pfade, silbrige Schatten zwischen den Bäumen | Knacken, Wispern, Herzschläge im Ohr           | **Verirren**, endlose Schleifen; **Kältegeist** mit Blick, der lähmt |
+| 5             | **Yoshiwara-Viertel**           | Verführerisch, trügerisch         | Ort von Intrige, Verlangen und Illusion          | Eine Kurtisane warnt vor einem Fluch                 | Laternen, Musik, schwere Parfümschwaden                     | Shamisen-Klänge, Kichern, Flüstern             | **Verführerische Geister** locken in parallele Welt – Rückkehr unmöglich |
+| 6             | **Bergpfad mit Jizō-Statuen**   | Sanft, melancholisch              | Ort des Gebets und verlorener Seelen             | Jizō-Statuen verändern ihre Position                 | Steinpfad, rote Lätzchen, Blumen und Opfergaben             | Glockenspiel, Wind, leises Murmeln             | **Seelen verstorbener Kinder** suchen Körper – Besessenheitsgefahr |
+| 7             | **Verlassene Samurai-Residenz** | Still, ehrfurchtgebietend         | Ort eines alten Verrats oder Familienfluchs      | Geistererscheinung in der Nacht                      | Tatami-Räume, eingerostete Schwerter, verlassene Altäre     | Tropfen, Holzboden knarzt, Ketten rasseln      | **Samurai-Geister** greifen jeden an, der Waffen trägt oder lügt |
+| 8             | **Dorf am Nebel-Fluss**         | Fremd, misstrauisch, verschlossen | Vom Rest der Welt abgeschnitten                  | Fremde werden heimlich beobachtet                    | Nebelverhangen, Reetdächer, schiefe Häuser, kein Lachen     | Flussplätschern, ferne Schritte, leises Summen | **Dorf ist verflucht** – bei Einbruch der Nacht sind alle Bewohner Yōkai |

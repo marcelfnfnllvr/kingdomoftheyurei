@@ -1,18 +1,20 @@
 # Die Wüste
 
-Schwierigkeit: 18 – ein längeres und gefährliches Abenteuer - zwei Abende - kein gutes Startabenteuer
+Schwierigkeit: 14-20 – ein gefährliches Abenteuer - ein bis zwei Abende - kein gutes Startabenteuer
 
 Gesammelte Verderbnispunkte: [  n  ]
 
 ### Hinweise für Spielleitende:
 
--Am Ende des zweiten Aktes bauen die spielenden die Geschichte und der dritte Akt wird auf diese Geschichte gebaut.
+Spielt mit eurer Gruppe ein bis drei Runden bzw. Schauplätze, je nachdem, ob ihr einen oder zwei Abende geplant habt und wie schnell die Gruppe durch die Runden kommt. Lasst am Ende des letzten Rings die Spieler die Geschichte erzählen. Es wird der Spielzug „Das Abenteuer lösen” genutzt, aber noch nicht gelöst. Dies passiert erst am Ende des letzten Aktes, nachdem die Spielenden noch die Möglichkeit bekommen, ihre Geschichte anzupassen. Der letzte Akt sollte auf die Geschichte der Spieler aufbauen.
+
+Jeder Ring hat einen Schauplatz, ein Yokai oder mehrere Yokai einer Art sowie mehrere NSC. Mindestens einer dieser NSC sollte unschuldig oder zumindest naiv sein und in die Fänge der Schauplätze oder Yokai geraten sein. Die Gruppe kann diesen NSC im jeweiligen Ring retten. Die Schauplätze existieren in der Wüste mehr oder weniger real. Sie sind Trugbilder oder Bruchstücke aus anderen Dimensionen. Dies ist der leitenden Person überlassen.
 
 ### Fragestellung, Eskalation und Ehrung:
 
 Die Fragestellung, die es zu lösen gilt: Was geschieht in der Akai Sabaku Wüste?  
 
-Die Geister und die Personen in Rot wende sich gegen euch.  Schwierigkeit 12
+Falls die Situation eskaliert, wenden sich die Geister und die Personen in Rot gegen euch.  
 
 Weg der Wüste - Ausdauer
 
@@ -36,22 +38,10 @@ Ihr habt eine Gruppe Männer und Frauen zur Seite gestellte bekomen die für euc
 
 -	Ein Wüstenfuchs steht einige Meter vor euch und sieht euch an. Er läuft ein Stück weg wenn ihr ihm näher kommt, fast als wollte er euch etwas zeigen. Nach einigen Schritten verschwindet er hinter einem Felsen.
 -	Ihr seht eine Merkwürdig versteinert aussehende Pflanze. Wenn ihr zu Nahe kommt Platz ihr Blüte und lässt einen schwall Sporen frei.
--	
 
-### Personen-Tabelle:
+### Personen:
 
-Ihr könnt euch Charaktere in diesem Abenteuer über diese Würfeltabelle beschaffen. Die Spalte Tier ist dafür da Eigenschaften diese Tieres auf den Charakter zu projezieren und ihn dadurch noch greifbarer zu gestalten. 
-
-| Würfel D8 | Name    | Gemüt       | Motivation                  | Tier      | Merkmal                | Beruf               | Verwerfliches |
-| --------- | ------- | ----------- | --------------------------- | --------- | ---------------------- | ------------------- | ------------- |
-| **1**     | Ichirō  | Ruhig       | Verlorenes Familienmitglied | Schlange  | Edler Kimono           | Bauer               | Ehebruch      |
-| **2**     | Jirō    | Geladen     | Stolz                       | Bär       | Hinkenes Bein          | Samurai             | Mord          |
-| **3**     | Heisuke | Aufbrausend | Verlorenes Tier             | Wiesel    | Edler Sonnenschirm     | Kaufmann            | Diebstahl     |
-| **4**     | Ryōma   | Stolz       | Nachfahren                  | Fuchs     | Geschorener Kopf       | Handwerker          | Betrug        |
-| **5**     | Haru    | Zweifelnd   | Beruf                       | Affe      | Augenklappe            | Geisha              | Lügen         |
-| **6**     | Fune    | Traurig     | Freunde                     | Hirsch    | Edle Brosche im Haar   | Straßenhändler      | Schabernack   |
-| **7**     | Kiku    | Unruhig     | Ruhe                        | Maderhund | Keine Kleidung         | Kabuki Schauspieler | Zerstörung    |
-| **8**     | Riyo    | Resigniert  | Gerechtigkeit               | Kranich   | Blutverschmierte Hände | Dieb                | Missgunst     |
+Zur Vorbereitung dieses Abenteuers nutzt bitte die Personentabelle auf Seite XX. Bereitet pro Ring, den ihr spielen wollt, zwei bis drei Charaktere vor. Ihr werdet nicht für jeden Ring alle Charaktere benötigen, aber es ist sehr praktisch, eine Auswahl parat zu haben. Ihr findet hier fünf fertig ausgewürfelte und interpretierte Charaktere zur Nutzung oder als Vorlage, um zu sehen, wie wir die Personentabelle verwenden.
 
 - **Haru** – Eine zweifelnde Geisha mit einer schwarzen Augenklappe. Ihr tierischer Begleiter, ein listiger Affe, ist Teil ihrer Auftritte. Sie lebt für ihren Beruf, doch ihre Neigung zum Lügen hat ihr bereits viele Feinde eingebracht.
 - **Jirō** – Ein wütender Samurai mit einem hinkenden Bein und der Stärke eines Bären. Sein Stolz ist legendär, doch in seiner Vergangenheit klebt Blut an seinen Händen – er hat einen Mord begangen, den er nie bereute.
@@ -59,62 +49,43 @@ Ihr könnt euch Charaktere in diesem Abenteuer über diese Würfeltabelle bescha
 - **Fune** – Eine traurige Straßenhändlerin mit einer prächtigen Brosche im Haar und dem sanften Blick eines Hirsches. Sie schätzt ihre Freunde über alles, doch ihr schelmischer Sinn für Schabernack bringt sie oft in Schwierigkeiten.
 - **Ryōma** – Ein stolzer Handwerker mit kahlgeschorenem Kopf und der List eines Fuchses. Er arbeitet unermüdlich für das Wohl seiner Nachfahren, doch seine Geschäfte sind von Betrug und Täuschung durchzogen. 
 
-#### Yokai-Tabelle:
+### Yokai:
 
-Ihr könnt hier Yokai Wüfeln für die Begegnungen der Personen im Abenteuer.
-
-| **Würfel D8** | **Name**       | **Verhalten**                    | **Motivation**                     | **Typische Handlung**                                 | **Aussehen**                                               | **Stimme**                                               |
-| ------------- | -------------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------- |
-| 1             | **Kasa-obake** | Verspielt, frech                 | Langeweile, Vergessenwerden        | Hüpft umher, erschreckt Menschen                      | Einbeiniger Regenschirm mit Zunge & Auge                   | Hoch, kreischend, wie eine quietschende Tür              |
-| 2             | **Noppera-bō** | Ruhig, geisterhaft               | Lust am Erschrecken                | Zeigt plötzlich sein gesichtsloses Gesicht            | Menschlich, aber ohne Gesicht                              | Flüsternd, leer – wie Wind durch einen Tunnel            |
-| 3             | **Yuki-onna**  | Kühl, anmutig, tödlich           | Einsamkeit oder göttlicher Auftrag | Lässt Menschen im Schnee erfrieren oder verschont sie | Schöne Frau in weißem Kimono, blasse Haut                  | Leise, melodisch, eisig klirrend                         |
-| 4             | **Tengu**      | Stolz, streitlustig              | Testen oder bestrafen              | Lockt Menschen in den Wald, provoziert Kämpfe         | Roter Kopf, lange Nase oder Schnabel, Flügel               | Tief, nasallachend, wie ein alter Kriegsherr             |
-| 5             | **Rokurokubi** | Tagsüber ruhig, nachts neugierig | Neugier, Fluch                     | Beobachtet heimlich mit gestrecktem Hals              | Frau mit unnatürlich langem, biegsamem Hals                | Flüsternd, aber zieht sich endlos lang beim Sprechen     |
-| 6             | **Nurarihyon** | Arrogant, höflich                | Soziale Dominanz                   | Gibt sich als Hausherr aus, verwirrt echte Bewohner   | Alter Mann mit riesiger Stirn, edel gekleidet              | Selbstsicher, tief und ölig – wie ein Politiker          |
-| 7             | **Jorōgumo**   | Verführerisch, gefährlich        | Jagdtrieb, Täuschung               | Lockt Männer in ihr Netz, verschlingt sie             | Frau, die sich in eine Spinne verwandeln kann              | Sanft, sirenenhaft – mit einem bedrohlichen Unterton     |
-| 8             | **Akaname**    | Tierhaft, ekelhaft               | Unbewusster Instinkt               | Leckt dreckige Badezimmer mit langer Zunge            | Kleines, rotes, nacktes Wesen mit Krallen und langer Zunge | Nass, schleifend, sabbernd – wie ein schmatzender Goblin |
+Sucht euch aus der Tabelle auf Seite XX jeweils einen Yokai für jeden geplanten Ring heraus. Im finalen Ring treffen dann alle Yokai aufeinander. 
 
 ### Geisterhafte-Schauplätze:
 
-| **Würfel D8** | **Schauplatz**                  | **Verhalten**                     | **Motivation / Bedeutung**                       | **Typisches Ereignis**                               | **Aussehen**                                                | **Geräuschkulisse**                            | **Gefahr**                                                   |
-| ------------- | ------------------------------- | --------------------------------- | ------------------------------------------------ | ---------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------ |
-| 1             | **Verlassener Shintō-Schrein**  | Unheimlich, ehrwürdig             | Ort verlorener Verehrung oder versiegelter Macht | Ein Yōkai wird versehentlich geweckt                 | Moosbedeckt, zerfallene Toriis, verwitterte Steinlaternen   | Wind in den Bäumen, fernes Glockenläuten       | **Versiegelter Dämon** wird entfesselt; falsche Schritte aktivieren Flüche |
-| 2             | **Nachtmarkt in Edo**           | Lebhaft, chaotisch                | Treffpunkt für Gerüchte und verborgene Magie     | Mysteriöse Händlerin verkauft „echte“ Zauberamulette | Enge Gassen, Laternenlicht, farbenfrohe Stände              | Stimmengewirr, Räuspern, heiseres Lachen       | **Verfluchte Objekte** führen zu Wahnsinn oder Besessenheit  |
-| 3             | **Onsen in den Bergen**         | Ruhig, mystisch                   | Ort der Reinigung und spirituellen Begegnung     | Ein Gast verschwindet spurlos                        | Dampfende Wasserbecken, Holzpavillons, Tannenwald           | Blubbern, Vogelrufe, entfernte Schreie         | **Wassergeister** ziehen Besucher in tiefe, endlose Quellen  |
-| 4             | **Kiefernwald bei Vollmond**    | Still, angespannt                 | Grenze zur Welt der Yōkai                        | Begegnung mit einer Yuki-onna                        | Nebelverhüllte Pfade, silbrige Schatten zwischen den Bäumen | Knacken, Wispern, Herzschläge im Ohr           | **Verirren**, endlose Schleifen; **Kältegeist** mit Blick, der lähmt |
-| 5             | **Yoshiwara-Viertel**           | Verführerisch, trügerisch         | Ort von Intrige, Verlangen und Illusion          | Eine Kurtisane warnt vor einem Fluch                 | Laternen, Musik, schwere Parfümschwaden                     | Shamisen-Klänge, Kichern, Flüstern             | **Verführerische Geister** locken in parallele Welt – Rückkehr unmöglich |
-| 6             | **Bergpfad mit Jizō-Statuen**   | Sanft, melancholisch              | Ort des Gebets und verlorener Seelen             | Jizō-Statuen verändern ihre Position                 | Steinpfad, rote Lätzchen, Blumen und Opfergaben             | Glockenspiel, Wind, leises Murmeln             | **Seelen verstorbener Kinder** suchen Körper – Besessenheitsgefahr |
-| 7             | **Verlassene Samurai-Residenz** | Still, ehrfurchtgebietend         | Ort eines alten Verrats oder Familienfluchs      | Geistererscheinung in der Nacht                      | Tatami-Räume, eingerostete Schwerter, verlassene Altäre     | Tropfen, Holzboden knarzt, Ketten rasseln      | **Samurai-Geister** greifen jeden an, der Waffen trägt oder lügt |
-| 8             | **Dorf am Nebel-Fluss**         | Fremd, misstrauisch, verschlossen | Vom Rest der Welt abgeschnitten                  | Fremde werden heimlich beobachtet                    | Nebelverhangen, Reetdächer, schiefe Häuser, kein Lachen     | Flussplätschern, ferne Schritte, leises Summen | **Dorf ist verflucht** – bei Einbruch der Nacht sind alle Bewohner Yōkai |
+Bereitet für jeden Ring – bis auf den finalen Ring, dessen Aussehen durch die Spielenden bestimmt wird – einen Schauplatz vor. Überlegt, welche Gefahren dort lauern und wie diese zu lösen sind. Überlegt, welche Hinweise dort sinnvoll und passend platziert werden könnten.
 
 ### Besonderheiten der Ringe
 
-1. verschiedene Yokai tauchen als Geisterhafte Erscheinungen kurzzeitig auf und verschwinden wieder
-2. ein massiver Wüstensturm zieht auf und erschwert das bewegen und die Sicht
-3. es entsehen überall Löcher mit Treibsand und fangen an alles um euch herum zu verschlucken
-4. die Sonne steht direkt über euch am Himmel und verbrennt alles was sie berührt
-5. egal wie schnell ihr euch bewegt alles erscheint immer weiter entfernt
-6. ihr werdet Sand-Schneeblind und müsste euch komplett auf eure restlichen Sinne verlassen
-7. 
+Jeder Ring hat eine besondere Eigenschaft. Diese kann ihn gefährlicher machen oder ihm einfach nur eine weitere Eigenschaft hinzufügen.
+
+1. Verschiedene Yokai tauchen als geisterhafte Erscheinungen kurzzeitig auf und verschwinden wieder.
+2. Ein massiver Wüstensturm zieht auf, wodurch sich die Sicht verschlechtert und das Bewegen erschwert wird.
+3. Überall entstehen Löcher mit Treibsand, die anfangen, alles um euch herum zu verschlucken.
+4. Die Sonne steht direkt über euch am Himmel und verbrennt alles, was sie berührt.
+5. Egal, wie schnell ihr euch bewegt, alles erscheint immer weiter entfernt.
+6. Ihr werdet sandblind und müsst euch komplett auf eure übrigen Sinne verlassen.
 
 ### Hinweise:
 
--	[x] ein Mensch in Blutroten Yukata hat mich vor ein paar Tagen angesprochen
--	[x] Banzettel in einer Sprache die euch nicht geläufig ist
--	[x] ein zerrissene Schriftrollte gekennzeichnet mit einem roten Rosenblatt
+-	[ ] ein Mensch in Blutroten Yukata hat mich vor ein paar Tagen angesprochen
+-	[ ] Banzettel in einer Sprache die euch nicht geläufig ist
+-	[ ] ein zerrissene Schriftrollte gekennzeichnet mit einem roten Rosenblatt
 -	[ ] der Geist soll sich in einem Menschen verwandelt haben
--	[x] ein toter in einem roten Yukata
--	[x] Holzpfäle mit Zeichen in einer Fremden Sprache
--	[x] Bericht: "Ich war wie hypnotisiert. Ich musste weiter in die Wüste gehen." 
+-	[ ] ein toter in einem roten Yukata
+-	[ ] Holzpfäle mit Zeichen in einer Fremden Sprache
+-	[ ] Bericht: "Ich war wie hypnotisiert. Ich musste weiter in die Wüste gehen." 
 -	[ ] Bericht: "Man sagt ich habe einen starken Geist, aber ich habe mich noch nie so alleine gefühlt wie an den vier Tagen der letzten Druchquerung."
--	[x] Ein Teil einer roten Kreisrunden Linie. Mit Sand verdeckt. 
+-	[ ] Ein Teil einer roten Kreisrunden Linie. Mit Sand verdeckt. 
 -	[ ] ein toter der einen bleichen Arm hat und schwarze lange Haar
--	[x] Ein Zettel mit einem Ritualablauf und einer Anweisung diesen danach zu verbrennen.
--	[x] Überreste eine Camps. Ihr seht Vorräte und Schalfplätze für ungefähr 3-5 Personen. Es wirkt als wäre das Camp einfach verlassen worden.
--	[x] kleine Glocken sind an die wenigen Bäume gehangen die es in der Wüste gibt
--	[x] Eine Phiole mit Blutroter Flüssigkeit. (Kann man nehmen. Zeigt Sich riskieren nach sich. Heilt den Charakter bei Erfolg komplett.)
--	[x] ein Geist trennt sich von einem Körper
--	[x] Geister die gerufen wurden 
--	[x] Menschen mit verschiedenen Yokai Masken
--	[x] einen ausgedoorten Baum der aussieht wie ein laufdender Mensch, der Arm liegt abgebrochen auf dem Boden
--	[x] "Ich habe gesehen was ich am meisten begehrt habe."
+-	[ ] Ein Zettel mit einem Ritualablauf und einer Anweisung diesen danach zu verbrennen.
+-	[ ] Überreste eine Camps. Ihr seht Vorräte und Schalfplätze für ungefähr 3-5 Personen. Es wirkt als wäre das Camp einfach verlassen worden.
+-	[ ] kleine Glocken sind an die wenigen Bäume gehangen die es in der Wüste gibt
+-	[ ] Eine Phiole mit Blutroter Flüssigkeit. (Kann man nehmen. Zeigt Sich riskieren nach sich. Heilt den Charakter bei Erfolg komplett.)
+-	[ ] ein Geist trennt sich von einem Körper
+-	[ ] Geister die gerufen wurden 
+-	[ ] Menschen mit verschiedenen Yokai Masken
+-	[ ] einen ausgedoorten Baum der aussieht wie ein laufdender Mensch, der Arm liegt abgebrochen auf dem Boden
+-	[ ] "Ich habe gesehen was ich am meisten begehrt habe."
