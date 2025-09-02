@@ -34,6 +34,14 @@ Natürlich müsst ihr aber keines der vorgefertigten Abenteuer verwenden, sonder
 
 Dieses System ist ausgelegt für Gruppen mit drei bis vier Spielenden. Bei weniger wird die Gefahr zu groß, dass die Charaktere zu schnell zu viele Zustände sammeln, weil sich die Würfe auf nur noch ein bis zwei Personen konzentrieren. Bei Gruppen mit mehr als 4 Spielenden dauern die einzelnen Szenen länger, wenn der Anteil an Rollenspiel gleich bleiben soll. Außerdem besteht die Gefahr, dass einer Person nicht genügend Raum zum Spielen gegeben wird und so Frustration aufkommt. Darüber hinaus bedeuten größere Spielgruppen im Kampf, dass mehr Kampfwürfel geworfen werden. Das wiederum führt dazu, dass im Kampf die Wahrscheinlichkeit steigt, Zustände zu erhalten. Wenn es für dich als Spielleitung in Ordnung ist, dann kann sich die Gruppe auch zwischendurch aufteilen, wenn sie verschiedene Schauplätze untersuchen oder mit anderen NSCs interagieren wollen. Nach einer oder nach wenigen Szenen können die Teile der Gruppe dann wieder aufeinander treffen und sich gegenseitig erzählen, was sie in der Zwischenzeit erlebt haben. Das ist einerseits ein einfacher Weg, um den Dialog und das Zusammenspiel zwischen den Spielenden zu fördern und andererseits kann es auch dabei helfen, dass alle Spielenden einmal das Spotlight bekommen. Das erfordert nur ein wenig Koordination, damit nicht der eine Teil der Gruppe zu lange nichts zu tun hat. Du kannst zwischen den Teilen der Gruppe hin und her wechseln, wenn beispielsweise ein Gespräch vorbei ist, oder wenn sich eine Situation als kleiner Cliffhanger anbietet. 
 
+### Checkliste für den Start des Abends
+
+1. Spielleitung: Abenteuer gelesen und vorbereitet?
+2. Spielleitung: Eventuell nötige neue Charaktere mit den Spielenden erstellt?
+3. Spielende: Ist ein Aufstieg gewollt, oder notwendig?
+4. Spielende: Drei zusätzlichen Aufgaben, auf dem Charakterbogen, gewählt?
+5. Spielende: Zu beantwortende Aufstiegsfragen der Gruppe vorgestellt?
+
 ### Stimmung erzeugen 
 *Königreich der Yōkai* hat kein bis ins letzte Detail ausgeklügeltes Kampf- oder Magiesystem. Es ist auch keine Würfelschlacht. Stattdessen zielt es sehr stark darauf ab, die Gruppe in seine Welt hineinzuziehen. Für diese Immersion ist es wichtig die richtige Stimmung und entsprechende Bilder im Kopf zu erzeugen.  
 Zum Einen funktioniert das besser, wenn dem Rollenspiel genug Platz eingeräumt wird. Aber auch die Musik und die Beschreibung der Welt spielen dabei eine wichtige Rolle. Musik ist natürlich Geschmackssache; manche verwenden sie gerne, andere wiederum fühlen sich dadurch eher abgelenkt. In Online-Runden können sich alle individuell entscheiden, ob sie Musik hören möchten oder nicht.  

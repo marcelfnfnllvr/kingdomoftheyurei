@@ -57,7 +57,7 @@ Sucht euch aus der Tabelle auf Seite XX jeweils einen Yokai für jeden geplanten
 
 Bereitet für jeden Ring – bis auf den finalen Ring, dessen Aussehen durch die Spielenden bestimmt wird – einen Schauplatz vor. Überlegt, welche Gefahren dort lauern und wie diese zu lösen sind. Überlegt, welche Hinweise dort sinnvoll und passend platziert werden könnten.
 
-### Besonderheiten der Ringe
+### Besonderheiten der Ringe:
 
 Jeder Ring hat eine besondere Eigenschaft. Diese kann ihn gefährlicher machen oder ihm einfach nur eine weitere Eigenschaft hinzufügen.
 
@@ -70,22 +70,22 @@ Jeder Ring hat eine besondere Eigenschaft. Diese kann ihn gefährlicher machen o
 
 ### Hinweise:
 
--	[ ] Vor ein paar Tagen hat mich ein Mensch in einem blutroten Yukata angesprochen.
--	[ ] Banzettel in einer Sprache die euch nicht geläufig ist
--	[ ] Eine zerrissene Schriftrolle, die mit einem roten Rosenblatt gekennzeichnet ist.
--	[ ] Der Geist soll sich in einen Menschen verwandelt haben.
--	[ ] Ein Toter in einem roten Yukata.
--	[ ] Holzpfäle mit Zeichen in einer Fremden Sprache
--	[ ] Bericht: "Ich war wie hypnotisiert. Ich musste weiter in die Wüste gehen." 
--	[ ] Bericht: „Man sagt, ich hätte einen starken Geist, aber ich habe mich noch nie so allein gefühlt wie an den vier Tagen der letzten Durchquerung.“
--	[ ] Es ist ein Teil einer roten, kreisrunden Linie. Mit Sand bedeckt.
--	[ ] Ein Toter mit einem bleichen Arm und schwarzen langen Haaren.
--	[ ] Es handelt sich um einen Zettel mit einem Ritualablauf und der Anweisung, diesen anschließend zu verbrennen.
--	[ ] Die Überreste eines Camps. Ihr seht Vorräte und Schlafplätze für etwa drei bis fünf Personen. Es wirkt, als wäre das Camp einfach verlassen worden.
--	[ ] An die wenigen Bäume, die es in der Wüste gibt, sind kleine Glocken gehängt.
--	[ ] Eine Phiole mit blutroter Flüssigkeit. (Kann man nehmen. Zieht einen "Etwas risikieren" Spielzug nach sich. Bei Erfolg heilt sie den Charakter komplett.)
--	[ ] Ein Geist trennt sich von einem Körper.
--	[ ] Geister, die gerufen wurden. 
--	[ ] Menschen mit verschiedenen Yokai-Masken
--	[ ] Einen ausgedörrten Baum, der wie ein laufender Mensch aussieht. Der abgebrochene Arm liegt auf dem Boden.
--	[ ] „Ich habe gesehen, was ich am meisten begehrte.“
+-	[ ] 1. Vor ein paar Tagen hat mich ein Mensch in einem blutroten Yukata angesprochen.
+-	[ ] 2. Banzettel in einer Sprache die euch nicht geläufig ist
+-	[ ] 3. Eine zerrissene Schriftrolle, die mit einem roten Rosenblatt gekennzeichnet ist.
+-	[ ] 4. Der Geist soll sich in einen Menschen verwandelt haben.
+-	[ ] 5. Ein Toter in einem roten Yukata.
+-	[ ] 6. Holzpfäle mit Zeichen in einer Fremden Sprache
+-	[ ] 7. Bericht: "Ich war wie hypnotisiert. Ich musste weiter in die Wüste gehen." 
+-	[ ] 8. Bericht: „Man sagt, ich hätte einen starken Geist, aber ich habe mich noch nie so allein gefühlt wie an den vier Tagen der letzten Durchquerung.“
+-	[ ] 9. Es ist ein Teil einer roten, kreisrunden Linie. Mit Sand bedeckt.
+-	[ ] 10. Ein Toter mit einem bleichen Arm und schwarzen langen Haaren.
+-	[ ] 11. Es handelt sich um einen Zettel mit einem Ritualablauf und der Anweisung, diesen anschließend zu verbrennen.
+-	[ ] 12. Die Überreste eines Camps. Ihr seht Vorräte und Schlafplätze für etwa drei bis fünf Personen. Es wirkt, als wäre das Camp einfach verlassen worden.
+-	[ ] 13. An die wenigen Bäume, die es in der Wüste gibt, sind kleine Glocken gehängt.
+-	[ ] 14. Eine Phiole mit blutroter Flüssigkeit. (Kann man nehmen. Zieht einen "Etwas risikieren" Spielzug nach sich. Bei Erfolg heilt sie den Charakter komplett.)
+-	[ ] 15. Ein Geist trennt sich von einem Körper.
+-	[ ] 16. Geister, die gerufen wurden. 
+-	[ ] 17. Menschen mit verschiedenen Yokai-Masken
+-	[ ] 18. Einen ausgedörrten Baum, der wie ein laufender Mensch aussieht. Der abgebrochene Arm liegt auf dem Boden.
+-	[ ] 19. „Ich habe gesehen, was ich am meisten begehrte.“

@@ -31,13 +31,17 @@
     - [ ] Brunhvitr illustriert
   - [x] Kampfbogen entwerfen
     - [ ] Brunhvitr illustriert
-- [ ] Abenteuerbogen und Kampfbogen erklären.
-  - [ ] na toll....
+- [x] Abenteuerbogen und Kampfbogen erklären.
+  - [x] Marcel hat das getan.
+  - [ ] Lesen sie das bitte -> Topflappen
 - [ ] Ablaufdiagramme für Session und Abenteuer
-- [ ] Checkliste für den Anfang des Spiels
-  - [ ] Für Spielende und Leitende Personen
-- [ ] aus dem Kampf fliehen
-  - [ ] Hitdice geht auf andere Person
+- [x] Checkliste für den Anfang des Spiels
+  - [x] Für Spielende und Leitende Personen
+  - [x] Vorschlag unter Abenteuer_Vorwort erstellt -- Marcel
+    - [ ] --> Topflappen Verbesserungsvorschläge?
+- [x] aus dem Kampf fliehen
+  - [x] Hitdice geht auf andere Person
+  - [x] Ist schon beschrieben - Marcel
 
 
 
