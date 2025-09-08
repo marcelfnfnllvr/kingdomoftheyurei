@@ -122,23 +122,23 @@ Herausforderung: Die Gruppe darf sich nicht von der Köchin Itō erwischen lasse
 
 ### Hinweise:
 
--	[ ] Jemand will beobachtet haben, wie Kaname mit einem merkwürdigen Pulver hantierte.
--	[ ] Ein verstecktes, zerbrochenes Holzschwert.
--   [ ] Ein Brief, in dem "mehr von dem Mittel" bestellt wird.
--   [ ] Itō scheint immer dann aufzutauchen, wenn man etwas tut, das in ihren Augen falsch ist.
--   [x] Ein zerrissenes Bild von Shinobu-sensei, dem alten Meister.
--   [ ] Eine kleine Kiste mit viel Geld.
--   [x] Eine Notiz mit der Warnung "Wir vergessen nicht."
--   [x] Eine Kendo-Trainingsrüstung mit einem großen Durchstich.
--   [x] Ein kostbares Katana mit einem eingravierten Tengu.
--   [x] Das gemalte Portrait von einem jungen Shinobu-sensei, der einen sehr jungen Schüler anleitet.
--   [ ] Früher sind ab und zu Dinge verschwunden, doch seit Kurzem häufen sich solche Vorkommnisse.
--   [ ] Ein halb verbrannter Baum im Garten.
--   [x] Die Bitte an einen Schüler, doch lieber in ein anderes Dōjō zu wechseln.
--   [x] Räucherstäbchen, die einen widerlichen Gestank verbreiten.
--   [x] Das Katana von Shinobu-sensei, angelaufen und rostend.
--   [x] Eine Schülerin hat nachts ein merkwürdiges blaues Leuchten von draußen gesehen.
--   [x] Ein großer Stein im Garten hat einen frischen, tiefen Riss.
--   [ ] Reste von verbranntem Räucherwerk in einer Schale.
--   [ ] Eine fein gefertigte, sehr hochwertige Begräbnisrobe.
--   [x] Ein Stück Papier, grob zu menschlicher Form zugeschnitten, mit einem großen Loch in der Mitte. 
+-	[ ] 1. Jemand will beobachtet haben, wie Kaname mit einem merkwürdigen Pulver hantierte.
+-	[ ] 2. Ein verstecktes, zerbrochenes Holzschwert.
+-   [ ] 3. Ein Brief, in dem "mehr von dem Mittel" bestellt wird.
+-   [ ] 4. Itō scheint immer dann aufzutauchen, wenn man etwas tut, das in ihren Augen falsch ist.
+-   [ ] 5. Ein zerrissenes Bild von Shinobu-sensei, dem alten Meister.
+-   [ ] 6. Eine kleine Kiste mit viel Geld.
+-   [ ] 7. Eine Notiz mit der Warnung "Wir vergessen nicht."
+-   [ ] 8. Eine Kendo-Trainingsrüstung mit einem großen Durchstich.
+-   [ ] 9. Ein kostbares Katana mit einem eingravierten Tengu.
+-   [ ] 10. Das gemalte Portrait von einem jungen Shinobu-sensei, der einen sehr jungen Schüler anleitet.
+-   [ ] 11. Früher sind ab und zu Dinge verschwunden, doch seit Kurzem häufen sich solche Vorkommnisse.
+-   [ ] 12. Ein halb verbrannter Baum im Garten.
+-   [ ] 13. Die Bitte an einen Schüler, doch lieber in ein anderes Dōjō zu wechseln.
+-   [ ] 14. Räucherstäbchen, die einen widerlichen Gestank verbreiten.
+-   [ ] 15. Das Katana von Shinobu-sensei, angelaufen und rostend.
+-   [ ] 16. Eine Schülerin hat nachts ein merkwürdiges blaues Leuchten von draußen gesehen.
+-   [ ] 17. Ein großer Stein im Garten hat einen frischen, tiefen Riss.
+-   [ ] 18. Reste von verbranntem Räucherwerk in einer Schale.
+-   [ ] 19. Eine fein gefertigte, sehr hochwertige Begräbnisrobe.
+-   [ ] 20. Ein Stück Papier, grob zu menschlicher Form zugeschnitten, mit einem großen Loch in der Mitte. 
