@@ -14,3 +14,4 @@ https://www.japan-guide.com/e/e2029.html
 https://wanderweib.de/tipps-onsen-in-japan-besuchen/  
 https://homejapan.de/blogs/japan/onsen  
 https://yokai.com
+https://wasenmodeler.com/resources/glossary-of-japanese-boat-terms/

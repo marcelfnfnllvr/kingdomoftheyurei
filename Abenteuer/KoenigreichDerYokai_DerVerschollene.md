@@ -136,35 +136,32 @@ Herausforderung: Wer sich auf die Wellen hinauswagt, der sollte sich gut mit Boo
 
 ### Hinweise:
 
-- [ ] Inmitten der Bucht ist ein großer Bereich, um den alle Vögel einen Bogen machen.
-- [ ] Ein wasserdurchtränkter Brief mit verschwommener Tinte, geschrieben von Jirō.
-- [ ] Ein gepacktes Reisebündel.
-- [ ] Jirō und Saburo haben sich gestritten.
-- [ ] Ein Fisch mit alten, großen, kreisrunden Narben.
-- [ ] Überreste eines Opfers aus Fisch und Muscheln.
-- [ ] Eine Notiz, in der das nächste Opfer genannt wird.
-- [ ] Ausgeblichene Knochen eines Menschen.
-- [ ] Ein kleiner Pfad, der bis ganz oben zur Klippenkante führt.
-- [ ] Schnitzerei eines Seemonsters.
-- [ ] Hanzos Haus wurde mit faulen Fischresten verunstaltet.
-- [ ] Einer der Fischer schuldet einem Kobayashi Geld.
-- [ ] Eine große schwarze Perle.
-- [ ] Die Wellen hinterlassen im Sand merkwürdige Muster.
-- [ ] Das Rauschen des Meeres klingt wie Schreie.
-- [ ] Ein Stück Haut mit Schuppen.
-- [ ] Ein altes rostiges Messer mit Seepocken.
-- [ ] Trittspuren eines Steinbocks.
-- [ ] Manche der Dorfbewohner meiden einander oder werfen sich finstere Blicke zu.
-- [ ] Im Lauf der letzten Monate sind die Fischfänge immer weniger geworden.
-- [ ] Ein Fischerboot, das von irgendetwas angegriffen und beschädigt wurde.
-- [ ] Jirō war vor Kurzem oben beim Schrein.
-- [ ] Eine hastig gekritzelte Warnung.
-- [ ] Tuschezeichnung, wie das Dorf von mehreren Schiffen angegriffen wurde.
-- [ ] Jemand will im Mondschein am Strand vor einigen Tagen einen großen Schatten gesehen haben.
-- [ ] Eine schwächlicher Wasservogel mit sehr zerrupften Federn.
-- [ ] Eine zerrissene Perlenkette.
-- [ ] Ein Fischer ist zuletzt nicht von seiner morgendlichen Angeltour zurückgekommen.
-- [ ] Bestellung für Holz und Dichtungsmasse.
-
-
-https://wasenmodeler.com/resources/glossary-of-japanese-boat-terms/
+- [ ] 1. Inmitten der Bucht ist ein großer Bereich, um den alle Vögel einen Bogen machen.
+- [ ] 2. Ein wasserdurchtränkter Brief mit verschwommener Tinte, geschrieben von Jirō.
+- [ ] 3. Ein gepacktes Reisebündel.
+- [ ] 4. Jirō und Saburo haben sich gestritten.
+- [ ] 5. Ein Fisch mit alten, großen, kreisrunden Narben.
+- [ ] 6. Überreste eines Opfers aus Fisch und Muscheln.
+- [ ] 7. Eine Notiz, in der das nächste Opfer genannt wird.
+- [ ] 8. Ausgeblichene Knochen eines Menschen.
+- [ ] 9. Ein kleiner Pfad, der bis ganz oben zur Klippenkante führt.
+- [ ] 10. Schnitzerei eines Seemonsters.
+- [ ] 11. Hanzos Haus wurde mit faulen Fischresten verunstaltet.
+- [ ] 12. Einer der Fischer schuldet einem Kobayashi Geld.
+- [ ] 13. Eine große schwarze Perle.
+- [ ] 14. Die Wellen hinterlassen im Sand merkwürdige Muster.
+- [ ] 15. Das Rauschen des Meeres klingt wie Schreie.
+- [ ] 16. Ein Stück Haut mit Schuppen.
+- [ ] 17. Ein altes rostiges Messer mit Seepocken.
+- [ ] 18. Trittspuren eines Steinbocks.
+- [ ] 19. Manche der Dorfbewohner meiden einander oder werfen sich finstere Blicke zu.
+- [ ] 20. Im Lauf der letzten Monate sind die Fischfänge immer weniger geworden.
+- [ ] 21. Ein Fischerboot, das von irgendetwas angegriffen und beschädigt wurde.
+- [ ] 22. Jirō war vor Kurzem oben beim Schrein.
+- [ ] 23. Eine hastig gekritzelte Warnung.
+- [ ] 24. Tuschezeichnung, wie das Dorf von mehreren Schiffen angegriffen wurde.
+- [ ] 25. Jemand will im Mondschein am Strand vor einigen Tagen einen großen Schatten gesehen haben.
+- [ ] 26. Eine schwächlicher Wasservogel mit sehr zerrupften Federn.
+- [ ] 27. Eine zerrissene Perlenkette.
+- [ ] 28. Ein Fischer ist zuletzt nicht von seiner morgendlichen Angeltour zurückgekommen.
+- [ ] 29. Bestellung für Holz und Dichtungsmasse.
