@@ -6,13 +6,13 @@ Gesammelte Verderbnispunkte: [ n ]
 
 ### Hinweise für Spielleitende:
 
-Das Dorf Haran ist bekannt für seine delikaten Shiitake-Pilze und deren koordinierte Produktion. Seit einiger Zeit ist das Dorf jedoch befallen. Zwei Menschen sind gestorben, weil sie von infizierten Pilzen gegessen haben und es sind zwei Schweine mutiert und durchgedreht. Sie haben dabei zwei weitere Menschen getötet. Die betroffene Pilzkolonie wurde isoliert und alle Pilze drumherum verbrannt. Nur den infizierten Pilzen scheint das Feuer und jede Bemühung sie zu beseitigen nichts auszumachen. Im Dorf sind Frauen und Männer strikt getrennt. Es wird sich nur zur Fortpflanzung getroffen. Die Frauen ziehen gemeinsam die Kinder groß. Männer spielen nur eine untergeordnete Rolle.
+Das Dorf Haran ist bekannt für seine wohlschmeckenden Shiitake-Pilze und deren koordinierte Produktion. Seit einiger Zeit ist das Dorf jedoch befallen. Zwei Menschen sind gestorben, weil sie von infizierten Pilzen gegessen haben und es sind zwei Schweine mutiert und durchgedreht. Sie haben dabei zwei weitere Menschen getötet. Die betroffene Pilzkolonie wurde isoliert und alle Pilze drumherum verbrannt. Allerdings scheinen das Feuer und jede andere Bemühung die infizierten Pilze zu beseitigen ihnen nichts auszumachen. Im Dorf sind Frauen und Männer strikt getrennt. Es wird sich nur zur Fortpflanzung getroffen - oder zum Vergnügen im Freudenhaus. Die Frauen ziehen gemeinsam die Kinder groß. Männer spielen nur eine untergeordnete Rolle.
 
 ### Fragestellung, Eskalation und Ehrung:
 
 Was hat das Ungleichgewicht ausgelöst und den Dämon erschaffen? Wie kann der Pilzgeist wieder verbannt werden? 
 
-Falls die Situation eskaliert, brechen überall Schläferpilze aus dem Menschen. Er kann aufgehalten werden, fängt aber mit der Schwierigkeit 18 an.
+Falls die Situation eskaliert, brechen überall Schläferpilze aus dem Menschen. Er kann aufgehalten werden, fängt aber mit der Schwierigkeit 20 an.
 
 Pilzbefall ade - Umwelt 
 
@@ -33,7 +33,7 @@ Ihr seht zwei Personen, die dem Hund hinterhereilen und hektisch winken und rufe
 ### Gefahren:
 
 - Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden.
-- Jede NSC kann vom Virus befallen sein und mutieren.
+- Jeder NSC kann vom Virus befallen sein und mutieren.
 - Infizierter Hund
 - Ihr seht eine Wildschweinsau mit ihren Frischlingen ein paar Meter von euch entfernt. Die Sau fällt zu Boden und es fangen langsam an tentakelartige Pilze aus ihrem Maul zu sprießen. Diese packen sofort die Frischlinge und die Sau schaut mit rotglühenden Augen in eure Richtung.
 - Eine dichte Wolke frischer Pilzsporen wird vom Wind herangetragen. Die Gruppe muss sich entweder schnell entfernen oder eine Möglichkeit finden, wie ihnen die Sporen erst einmal nichts mehr anhaben können.
@@ -53,7 +53,7 @@ Ihr seht zwei Personen, die dem Hund hinterhereilen und hektisch winken und rufe
 
 *Wohlgesonnen*
 
-Ist erst seit einem Jahr in dem Dorf. Berichtet, dass ihr beim Aufbau des alten Farmhauses geholfen wurde. Außerdem habe man ihr gezeigt, wie sie Obst und Gemüse pflanzen muss. Sie ist nett, gutaussehend und zuvorkommend. Ihr Geheimnis und das ihres Sohnes ist, dass sie mit einem Wolfsgeist intim war und ihre Tochter sich in einen Wolf verwandeln kann. Eine Vereinigung eines Menschen und eines Wolfgeistes würde die Dorfälteste niemals akzeptieren. Im Laufe der Jahre sind immer mehr Wolfsmenschen in dieses Dorf gekommen und so hat sich eine versteckte, aber sehr aktive Gruppe gebildet, die sich gegenseitig schützt. 
+Ist erst seit einem Jahr in dem Dorf. Berichtet, dass ihr beim Aufbau des alten Farmhauses geholfen wurde. Außerdem habe man ihr gezeigt, wie sie Obst und Gemüse pflanzen kann. Sie ist nett, gutaussehend und zuvorkommend. Ihr Geheimnis ist, dass sie mit einem Wolfsgeist intim war und ihre Tochter sich in einen Wolf verwandeln kann. Eine Vereinigung eines Menschen und eines Wolfgeistes würde die Dorfälteste niemals akzeptieren. Im Laufe der Jahre sind immer mehr Wolfsmenschen in dieses Dorf gekommen und so hat sich eine versteckte, aber sehr aktive Gruppe gebildet, die sich gegenseitig schützt. Asami ist deshalb in dieses Dorf gezogen. 
 
 ##### Svenja Iho - Tochter und kleines Mädchen
 
@@ -65,9 +65,9 @@ Ein kleines Mädchen. Etwas schüchtern, verspielt und auf ihre Art wild. Sie ka
 
 *Wohlgesonnen*
 
-Es werden keine Tiere gehalten in Haran. Zumindest nicht um sie zu schlachten. Alle Tiere hier sind heilig. Es zieht allerdings regelmäßig eine Horde Nara-Rehe durch das Dorf. Die Schlachterin spricht jedes Mal mit Ihnen und nimmt sich dann ein oder zwei Tiere, um sie für das Dorf zu schlachten. Es ist ein jahrhundertealtes Abkommen, welches die Rehe mit den Menschen geschlossen haben. Die Schlachterin gehört ebenfalls zu den Wolfsmenschen und deren geheimen Bund an.
+Es werden keine Tiere gehalten in Haran. Zumindest nicht um sie zu schlachten. Alle Tiere hier sind heilig. Es zieht allerdings regelmäßig eine Horde Nara-Rehe durch das Dorf. Die Schlachterin spricht jedes Mal mit Ihnen und nimmt sich dann ein oder zwei Tiere, um sie für das Dorf zu schlachten. Es ist ein jahrhundertealtes Abkommen, welches die Rehe mit den Menschen geschlossen haben. Die Schlachterin gehört ebenfalls zu den Wolfsmenschen und deren geheimen Bund.
 
-##### Koto Tono (Herbert Schmidt) - Nordling 
+##### Koto Tono (Thomas Schmidt) - Nordling 
 
 *Misstrauisch*
 
@@ -83,7 +83,7 @@ Er sieht sehr gut aus, ist aber eher von einfacherem Gemüt. Er behauptet noch n
 
 *Misstrauisch - weiße Haare - geht leicht gebückt - redet mit brüchiger Stimme* 
 
-Lebte früher in der großen Stadt. Kam zum Dorf, um sich zur Ruhe zu setzen und hat dann wieder angefangen zu arbeiten. Er mag die Dorfälteste, aber sie mag ihn nicht. Er hat mit den Pilzen experimentiert, um ein Potenzmittel zu finden, da das Geweih von Wanderern rar geworden ist und nur noch selten zur Verfügung steht. Sein Haus ist etwas abseits im Dorf.
+Lebte früher in der großen Stadt. Kam zum Dorf, um sich zur Ruhe zu setzen und hat dann wieder angefangen zu arbeiten. Er mag die Dorfälteste, aber sie mag ihn nicht. Er hat mit den Pilzen experimentiert, um ein Potenzmittel zu finden, da das Geweih von Fureru rar geworden ist und nur noch selten zur Verfügung steht. Sein Haus ist etwas abseits im Dorf.
 
 ##### Taki Arima - Dorfälteste
 
@@ -91,7 +91,7 @@ Lebte früher in der großen Stadt. Kam zum Dorf, um sich zur Ruhe zu setzen und
 
 Sie ist die Dorfälteste. Ruhig und weise, aber mit allen Wassern gewaschen. Wenn sie etwas möchte, weiß sie genau, wen sie dafür manipulieren muss. Sie wollte das Dorf durch die Pilzproduktion zu großem Reichtum führen und unabhängig gegen die Zentralregierung in der Mitte machen. Sie verachtet jede Form von Vereinigung von Mensch und Tier.
 
-##### Seiko Jotara - Wolfsrudel Anführerin und Freudenhaus-Mutter
+##### Seiko Jotara - Wolfsrudel-Anführerin und Freudenhaus-Mutter
 
 *Wohlgesonnen*
 
@@ -131,15 +131,15 @@ Ungefährlich
 
 Ungefährlich
 
-> Was zeigt euch, dass dies eine angesehene Einrichtung des Dorfes ist?
+> Woran erkennt ihr, dass dies eine angesehene Einrichtung des Dorfes ist?
 
 ##### Die Gaststätte
 
 Gefährlich
 
-> Was zeigt euch, dass hier wirklich ein paar üble Gestalten untergekommen sein müssen?
+> Worum beschleucht euch der Eindruck, dass hier wirklich ein paar üble Gestalten untergekommen sein müssen?
 
-Herausforderung: Sollte die Truppe hier Untersuchungen anstellen, ist dies immer mit einem Risiko behaftet. Jmd. belauschen würde „Sich eine Risiko aussetzen“ auslösen und bei einem Patzer wohl zu einem Faustkampf führen. Allerdings ist es auch so möglich einfach auf jmd. betrunkenes zu stoßen, der sauer ist, weil er aus dem anliegenden Freudenhaus geworfen wurde.
+Herausforderung: Sollte die Truppe hier Untersuchungen anstellen, ist dies immer mit einem Risiko behaftet. Jemanden zu belauschen würde „etwas riskieren“ auslösen und bei einem Patzer wohl zu einer Eskalation führen. Allerdings ist es auch so möglich einfach auf jemand Betrunkenes zu stoßen, der sauer ist, weil er aus dem anliegenden Freudenhaus geworfen wurde.
 
 ##### Der umliegende Wald
 
@@ -147,13 +147,13 @@ Gefährlich
 
 > Was lässt euch darauf schließen, dass auch der Wald unter den kranken Pilzen leidet?
 
-Herausforderung: Im Wald hängen vermehrt Pilzsporen in der Luft. Die Gruppe sieht einen Vogel, der durch die Sporen fliegt, Pilze in seinem Gefieder und Schnabel bildet und dann tot zu Boden fällt. Um tiefer in den Wald vorzudringen, wäre ein Wurf auf „Sich einem Risiko aussetzen“ angebracht.
+Herausforderung: Im Wald hängen vermehrt Pilzsporen in der Luft. Die Gruppe sieht einen Vogel, der durch die Sporen fliegt, Pilze in seinem Gefieder und Schnabel bildet und dann tot zu Boden fällt. Um tiefer in den Wald vorzudringen, wäre ein Wurf auf „etwas riskieren“ angebracht.
 
 ##### Die Festivitäten
 
 Ungefährlich
 
-> Das Fest ist das Ritual zum Verzehr des gegebenen Fleisches der Nara-Rehe. Wir wurde der Platz geschmückt? Was fällt euch besonders auf? Was erinnert euch an eure Heimat?k
+> Das Fest ist das Ritual zum Verzehr des gegebenen Fleisches der Nara-Rehe. Wir wurde der Platz geschmückt? Was fällt euch besonders auf? Was erinnert euch an eure Heimat?
 
 Herausforderung: Es ist dunkel und die Umgebung nur mit Fackeln beleuchtet. Überall sind ausgelassene Menschen. Es ist eines der wenigen Feste, an dem Männer und Frauen gemeinsam teilnehmen. Sich zu bewegen fällt in der Menschenmenge teilweise schwer.
 
