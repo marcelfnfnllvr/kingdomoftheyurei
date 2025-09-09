@@ -4,9 +4,6 @@ Schwierigkeit: 16 – ein kurzes und aber eher schwerers und düsteres Abenteuer
 
 Gesammelte Verderbnispunkte: [ n ]
 
-Notizen:
-Miyamoto steht in Rüstung hinter ihnen. Er ist darauf gepolt ihnen was anzutun. Allerdings können sie das noch verhindern. Er weiß allerdings auch nicht viel. Ist leer. Ist programmiert quasi. Stufe 2 ist diese Begegnung. 
-
 ### Hinweise für Spielleitende:
 
 Die Gruppe sucht Ruhe in der berühmten Tempelanlage Takedera, weit weg von anderen Dörfern und Städten. Die Anlage liegt in einem malerischen Bambuswald, umgeben von hohen Bergen. Die einzigen Geräusche, die man hört, kommen von dem riesigen Wasserfall, den die Mönche liebevoll kleiner Alouatta nennen. Kleiner Brüllaffe. Benannt nach dem Tier, das die andere Geräuschquelle in diesem Wald ist. 
@@ -27,7 +24,7 @@ Was gibt dir Halt in dieser Welt der Geister und Dämonen? In dieser Welt, in de
 
 > Was sucht euer Charakter hier in der Tempelanlage Takedera?
 
-Ihr befindet euch beim morgendlichen Frühstück. Es gibt Natto, fermentierte Bohnen, Reis und dazu Miso-Suppe. Wie immer habt ihr bei der Zubereitung heute morgen geholfen.
+Ihr befindet euch beim morgendlichen Frühstück. Es gibt Natto, fermentierte Bohnen, Reis und dazu Miso-Suppe. Wie immer habt ihr bei der Zubereitung heute morgen geholfen. Nun sitzt ihr alle gemeinsam mit den Mönchen am großen Tisch.
 
 ### Gefahren:
 
@@ -39,7 +36,7 @@ Ihr befindet euch beim morgendlichen Frühstück. Es gibt Natto, fermentierte Bo
 
 ### Momente:
 
--	Es ist eine neblige Morgendämmerung und der Duft von feuchtem Moos und Räucherwerk liegt in der Luft, während das sanfte Plätschern des Alouatta Wasserfalls die Stille durchbricht. 
+-	Es ist eine neblige Morgendämmerung und der Duft von feuchtem Moos und Räucherwerk liegt in der Luft, während das sanfte Plätschern des Alouatta-Wasserfalls die Stille durchbricht. 
 -	Plötzlich fliegt eine weiße Krähe über den Tempelhof, ihr Ruf klingt fast wie ein Flüstern. Gerade in diesem Augenblick scheint die Welt in perfekter Harmonie – als hätte sich der Schleier zwischen Diesseits und Jenseits für einen Wimpernschlag geöffnet. 
 -	Ein roter Fuchs mit flauschigem Fell sitzt auf den warmen Steinstufen eines alten Tempels. Die Morgensonne taucht sein Fell in goldenes Licht, während er genüsslich die Augen schließt und sich die Nase mit seiner kleinen Pfote reibt.
 
