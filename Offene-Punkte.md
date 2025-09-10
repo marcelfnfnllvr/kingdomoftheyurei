@@ -4,14 +4,11 @@
 - [x] Kapitel "Abenteuer selbst schreiben" korrekturlesen und ergänzen --> Marcel
 - [x] Kapitel zu TPK schreiben (worst case-Szenario am Schauplatz; aus der Geisterwelt befreien) --> Marcel
   - [x] Korrekttur und Sinn lesen
-
 - [x] Grober Aufbau der Welt, der Strukturen und des Landes --> Allgemeines --> Marcel
   - [x] Wird mit dem Punkt, direkt hier drunter, abgehandelt.
-
 - [x] Darstellung der Welt  -> Landschaft --> Allgemeines --> Marcel
   - [x] Unter "Darstellung der Welt" als Einleitungstext
   - [x] Korrekttur und Sinn lesen
-
 - [ ] Regeln
   - [x] Außer Gefecht erst am Szenenende lösen? Ja! --> Regeln --> Außer Gefecht --> Topflappen 
 - [x] Wenn im Kampf der Char mit dem höchsten Kampfwürfel down geht und der Kampf weiterläuft, klären ob/wer den zweiten Kampfwürfel "erbt" --> den kriegt keiner --> Topflappen
@@ -20,7 +17,6 @@
   - [x] Korrekttur und Sinn lesen
 - [x] Auf Reisen umfomulieren? Das mit dem Attribut ist glaube ich unnötig. Kann als Ideengeber drin bleiben. --> Marcel 
   - [x] Im Prinzip ist es so formuliert. Es gibt ohne passende Story zum Attribut halt nur einen Würfel. Ist schon konsequent?
-
 - [ ] Charaktererstellung - Marcel macht was --> Korrektur lesen --> Topflappen
 - [ ] Landkarte (A4) + Sticker für Abenteuerschauplätze --> Topflappen + Brunhvitr
 - [x] Wüste auf Landkarte --> Topflappen
@@ -43,6 +39,18 @@
   - [x] Hitdice geht auf andere Person
   - [x] Ist schon beschrieben - Marcel
 - [ ] Schauplätze und NSCs noch mit in die Tabellen aus dem Abentuer Vorwort
+- [ ] Steffen eine Vorversion schicken und Fragen
+  - [ ] ob A. der Tavernetresen erwähnt werden soll?
+  - [ ] und B. es ist ok ist wenn wir eine Vorbestelleraktion über Abenteuer-gesucht machen?
+
+- [ ] Möchten die Spieltestenden auch mit hinten ins Buch?
+- [ ] Abenteuer 
+  - [ ] 1 schreibt Marcel
+    - [ ] irgendwas mit Kindern und einem Fest
+
+  - [ ] 2 schreibt Doro
+    - [ ] irgendwas mit einem Markt auf einem See
+
 
 
 
