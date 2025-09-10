@@ -23,7 +23,7 @@
 
 - [ ] Charaktererstellung - Marcel macht was --> Korrektur lesen --> Topflappen
 - [ ] Landkarte (A4) + Sticker für Abenteuerschauplätze --> Topflappen + Brunhvitr
-- [ ] Wüste auf Landkarte --> Topflappen
+- [x] Wüste auf Landkarte --> Topflappen
 - [ ] Illustrationen als Postkarten --> Topflappen + Brunhvitr
 - [x] Zum Essen noch Beispiele? Sonst wirkt da so leer?
 - [ ] Bögen

@@ -40,7 +40,8 @@ Dieses System ist ausgelegt für Gruppen mit drei bis vier Spielenden. Bei wenig
 2. Spielleitung: Eventuell nötige neue Charaktere mit den Spielenden erstellt?
 3. Spielende: Ist ein Aufstieg gewollt, oder notwendig?
 4. Spielende: Drei zusätzlichen Aufgaben, auf dem Charakterbogen, gewählt?
-5. Spielende: Zu beantwortende Aufstiegsfragen der Gruppe vorgestellt?
+5. Spielende: Wurde eine neue Ehrung gewählt?
+6. Spielende: Zu beantwortende Aufstiegsfragen der Gruppe vorgestellt?
 
 ### Stimmung erzeugen 
 *Königreich der Yōkai* hat kein bis ins letzte Detail ausgeklügeltes Kampf- oder Magiesystem. Es ist auch keine Würfelschlacht. Stattdessen zielt es sehr stark darauf ab, die Gruppe in seine Welt hineinzuziehen. Für diese Immersion ist es wichtig die richtige Stimmung und entsprechende Bilder im Kopf zu erzeugen.  
