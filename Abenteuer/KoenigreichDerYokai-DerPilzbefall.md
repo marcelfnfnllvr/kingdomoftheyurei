@@ -159,33 +159,33 @@ Herausforderung: Es ist dunkel und die Umgebung nur mit Fackeln beleuchtet. Übe
 
 ### Hinweise:
 
-- [ ] Ein verendeter Eber nahe dem Dorf. Er ist infiziert. Er wurde zum Teil ausgeweidet.
-- [ ] Ein Pilzmesser mit menschlichen Blut dran.
-- [ ] Infizierte Pilzreste, plattgetreten am Boden.
-- [ ] Es wird berichtet, dass eine Dame im Freudenhaus geschwängert wurde.
-- [ ] Ein Brief, in dem steht, dass die größere Lieferung bald erwartet wird.
-- [ ] Es soll sich vermehrt Gesindel in der Gaststätte direkt neben dem hiesigen Hotel herumtreiben.
-- [ ] Ein Brief, in dem um Fruchtbarkeitsmedizin gebeten wird. Unterschrieben von UNLESERLICH.
-- [ ] Briefe, die Handel mit dem Norden andeuten.
-- [ ] Ein unautorisiert getötetes Nara-Reh.
-- [ ] Potenzmittel hergestellt aus dem Horn eines Wandernden.
-- [ ] Eine Anleitung wie man aus Fureru Potenzmittel herstellt.
-- [ ] Eine Bisswunde von einem Wolf.
-- [ ] Ritualmesser sollen früher dazu genutzt worden sein die Geister bei der Schlachtung von Tieren zu besänftigen.
-- [ ] Ein Brief, in dem steht, dass die Liebe nicht lohnt wenn sie kein Leben erschaffen kann. 
-- [ ] Eine Katze weicht einer Person aus. Euch fällt auf, dass die Person für einen Moment so etwas wie Fuchsohren hat?
-- [ ] Eine Anleitung mit einem Ritual, um die Pilze schneller wachsen zu lassen. Ritual kann gelernt werden.
-- [ ] Zwei Personen unterhalten sich darüber, dass sie dringend Fleisch bräuchten und es sonst so einem Unglück käme. Ihre Art ist einfach auf das Fleisch angewiesen.
-- [ ] Fremdartige Kleidung mit Blut.
-- [ ] Ein Ritualdolch mit Menschenblut.
-- [ ] Die Dorfälteste kennt das Geheimnis von Asamis Tochter.
-- [ ] Ein Nördler ist im Dorf.
-- [ ] Bäume im Wald sehen zunehmend krank und ungesund aus.
-- [ ] Es sollen vermehrt Wölfe mit menschlicher Kleidung gesichtet worden sein.
-- [ ] Pilzbefall an einer bestimmten Stelle des Dorfes.
-- [ ] Pilzwurzeln, die sich unter der Erde ausbreiten.
-- [ ] Pilzsporen in der Luft. Infizieren kleine Tiere.
-- [ ] Jemand im Dorf ist in einer unanständigen Liaison
-- [ ] Im Dorf tragen die Bewohner auffällig oft teuren Schmuck
-- [ ] In einer Häuserwand sind merkwürdige Zeichen eingeritzt. So etwas wie ein Code.
-- [ ] Ein heiliges Zeichen von einem heiligen Baum auf dem Boden. Halb verbrannt.
+- [ ] 1. Ein verendeter Eber nahe dem Dorf. Er ist infiziert. Er wurde zum Teil ausgeweidet.
+- [ ] 2. Ein Pilzmesser mit menschlichen Blut dran.
+- [ ] 3. Infizierte Pilzreste, plattgetreten am Boden.
+- [ ] 4. Es wird berichtet, dass eine Dame im Freudenhaus geschwängert wurde.
+- [ ] 5. Ein Brief, in dem steht, dass die größere Lieferung bald erwartet wird.
+- [ ] 6. Es soll sich vermehrt Gesindel in der Gaststätte direkt neben dem hiesigen Hotel herumtreiben.
+- [ ] 7. Ein Brief, in dem um Fruchtbarkeitsmedizin gebeten wird. Unterschrieben von UNLESERLICH.
+- [ ] 8. Briefe, die Handel mit dem Norden andeuten.
+- [ ] 9. Ein unautorisiert getötetes Nara-Reh.
+- [ ] 10. Potenzmittel hergestellt aus dem Horn eines Wandernden.
+- [ ] 11. Eine Anleitung wie man aus Fureru Potenzmittel herstellt.
+- [ ] 12. Eine Bisswunde von einem Wolf.
+- [ ] 13. Ritualmesser sollen früher dazu genutzt worden sein die Geister bei der Schlachtung von Tieren zu besänftigen.
+- [ ] 14. Ein Brief, in dem steht, dass die Liebe nicht lohnt wenn sie kein Leben erschaffen kann. 
+- [ ] 15. Eine Katze weicht einer Person aus. Euch fällt auf, dass die Person für einen Moment so etwas wie Fuchsohren hat?
+- [ ] 16. Eine Anleitung mit einem Ritual, um die Pilze schneller wachsen zu lassen. Ritual kann gelernt werden.
+- [ ] 17. Zwei Personen unterhalten sich darüber, dass sie dringend Fleisch bräuchten und es sonst so einem Unglück käme. Ihre Art ist einfach auf das Fleisch angewiesen.
+- [ ] 18. Fremdartige Kleidung mit Blut.
+- [ ] 19. Ein Ritualdolch mit Menschenblut.
+- [ ] 20. Die Dorfälteste kennt das Geheimnis von Asamis Tochter.
+- [ ] 21. Ein Nördler ist im Dorf.
+- [ ] 22. Bäume im Wald sehen zunehmend krank und ungesund aus.
+- [ ] 23. Es sollen vermehrt Wölfe mit menschlicher Kleidung gesichtet worden sein.
+- [ ] 24. Pilzbefall an einer bestimmten Stelle des Dorfes.
+- [ ] 25. Pilzwurzeln, die sich unter der Erde ausbreiten.
+- [ ] 26. Pilzsporen in der Luft. Infizieren kleine Tiere.
+- [ ] 27. Jemand im Dorf ist in einer unanständigen Liaison
+- [ ] 28. Im Dorf tragen die Bewohner auffällig oft teuren Schmuck
+- [ ] 29. In einer Häuserwand sind merkwürdige Zeichen eingeritzt. So etwas wie ein Code.
+- [ ] 30. Ein heiliges Zeichen von einem heiligen Baum auf dem Boden. Halb verbrannt.
