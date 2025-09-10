@@ -117,6 +117,8 @@ Häufige Elemente japanischer Gärten sind z.B. künstlich aufgeschüttete Hüge
 
 #### Essen
 
+> Der Regen hatte gerade aufgehört und in den Straßen hing noch der Duft von nassem Holz. Kenji betrat eine kleine Garküche. Vor ihm auf dem Grill zischten lange Aalstücke, die in einer süßen, dunklen Sauce langsam gegart wurden. Als Kenji den ersten Bissen nahm, löste sich die Haut leicht knusprig zwischen seinen Zähnen und das zarte Fleisch schmolz beinahe wie Sahne auf der Zunge. Süß, herzhaft, rauchig – ein Geschmack, der an Sommerabende erinnerte. Er schloss die Augen und dachte: „So schmeckt Glück, wenn es in Sauce getaucht ist.”
+
 *Washoku*, das traditionelle japanische Essen ist essenzieller Kernbestandteil der japanischen Kultur. Aus den Grundnahrungsmitteln Reis, Fisch und Soja hat sich im Lauf der Jahrhunderte eine vielfältige und international bekannte und äußerst beliebte Küche entwickelt. Ein paar dieser Gerichte stellen wir euch hier vor. Ihr mögt euch wundern, dass diverse heute weit verbreitete Speisen nicht genannt werden. Das liegt daran, dass sie erst lange nach Ende des 15. Jahrhunderts entstanden. Wie sklavisch ihr euch an diese zeitliche Einschränkung haltet, bleibt natürlich euch überlassen. 
 
 **Onigiri**  
