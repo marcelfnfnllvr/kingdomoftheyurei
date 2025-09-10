@@ -47,7 +47,7 @@ Erzählt von einem Moment auf der Reise, um allein oder gemeinsam Zustände abzu
 - 5-6 Du entfernst die letzten drei Zustände. Die Spielleitung gibt dir einen Hinweis.
 - 6&6 Du entfernst alle deine Zustände.
 
-*Erzählt von einem Moment, den ihr mit eurem Reittier verbracht habt, wie ihr mit der Gruppe am Feuer gesessen und über etwas gelacht habt oder wie ihr einfach einen Moment der Ruhe und Entspannung hattet. Dieser Spielzug ist nicht nur dazu da, um Zustände zu entfernen, sondern auch um dem Charakter Tiefe zu verleihen und seine Hintergrundgeschichte zu erweitern.*
+*Erzählt von einem Moment, den ihr mit eurem Reittier verbracht habt, wie ihr mit der Gruppe am Feuer gesessen und über etwas gelacht habt oder wie ihr einfach einen Moment der Ruhe und Entspannung hattet. Dieser Spielzug ist nicht nur dazu da, um Zustände zu entfernen, sondern auch um dem Charakter Tiefe zu verleihen und seine Hintergrundgeschichte zu erweitern. Falls du absolut keine Idee für eine Geschichte hast, kannst du gerne die [Ideengeber-Tabelle](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Zufallstabellen.md#ideengeber) aus den Zufallstabellen nutzen.*
 
 [Zurück nach oben](#spielz%C3%BCge)
 

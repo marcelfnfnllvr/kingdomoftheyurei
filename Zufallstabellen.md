@@ -264,7 +264,7 @@
 | 19       | Kunai      |              |
 | 20       | Kusarigama |              |
 
-## **Ideengeber**
+## **Ideengeber:**
 
 | 1d6  | Wetter      | Thema        | Gefühl      | Stichwort 1 | Stichwort 2    |
 | ---- | ----------- | ------------ | ----------- | ----------- | -------------- |
@@ -275,7 +275,7 @@
 | 5    | stickig     | Feier/Fest   | euphorisch  | Bergdorf    | Onsen          |
 | 6    | Nieselregen | Reise        | bestürzt    | Glücksspiel | Fureru         |
 
-## Personen
+## Personen:
 
 | Würfel D8 | Name    | Gemüt       | Motivation                  | Tier      | Merkmal                | Beruf               | Verwerfliches |
 | --------- | ------- | ----------- | --------------------------- | --------- | ---------------------- | ------------------- | ------------- |
