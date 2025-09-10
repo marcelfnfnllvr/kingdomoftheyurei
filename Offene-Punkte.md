@@ -42,6 +42,7 @@
 - [x] aus dem Kampf fliehen
   - [x] Hitdice geht auf andere Person
   - [x] Ist schon beschrieben - Marcel
+- [ ] Schauplätze und NSCs noch mit in die Tabellen aus dem Abentuer Vorwort
 
 
 
