@@ -121,28 +121,28 @@ Herausforderung: Der Weg nach oben ist beschwerlich. Leicht können sich Lavastr
 
 ### Hinweise:
 
--	[ ] Berichte zeigen einen alten Konflikt zwischen zwei Völkern, die hier um das Land gekämpft haben sollen.
--	[ ] Die Gestalt scheint eine Frau zu sein, der lange schwarze Haare ins Gesicht hängen. Ihre Haut blättert langsam ab und sie scheint zu zerfallen.
--	[ ] Es dauert ungefähr eine Minute bis die Person verstirbt.
--	[ ] Das Dorf wurde vor ca. 100 Jahren auf den Ruinen eines anderen Dorfes erbaut.
--	[ ] Die Sichtung von Dunkelglühern hier in der Gegend ist massiv angestiegen nachdem das Unglück geschehen ist.
--	[ ] Die Formel der Mixtur für die Lampen wurde kürzlich geändert.
--	[ ] Es werden vermehrt tote Schwarzsandfüchse gesehen. Diese sind ungenießbar und wirken komisch verändert.
--	[ ] Das Sekret der Dunkelglüher soll heilende Kräfte besitzen.
--	[ ] Jemand hat einen älteren Mann grazil und flink wie ein Steinbock die Wände des Berges hochlaufen sehen.
--	[ ] Die Quellen sollen früher wärmer gewesen sein.
--	[ ] Ein zerbrochenes heiliges Schutzsymbol.
--	[ ] Natürlicher Filter, der das Badewasser filtert. Er ist mit einer seltsam schleimigen Substanz gefüllt.
--	[ ] Die Frau des Badehausbesitzers ist seit einer Weile verschwunden.
--	[ ] Kurz vor dem Tod summt das Wesen ein Kinderlied
--	[ ] Dunkelglüher sollen die Seelen der Verstorbenen in den Himmel tragen.
--	[ ] Ausgerissene Federn von einem Ascheraben.
--	[ ] Ein Weg, dem schwer zu folgen ist. Er bildet eine Schleife und führt wieder in das Dorf.
--	[ ] Ein Händler bringt wohlschmeckende Bohnenpaste in das Dorf.
--	[ ] Eine Unterhaltung oder ein Briefverkehr, der nahelegt, dass den Bewohnern die Besucher nicht passen.
--	[ ] Die Tochter des Onsen-Besitzers scheint krank zu sein.
--	[ ] Eine Händleruniform mit Tragegurten für den Rücken.
--	[ ] Lichtpunkte, fast wie große Feuer, werden vermehrt in den Bergen gesehen.
--	[ ] Nachts sind vermehrt menschenähnliche Aschegestalten nahe dem Dorf zu sehen.
--	[ ] Die Toten werden in der Erde vergraben und nicht wie üblich verbrannt.
--	[ ] Das Wasser des Badehauses soll heilende Kräfte besitzen.
+-	[ ] 1. Berichte zeigen einen alten Konflikt zwischen zwei Völkern, die hier um das Land gekämpft haben sollen.
+-	[ ] 2. Die Gestalt scheint eine Frau zu sein, der lange schwarze Haare ins Gesicht hängen. Ihre Haut blättert langsam ab und sie scheint zu zerfallen.
+-	[ ] 3. Es dauert ungefähr eine Minute bis die Person verstirbt.
+-	[ ] 4. Das Dorf wurde vor ca. 100 Jahren auf den Ruinen eines anderen Dorfes erbaut.
+-	[ ] 5. Die Sichtung von Dunkelglühern hier in der Gegend ist massiv angestiegen nachdem das Unglück geschehen ist.
+-	[ ] 6. Die Formel der Mixtur für die Lampen wurde kürzlich geändert.
+-	[ ] 7. Es werden vermehrt tote Schwarzsandfüchse gesehen. Diese sind ungenießbar und wirken komisch verändert.
+-	[ ] 8. Das Sekret der Dunkelglüher soll heilende Kräfte besitzen.
+-	[ ] 9. Jemand hat einen älteren Mann grazil und flink wie ein Steinbock die Wände des Berges hochlaufen sehen.
+-	[ ] 10. Die Quellen sollen früher wärmer gewesen sein.
+-	[ ] 11. Ein zerbrochenes heiliges Schutzsymbol.
+-	[ ] 12. Natürlicher Filter, der das Badewasser filtert. Er ist mit einer seltsam schleimigen Substanz gefüllt.
+-	[ ] 13. Die Frau des Badehausbesitzers ist seit einer Weile verschwunden.
+-	[ ] 14. Kurz vor dem Tod summt das Wesen ein Kinderlied
+-	[ ] 15. Dunkelglüher sollen die Seelen der Verstorbenen in den Himmel tragen.
+-	[ ] 16. Ausgerissene Federn von einem Ascheraben.
+-	[ ] 17. Ein Weg, dem schwer zu folgen ist. Er bildet eine Schleife und führt wieder in das Dorf.
+-	[ ] 18. Ein Händler bringt wohlschmeckende Bohnenpaste in das Dorf.
+-	[ ] 19. Eine Unterhaltung oder ein Briefverkehr, der nahelegt, dass den Bewohnern die Besucher nicht passen.
+-	[ ] 20. Die Tochter des Onsen-Besitzers scheint krank zu sein.
+-	[ ] 21. Eine Händleruniform mit Tragegurten für den Rücken.
+-	[ ] 22. Lichtpunkte, fast wie große Feuer, werden vermehrt in den Bergen gesehen.
+-	[ ] 23. Nachts sind vermehrt menschenähnliche Aschegestalten nahe dem Dorf zu sehen.
+-	[ ] 24. Die Toten werden in der Erde vergraben und nicht wie üblich verbrannt.
+-	[ ] 25. Das Wasser des Badehauses soll heilende Kräfte besitzen.
