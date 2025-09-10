@@ -25,7 +25,7 @@
 - [ ] Landkarte (A4) + Sticker für Abenteuerschauplätze --> Topflappen + Brunhvitr
 - [ ] Wüste auf Landkarte --> Topflappen
 - [ ] Illustrationen als Postkarten --> Topflappen + Brunhvitr
-- [ ] Zum Essen noch Beispiele? Sonst wirkt da so leer?
+- [x] Zum Essen noch Beispiele? Sonst wirkt da so leer?
 - [ ] Bögen
   - [x] Abenteuerbgen entwerfen
     - [ ] Brunhvitr illustriert
