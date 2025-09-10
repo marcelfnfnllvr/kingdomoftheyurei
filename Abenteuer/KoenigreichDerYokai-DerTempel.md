@@ -8,6 +8,10 @@ Gesammelte Verderbnispunkte: [ n ]
 
 Die Gruppe sucht Ruhe in der berühmten Tempelanlage Takedera, weit weg von anderen Dörfern und Städten. Die Anlage liegt in einem malerischen Bambuswald, umgeben von hohen Bergen. Die einzigen Geräusche, die man hört, kommen von dem riesigen Wasserfall, den die Mönche liebevoll kleiner Alouatta nennen. Kleiner Brüllaffe. Benannt nach dem Tier, das die andere Geräuschquelle in diesem Wald ist. 
 
+Kaum sind sie im Tempel angekommen, scheint es, als würde ihn niemand je wieder verlassen. Alles in diesem Abenteuer deutet darauf hin, dass etwas die Menschen hier gefangen nimmt und verändert. Was das genau ist, sollte die Spielleitende Person abhängig von den Begegnungen der Spielenden und den Hinweisen entscheiden.
+
+Der Charakter Miyamoto Musashi ist oder denkt im Abenteuer, er sei ein berühmter Schwermeister. Wie genau dies ausgelegt wird, ist der Spielleitung überlassen. Miyamoto Musashi war ein legendärer japanischer Samurai und Schwertmeister. Er blieb in über 60 Duellen unbesiegt. Er entwickelte den Kampfstil mit zwei Schwertern (Niten Ichi-ryū) und zog sich später zurück, um sein Werk „Das Buch der fünf Ringe“ zu verfassen.
+
 ### Fragestellung, Eskalation und Ehrung:
 
 Fragestellung, die es zu lösen gilt: Entkommt der Tempelanlage Takedera! 
@@ -45,16 +49,20 @@ Ihr befindet euch beim morgendlichen Frühstück. Es gibt Natto, fermentierte Bo
 ##### **Tadakatsu** – Mönch
 
 *Spricht mit ruhiger, etwas dünner aber gut zu verstehender Stimme - Wohlgesonnen*
-Hier fehlt noch was! :D 
+
+Er ist eine nette und zuvorkommende Person. Er ist schon ewig im Tempel und kennt es nicht anders. Er führt nichts Böses im Schilde, aber seine Erinnerungen sind mittlerweile so zersetzt, dass dies jetzt seine einzige Realität ist.
 
 ##### **Ryōma** – Der Biliothekar - Mönch
 
-Hier fehlt auch noch was! 
+*Er ist aufgeregt, spricht sehr schnell und ist einfach gekleidet. Er trägt eine große Brille auf der Nase.*
+
+Er hütet die Schriftrollen und Bücher wie seine Augäpfel. Der dicke Affe ist ihm ein Dorn im Auge. Er lässt die Spielenden die Bibliothek begutachten, gibt ihnen aber immer direkt kleine Aufgaben. 
 
 ##### **Hanzo** – Mönch
 
 *Nasale Stimme, die leicht hochnäsig wirkt - Wohlgesonnen - Trägt edle Gewänder, die teuer aussehen*
-Hier auch!! Un-fass-bar!
+
+Für ihn ist klar, dass er in diesem Tempel sein Paradies gefunden hat. Er ist noch recht klar bei Verstand, kennt Fureru und die Welt draußen. Alles Übernatürliche im Tempel verleugnet er allerdings und wird wütend, wenn man ihm widerspricht. 
 
 **Miyamoto Musashi - angehender Mönch**
 
@@ -116,25 +124,25 @@ Gefährlich
 
 ### Hinweise:
 
--	[ ] Niemand stirbt hier. 
--	[ ] Mönche gehen in den Wald und verschwinden.
--	[ ] Ein Schrei in der Nacht. Niemand scheint ihn gehört zu haben.
--	[ ] Aufgaben werden einfach erledigt, aber niemand koordiniert diese. 
--	[ ] Leute scheinen physisch nichts zu fühlen. 
--	[ ] Euch ist auf dem Weg hierher niemand entgegengekommen.
--	[ ] Eine schimmernde Silhouette im Wasserfall.
--	[ ] Fußabdrücke, die von menschlich zu Pfoten gehen.
--	[ ] Eure Reflektion im Wasser scheint immer durchsichtiger und dünner zu werden.
--	[ ] Jemand, der verbotene Gebete an böse Kami-Geister zitiert. 
--	[ ] Eine der Statuen hat eine tropfenförmige rote Flüssigkeit unter den Augen.
--	[ ] Ein Gespräch oder eine Schriftrolle ,die bestätigt, dass es hier früher einmal Frauen gegeben haben muss.
--	[ ] Das Schlagen von Trommeln.
--	[ ] Der Duft von Räucherwerk und ein leises Kichern.
--	[ ] Jemand, der glücklich morgens den Tempel verlässt. Ein Gast. Ihr habt die Person noch nie zuvor gesehen.
--	[ ] Die Mönche reden von anderen Gästen, aber ihr könnt niemanden sehen außer euch.
--	[ ] Die Füchsin, die dich auf den falschen Weg führt.
--	[ ] Schatten, wo keine Schatten sind.
--	[ ] „Sie kehren zurück in den Zyklus.“
--	[ ] Es scheinen nie Lebensmittel gebracht zu werden und trotzdem sind die Lager niemals leer.
--	[ ] Die Mönche sehen sich zunehmend ähnlicher.
--	[ ] Eine jahrhundertealte Schriftrollen mit Gebeten. Bei genaurem Hinsehen verschwimmen die Worte und übrig bleibt nur ein einziges Wort: „Kaeshite“ (返して) – „Gib es zurück.“
+-	[ ] 1. Niemand stirbt hier. 
+-	[ ] 2. Mönche gehen in den Wald und verschwinden.
+-	[ ] 3. Ein Schrei in der Nacht. Niemand scheint ihn gehört zu haben.
+-	[ ] 4. Aufgaben werden einfach erledigt, aber niemand koordiniert diese. 
+-	[ ] 5. Leute scheinen physisch nichts zu fühlen. 
+-	[ ] 6. Euch ist auf dem Weg hierher niemand entgegengekommen.
+-	[ ] 7. Eine schimmernde Silhouette im Wasserfall.
+-	[ ] 8. Fußabdrücke, die von menschlich zu Pfoten gehen.
+-	[ ] 9. Eure Reflektion im Wasser scheint immer durchsichtiger und dünner zu werden.
+-	[ ] 10. Jemand, der verbotene Gebete an böse Kami-Geister zitiert. 
+-	[ ] 11. Eine der Statuen hat eine tropfenförmige rote Flüssigkeit unter den Augen.
+-	[ ] 12. Ein Gespräch oder eine Schriftrolle ,die bestätigt, dass es hier früher einmal Frauen gegeben haben muss.
+-	[ ] 13. Das Schlagen von Trommeln.
+-	[ ] 14. Der Duft von Räucherwerk und ein leises Kichern.
+-	[ ] 15. Jemand, der glücklich morgens den Tempel verlässt. Ein Gast. Ihr habt die Person noch nie zuvor gesehen.
+-	[ ] 16. Die Mönche reden von anderen Gästen, aber ihr könnt niemanden sehen außer euch.
+-	[ ] 17. Die Füchsin, die dich auf den falschen Weg führt.
+-	[ ] 18. Schatten, wo keine Schatten sind.
+-	[ ] 19. „Sie kehren zurück in den Zyklus.“
+-	[ ] 20. Es scheinen nie Lebensmittel gebracht zu werden und trotzdem sind die Lager niemals leer.
+-	[ ] 21. Die Mönche sehen sich zunehmend ähnlicher.
+-	[ ] 22. Eine jahrhundertealte Schriftrollen mit Gebeten. Bei genaurem Hinsehen verschwimmen die Worte und übrig bleibt nur ein einziges Wort: „Kaeshite“ (返して) – „Gib es zurück.“
