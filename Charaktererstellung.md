@@ -69,7 +69,7 @@ Theoretisch ist es natürlich möglich, dass die Spielenden ein Veto gegen die W
 | ---- | ------------ | ---------- |
 | Ken  | Wasserbüffel | Stark      |
 
-*Ralph hat sich vor dem ersten Abenteuer einen Wasserbüffel names Ken als Tier überlegt. Er gibt ihm in Absprache mit der spielleitenden Person das Attribut "Stark".*
+*Ralph hat sich vor dem ersten Abenteuer einen Wasserbüffel names Ken als Tier überlegt. Er gibt ihm in Absprache mit der Spielleitung das Attribut "Stark".*
 
 ### Dämon
 
@@ -161,7 +161,7 @@ Stufe 3 -  [    ] [    ]
 | Setze eine deiner Fähigkeiten ein.                           |         |
 | Senke im Kampf das Gefahrenlevel des Gegners.                |         |
 
-*Abschnittspunkte können genutzt werden, um den Abschnittswechsel und die damit verbundene Charakterveränderung zu erreichen. Die Punkte werden über die zwei festen und drei frei wählbaren Aufgaben vergeben. Pro Abenteuer kann außerdem ein Bonuspunkt für die Beantwortung der Bonusaufgabe vergeben werden.*
+*Abschnittspunkte können genutzt werden, um den Abschnittswechsel und die damit verbundene Charakterveränderung zu erreichen. Die Punkte werden über die zwei festen und drei frei wählbaren Aufgaben vergeben. Pro Abenteuer kann außerdem ein Bonuspunkt für das Abschließen der Bonusaufgabe vergeben werden.*
 
 ### Bonusaufgabe
 
@@ -197,7 +197,7 @@ Schreibe ein Haiku über das aktuelle Abenteuer.
 |             |              |
 |             |              |
 
-*Die Charaktere verdienen sich nach jedem abgeschlossenen Abenteuer Ehrungen. Diese können zu Beginn des nächsten Abenteuers gewechselt werden. Es zählt immer nur die Ehrung, die direkt auf dem Charakterbogen eingetragen ist.*
+*Die Charaktere verdienen sich nach jedem abgeschlossenen Abenteuer eine neue Ehrung. Die aktive Ehrung kann zu Beginn des nächsten Abenteuers gewechselt werden. Es zählt immer nur die Ehrung, die direkt auf dem Charakterbogen eingetragen ist.*
 
 ### Abenteuerhistorie
 
@@ -237,4 +237,4 @@ Schreibe ein Haiku über das aktuelle Abenteuer.
 | **VI. Wie verbringt dein Charakter seinen Lebensabend?**     |
 |                                                              |
 
-*Mithilfe der Abschnittsfragen könnt ihr eurem Charakter im Laufe der Zeit mehr Tiefe verleihen und über seine Vergangenheit und Zukunft nachdenken. Ihr könnt die Fragen für euch allein beantworten oder sie der Gruppe vorstellen, um ein klareres Bild eures Charakters zu entwickeln.*
+*Mithilfe der Abschnittsfragen könnt ihr eurem Charakter im Laufe der Zeit mehr Tiefe verleihen und über seine Vergangenheit und Zukunft nachdenken. Ihr könnt die Fragen für euch allein beantworten oder sie der Gruppe vorstellen, um ein klareres Bild eures Charakters zu entwickeln. Eure Antworten bieten sich beispielsweise auch zur Verwendung im Spielzug "Auf Reisen" an.*
