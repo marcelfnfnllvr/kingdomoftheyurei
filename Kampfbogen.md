@@ -30,3 +30,5 @@ In der dritten Runde hat Ayane einen weiteren Würfel zur Verfügung, weil sie i
 |      |                    | Hinweise beim Überwinden der | Bedrohung:         | 1                       | 2      | 3       | 3    | 3    | 3    |
 
 (X&X) X - Der/die Spielende mit der höchsten Augenzahl im Wurf erhält in der nächsten Runde einen weiteren Würfel. Zum Wurf zählt aber immer nur der Würfel mit der höchsten Augenzahl, also der Wert außerhalb der Klammer.
+
+(*X) - Markierung für einen Kampfwürfel, der geworfen wurde, nachdem der Charakter beim Gegner schwächen in dieser Runde nicht erfolgreich war. In diesem Fall muss der/die Spielende dennoch einen Kampfwürfel würfeln. Das Ergebnis dieses Wurfs zählt für die Runde jedoch nicht zur Summe aus den zwei höchsten Würfelaugenzahlen und kann nicht genutzt werden, um das Gefahrenlevel zu erreichen. Es kann aber dazu führen, dass entweder dieser Charakter oder einer der anderen Charaktere einen Zustand bekommen.
