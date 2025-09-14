@@ -280,12 +280,12 @@
 | Würfel D8 | Name    | Gemüt       | Motivation                  | Tier      | Merkmal                | Beruf               | Verwerfliches |
 | --------- | ------- | ----------- | --------------------------- | --------- | ---------------------- | ------------------- | ------------- |
 | **1**     | Ichirō  | Ruhig       | Verlorenes Familienmitglied | Schlange  | Edler Kimono           | Bauer               | Ehebruch      |
-| **2**     | Jirō    | Geladen     | Stolz                       | Bär       | Hinkenes Bein          | Samurai             | Mord          |
+| **2**     | Jirō    | Geladen     | Stolz                       | Bär       | Hinkebein              | Samurai             | Mord          |
 | **3**     | Heisuke | Aufbrausend | Verlorenes Tier             | Wiesel    | Edler Sonnenschirm     | Kaufmann            | Diebstahl     |
 | **4**     | Ryōma   | Stolz       | Nachfahren                  | Fuchs     | Geschorener Kopf       | Handwerker          | Betrug        |
 | **5**     | Haru    | Zweifelnd   | Beruf                       | Affe      | Augenklappe            | Geisha              | Lügen         |
 | **6**     | Fune    | Traurig     | Freunde                     | Hirsch    | Edle Brosche im Haar   | Straßenhändler      | Schabernack   |
-| **7**     | Kiku    | Unruhig     | Ruhe                        | Maderhund | Keine Kleidung         | Kabuki Schauspieler | Zerstörung    |
+| **7**     | Kiku    | Unruhig     | Ruhe                        | Marderhund| Keine Kleidung         | Kabuki-Schauspieler | Zerstörung    |
 | **8**     | Riyo    | Resigniert  | Gerechtigkeit               | Kranich   | Blutverschmierte Hände | Dieb                | Missgunst     |
 
 ## Yokai-Tabelle:
@@ -326,3 +326,4 @@
 | 6            | **Ryokan**                       | Auch wenn hier alles sehr gut in Schuss ist, merkt ihr, dass das Ryokan schon eine lange Geschichte hinter sich hat. Woran? |In der mit einem Tuschegemälde und einem frichen Blumengesteck dekorierten Eingangshalle stehen die Schuhe der anderen Gäste sauber aufgereiht an der Stufe. Weiter hinten führt eine Treppe hinauf zu den Gästezimmern.|
 | 7            | **Izakaya**                      | Welche der Speisen fällt euch ins Auge und warum? | An der Wand hängt grob gekritzelt die Speisekarte, der Schankraum ist gefüllt mit niedrigen Tischen auf Tatami-Matten und der Geruch von Sake steht in der Luft.|
 | 8            | **Apotheke/Kräuterladen**        | Wie merkt ihr, dass die Leute in der Gegend auf die Kräuter als Medizin vertrauen? | Als ihr den kleinen Laden betretet, steigt euch der Geruch zahlreicher verschiedener Kräuter in die Nase. Fein zu Büscheln gebunden hängen sie zum Trocknen unter der Decke oder werden in beschrifteten Schalen, Krügen oder Schatullen aufbewahrt. Der Durchgang nach hinten gibt gleichzeitig einen Blick auf den Garten frei, in dem noch mehr Kräuter feinsäuberlich in Reihen gepflanzt wachsen. |
+
