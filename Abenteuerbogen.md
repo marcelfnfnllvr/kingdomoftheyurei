@@ -1,10 +1,10 @@
 # Abenteuerbogen
 
-**Abenteuername:** Der Name des aktuellen Abenteuer.
+**Abenteuername:** Der Name des aktuellen Abenteuers.
 
-**Spielernamen & Charakternamen:** Spieler und ihre zugehörigen Charakternamen.
+**Spielernamen & Charakternamen:** Namen der Spielenden und ihrer zugehörigen Charaktere.
 
-**Gefahrenstufe:** Die Gefahrenstufe des gewählen Abenteuer.
+**Gefahrenstufe:** Die Gefahrenstufe des gewählten Abenteuers.
 
 **Bonuswürfel:** Die aktuell erspielten Bonuswürfel der Gruppe.
 
@@ -30,3 +30,4 @@
 |                                                              |               |         |
 |                                                              |               |         |
 |                                                              |               |         |
+
