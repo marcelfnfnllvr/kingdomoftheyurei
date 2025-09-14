@@ -100,7 +100,8 @@ Es ist möglich, im Kampf die Gefahrenstufe des Gegners mithilfe von Fähigkeite
 
 ## Der „Sich dem Kampf stellen“ Spielzug
 
-Jeder Spielercharakter, der an dem Kampf teilnimmt, hat pro Runde einen W6 als Kampfwürfel zur Verfügung. Ziel im Kampf ist es, mit der Summe der beiden höchsten Augenzahlen aller Kampfteilnehmer die Gefahrenstufe des Gegners zu erreichen oder zu übertreffen. Sobald die Gruppe dies in einer Runde erreicht, ist der Gegner besiegt. Mit dem Spielzug "Den Gegner schwächen" kann die Gefahrenstufe des Gegners gesenkt werden. Bei Gegnern, die eine höhere Gefahrenstufe als 12 haben, ist es zwingend notwendig diese erst zu senken. Dies ist sowohl vor Beginn des Kampfes als auch während des Kampfes möglich. Charaktere, die den Spielzug "Den Gegner schwächen" erfolgreich einsetzen, würfeln in dieser Kampfrunde keinen Kampfwürfel, um zu prüfen, ob sie getroffen werden. Sollte es mal brenzlich werden, kann der Charakter sich nur durch einen erfolgreichen Wurf auf "Etwas riskieren" aus dem Kampf zurückziehen. Außerdem muss ein anderer Kampfteilnehmer dessen Schwäche übernehmen.  
+Jeder Spielercharakter, der an dem Kampf teilnimmt, hat pro Runde einen W6 als Kampfwürfel zur Verfügung. Bei den Kampfwürfeln wird nicht zwischen weißen oder schwarzen Würfeln unterschieden, weil der gesamte Kampf eine riskante Aktion ist.  
+Ziel im Kampf ist es, mit der Summe der beiden höchsten Augenzahlen aller Kampfteilnehmer die Gefahrenstufe des Gegners zu erreichen oder zu übertreffen. Sobald die Gruppe dies in einer Runde erreicht, ist der Gegner besiegt. Mit dem Spielzug "Den Gegner schwächen" kann die Gefahrenstufe des Gegners gesenkt werden. Bei Gegnern, die eine höhere Gefahrenstufe als 12 haben, ist es zwingend notwendig diese erst zu senken. Dies ist sowohl vor Beginn des Kampfes als auch während des Kampfes möglich. Charaktere, die den Spielzug "Den Gegner schwächen" erfolgreich einsetzen, würfeln in dieser Kampfrunde keinen Kampfwürfel, um zu prüfen, ob sie getroffen werden. Sollte es mal brenzlich werden, kann der Charakter sich nur durch einen erfolgreichen Wurf auf "Etwas riskieren" aus dem Kampf zurückziehen. Außerdem muss ein anderer Kampfteilnehmer dessen Schwäche übernehmen.  
 Grundsätzlich können alle SC am Kampfgeschehen teilnehmen.
 
 Ablauf eines Kampfes:
@@ -153,3 +154,4 @@ Um zu erfahren, ob eure Lösung funktioniert, wirft einer der Spielenden 2W6 und
 *Wenn es zum Kampf kommt, muss dieser nicht unbedingt direkt gegen den Dämon geführt werden. Der Wurf bezieht sich ja nur auf die Lösung des Problems und nie auf die Herleitung und die Erzählung. Es kann auch sein, dass sich die Gruppe der Bewohner gegen unsere Spielenden stellt, weil sie die angebotene Lösung nicht akzeptieren wollen.*
 
 [Zurück nach oben](#spielz%C3%BCge)
+
