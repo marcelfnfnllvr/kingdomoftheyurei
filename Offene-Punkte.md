@@ -9,12 +9,12 @@
 - [x] Darstellung der Welt  -> Landschaft --> Allgemeines --> Marcel
   - [x] Unter "Darstellung der Welt" als Einleitungstext
   - [x] Korrekttur und Sinn lesen
-- [ ] Regeln
+- [x] Regeln
   - [x] Außer Gefecht erst am Szenenende lösen? Ja! --> Regeln --> Außer Gefecht --> Topflappen 
 - [x] Wenn im Kampf der Char mit dem höchsten Kampfwürfel down geht und der Kampf weiterläuft, klären ob/wer den zweiten Kampfwürfel "erbt" --> den kriegt keiner --> Topflappen
 - [x] freien Attributsslot-Würfel erklären --> Regeln --> Marcel
   - [x] als eigener Abschnitt in den Regeln
-  - [x] Korrekttur und Sinn lesen
+  - [x] Korrektur und Sinn lesen
 - [x] Auf Reisen umfomulieren? Das mit dem Attribut ist glaube ich unnötig. Kann als Ideengeber drin bleiben. --> Marcel 
   - [x] Im Prinzip ist es so formuliert. Es gibt ohne passende Story zum Attribut halt nur einen Würfel. Ist schon konsequent?
 - [ ] Charaktererstellung - Marcel macht was --> Korrektur lesen --> Topflappen
@@ -23,18 +23,18 @@
 - [ ] Illustrationen als Postkarten --> Topflappen + Brunhvitr
 - [x] Zum Essen noch Beispiele? Sonst wirkt da so leer?
 - [ ] Bögen
-  - [x] Abenteuerbgen entwerfen
+  - [x] Abenteuerbogen entwerfen
     - [ ] Brunhvitr illustriert
   - [x] Kampfbogen entwerfen
     - [ ] Brunhvitr illustriert
 - [x] Abenteuerbogen und Kampfbogen erklären.
   - [x] Marcel hat das getan.
-  - [ ] Lesen sie das bitte -> Topflappen
+  - [x] Lesen Sie das bitte -> Topflappen
 - [ ] Ablaufdiagramme für Session und Abenteuer
 - [x] Checkliste für den Anfang des Spiels
   - [x] Für Spielende und Leitende Personen
   - [x] Vorschlag unter Abenteuer_Vorwort erstellt -- Marcel
-    - [ ] --> Topflappen Verbesserungsvorschläge?
+    - [x] --> Topflappen Verbesserungsvorschläge?
 - [x] aus dem Kampf fliehen
   - [x] Hitdice geht auf andere Person
   - [x] Ist schon beschrieben - Marcel
@@ -48,7 +48,7 @@
   - [ ] 1 schreibt Marcel
     - [ ] irgendwas mit Kindern und einem Fest
 
-  - [ ] 2 schreibt Doro
+  - [ ] 2 schreibt Topflappen
     - [ ] irgendwas mit einem Markt auf einem See
 
 
@@ -401,6 +401,7 @@
 - [x] Wirkliche sterben und heilen und so abschaffen? Progression über die Abenteuer hinweg. Tod bzw auder Gefecht nur wichtig ob es ein schwarze oder ein weise Epoche des Charakters war?
 - [x] Doch vor dem Kampf den Würfel werfen aber mit einem Modifikator drauf? Also von +1 - -2 oder so.
 - [x] Einen Zustand heilen über eine spezifische Frage die nur für das Abenteuer ist
+
 
 
 
