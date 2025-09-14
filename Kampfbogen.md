@@ -11,13 +11,12 @@
 |      |                    | Gefahrenlevel der            | Bedrohung:         |                         |      |      |      |      |      |
 |      |                    | Hinweise beim Überwinden der | Bedrohung:         | 1                       | 2    | 3    | 3    | 3    | 3    |
 
-(X&X) X - Der Spielende mit der höchsten Augenzahl im Wurf erhält in der nächsten Runde einen weiteren Würfel. Es zählt von seinem Wurf aber immer nur der Würfel mit der höchsten Augenzahl.
-
-(*X) - Markierung für den Spielzug "Den Gegner schwächen". Das Ergebnis dieses Wurfes zählt diese Runde nicht als Kampfwürfel und kann nicht genutzt werden, um das Gefahrenlevel zu erreichen.
-
 #### Erklärung:
 
-Wie wird der Kampfbogen genutzt? In unserem Beispiel kämpfen die Charaktere Ayane, Eran und Yūsuke gegen eine Bedrohung in Form eines Monsters oder einer Gruppe von Gegnern mit dem Gefahrenlevel 12. Zunächst müssen sie einen W6 für ihren Schwachpunkt würfeln und diesen bei „Schwachpunkt” eintragen.  In der ersten Runde greifen sie die Bedrohung direkt an und würfeln eine 5, eine 3 und eine 2. Die beiden höchsten Würfel werden nun vermerkt. Eine 8 ist nicht gleich oder höher dem Gefahrenlevel der Bedrohung, sodass sie es nicht schaffen, die Bedrohung in der ersten Runde zu besiegen. Durch die gewürfelte 3 steigt allerdings Erans Zustand um eins, da er in dieser Runde verletzt wird. In der zweiten Runde versucht die Gruppe nun, die Gefahrenstufe zu senken. Sie nutzen dafür den Spielzug „Das Gefahrenlevel senken”. Ayane und Eran schaffen dies und senken das Gefahrenlevel auf 10, Yūsuke hingegen nicht. Er muss einen Kampfwürfel werfen, um festzustellen, ob er sich oder einen seiner Mitkämpfer verletzt. Er würfelt eine 1 und verletzt niemanden. In der dritten Runde hat Ayane einen weiteren Würfel zur Verfügung, weil er in der ersten Runde das höchste Ergebnis hatte, und Yūsuke, weil er in der zweiten Runde das höchste Ergebnis hatte. Ayane würfelt eine 3 und eine 5, wobei das höhere Ergebnis zählt. Eran würfelt eine 2 und Yūsuke eine 4 und eine 6, wobei die 6 zählt. Gemeinsam erreichen sie eine Summe von elf und besiegen in dieser Runde die Bedrohung. Allerdings werden Ayane und Yūsuke noch von der Bedrohung erwischt und ihre Zustände steigen um einen Punkt.
+Wie wird der Kampfbogen genutzt? In unserem Beispiel kämpfen die Charaktere Ayane, Eran und Yūsuke gegen eine Bedrohung in Form eines Monsters oder einer Gruppe von Gegnern mit dem Gefahrenlevel 12. Zunächst müssen sie einen W6 für ihren Schwachpunkt würfeln und diesen bei „Schwachpunkt” eintragen.  
+In der ersten Runde greifen sie die Bedrohung direkt an und würfeln eine 5, eine 3 und eine 2. Die beiden höchsten Würfel werden nun vermerkt. Eine 8 ist nicht gleich oder höher dem Gefahrenlevel der Bedrohung, sodass sie es nicht schaffen, die Bedrohung in der ersten Runde zu besiegen. Durch die gewürfelte 3 steigt allerdings Erans Zustand um eins, da er in dieser Runde verletzt wird.  
+In der zweiten Runde versucht die Gruppe nun, das Gefahrenlevel (GFL) zu senken. Sie nutzen dafür den Spielzug „Das Gefahrenlevel senken”. Ayane und Eran schaffen dies und senken das Gefahrenlevel auf 10, Yūsuke hingegen nicht. Er muss einen Kampfwürfel werfen, um festzustellen, ob er sich oder einen seiner Mitkämpfer verletzt. Er würfelt eine 1 und verletzt niemanden.  
+In der dritten Runde hat Ayane einen weiteren Würfel zur Verfügung, weil sie in der ersten Runde das höchste Ergebnis hatte, und Yūsuke, weil er in der zweiten Runde das höchste Ergebnis hatte. Ayane würfelt eine 3 und eine 5, wobei das höhere Ergebnis zählt. Eran würfelt eine 2 und Yūsuke eine 4 und eine 6, wobei die 6 zählt. Gemeinsam erreichen sie eine Summe von elf und besiegen in dieser Runde die Bedrohung. Allerdings werden Ayane und Yūsuke noch von der Bedrohung erwischt und ihre Zustände steigen um einen Punkt.
 
 |      |                    |                              |                    | Höchste Würfelaugenzahl |        |         |      |      |      |
 | ---- | ------------------ | ---------------------------- | ------------------ | ----------------------- | ------ | ------- | ---- | ---- | ---- |
@@ -30,6 +29,4 @@ Wie wird der Kampfbogen genutzt? In unserem Beispiel kämpfen die Charaktere Aya
 |      |                    | Gefahrenlevel der            | Bedrohung:         | 12                      | 10     | 10      |      |      |      |
 |      |                    | Hinweise beim Überwinden der | Bedrohung:         | 1                       | 2      | 3       | 3    | 3    | 3    |
 
-(X&X) X - Der Spielende mit der höchsten Augenzahl im Wurf erhält in der nächsten Runde einen weiteren Würfel. Es zählt von seinem Wurf aber immer nur der Würfel mit der höchsten Augenzahl.
-
-(*X) - Markierung für den Spielzug "Den Gegner schwächen". Das Ergebnis dieses Wurfes zählt diese Runde nicht als Kampfwürfel und kann nicht genutzt werden, um das Gefahrenlevel zu erreichen.
+(X&X) X - Der/die Spielende mit der höchsten Augenzahl im Wurf erhält in der nächsten Runde einen weiteren Würfel. Zum Wurf zählt aber immer nur der Würfel mit der höchsten Augenzahl, also der Wert außerhalb der Klammer.
