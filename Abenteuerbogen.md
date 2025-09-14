@@ -31,3 +31,4 @@
 |                                                              |               |         |
 |                                                              |               |         |
 
+In diesem Bogen werden die Hinweise aus dem Abenteuer gesammelt, die die Spielenden im Laufe der Runde sammeln. Die Spalte "Benutzt" ist für das Ende des Abenteuers gedacht, wenn die Spielenden das Abenteuer lösen und dafür ihre Geschichte erzählen und dafür die gesammelten Hinweise verwenden. Die SL hakt dabei (ggf. gemeinsam mit den Spielenden) die für die Erklärung genutzten Hinweise ab. Es müssen nicht alle Hinweise verwendet werden. Am Ende der Erzählung werden die abgehakten Hinweise gezählt und die Summe von der Abenteuerstufe abgezogen. Die Differenz ergibt den Wert, den die Spielenden mit dem Zug "Das Abenteuer lösen" mindestens erreichen müssen, um das Abenteuer ohne zusätzlichen Endkampf zu beenden.
