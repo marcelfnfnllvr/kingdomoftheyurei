@@ -10,7 +10,7 @@ Nachdem das geklärt ist, werden die Charaktere ganz nach dem Kapitel "Charakter
 
 ##### Vorbereitungen
 
-Ist die Session 0 abgeschlossen und haben alle ihre Charaktere, dann kann ins erste Abenteuer gestartet werden. Davor müssen die Spielenden nur noch die drei Abenteueraufgaben wählen, die sie versuchen möchten in der Session abzuschließen.
+Ist die Session 0 abgeschlossen und haben alle ihre Charaktere, dann könnt ihr ins erste Abenteuer starten. Davor müssen die Spielenden nur noch die drei zusätzlichen Abenteueraufgaben wählen, die sie versuchen möchten in der Session abzuschließen, und sie auf ihrem Charakterbogen ankreuzen. Außerdem können Spielende, die bereits mindestens ein Abenteuer erfolgreich abgeschlossen haben, eine Ehrung mit ihrem dazugehörigen Attribut wählen, die sie im Charakterbogen aktiv haben. Die Ehrung kann nicht während des Abenteuers gewechselt werden.
 
 ##### Im Spiel
 
@@ -19,7 +19,7 @@ Danach führt die SL die Gruppe in das Abenteuer ein. Dafür gibt es bei jedem A
 Mit der Eröffnung steigen die Spielenden direkt ins Abenteuer ein. Nach dieser Szene steht es ihnen frei wie sie weiter agieren und in welcher Reihenfolge sie mit NSCs sprechen und die verschiedenen Schauplätze besuchen möchten. Dabei ist es auch vollkommen in Ordnung, wenn sich die Gruppe zwischenzeitlich aufteilt und unterschiedliche Schauplätze untersucht. Nach einer oder wenigen Szenen können sie dann wieder aufeinander treffen und ihre Erkenntnisse miteinander teilen. Da die Hinweise eher unspezifisch sind, können sie von der SL so flexibel vergeben werden, dass sie sich gut in die jeweilige Handlung oder Szene einfügen. Es ist also grundsätzlich nicht nötig, dass die Spielenden eine bestimmte Reihenfolge einhalten.   
 Gelangen sie an einen neuen Schauplatz, können sie auch diesen häufig im Rahmen einer Eröffnungsfrage mitgestalten. Die Antworten auf diese Frage kann die SL wiederum im Lauf der Szene wieder verwenden, beispielsweise wenn sie auf einen gewissen Hinweis deuten, der gut zur Szenerie passt. 
 Im späteren Verlauf der Session kann das Geschehen auch noch durch einen Kampf aufgelockert werden, den die SL mit gesammelten Verderbnispunkten kauft. Allein da hierfür die Verderbnispunkte ausgegeben werden müssen, kann sich diese Art von Kampf tendenziell erst später ereignen.  
-Hat die Gruppe irgendwann genügend Hinweise gesammelt (abhängig von der Schwierigkeit des Abenteuers), beendet die SL vorerst das Rollenspiel. Nun folgt die Aufgabe für die Gruppe, die Hinweise zu einer plausiblen Geschichte zusammenzubauen und eine Lösung für das Problem zu präsentieren. Das Austüfteln der Geschichte dauert meist ein wenig, also sollte auch für diesen Schritt genügend Zeit eingeplant werden (grob geschätzt 15min, je nach Spielgruppe). Nachdem den Spielenden für diese Aufgabe genügend Zeit eingeräumt wurde, präsentieren sie der Spielleitung ihre Lösung. Die SL zählt dabei mit, wie viele der gefundenen Hinweise in der Geschichte verbaut sind. Anschließend wird die Anzahl der verbauten Hinweise von der Schwierigkeit des Abenteuers abgezogen. Zuletzt würfeln die Spielenden mit zwei W6 gegen die so gesenkte Schwierigkeit des Abenteuers. Je nach Ergebnis folgt hierauf das Ende des Abenteuers, wenn der Wurf auf den Spielzeug "Das Abenteuer lösen" gelingt und die Lösung von allen Beteiligten akzeptiert wird. Schlägt der Wurf fehlt, kommt es stattdessen zum Endkampf.
+Hat die Gruppe irgendwann genügend Hinweise gesammelt (abhängig von der Schwierigkeit des Abenteuers), beendet die SL vorerst das Rollenspiel. Nun folgt die Aufgabe für die Gruppe, die Hinweise zu einer plausiblen Geschichte zusammenzubauen und eine Lösung für das Problem zu präsentieren. Das Austüfteln der Geschichte dauert meist ein wenig, also sollte auch für diesen Schritt genügend Zeit eingeplant werden (grob geschätzt 15min, je nach Spielgruppe). Nachdem den Spielenden für diese Aufgabe genügend Zeit eingeräumt wurde, präsentieren sie der Spielleitung ihre Lösung. Die SL zählt dabei mit, wie viele der gefundenen Hinweise in der Geschichte verbaut sind. Hierfür kann der Abenteuerbogen verwendet werden. Anschließend wird die Anzahl der verbauten Hinweise von der Schwierigkeit des Abenteuers abgezogen. Zuletzt würfeln die Spielenden mit zwei W6 gegen die so gesenkte Schwierigkeit des Abenteuers. Je nach Ergebnis folgt hierauf das Ende des Abenteuers, wenn der Wurf auf den Spielzeug "Das Abenteuer lösen" gelingt und die Lösung von allen Beteiligten akzeptiert wird. Schlägt der Wurf fehlt, kommt es stattdessen zum Endkampf.
 Damit ist das eigentliche Spiel vorbei und es bleibt nur noch zu prüfen ob und wie viele Abenteueraufgaben die Spielenden abhaken können und ob die so gewonnenen Abschnittspunkte für einen Abschnittswechsel ausgegeben werden.
 
 In den vorgefertigten Abenteuern sind alle wichtigen Elemente wie Schauplätze, NSCs, Eröffungsfragen, Problemstellung des Abenteuers etc. schon enthalten.
@@ -39,7 +39,7 @@ Dieses System ist ausgelegt für Gruppen mit drei bis vier Spielenden. Bei wenig
 1. Spielleitung: Abenteuer gelesen und vorbereitet?
 2. Spielleitung: Eventuell nötige neue Charaktere mit den Spielenden erstellt?
 3. Spielende: Ist ein Aufstieg gewollt, oder notwendig?
-4. Spielende: Drei zusätzlichen Aufgaben, auf dem Charakterbogen, gewählt?
+4. Spielende: Drei zusätzliche Aufgaben auf dem Charakterbogen gewählt?
 5. Spielende: Wurde eine neue Ehrung gewählt?
 6. Spielende: Zu beantwortende Aufstiegsfragen der Gruppe vorgestellt?
 
@@ -57,23 +57,7 @@ Außerdem gibt es in jedem Abenteuer einige *Momente*, die dazu gedacht sind die
 - In einer Straße mit Handwerkern stellen gerade zwei Männer Mochi her. Einer schlägt mit einem schweren Holzstößel auf die Reismasse im Mörser, während der andere den Teig wendet und mit Wasser feucht hält.
 - Drei Kinder stehen um einen Baum herum und scheinen an dessen Stamm etwas zu beobachten. Das Singen einer Zikade stoppt abrupt, als eines der Kinder sie fängt und stolz seinen Freunden zeigt.
 
-Neben Momenten gibt es natürlich auch noch Schauplätze und Personen, die die Spielenden im Laufe eines Abenteuers am Ort des Geschehens besuchen können. Auch hierfür hat jedes Abenteuer seine eigenen, diese lassen sich aber bei Bedarf ergänzen, zum Beispiel hiermit:
-
-Schauplätze 
-- Friedhof: Eine zentral im Ort gelegene, mit einer niedrigen Mauer eingefasste Fläche. Die Gräber sind vollkommen aus Stein, oben mit einer steinernen Stele, auf der ein Familienname eingraviert ist.
-  > Was zeigt euch, dass der Toten regelmäßig gedacht wird?
-- Eine Gasse mit Handwerkern: Schon früh am Morgen herrscht hier Hochbetrieb. Vor jedem Hauseingang hängen Noren - kurze Leinenvorhänge, die das Hergestellte bewerben. In einigen offenen Werkstätten könnt ihr den Handwerkern bei der Arbeit zusehen.
-  > Welche Handwerker gibt es hier und woran arbeiten sie gerade?
-- Angelplatz: Ein ausgetretener Pfad führt zu einer ruhigen Stelle am Ufer, wenige Meter über der Wasseroberfläche. Im klaren Wasser seht ihr zahlreiche Fische wie silbrige Blitze herumflitzen. Ein älterer Herr in einfacher Kleidung sitzt am Ufer und hält eine Angelrute.  
-  > Was zeigt euch, dass dieser Ort sowohl von Menschen als auch Tieren gern besucht wird?
-- Hügel mit heiligem Baum: Auf einer kleinen Anhöhe oberhalb des Weges steht eine ehrfurchtgebietende Kiefer mit weit ausladender Krone. Um ihren dicken Stamm ist ein Tau gebunden, von dem Quasten und zickzackförmige, weiße Streifen hängen. Der Ort strahlt ein Gefühl des Friedens aus.
-  > Woran merkt ihr, dass ihr der Welt des Zwielichts hier näher seid?
-- Wegschrein: Hinter einem rot lackierten Torii führt ein Weg durch einen Bambushain hoch zu einem großen Schrein. Eine schmale Treppe führt hinauf, gesäumt von steinernen Laternen.
-  > Der Schrein hat schon bessere Zeiten gesehen. Was gibt euch trotzdem das Gefühl, dass hier noch immer Menschen herkommen, um zu beten?
-- Ryokan: In der mit einem Tuschegemälde und einem frichen Blumengesteck dekorierten Eingangshalle stehen die Schuhe der anderen Gäste sauber aufgereiht an der Stufe. Weiter hinten führt eine Treppe hinauf zu den Gästezimmern.  
-  > Auch wenn hier alles sehr gut in Schuss ist, merkt ihr, dass das Ryokan schon eine lange Geschichte hinter sich hat. Woran?  
-- Izakaya: An der Wand hängt grob gekritzelt die Speisekarte, der Schankraum ist gefüllt mit niedrigen Tischen auf Tatami-Matten und der Geruch von Sake steht in der Luft.  
-  > Welche der Speisen fällt euch ins Auge und warum?  
+Neben Momenten gibt es natürlich auch noch Schauplätze und Personen, die die Spielenden im Laufe eines Abenteuers am Ort des Geschehens besuchen können. Auch hierfür hat jedes Abenteuer seine eigenen. Weitere Schauplätze oder NSCs, die du bei Bedarf verwenden kannst, findest du bei den Zufallstabellen.
 
 NSCs
 - Keiko Ishida - Lackwaren-Händlerin  
