@@ -14,9 +14,9 @@ In *Königreich der Yōkai* haben die Charaktere der Spielenden (SC) Attribute u
 
 Die Attributswürfel können schwarz oder weiß sein, je nachdem, ob sie von einem Attribut, einer Hilfestellung oder einer Beeinträchtigung stammen. Ist der Wurf des Spielenden erfolgreich und hat dabei ein weißer Würfel die höchste Augenzahl, gelingt der Spielzug ohne negative Konsequenzen. Wurden hingegen mit dem Wurf ein schwarzer Würfel mit der höchsten Augenzahl oder gleich vielen Augen wie das höchste Ergebnis eines weißen Würfels erzielt, so wird der Charakter in seiner dämonischen Natur stärker korrumpiert.
 
-Wenn Eran zum Beispiel versucht, eine Klippe hinunter zu klettern, um auf einen Vorsprung zu gelangen, wäre dies der Spielzug „Risiko eingehen“. Da es sich um eine gefährliche Aktion handelt, erhält der SC einen schwarzen Würfel für seinen Würfelpool und könnte nun einen weiteren Würfel mit einem passenden Attribut nehmen. Eran hat das Attribut "gewandt" und die SL erlaubt ihm, dafür zusätzlich einen weißen Würfel zu nehmen. Hat Eran einen Zustand, der ihm die Aufgabe erschwert, oder wird ihm geholfen, bekommt er noch einen dritten Würfel für seinen Pool hinzu.
+Wenn Eran zum Beispiel versucht, eine Klippe hinunter zu klettern, um auf einen Vorsprung zu gelangen, wäre dies der Spielzug „Etwas riskieren“. Da es sich um eine gefährliche Aktion handelt, erhält der SC einen schwarzen Würfel für seinen Würfelpool und könnte nun einen weiteren Würfel mit einem passenden Attribut nehmen. Eran hat das Attribut "gewandt" und die SL erlaubt ihm, dafür zusätzlich einen weißen Würfel zu nehmen. Hat Eran einen Zustand, der ihm die Aufgabe erschwert, bekommt er noch einen dritten Würfel für seinen Pool hinzu.
 
-Nun wird mit beiden Würfeln gewürfelt und die höchste Augenzahl zählt. Da Eran eine weiße Sechs würfelt, schafft er nicht nur den Abstieg zum Felsvorsprung, sondern findet dort auch direkt einen Hinweis, den die SL passend aus der Hinweisliste auswählt.
+Nun wird mit beiden Würfeln gewürfelt und die höchste Augenzahl zählt. Da Eran eine weiße Sechs würfelt, schafft er den Absteig problemslos.
 
 ## Spielprinzipien
 
@@ -54,9 +54,9 @@ Menschen können mit Geistern und Dämonen interagieren, aber wenn sie von Dämo
 
 ## Wie unterscheidet sich diese Welt vom Japan des 15. Jahrhunderts?
 
-Das Königreich Soho und die Fureru, die dieses bereisen, sollen in keiner Weise eine historisch korrekte Darstellung Japans im 15. Jahrhundert sein. Trotzdem nehmen wir natürlich viele Versatzstücke und bauen diese zu unserem Königreich Soho und unserer Welt zusammen. Einiges, was ich speziell nicht übernehme, möchte ich hier erwähnen.
+Das Königreich Soho und die Fureru, die dieses bereisen, sollen in keiner Weise eine historisch korrekte Darstellung Japans im 15. Jahrhundert sein. Trotzdem nehmen wir natürlich viele Versatzstücke und bauen diese zu unserem Königreich Soho und unserer Welt zusammen. Einiges, was wir speziell nicht übernehme, möchten wir hier erwähnen.
 
-Soziale und gesellschaftliche Strukturen werden entweder ignoriert oder für spezifische Abenteuer entsprechend der jeweiligen Erfordernisse geschaffen. Diskriminierung bestimmter Bevölkerungsgruppen sowie Diskriminierung bestimmter Geschlechter oder Hautfarben werden nicht gespielt. Das Königreich Soho und eure Helden im Speziellen werden vor genügend Herausforderungen gestellt und ich möchte nicht, dass die oben genannten dazugehören. Ich möchte und kann natürlich niemandem verbieten bestimmte Strukturen in seiner Welt zu etablieren, aber denkt sehr genau darüber nach, welchen Aspekt ihr in eurem Spiel haben möchtet.  
+Soziale und gesellschaftliche Strukturen werden entweder ignoriert oder für spezifische Abenteuer entsprechend der jeweiligen Erfordernisse geschaffen. Diskriminierung bestimmter Bevölkerungsgruppen sowie Diskriminierung bestimmter Geschlechter oder Hautfarben werden nicht gespielt. Das Königreich Soho und eure Helden im Speziellen werden vor genügend Herausforderungen gestellt und wir möchten nicht, dass die oben genannten dazugehören. Wir wollen und kann können niemandem verbieten bestimmte Strukturen in seiner Welt zu etablieren, aber denkt sehr genau darüber nach, welchen Aspekt ihr in eurem Spiel haben wollt.  
 
 Worauf wir uns viel eher in *Augen des Zwielichts: Königreich der Yōkai* konzentrieren, sind die Landschaft, die Architektur und das Essen von Japan.
 
