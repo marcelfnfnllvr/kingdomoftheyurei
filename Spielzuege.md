@@ -82,7 +82,7 @@ Es ist möglich, im Kampf die Gefahrenstufe des Gegners mithilfe von Fähigkeite
 - 1&1 Die Gefahrenstufe des Gegners steigt noch einmal um 1.
 - 1-2 Die Gefahrenstufe des Gegners steigt um 1.
 - 5-6 Du senkst die Gefahrenstufe um 1.
-- 6&6 Du senkst die Gefahrenstufe um weitere 2.
+- 6&6 Du senkst die Gefahrenstufe um weitere 3.
 
 *Dieser Spielzug wird verwendet, um die Gefahrenstufe eines Gegners zu senken. Dies kann direkt vor einem Kampf geschehen, aber auch während des Kampfes. Die Fähigkeiten, die dafür verwendet werden, sollten im Kontext der Situation Sinn ergeben und eine gute Geschichte erzählen.*
 
