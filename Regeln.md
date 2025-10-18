@@ -93,6 +93,8 @@ Die folgenden Punkte werden erst am Ende der jeweiligen Szene mit dem betroffene
 9. Die Spielleitende Person bekommt einen Verderbnispunkt.
 10. Du bist jetzt in einem Abschnitt, in dem du langsam die Kontrolle über deinen Dämon verlierst. Dieser Abschnitt ist dunkel.
 
+Ein Charakter, der außer Gefecht gesetzt wurde, muss dann entweder über den Spielzug „Etwas riskieren” von einem anderen Charakter, aus der Geisterwelt befreit werden oder er erwacht automatisch nach einigen Stunden Spielzeit. Für diesen Charakter muss die Regel „Außer Gefecht gesetzt” angewendet werden. Dies kann, um den Spielfluss nicht zu stören, auch nach einem Kampf oder einer Situation passieren.
+
 >[Nach oben](Regeln)
 
 ## Der Abschnittswechsel
@@ -137,10 +139,6 @@ Korruption beschreibt das Ausmaß, in dem der Dämon von dem Charakter Besitz er
 Wenn die Korruption zunimmt, bekommt dein Charakter einen Zustand. Zustände zeigen den geistigen und körperlichen Verfall deines Charakters. Erhält ein Charakter während des Abenteuers einen sechsten Zustand, so ist er vorerst außer Gefecht gesetzt. 
 
 >[Nach oben](Regeln)
-
-## Außer Gefecht gesetzt
-
-Ein Charakter, der außer Gefecht gesetzt wurde, muss dann entweder über den Spielzug „Etwas riskieren” von einem anderen Charakter, aus der Geisterwelt befreit werden oder er erwacht automatisch nach einigen Stunden Spielzeit. Für diesen Charakter muss die Regel „Außer Gefecht gesetzt” angewendet werden. Dies kann, um den Spielfluss nicht zu stören, auch nach einem Kampf oder einer Situation passieren.
 
 ## TPK - Total Party Kill
 
