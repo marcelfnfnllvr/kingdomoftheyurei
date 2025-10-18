@@ -61,7 +61,7 @@ Du findest das Regelwerk hier in einer fast fertigen Version. Es lässt sich mit
 
 7. CATS ([CATS.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/CATS.md))
 
-
+![Yokai](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Downloads/Yokai.png?raw=true)
 
 ###### Carved From Brindlewood
 
