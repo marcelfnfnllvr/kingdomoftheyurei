@@ -68,14 +68,6 @@ Die Spielleitung sammelt Verderbnispunkte im Spielverlauf, wenn die Spielenden S
 
 >[Nach oben](Regeln)
 
-## Der freie Gegenstand
-
-Dieses Feld wird nie beschrieben, sondern immer nur im Kontext des Abenteuers und der Szene verwendet. Hier soll es möglich sein, dass die Charaktere durch ihre Umgebung oder durch Hinweise, die sie finden, einen Attributswürfel erhalten. Dieser Würfel ist weiß.
-
-*So kann beispielsweise ein "mystisches Buch" dazu genutzt werden, um einen Charakter, bei dem es gefunden wurde, weiter zu befragen. Das Buch gibt dann einen weißen Attributswürfel. Dieser Würfel zählt als Attributswürfel und nicht als Bonuswürfel. Er wird also nicht durch den Spielzug verbraucht.* 
-
->[Nach oben](Regeln)
-
 ## Außer Gefecht gesetzt
 
 Wenn ein Charakter sechs Zustände aufbaut, ist er außer Gefecht gesetzt. Es erfordert einen "Etwas riskieren"-Wurf eines anderen Spielenden, um dem Charakter wieder aufzuhelfen, es sei denn die Gruppe kann sich zurückziehen und eine Verschnaufpause einlegen. Die Charaktere können nicht sterben, sondern werden älter und treten in einen neuen, dunkleren Abschnitt ihres Lebens ein. Während dieses Übergangs verändert der Dämon den Charakter nachhaltig.  
