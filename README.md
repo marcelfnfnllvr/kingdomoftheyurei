@@ -1,12 +1,67 @@
 # Königreich der Yōkai
 
-Willkommen Wanderer!
+Willkommen, Wanderer!
 
-Du findest hier ein Regelwerk, an dem ich seit geraumer Zeit schraube. Die grundlegende Idee war ein Regelsystem zu schaffen, welches die Würfelmechanik von Trophy Gold mit der Abenteuermechanik von Brindlewood Bay kombiniert. Außerdem wollte ich eine Welt schaffen, die sich an die Ghibli-Filme Prinzessin Mononoke, Nausicaä oder auch Die Chroniken von Erdsee anlehnt. "Ernst, aber trotzdem magisch" ist das Motto.
+Du findest hier ein Regelwerk, an dem wir seit geraumer Zeit arbeiten. Die grundlegende Idee war, ein Regelsystem zu schaffen, das die Würfelmechanik von Trophy Gold mit der Abenteuermechanik von Brindlewood Bay kombiniert. Außerdem wollten wir eine Welt erschaffen, die sich an die Ghibli-Filme „Prinzessin Mononoke”, „Nausicaä” oder auch „Die Chroniken von Erdsee” anlehnt. „Ernst, aber trotzdem magisch“ ist das Motto.
 
-Nach einigen Testsessions und Regelüberarbeitungen lässt sich das Ganze zumindest schon ganz gut spielen. Wenn du interessiert bist, lies dir gerne die Allgemeine Übersicht, die Regeln und die Spielzüge durch. Bitte beachte, dass hier noch aktiv gearbeitet wird und vieles noch nicht fertig ist.
+Du findest das Regelwerk hier in einer fast fertigen Version. Es lässt sich mit allen Informationen aus diesem GitHub lesen und leiten. Wir wünschen dir viel Spaß dabei. Falls dir das gefällt, würden wir uns freuen, wenn du dir ebenfalls die bebilderte Version anschaust. Diese wird in wenigen Wochen zur Verfügung stehen.
 
-Inwiefern ich wirklich eine der beiden Lizenzen nutze, ändert sich ständig. Ich finde, dass "Königreich der Yōkai" schon viel mehr als ein Hack der beiden System ist. Dennoch erwähne ich beide Systeme sehr gerne, allein schon, weil es zwei meiner absoluten Favoriten sind.
+1. Einführung und Übersicht ([Allgemeines.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Allgemeines.md))  
+   1. Worum geht es in diesem Rollenspiel?
+   2. Wie spielt sich *Augen des Zwielichts: Königreich der Yōkai*?
+   3. Spielprinzipien 
+   4. Wie sind die Abenteuer aufgebaut?  
+   5. In welcher Welt spielt *Augen des Zwielichts: Königreich der Yōkai*?
+   6. Geister, Dämonen und Fureru  
+   7. Wie unterscheidet sich die Welt vom Japan des 15. Jahrhunderts
+   8. Darstellung der Welt  
+      1. Wohnhäuser
+      2. Stadthäuser
+      3. Iakaya
+      4. Ryokan
+      5. Burgen
+      6. Onsen
+      7. Gärten
+      8. Essen
+
+2. Regeln + Spielzüge  
+   1. Einleitung (Intro-Regeln-Mechanik.md)
+   2. Regeln (Regeln.md)  
+   3. Spielzüge (Spielzüge.md)
+   4. Spielbeispiele (Spielbeispiele.md)  
+
+3. Charaktere  
+   1. Charaktererstellung (Charaktererstellung.md)  
+
+4. Abenteuer  
+   1. Einführung (Abenteuer_Vorwort.md)  
+   2. Aufbau (Abenteueraufbau.md)  
+   3. Abenteuer
+      1. Das Anwesen
+      2. Der Pilzbefall 
+      3. Der Berg erwacht 
+      4. Der Wald  
+      5. Die Aschegeister  
+      6. Das Dojo
+      7. Der Tempel
+      8. Frühlingszeit
+      9. Der Verschollene
+      10. Die Wüste
+
+6. Glossar (Glossar.md)  
+
+7. Ressourcen  
+   1. Abenteuerbogen  
+   2. Kampfbogen  
+   3. Charakterbogen  (vom Stil her wie ausgedruckt und dann per Hand ausgefüllt + Kommentare dazugekritzelt oder so?)
+   4. Zufallstabellen
+   5. Cheatsheet  
+
+8. CATS
+
+## 
+
+
 
 ###### Carved From Brindlewood
 
