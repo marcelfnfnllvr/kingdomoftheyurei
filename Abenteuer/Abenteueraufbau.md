@@ -1,6 +1,6 @@
 # Name des Abenteuers
 
-Schwierigkeit: Schwierigkeit von 12-20 –  Beschreibung wie lang und wie gefährlich das Abenteuer ist.
+Schwierigkeit: Schwierigkeit von 12-2X –  Beschreibung wie lang und wie gefährlich das Abenteuer ist.
 
 ### Spielleiterhinweise:
 
@@ -25,6 +25,7 @@ Eine einleitende Beschreibung wie die Charaktere am Abenteuerort ankommen.
 -	Verschiedene Gefahren, die die Spielleitung in das Abenteuer einbauen kann. Diese werden meistens durch das Würfeln der Spielenden ausgelöst.  
 -	Kämpfe entbrennen oft dadurch, dass die Spielleitung Verderbnispunkte ausgibt, die sie zuvor aus misslungenen Würfen der Spielenden erhalten hat. Die Gefahrenstufe des Gegners hängt dabei von der Anzahl der ausgegebenen Verderbnispunkte ab:  
     2 Verderbnispunkte --> Gefahrenstufe 8  
+
  	 3 Verderbnispunkte --> Gefahrenstufe 10  
  	 4 Verderbnispunkte --> Gefahrenstufe 12  
 
@@ -34,10 +35,10 @@ Eine einleitende Beschreibung wie die Charaktere am Abenteuerort ankommen.
 
 ### Personen:
 
-##### Name der Person – Position der Person
+##### Name der Person – Position der Person - Wichtige Merkmale
 
-Kurzbeschreibung 
-Ist die Person wohlgesonnen oder misstrauisch der Gruppe gegenüber.
+Kurzbeschreibung: 
+Ist die Person der Gruppe gegenüber wohlgesonnen oder misstrauisch?
 Eine längere Beschreibung des Verhaltens der Person mit kurzen Beispielen.
 
 ### Schauplätze:

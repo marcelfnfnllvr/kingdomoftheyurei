@@ -3,7 +3,7 @@
 ##### Session 0 - Vor dem Spiel
 
 Vor der ersten Session, vor allem wenn es sich um einen Oneshot handelt, sollten die CATS an die Spielenden gegeben werden. Außerdem sollten die Lines and Veils abgeklärt werden. So wird die Gefahr minimiert, dass es Missverständnisse und falsche Erwartungen gibt oder jemand aus der Gruppe mit für ihn oder sie zu unangenehmen Themen konfrontiert wird.
-<!-- Entwicklerkommentar incoming-->
+
 Auch wenn es möglich ist seinen Charakter in Gänze zu würfeln, tendiere ich dazu bei den Spielenden einen Namen, das Aussehen und ein Reittier abzufragen. Nachdem ich über die CATS an dem Abend das Spiel grob erklärt habe, gehe ich meistens noch 10 Minuten näher auf die Punkte ein, die in der allgemeinen Beschreibung aufgeführt sind. Auch über den Ton des Abends rede ich noch etwas ausführlicher. Hier ist vor allem wichtig, dass sich alle auf einen gemeinsamen Nenner einigen und nicht welcher genau das ist. Dieses Regelwerk kann sehr ernst aber auch eher locker gespielt werden. Mir ist immer dabei immer wichtig, dass die Spielenden ihre Charaktere ernst nehmen.
 
 Nachdem das geklärt ist, werden die Charaktere ganz nach dem Kapitel "Charaktererstellung" erstellt.
