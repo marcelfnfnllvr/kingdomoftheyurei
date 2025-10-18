@@ -51,12 +51,11 @@ Du findest das Regelwerk hier in einer fast fertigen Version. Es lässt sich mit
 5. Glossar ([Glossar.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Glossar.md))  
 
 6. Ressourcen  
-   1. Abenteuerbogen (fehlt noch)
-   2. Kampfbogen (fehlt noch) 
-   3. Charakterbogen (fehlt noch)
+   1. Abenteuer- und Kampfbogen ([Abenteuer- und Kampfbogen.pdf](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Downloads/Abenteuer-%20und%20Kampfbogen.pdf))
+   2. Charakterbogen (fehlt noch)
    4. Zufallstabellen ([Zufallstabellen.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Zufallstabellen.md))
    5. Cheatsheet  ([Cheatsheet.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Cheatsheet.md))
-
+   
 7. CATS ([CATS.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/CATS.md))
 
 
