@@ -52,7 +52,7 @@ Du findest das Regelwerk hier in einer fast fertigen Version. Es lässt sich mit
 
 6. Ressourcen  
    1. Abenteuer- und Kampfbogen ([Abenteuer- und Kampfbogen.pdf](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Downloads/Abenteuer-%20und%20Kampfbogen.pdf))
-   2. Charakterbogen (fehlt noch)
+   2. Charakterbogen ([Yokai Charakterbogen.pdf](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Downloads/Yokai%20Charakterbogen.pdf))
    3. Zufallstabellen ([Zufallstabellen.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Zufallstabellen.md))
    4. Cheatsheet  ([Cheatsheet.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Cheatsheet.md))
    5. Safety Tools im Pen & Paper ([SafetyTools.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/SafetyTools.md))
