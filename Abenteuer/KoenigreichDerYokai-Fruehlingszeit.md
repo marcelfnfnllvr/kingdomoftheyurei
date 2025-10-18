@@ -14,7 +14,8 @@ Falls die Situation eskaliert: Der Baum verdorrt und wird schwarz. Seine Blätte
 
 Ehrung: Baumpfleger - Umwelt 
 
-Abenteuerfrage:
+### Abenteuerfrage:
+
 Wie sähe ein Garten aus, in dem dein Charakter gerne verweilen möchte?
 
 

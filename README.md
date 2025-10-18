@@ -25,41 +25,39 @@ Du findest das Regelwerk hier in einer fast fertigen Version. Es lässt sich mit
       8. Essen
 
 2. Regeln + Spielzüge  
-   1. Einleitung (Intro-Regeln-Mechanik.md)
-   2. Regeln (Regeln.md)  
-   3. Spielzüge (Spielzüge.md)
-   4. Spielbeispiele (Spielbeispiele.md)  
+   1. Einleitung ([Intro-Regeln-Mechanik.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Intro-Regeln%20-Mechanik.md))
+   2. Regeln ([Regeln.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Regeln.md))  
+   3. Spielzüge ([Spielzüge.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Spielzuege.md))
+   4. Spielbeispiele ([Spielbeispiele.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Spielbeispiele.md))  
 
 3. Charaktere  
-   1. Charaktererstellung (Charaktererstellung.md)  
+   1. Charaktererstellung ([Charaktererstellung.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Charaktererstellung.md))  
 
 4. Abenteuer  
-   1. Einführung (Abenteuer_Vorwort.md)  
-   2. Aufbau (Abenteueraufbau.md)  
+   1. Einführung ([Abenteuer_Vorwort.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Abenteuer/Abenteuer_Vorwort.md))  
+   2. Aufbau ([Abenteueraufbau.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Abenteuer/Abenteueraufbau.md))  
    3. Abenteuer
-      1. Das Anwesen
-      2. Der Pilzbefall 
-      3. Der Berg erwacht 
-      4. Der Wald  
-      5. Die Aschegeister  
-      6. Das Dojo
-      7. Der Tempel
-      8. Frühlingszeit
-      9. Der Verschollene
-      10. Die Wüste
+      1. Das Anwesen ([KoenigreichDerYokai-DasAnwesen.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Abenteuer/KoenigreichDerYokai-DasAnwesen.md))
+      2. Der Pilzbefall ([KoenigreichDerYokai-DerPilzbefall.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Abenteuer/KoenigreichDerYokai-DerPilzbefall.md))
+      3. Der Berg erwacht ([KoenigreichDerYokai-DerBergerwacht.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Abenteuer/KoenigreichDerYokai_DerBergErwacht.md))
+      4. Der Wald ([KoenigreichDerYokai-DerWald.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Abenteuer/KoenigreichDerYokai_DerWald.md))
+      5. Die Aschegeister ([KoenigreichDerYokai-DieAschegeister.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Abenteuer/KoenigreichDerYokai_DieAschegeister.md))
+      6. Das Dojo ([KoenigreichDerYokai-DasDojo.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Abenteuer/KoenigreichDerYokai-DasDojo.md))
+      7. Der Tempel ([KoenigreichDerYokai-DerTempel.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Abenteuer/KoenigreichDerYokai-DerTempel.md))
+      8. Frühlingszeit ([KoenigreichDerYokai-Fruehlingszeit.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Abenteuer/KoenigreichDerYokai-Fruehlingszeit.md))
+      9. Der Verschollene ([KoenigreichDerYokai-DerVerschollene.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Abenteuer/KoenigreichDerYokai_DerVerschollene.md))
+      10. Die Wüste ([KoenigreichDerYokai-DieWueste.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Abenteuer/KoenigreichDerYokai-DieWüste.md))
 
-6. Glossar (Glossar.md)  
+5. Glossar ([Glossar.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Glossar.md))  
 
-7. Ressourcen  
-   1. Abenteuerbogen  
-   2. Kampfbogen  
-   3. Charakterbogen  (vom Stil her wie ausgedruckt und dann per Hand ausgefüllt + Kommentare dazugekritzelt oder so?)
-   4. Zufallstabellen
-   5. Cheatsheet  
+6. Ressourcen  
+   1. Abenteuerbogen (fehlt noch)
+   2. Kampfbogen (fehlt noch) 
+   3. Charakterbogen (fehlt noch)
+   4. Zufallstabellen ([Zufallstabellen.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Zufallstabellen.md))
+   5. Cheatsheet  ([Cheatsheet.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Cheatsheet.md))
 
-8. CATS
-
-## 
+7. CATS ([CATS.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/CATS.md))
 
 
 
