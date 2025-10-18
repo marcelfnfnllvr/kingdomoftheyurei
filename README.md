@@ -2,6 +2,8 @@
 
 Willkommen, Wanderer!
 
+![Yokai Logo](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Downloads/Logo.png?raw=true)
+
 Du findest hier ein Regelwerk, an dem wir seit geraumer Zeit arbeiten. Die grundlegende Idee war, ein Regelsystem zu schaffen, das die Würfelmechanik von Trophy Gold mit der Abenteuermechanik von Brindlewood Bay kombiniert. Außerdem wollten wir eine Welt erschaffen, die sich an die Ghibli-Filme „Prinzessin Mononoke”, „Nausicaä” oder auch „Die Chroniken von Erdsee” anlehnt. „Ernst, aber trotzdem magisch“ ist das Motto.
 
 Du findest das Regelwerk hier in einer fast fertigen Version. Es lässt sich mit allen Informationen aus diesem GitHub lesen und leiten. Wir wünschen dir viel Spaß dabei. Falls dir das gefällt, würden wir uns freuen, wenn du dir ebenfalls die bebilderte Version anschaust. Diese wird in wenigen Wochen zur Verfügung stehen.
