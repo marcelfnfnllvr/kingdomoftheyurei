@@ -1,8 +1,8 @@
 # Regeln
 
-Hier findet ihr alle Regeln, die ihr zum Spielen von "Augen des Zwielichts: Königreich der Yōkai" braucht. Den genauen Spielablauf findet ihr in den Spielbeispielen. Bitte beachtet dass zumindest die Spielleitenden das gesamte Regelwerk gelesen haben sollten, bevor sie ein Abenteuer leiten. Nur die Regeln zu lesen wird nicht ausreichen, um die Stimmung, das Gefühl, die Abenteuer, aber auch einfach den mechanischen Ablauf ausreichend zu verinnerlichen. Natürlich ist es auch für die Spielenden gut, wenn sie sich schon vor dem Spiel mit den Regeln auseinandergesetzt haben.  
+Hier findet ihr alle Regeln, die ihr zum Spielen von "Augen des Zwielichts: Königreich der Yōkai" braucht. Den genauen Spielablauf findet ihr in den Spielbeispielen. Bitte beachtet, dass zumindest die Spielleitung das gesamte Regelwerk gelesen haben sollten, bevor sie ein Abenteuer leiten. Nur die Regeln zu lesen wird nicht ausreichen, um die Stimmung, das Gefühl, die Abenteuer, aber auch einfach den mechanischen Ablauf ausreichend zu verinnerlichen. Natürlich ist es auch für die Spielenden gut, wenn sie sich schon vor dem Spiel mit den Regeln auseinandergesetzt haben.  
 
-Die Spielenden versuchen durch Spielzüge Hinweise zu sammeln und diese am Ende des Abenteuers zu kombinieren. Für die Spielzüge stellen sie einen Würfelpool zusammen, der aus schwarzen und weißen Würfeln bestehen kann. Dieser Pool wird dann gewürfelt und die zwei höchsten Augenzahlen werden gewertet. Welche Augenzahlen dabei zu welchem Ergebnis führen, findet ihr in dem jeweiligen Spielzug. Alle anderen Regeln stehen im folgenden Abschnitt. Die Spielleitung würfelt in diesem System nie selbst. Um das System besser zu verstehen und zu verinnerlichen, solltet ihr euch auch die Spielbeispiele durchlesen.  
+Die Spielenden versuchen, durch Spielzüge Hinweise zu sammeln und diese am Ende des Abenteuers zu kombinieren. Für die Spielzüge stellen sie einen Würfelpool zusammen, der aus schwarzen und weißen Würfeln bestehen kann. Dieser Pool wird dann gewürfelt und die zwei höchsten Augenzahlen werden gewertet. Welche Augenzahlen dabei zu welchem Ergebnis führen, findet ihr in den Erklärungen zum jeweiligen Spielzug. Alle anderen Regeln stehen im folgenden Abschnitt. Die Spielleitung würfelt in diesem System nie selbst. Um das System besser zu verstehen und zu verinnerlichen, solltet ihr euch auch die Spielbeispiele durchlesen.  
 
 >[1. Der Würfelpool](#der-w%C3%BCrfelpool---w%C3%BCrfel-sammeln)  
 >[2. Der Bonuswürfel](#der-bonusw%C3%BCrfel)  
@@ -57,33 +57,33 @@ Immer wenn die Augenzahl eines schwarzen Würfels im Ergebnis größer oder glei
 
 ## Verderbnispunkte
 
-Die Spielleitung sammelt Verderbnispunkte im Spielverlauf, wenn die Spielenden Spielzüge nutzen und dort niedrige Würfelergebnisse erzielen. Siehe dazu das Kapitel *Spielzüge*. Die Verderbnispunkte kann die Spielleitung für besondere Ereignisse ausgeben, um das Spiel spannender zu gestalten:
+Die Spielleitung sammelt Verderbnispunkte im Spielverlauf, wenn die Spielenden Spielzüge nutzen und dort niedrige Würfelergebnisse erzielen. Siehe dazu das Kapitel "*Spielzüge*". Die Verderbnispunkte kann die Spielleitung für besondere Ereignisse ausgeben, um das Spiel spannender zu gestalten:
 
-- Gib 1-X Punkte aus, um die Schwierigkeit des Abenteuers am Ende um diese Anzahl Punkte zu erhöhen.
-- Gib 2 Punkte aus für ein gefährliches Ereignis. Es könnte sich zu einer Gefahr der Stufe 8 entwickeln.
-- Gib 3 Punkte aus für die Bekämpfung einer Gefahr der Stufe 10.
-- Gib 4 Punkte aus für die Bekämpfung einer Gefahr der Stufe 12.
+- Gib 1-X Punkte aus, um die Schwierigkeit des Abenteuers am Ende um diese Punkteanzahl zu erhöhen.
+- Gib 2 Punkte für ein gefährliches Ereignis aus. Es könnte sich zu einer Gefahr der Stufe 8 entwickeln.
+- Gib 3 Punkte für die Bekämpfung einer Gefahr der Stufe 10 aus.
+- Gib 4 Punkte für die Bekämpfung einer Gefahr der Stufe 12 aus.
 
-*Verwendet Verderbnispunkte, um das Spiel spannend zu machen und die Spielenden herauszufordern. Die erlebte Geschichte steht über den Regeln und die Spielenden sollten sich nie bestraft fühlen. Lasst zu, dass die Spielenden "Etwas riskieren" können, um einen Kampf der Gefahrenstufe 8 zu vermeiden. Lasst zu, dass die Spielenden "Den Gegner schwächen" einmal benutzen können, bevor sie gegen eine Gefahr der Stufe 10 oder 12 Gefahr kämpfen müssen. Wenn es sich nicht richtig anfühlt, lasst die Punkte einfach verfallen. Die Punkte sind für den Spannungsaufbau gedacht und müssen nicht unbedingt genutzt werden. Sie dienen nicht dazu, dass die Spielleitung ihre Macht über den Verlauf der Geschichte demonstriert oder den Spielenden eins auswischt.*
+*Verwendet Verderbnispunkte, um das Spiel spannend zu machen und die Spielenden herauszufordern. Die erlebte Geschichte steht über den Regeln und die Spielenden sollten sich nie bestraft fühlen. Lasst zu, dass die Spielenden "Etwas riskieren" können, um einen Kampf der Gefahrenstufe 8 zu vermeiden. Lasst zu, dass die Spielenden "Den Gegner schwächen" einmal benutzen können, bevor sie gegen eine Gefahr der Stufe 10 oder 12 kämpfen müssen. Wenn es sich nicht richtig anfühlt, lasst die Punkte einfach verfallen. Die Punkte sind für den Spannungsaufbau gedacht und müssen nicht unbedingt genutzt werden. Zweck dieser Regeln ist nicht, der Spielleitung Macht über den Spielverlauf zu verschaffen oder Spielenden eins auszuwischen.*
 
 >[Nach oben](Regeln)
 
 ## Außer Gefecht gesetzt
 
-Wenn ein Charakter sechs Zustände aufbaut, ist er außer Gefecht gesetzt. Es erfordert einen "Etwas riskieren"-Wurf eines anderen Spielenden, um dem Charakter wieder aufzuhelfen, es sei denn die Gruppe kann sich zurückziehen und eine Verschnaufpause einlegen. Die Charaktere können nicht sterben, sondern werden älter und treten in einen neuen, dunkleren Abschnitt ihres Lebens ein. Während dieses Übergangs verändert der Dämon den Charakter nachhaltig.  
-Die folgenden Punkte werden erst am Ende der jeweiligen Szene mit dem betroffenen Charakter abgehandelt:
+Wenn ein Charakter sechs Zustände aufbaut, ist er außer Gefecht gesetzt. Es erfordert einen "Etwas riskieren"-Wurf eines anderen Spielenden, um dem Charakter wieder aufzuhelfen, es sei denn,‚ die Gruppe kann sich zurückziehen und eine Verschnaufpause einlegen. Die Charaktere können nicht sterben, sondern werden älter und treten in einen neuen, dunkleren Abschnitt ihres Lebens ein. Während dieses Übergangs verändert der Dämon den Charakter nachhaltig.  
+Die folgenden Punkte werden alle erst am Ende der jeweiligen Szene mit dem betroffenen Charakter abgehandelt:
 
 1. Der Körper und der Geist deines Charakters altern. Erhöhe den Abschnitt um eins.
    -	Wenn dein Charakter jetzt im sechsten Abschnitt ist, ist er zu müde und erschöpft, um weiterzumachen. Wie sieht der Lebensabend deines Charakters aus?
 2. Setze deine Zustände zurück. 
 3. Beantworte die nächste Frage auf der Abschnittstabelle.
-4. Ändere eines der Attributfelder in ein schwarzes.
-5. Würfle jeweils einmal auf die Fähigkeitstabelle 1 oder 2 und tausche dann eine deiner Fähigkeiten gegen die gewürfelte. Die Dämonenfähigkeit kann nicht getauscht werden. 
+4. Wandle eines der Attributfelder in ein schwarzes Feld um.
+5. Würfle jeweils einmal auf die Fähigkeitstabelle 1 oder 2 und tausche dann eine deiner Fähigkeiten gegen die gewürfelte Fähigkeit ein.
 6. Fehlende Ängste werden neu gewürfelt.
 7. Die Veränderung wird sichtbar stärker.
 8. Setze deine Aufstiegspunkte wieder zurück.
-9. Die Spielleitende Person bekommt einen Verderbnispunkt.
-10. Du bist jetzt in einem Abschnitt, in dem du langsam die Kontrolle über deinen Dämon verlierst. Dieser Abschnitt ist dunkel.
+9. Du bist jetzt in einem Abschnitt, in dem du langsam die Kontrolle über deinen Dämon verlierst. Dieser Abschnitt ist dunkel.
+10. Der Spielzug „Auf Reisen” für das aktuelle Abenteuer wieder freigeschaltet.
 
 Ein Charakter, der außer Gefecht gesetzt wurde, muss dann entweder über den Spielzug „Etwas riskieren” von einem anderen Charakter, aus der Geisterwelt befreit werden oder er erwacht automatisch nach einigen Stunden Spielzeit. Für diesen Charakter muss die Regel „Außer Gefecht gesetzt” angewendet werden. Dies kann, um den Spielfluss nicht zu stören, auch nach einem Kampf oder einer Situation passieren.
 
@@ -91,7 +91,7 @@ Ein Charakter, der außer Gefecht gesetzt wurde, muss dann entweder über den Sp
 
 ## Der Abschnittswechsel
 
-Euer Charakter verdient sich nach jeder Spielsession Abschnittspunkte. Diese werden gesammelt und können für einen Aufstieg der Stufe 1, 2 oder 3 ausgegeben werden. Bedenkt allerdings, dass alle gesammelten Punkte verloren gehen, falls ihr außer Gefecht gesetzt werden solltet. Der Abschnittswechsel ist eine Art Alterungsprozess des Charakters. Kein Charakter ist für die Ewigkeit gemacht. Es werden die Punkte "Bei jedem Aufstieg" und die Punkte zugehörig zur jeweilige Stufe abgehandelt.
+Euer Charakter verdient sich nach jeder Spielsession Abschnittspunkte. Diese werden gesammelt und können für einen Aufstieg der Stufe 1, 2 oder 3 ausgegeben werden. Bedenkt allerdings, dass alle gesammelten Punkte verloren gehen, falls ihr außer Gefecht gesetzt werden solltet. Der Abschnittswechsel ist eine Art Alterungsprozess des Charakters. Kein Charakter lebt ewig. Bei jedem Abschnittswechsel werden die Punkte der jeweiligen Stufe sowie aller davor liegenden Stufen abgehandelt, beginnend mit der niedrigsten Stufe.
 
 Bei jedem Aufstieg (Stufe 1):
 
@@ -102,21 +102,21 @@ Bei jedem Aufstieg (Stufe 1):
 5. Der Körper und der Geist deines Charakters altern. Erhöhe den Abschnitt um eins.
    1. Wenn dein Charakter jetzt im sechsten Abschnitt ist, ist er zu müde und erschöpft, um weiterzumachen. Wie sieht der Lebensabend deines Charakters aus?
 
-6. Ändere ein Attribut oder einen Gegenstand. (Optional)
-7. Ändere das Aussehen deiner Zeichnung. (Optional)
-8. Ändere eines der Attributfelder zurück in ein weißes. (Optional)
+6. Ändere ein Attribut oder einen Gegenstand. (optional)
+7. Ändere das Aussehen deiner Zeichnung. (optional)
+8. Ändere eines der Attributfelder zurück in ein weißes. (optional)
 9. Wenn der Abschnittswechsel zwischen zwei Abenden eines Abenteuers stattfindet, wird der Spielzug „Auf Reisen” wieder freigeschaltet.
-10. Bist du jetzt in Abschnitt 2 oder 3, dann darfst du dir eine vierte bzw. fünfte Fähigkeit auswürfeln. Werfe hierfür mit je einem W20 auf die beiden Zufallstabellen und wähle eine der beiden erwürfelten Fähigkeiten.
+10. Bist du jetzt in Abschnitt 2 oder 3, dann darfst du dir eine vierte, bzw. fünfte Fähigkeit auswürfeln. Würfle mit je einem W20 auf die beiden Zufallstabellen und wähle eine der beiden erwürfelten Fähigkeiten.
 11. Du bist jetzt in einem Abschnitt, in dem du deinen Dämon gut unter Kontrolle hast. Dieser Abschnitt ist hell.
 
 Stufe 2 - Bei 8 gesammelten Punkten:
 
-1. Du darfst für eine passende Erzählung eine Angst deiner Wahl verlieren. (Optional)
+1. Du darfst eine Angst deiner Wahl verlieren. (Optional)
 2. Würfle mit 2W20 auf die Fähigkeiten-Tabellen 1 und 2 und tausche eine Fähigkeit gegen eine der beiden ausgewürfelten. Die Dämonenfähigkeit kann nicht getauscht werden. (Optional)
 
 Stufe 3 - Bei 10 gesammelten Punkten:
 
-1. Du darfst für eine passende Erzählung eine Angst deiner Wahl verlieren. (Optional)
+1. Du darfst eine Angst deiner Wahl verlieren. (Optional)
 2. Ändere ein weiteres Attribut oder einen Gegenstand. (Optional)
 3. Würfle jeweils einmal mit einem W20 auf die Fähigkeiten-Tabellen 1 und 2 und tausche eine Fähigkeit gegen eine der beiden ausgewürfelten. Die Dämonenfähigkeit kann nicht getauscht werden. (Optional)
 
@@ -134,10 +134,6 @@ Wenn die Korruption zunimmt, bekommt dein Charakter einen Zustand. Zustände zei
 
 ## TPK - Total Party Kill
 
-Sollten alle Charaktere gleichzeitig außer Gefecht gesetzt werden, endet das Abenteuer sofort und die Spielleitung lässt es mit dem schlechtmöglichsten Ausgang enden. Sie kann die Spielenden in diese Erzählung einbeziehen und mit ihnen gemeinsam überlegen, welche Narben diese Erfahrung bei den Charakteren hinterlassen hat. Die Regel „Am Ende einer Spielsession” wird trotzdem abgehandelt. In diesem Fall können für die ersten beiden Aufgaben jedoch keine Punkte vergeben werden.
-
-Alternativtext:
-
 Sollten alle Charaktere gleichzeitig außer Gefecht gesetzt werden, gibt es verschiedene möglichkeiten der Spielleitung damit umzugehen. Falls dies in einem Kampf geschieht könnte die Bedrohnung das Abenteuer nachhaltig für den Rest der Zeit verändern. Die Gruppe könnte dann eventuell von alleine am Schauplatz erwachen, oder aber zum Beispiel von Dorfbewohnenr in ein nahegelegens Haus gebracht worden sein. Im härtesten Fall und wenn dies zum Ende des Abenteuers passiert könnte die Spiellieutng mit der Gruppe auch beschließen das dass Abenteuer so endet und den schlimstmöglichen ausgang nimmt. Da Charaktere in "Augen des Zwielichts: Königreich der Yōkai" ja aber grundsätzlich nicht versterben sondern nur außer gefecht gesetzt werden erwacht die Gruppe auf die ein oder andere Art wieder. Seid auch hier nie unfähr zu euren Spielenden sondern versucht eine gelungene Geschichte zu erzählen. Die in diesem Fall zwar eine düstere Wendung nimmt, aber vielleicht ja noch nicht hoffnungslos ist. 
 
 ## Zustände abbauen
@@ -150,7 +146,7 @@ Die Zustände können auf zwei verschiedene Arten reduziert werden. Jeder dieser
 
 ## Der freie Attributsslot - Attribut: Freier Slot
 
-Auf dem Charakterbogen gibt es ein Attribut mit dem Titel „Freier Slot”. Dieser Slot gibt der Spielleitung die Möglichkeit, den Spielenden für Situationen, die sie sich erarbeitet haben, oder Gegenstände, die sie im Abenteuer gefunden haben und bei sich tragen, einen weißen oder schwarzen Würfel zu geben. Gab es beispielsweise ein magisches Buch als Hinweis und konfrontiert die Gruppe einen NSC damit? Hier wäre ein passender Zeitpunkt, das Buch als weißen oder schwarzen Attributswürfel einzusetzen. Dieser Slot zählt wie alle anderen Attributsslots und ist kein zusätzlicher Würfel.
+Auf dem Charakterbogen gibt es ein Attribut mit dem Titel „Freier Slot”. Dieser Slot erlaubt der Spielleitung, Spielenden für selbst erarbeitete Situationen oder gefundene Gegenstände einen weißen oder schwarzen Würfel zu geben. Gab es beispielsweise ein magisches Buch als Hinweis und konfrontiert die Gruppe einen NSC damit? Hier wäre ein passender Zeitpunkt, das Buch als weißen oder schwarzen Attributswürfel einzusetzen. Dieser Slot unterscheidet sich nicht von anderen Attributsslots und verschafft dem Spielenden keinen zusätzlichen Würfel..
 
 ## Bonusaufgabe
 
@@ -170,6 +166,6 @@ Alle Spielenden dürfen am Ende einer Spielsession folgende Schritte ausführen:
 
 4. Du bekommst noch einen zusätzlichen Abschnittspunkt, wenn du die Bonusaufgabe absolvierst. Sie steht einmal pro Abenteuer zur Verfügung. 
 
-*Zwei der fünf Aufgaben, für die die Spielenden Abschnittspunkte erhalten können, sind immer angewählt: wurde das aktive Problem des Abenteuers gelöst und war der Wurf auf "Das Abenteuer lösen" erfolgreich, sodass die Lösung von allen Beteiligten akzeptiert wurde? Diese Aufgaben können immer nur am Ende eines Abenteuers beantwortet werden. Dauert ein Abenteuer also beispielsweise zwei Sessions, dann können zum Ende der ersten Session maximal drei Abschnittspunkte generiert werden. Dies betrifft ebenfalls die Bonusaufgabe. Auch diese gibt nur den Abschnittspunkt einmal am Ende des Abenteuers.*
+*Zwei der fünf Aufgaben, für die die Spielenden Abschnittspunkte erhalten können, sind immer aktiv: wurde das aktive Problem des Abenteuers gelöst und war der Wurf auf "Das Abenteuer lösen" erfolgreich, sodass die Lösung von allen Beteiligten akzeptiert wurde? Diese Aufgaben können allerdings immer nur am Ende eines Abenteuers beantwortet werden, das gilt auch für die Bonusaufgabe, auch dafür gibt es nur zum Schluss einen Abschnittspunkt.*
 
 >[Nach oben](Regeln)
