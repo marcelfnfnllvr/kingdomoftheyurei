@@ -1,6 +1,6 @@
 # Spielzüge
 
-Im Verlauf des Spiels nutzen die Spielenden Spielzüge, um Hinweise von NSCs zu erhalten, Hindernissen zu begegnen, Zustände abzubauen, Kämpfe auszutragen oder ihre Fähigkeiten einzusetzen. Ein Spielzug gibt entweder einen weißen oder einen schwarzen Würfel für den Würfelpool. Dies ist in der Beschreibung des Spielzugs angegeben. Die kritischen Erfolge (6&6) und Misserfolge (1&1) zählen zusätzlich zum Ergebnis des Spielzugs. So bedeutet eine Doppel-Sechs im Spielzug "Etwas herausfinden", dass den Spielenden zwei Hinweise von der Spielleitung mitgeteilt werden.
+Im Verlauf des Spiels nutzen die Spielenden Spielzüge, um Hinweise von NSCs zu erhalten, Hindernisse zu überwinden, Zustände abzubauen, Kämpfe auszutragen oder ihre Fähigkeiten einzusetzen. Ein Spielzug gewährt entweder einen weißen oder einen schwarzen Würfel für den Würfelpool. Dies ist in der Beschreibung des Spielzugs angegeben. Die kritischen Erfolge (6&6) und Misserfolge (1&1) zählen zusätzlich zum Ergebnis des Spielzugs. So bedeutet eine Doppel-Sechs im Spielzug "Etwas herausfinden", dass die Spielenden zwei Hinweise von der Spielleitung erhalten.
 
 >[1. Etwas herausfinden](#der-etwas-herausfinden-spielzug)  
 >[2. Etwas riskieren](#der-etwas-riskieren-spielzug)  
@@ -13,18 +13,18 @@ Im Verlauf des Spiels nutzen die Spielenden Spielzüge, um Hinweise von NSCs zu 
 
 ## Der „Etwas herausfinden“ Spielzug
 
-Wenn du eine Person befragst oder einen Raum untersuchst, würfelst du auf diesen Spielzug. Du bekommst einen weißen Würfel für diesen Spielzug.
+Wenn du eine Person befragst oder einen Raum untersuchst, würfelst du auf diesen Spielzug. Du erhältst dafür einen weißen Würfel.
 
 - 1&1 Die Spielleitung erhält einen zusätzlichen Verderbnispunkt.
 - 1-4 Die Spielleitung erhält einen Verderbnispunkt.
 - 5-6 Du bekommst einen Hinweis.
 - 6&6 Du bekommst einen weiteren Hinweis.
 
-*Dieser Spielzug ist für jede Situation geeignet, in der die Spielenden etwas herausfinden möchten und die prinzipiell ungefährlich ist. Er ist nicht auf die Interaktion mit einer anderen Person beschränkt, sondern kann auch ganz allgemein zur Erkundung eines Raumes, einer Fährte oder eines Waldstückes eingesetzt werden.*
+*Dieser Spielzug ist für jede Situation geeignet, in der die Spielenden etwas herausfinden möchten und die prinzipiell ungefährlich ist. Er ist nicht auf die Interaktion mit einer anderen Person beschränkt, sondern kann auch ganz allgemein zur Erkundung eines Raumes, einer Fährte oder eines Gebietes eingesetzt werden.*
 
 ## Der „Etwas riskieren“ Spielzug
 
-Wenn dir jemand misstraut oder wenn du etwas Riskantes tun willst, würfle auf diesen Spielzug. Du bekommst einen schwarzen Würfel von diesem Spielzug.
+Wenn dir jemand misstraut oder wenn du etwas Riskantes tun willst, würfle auf diesen Spielzug. Du erhältst dafür einen schwarzen Würfel.
 
 - 1&1 Die Spielleitung erhält zwei Verderbnispunkte.
 - 1-2 Du scheiterst und es kommt sofort zu einer gefährlichen Situation.
@@ -32,22 +32,22 @@ Wenn dir jemand misstraut oder wenn du etwas Riskantes tun willst, würfle auf d
 - 5-6 Du machst genau, was du dir vorgenommen hast und behältst die Nerven.
 - 6&6 Du bekommst einen Hinweis und einen weißen Bonuswürfel, den du frei einsetzen darfst.
 
-*Dieser Spielzug sollte verwendet werden, wenn die Situation potenziell gefährlich ist. Dies kann z.B. der Versuch sein, einen Felsvorsprung hinunterzuklettern, ein Labyrinth zu durchqueren oder eine aufgebrachte Person zu beruhigen. Außerdem ist es mit diesem Spielzug möglich, sich auf seinen Dämon zu konzentrieren und dessen Kräfte zu nutzen. So können Fähigkeiten eingesetzt werden, die der Charakter nicht direkt besitzt. Damit ist es beispielsweise möglich, einen NSC wiederzubeleben, mit der Welt des Zwielichts zu kommunizieren oder besonders stark oder wendig zu sein.*
+*Dieser Spielzug sollte verwendet werden, wenn die Situation potenziell gefährlich ist. Dies kann z.B. der Versuch sein, einen Felsvorsprung hinunterzuklettern, ein Labyrinth zu durchqueren oder eine aufgebrachte Person zu beruhigen. Außerdem ist es mit diesem Spielzug möglich, sich auf seinen Dämon zu konzentrieren und dessen Kräfte zu nutzen. So können Fähigkeiten eingesetzt werden, die der Charakter nicht direkt besitzt. Damit ist es beispielsweise möglich, einen NSC wiederzubeleben, mit der Welt des Zwielichts zu kommunizieren oder besonders stark oder geschickt zu sein.*
 
 [Zurück nach oben](#spielz%C3%BCge)
 
 ## Der „Auf Reisen“ Spielzug
 
-Dieser Spielzug darf pro Spielendem nur einmal pro Abenteuer verwendet werden. Falls das Abenteuer für mehr als 2 Sessions ausgelegt ist, kann der Spielzug einmal pro Session angewendet werden.  
-Erzählt von einem Moment auf der Reise, um allein oder gemeinsam Zustände abzubauen. Dieser Spielzug gibt einen weißen Würfel. Um einen weiteren Würfel zu erhalten, muss die Erzählung etwas mit dem Attribut zu tun haben, von dem der Charakter den zweiten Würfel für diesen Spielzug bekommen soll. 
+Diesen Spielzug darf jeder Spielende nur einmal pro Abenteuer verwendet werden. Falls das Abenteuer für mehr als 2 Sessions ausgelegt ist, kann der Spielzug einmal pro Session angewendet werden. Falls der Spielcharakter während eines Abenteuers außer Gefecht gesetzt wird, kann der Spielzug "Auf Reisen" danach noch einmal eingesetzt werden.
+Erzählt von einem Moment auf der Reise oder aus der Vergangenheit des Charakters, um Zustände abzubauen. Sollten sich zwei oder mehr Spielende zur selben Zeit für den Spielzug "Auf Reisen" entscheiden, kann einzeln oder zusammen erzählt werden. Dieser Spielzug gibt einen weißen Würfel. Um einen weiteren Würfel zu erhalten, muss die Erzählung etwas mit dem Attribut zu tun haben, von dem der Charakter den zweiten Würfel für diesen Spielzug bekommen soll. 
 
 - 1&1 Die Spielleitung bekommt einen weiteren Verderbnispunkt.
-- 1-2 Die Spielleitung bekommt einen Verderbnispunkt.
+- 1-2 Die Spielleitung erhält einen Verderbnispunkt.
 - 3-4 Du entfernst die letzten zwei Zustände. 
 - 5-6 Du entfernst die letzten drei Zustände. Die Spielleitung gibt dir einen Hinweis.
-- 6&6 Du entfernst alle deine Zustände.
+- 6&6 Du entfernst alle Zustände deines Charakters bis auf den ersten, da dieser immer bleibt.
 
-*Erzählt von einem Moment, den ihr mit eurem Reittier verbracht habt, wie ihr mit der Gruppe am Feuer gesessen und über etwas gelacht habt oder wie ihr einfach einen Moment der Ruhe und Entspannung hattet. Dieser Spielzug ist nicht nur dazu da, um Zustände zu entfernen, sondern auch um dem Charakter Tiefe zu verleihen und seine Hintergrundgeschichte zu erweitern. Falls du absolut keine Idee für eine Geschichte hast, kannst du gerne die [Ideengeber-Tabelle](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Zufallstabellen.md#ideengeber) aus den Zufallstabellen nutzen.*
+*Erzählt von einem Moment, den ihr mit eurem Reittier verbracht habt, wie ihr mit der Gruppe am Feuer gesessen seid und über etwas gelacht habt oder wie ihr einfach einen Moment der Ruhe und Entspannung hattet. Dieser Spielzug ist nicht nur dazu da, um Zustände zu entfernen, sondern auch um dem Charakter Tiefe zu verleihen und seine Hintergrundgeschichte zu erweitern. Falls du absolut keine Idee für eine Geschichte hast, kannst du gerne die [Ideengeber-Tabelle](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Zufallstabellen.md#ideengeber) aus den Zufallstabellen nutzen.*
 
 [Zurück nach oben](#spielz%C3%BCge)
 
@@ -58,33 +58,33 @@ Erzählt von einem Moment auf der Reise, um allein oder gemeinsam Zustände abzu
 +1W6 [Angst oder Zustand - Schwarz]  
 +1W6 [Bonuswürfel - Weiß]  
      -----------------------  
-+1W6 [Den Wurf Verbessern - Schwarz]  
++1W6 [Den Wurf verbessern - Schwarz]  
 
 ------------------------------------------------------------------------
 ## Der „Eine Fähigkeit nutzen“ Spielzug
 
-Besprich mit der Spielleitung, was deine Fähigkeit bewirken soll. Du bekommst einen schwarzen Würfel von diesem Spielzug.
+Besprich mit der Spielleitung, was deine Fähigkeit bewirken soll. Du bekommst einen schwarzen Würfel für diesen Spielzug.
 
 - Unabhängig vom Würfelergebnis passiert in jedem Fall, was du wolltest.
 - 1&1 Die Spielleitung erhält einen weiteren Verderbnispunkt.
 - 1-4 Die Spielleitung erhält einen Verderbnispunkt.
-- 5-6 Du bekommst einen weißen Bonuswürfel, den du frei einsetzen darfst.
-- 6&6 Du bekommst einen Hinweis.
+- 5-6 Du erhältst einen weißen Bonuswürfel, den du frei einsetzen darfst.
+- 6&6 Du erhältst einen Hinweis.
 
-*Dieser Spielzug wird verwendet, wenn die Spielenden eine Fähigkeit nutzen. Fähigkeiten, die die Spielenden so auslösen, können auf der erzählerischen Ebene nicht scheitern. Je nach Ergebnis des Wurfes kann es jedoch zu Verderbnispunkten oder Zuständen kommen. Passende Fähigkeiten können dafür benutzt werden, Probleme, die sonst über den „Etwas riskieren“-Spielzug abgehandelt werden, auf eine weniger riskante Weise zu lösen. Ob die Spielleitung in besonderen Situationen trotzdem noch einen zusätzlichen „Etwas riskieren“-Spielzug einfordert, bleibt ihr überlassen.*
+*Dieser Spielzug wird verwendet, wenn die Spielenden eine ihrer Fähigkeiten nutzen. Fähigkeiten, die die Spielenden so einsetzen, können auf der erzählerischen Ebene nicht scheitern. Je nach Ergebnis des Wurfes kann es jedoch zu Verderbnispunkten oder Zuständen kommen. Passende Fähigkeiten können dafür benutzt werden, Probleme, die sonst über den „Etwas riskieren“-Spielzug abgehandelt werden, auf eine weniger riskante Weise zu lösen. Ob die Spielleitung in besonderen Situationen trotzdem noch einen zusätzlichen „Etwas riskieren“-Spielzug einfordert, bleibt ihr überlassen.*
 
 [Zurück nach oben](#spielz%C3%BCge)
 
 ## Der „Den Gegner schwächen“ Spielzug
 
-Es ist möglich, im Kampf die Gefahrenstufe des Gegners mithilfe von Fähigkeiten zu senken. Du bekommst einen schwarzen Würfel von diesem Spielzug. Falls du keine passende Fähigkeit für diesen Spielzug hast, kannst du erst "Etwas riskieren". Ist dieser Wurf erfolgreich (5-6), darfst du auch ohne passende Fähigkeit versuchen den Gegner zu schwächen.
+Es ist möglich, im Kampf die Gefahrenstufe des Gegners mithilfe von Fähigkeiten zu senken. Du bekommst einen schwarzen Würfel für diesen Spielzug. Falls du keine passende Fähigkeit für diesen Spielzug hast, kannst du erst "Etwas riskieren". Ist dieser Wurf erfolgreich (5-6), darfst du auch ohne passende Fähigkeit versuchen den Gegner zu schwächen.
 
 - 1&1 Die Gefahrenstufe des Gegners steigt noch einmal um 1.
 - 1-2 Die Gefahrenstufe des Gegners steigt um 1.
 - 5-6 Du senkst die Gefahrenstufe um 1.
-- 6&6 Du senkst die Gefahrenstufe um weitere 3.
+- 6&6 Du senkst die Gefahrenstufe um weitere 2.
 
-*Dieser Spielzug wird verwendet, um die Gefahrenstufe eines Gegners zu senken. Dies kann direkt vor einem Kampf geschehen, aber auch während des Kampfes. Die Fähigkeiten, die dafür verwendet werden, sollten im Kontext der Situation Sinn ergeben und eine gute Geschichte erzählen.*
+*Dieser Spielzug wird verwendet, um die Gefahrenstufe eines Gegners zu senken. Dies kann direkt vor einem Kampf, aber auch während des Kampfes geschehen. Die Fähigkeiten, die dafür verwendet werden, sollten im Kontext der Situation Sinn ergeben und eine gute Geschichte erzählen.*
 
 [Zurück nach oben](#spielz%C3%BCge)
 
@@ -100,8 +100,8 @@ Es ist möglich, im Kampf die Gefahrenstufe des Gegners mithilfe von Fähigkeite
 
 ## Der „Sich dem Kampf stellen“ Spielzug
 
-Jeder Spielercharakter, der an dem Kampf teilnimmt, hat pro Runde einen W6 als Kampfwürfel zur Verfügung. Bei den Kampfwürfeln wird nicht zwischen weißen oder schwarzen Würfeln unterschieden, weil der gesamte Kampf eine riskante Aktion ist.  
-Ziel im Kampf ist es, mit der Summe der beiden höchsten Augenzahlen aller Kampfteilnehmer die Gefahrenstufe des Gegners zu erreichen oder zu übertreffen. Sobald die Gruppe dies in einer Runde erreicht, ist der Gegner besiegt. Mit dem Spielzug "Den Gegner schwächen" kann die Gefahrenstufe des Gegners gesenkt werden. Bei Gegnern, die eine höhere Gefahrenstufe als 12 haben, ist es zwingend notwendig diese erst zu senken. Dies ist sowohl vor Beginn des Kampfes als auch während des Kampfes möglich. Charaktere, die den Spielzug "Den Gegner schwächen" erfolgreich einsetzen, würfeln in dieser Kampfrunde keinen Kampfwürfel, um zu prüfen, ob sie getroffen werden. Sollte es mal brenzlich werden, kann der Charakter sich nur durch einen erfolgreichen Wurf auf "Etwas riskieren" aus dem Kampf zurückziehen. Außerdem muss ein anderer Kampfteilnehmer dessen Schwäche übernehmen.  
+Jeder Spielercharakter, der am Kampf teilnimmt, hat pro Runde einen W6 als Kampfwürfel zur Verfügung. Bei den Kampfwürfeln wird nicht zwischen weißen oder schwarzen Würfeln unterschieden, weil der gesamte Kampf eine riskante Aktion ist.  
+Ziel im Kampf ist es, mit der Summe der beiden höchsten Augenzahlen aller Kampfteilnehmer die Gefahrenstufe des Gegners zu erreichen oder zu übertreffen. Sobald die Gruppe dies in einer Runde erreicht, ist der Gegner besiegt. Mit dem Spielzug "Den Gegner schwächen" kann die Gefahrenstufe des Gegners gesenkt werden. Bei Gegnern, die eine höhere Gefahrenstufe als 12 haben, ist es zwingend notwendig diese erst zu senken. Dies ist sowohl vor Beginn des Kampfes als auch während des Kampfes möglich. Charaktere, die den Spielzug "Den Gegner schwächen" erfolgreich einsetzen, würfeln in dieser Kampfrunde keinen Kampfwürfel, um zu prüfen, ob sie getroffen werden. Sollte es mal brenzlig werden, kann der Charakter sich nur durch einen erfolgreichen Wurf auf "Etwas riskieren" aus dem Kampf zurückziehen. Außerdem muss ein anderer Kampfteilnehmer dessen Schwachpunkt übernehmen und hat damit zwei Schwachpunktwerte.  
 Grundsätzlich können alle SC am Kampfgeschehen teilnehmen.
 
 Ablauf eines Kampfes:
@@ -110,13 +110,13 @@ Ablauf eines Kampfes:
    1. Die Spielleitung teilt die zu erreichende Gefahrenstufe des Gegners oder der Gegnergruppe mit.
       - Auch eine Gruppe von Gegnern hat nur eine Gefahrenstufe und wird regeltechnisch als Einheit behandelt. Zum Beispiel kann ein dämonisches Wildschwein allein Gefahrenstufe 10 haben, als Gruppe aber Gefahrenstufe 12.
 
-   2. Mit dem Spielzug "Den Gegner schwächen" kann die Gefahrenstufe des Gegners gesenkt werden. Wenn die Stufe des Gegners höher als 12 ist, muss dieser erst mit diesem Spielzug geschwächt werden, ansonsten ist es nicht möglich für die Gruppe den Kampf zu gewinnen.
+   2. Mit dem Spielzug "Den Gegner schwächen" kann die Gefahrenstufe des Gegners gesenkt werden. Wenn die Stufe des Gegners höher als 12 ist, muss dieser erst mit diesem Spielzug geschwächt werden, ansonsten ist es für die Gruppe nicht möglich den Kampf zu gewinnen.
 
    3. Alle Charaktere, die direkt am Kampf teilnehmen, würfeln ihren Schwachpunkt. Sie tun dies mit 1W6.
       Der Schwachpunkt ändert sich während des Kampfes nicht und wird im Kampfbogen eingetragen.
    
 1. Kampfrunde
-   1. Danach wirft jeder Charakter, der direkt am Kampf teilnimmt und nicht den Gegner schwächt, seinen W6 Kampfwürfel. Es wird in aufsteigender Reihenfolge des numerischen Schwachpunkts der Beteiligten gewürfelt. Die beiden höchsten Augenzahlen der geworfenen W6 werden addiert und müssen die Gefahrenstufe des Gegners erreichen oder übertreffen. Charaktere, die in dieser Runde den Spielzug "Gegner schwächen" erfolgreich ausgeführt haben, können in dieser Runde nicht getroffen werden und würfeln deshalb auch keinen Kampfwürfel. 
+   1. Danach wirft jeder Charakter, der direkt am Kampf teilnimmt und nicht den Gegner schwächt, seinen W6 Kampfwürfel. Es wird in aufsteigender Reihenfolge des numerischen Schwachpunkts der Beteiligten gewürfelt. Die beiden höchsten Augenzahlen der gewürfelten W6 werden addiert und müssen die Gefahrenstufe des Gegners erreichen oder übertreffen. Charaktere, die in dieser Runde den Spielzug "Gegner schwächen" erfolgreich ausgeführt haben, können in dieser Runde nicht getroffen werden und würfeln deshalb auch keinen Kampfwürfel. 
    2. Nun muss noch geprüft werden, ob einer der gewürfelten W6 Kampfwürfel den Schwachpunkt eines am Kampf teilnehmenden Charakters trifft. Dabei werden nicht nur die beiden höchsten Augenzahlen betrachtet, sondern *alle* geworfenen W6 Kampfwürfel. Ist dies der Fall, so erhält der Charakter pro Treffer einen Zustand.  
    3. Nun erzählen die Spielenden nacheinander, wie ihr Charakter angreift, ob und wie er eventuell verletzt wird und wie der Gegner, falls die Gruppe die Gefahrenstufe des Gegners erreicht oder übertroffen hat, schließlich erledigt wird. Zuerst erzählen die Spielenden, die in der Runde den Gegner geschwächt haben statt zu kämpfen. Bei den Charakteren, die gekämpft haben, ist die Reihenfolge aufsteigend nach der Augenzahl des von ihnen geworfenen W6-Kampfwürfels.  
    4. Wenn das Ergebnis der beiden besten W6 Kampfwürfel nicht mindestens so hoch ist wie die Gefahrenstufe des Gegners, beginnt eine neue Kampfrunde. Die Person mit dem höchsten Kampfwürfelergebnis aus dem Kampfwurf der vorherigen Runde erhält nun einen weiteren W6. Sie darf beide werfen und nur das bessere Ergebnis wird für die neue Runde gewertet. Dies zählt sowohl für das Erreichen des Gefahrenlevels als auch für das Treffen von Schwachpunkten. Wenn mehrere Mitspielende die höchste Augenzahl geworfen haben, ist es der SL überlassen, ob dafür alle Mitspielenden einen weiteren W6 bekommen oder nicht. Sollte der Charakter mit der höchsten Augenzahl im Kampf außer Gefecht gesetzt werden, verfallen seine zusätzlichen Kampfwürfel.
@@ -131,9 +131,9 @@ In diesem Fall können sich die Charaktere nicht mehr gegenseitig durch einen "E
 
 ## Der „Hilfe anbieten“ Spielzug
 
-Hilf einem Mitspielenden bei einem "Etwas herausfinden" oder "Etwas riskieren" Spielzug, indem du mit einem W6 würfelst. Das Ergebnis zählt für den Mitspielenden, dem du helfen möchtest. Hast du ein passendes Attribut für die Hilfestellung, dann richtet sich die Farbe des Würfels nach der Farbe des Attributs. Du kannst auch einen weißen Bonus-W6 aus einem vorangegangenen Wurf als Würfel für die Hilfestellung verwenden. Hast du kein passendes Attribut oder einen Bonus-W6, aber eine andere für die Szene passende Idee, wirfst du mit einem schwarzen W6. Allerdings erhältst du automatisch einen Zustand, wenn du mit einem schwarzen W6 würfelst. Falls die zu helfende Person einen schwarzen Würfel in ihrem Würfelpool hat und du dessen Augenzahl mit deinem "Hilfe anbieten" Spielzug triffst, erhältst du ebenfalls einen Zustand. Du kannst in einem "Hilfe anbieten" Spielzug maximal einen Zustand erhalten.
+Hilf einem Mitspielenden bei einem "Etwas herausfinden" oder "Etwas riskieren" Spielzug, indem du mit einem W6 würfelst. Das Ergebnis zählt für den Mitspielenden, dem du helfen möchtest. Hast du ein passendes Attribut für die Hilfestellung, dann richtet sich die Farbe des Würfels nach der Farbe des Attributs. Du kannst auch einen weißen Bonus-W6 aus einem vorangegangenen Wurf als Würfel für die Hilfestellung verwenden. Hast du kein passendes Attribut oder einen Bonus-W6, aber eine andere für die Szene passende Idee, wirfst du mit einem schwarzen W6. Allerdings erhältst du automatisch einen Zustand, wenn du mit einem schwarzen W6 würfelst. Falls die Person, der du helfen willst, einen schwarzen Würfel in ihrem Würfelpool hat und du mit deinem "Hilfe anbieten"-Wurf genau diese Augenzahl triffst, erhältst du ebenfalls einen Zustand. Insgesamt kannst du durch diesen Spielzug jedoch höchstens einen Zustand bekommen.
 
-Der Spielzug "Hilfe anbieten" wird genutzt, nachdem die zu helfende Person den ersten Wurf mit ihrem eigenen Würfelpool absolviert hat. In der Erzählung der Spielenden dürfen Charaktere sich natürlich immer helfen - falls logisch möglich. Trotzdem würfelt die helfende Person erst nach der aktiv agierenden Person.
+Der Spielzug "Hilfe anbieten" wird genutzt, nachdem der andere Spielende seinen ersten Wurf mit dem eigenen Würfelpool gemacht hat. In der Erzählung der Spielenden dürfen Charaktere sich natürlich immer helfen - falls logisch möglich. Trotzdem würfelt die helfende Person erst nach der aktiv agierenden Person.
 
 *Es ist überhaupt nicht verwerflich, als Spielleitung nicht immer "Hilfe anbieten" zu erlauben. Es sollte allerdings belohnt werden, wenn die Spielenden sich kreative Wege überlegen, wie sie in der Szene doch helfen können. Dass mehr als eine Person hilft ist zwar regelkonform erlaubt, sollte aber nicht ausgenutzt werden und muss gut in die Szene passen.*
 
@@ -149,7 +149,7 @@ Der Spielzug "Hilfe anbieten" wird genutzt, nachdem die zu helfende Person den e
 
 Überlegt in der Gruppe, welcher Dämon hier aus welchem Grund sein Unwesen treibt und welche Maßnahmen ihr ergreifen müsst, um ihn zu besänftigen. Baut so viele Hinweise wie möglich in die Geschichte ein. Jeder genutzte Hinweis senkt die Schwierigkeit der Aufgabe um eins, aber die nicht genutzten Hinweise verfallen nicht einfach. Diese können euch nämlich in einem eventuellen Endkampf helfen, um die Gefahrenstufe des Gegners zu senken. 
 
-Um zu erfahren, ob eure Lösung funktioniert, wirft einer der Spielenden 2W6 und bildet die Summe. Die Summe muss mindestens die gesenkte Schwierigkeit des Abenteuers erreichen. Ist dies nicht der Fall, kommt es zum Endkampf, weil nicht alle involvierten Parteien mit eurer Lösung einverstanden sind. Hier kann die Gefahrenstufe des Gegners mit Hilfe der verbliebenen Hinweise gesenkt werden, wenn dies logisch begründet werden kann. Zwei Einsen in diesem Wurf sind in jedem Fall ein kritischer Misserfolg und ebenfalls führen dazu, dass euer Lösungsvorschlag nicht von allen akzeptiert wird und es dadurch zu einem Kampf kommt. Die Gefahrenstufe des Endkampfes variiert und ist im Abenteuer angegeben.
+Um zu erfahren, ob eure Lösung funktioniert, wirft einer der Spielenden 2W6 und bildet die Summe. Die Summe muss mindestens die gesenkte Schwierigkeit des Abenteuers erreichen. Ist dies nicht der Fall, kommt es zum Endkampf, weil nicht alle involvierten Parteien mit eurer Lösung einverstanden sind. Hier kann die Gefahrenstufe des Gegners mit Hilfe der verbliebenen Hinweise gesenkt werden, wenn dies logisch begründet werden kann. Zwei Einsen in diesem Wurf sind in jedem Fall ein kritischer Misserfolg und lösen einen Kampf aus, da euer Lösungsvorschlag nicht von allen akzeptiert wird. Die Gefahrenstufe des Endkampfes variiert und ist im Abenteuer angegeben.
 
 *Wenn es zum Kampf kommt, muss dieser nicht unbedingt direkt gegen den Dämon geführt werden. Der Wurf bezieht sich ja nur auf die Lösung des Problems und nie auf die Herleitung und die Erzählung. Es kann auch sein, dass sich die Gruppe der Bewohner gegen unsere Spielenden stellt, weil sie die angebotene Lösung nicht akzeptieren wollen.*
 
