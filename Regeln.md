@@ -1,6 +1,6 @@
 # Regeln
 
-Hier findet ihr alle Regeln, die ihr zum Spielen von *Augen des Zwielichts: Königreich der Yōkai* braucht. Den genauen Spielablauf findet ihr in den Spielbeispielen. Bitte beachtet dass zumindest die Spielleitenden das gesamte Regelwerk gelesen haben sollten, bevor sie ein Abenteuer leiten. Nur die Regeln zu lesen wird nicht ausreichen, um die Stimmung, das Gefühl, die Abenteuer, aber auch einfach den mechanischen Ablauf ausreichend zu verinnerlichen. Natürlich ist es auch für die Spielenden gut, wenn sie sich schon vor dem Spiel mit den Regeln auseinandergesetzt haben.  
+Hier findet ihr alle Regeln, die ihr zum Spielen von "Augen des Zwielichts: Königreich der Yōkai" braucht. Den genauen Spielablauf findet ihr in den Spielbeispielen. Bitte beachtet dass zumindest die Spielleitenden das gesamte Regelwerk gelesen haben sollten, bevor sie ein Abenteuer leiten. Nur die Regeln zu lesen wird nicht ausreichen, um die Stimmung, das Gefühl, die Abenteuer, aber auch einfach den mechanischen Ablauf ausreichend zu verinnerlichen. Natürlich ist es auch für die Spielenden gut, wenn sie sich schon vor dem Spiel mit den Regeln auseinandergesetzt haben.  
 
 Die Spielenden versuchen durch Spielzüge Hinweise zu sammeln und diese am Ende des Abenteuers zu kombinieren. Für die Spielzüge stellen sie einen Würfelpool zusammen, der aus schwarzen und weißen Würfeln bestehen kann. Dieser Pool wird dann gewürfelt und die zwei höchsten Augenzahlen werden gewertet. Welche Augenzahlen dabei zu welchem Ergebnis führen, findet ihr in dem jeweiligen Spielzug. Alle anderen Regeln stehen im folgenden Abschnitt. Die Spielleitung würfelt in diesem System nie selbst. Um das System besser zu verstehen und zu verinnerlichen, solltet ihr euch auch die Spielbeispiele durchlesen.  
 
@@ -136,6 +136,10 @@ Wenn die Korruption zunimmt, bekommt dein Charakter einen Zustand. Zustände zei
 
 Sollten alle Charaktere gleichzeitig außer Gefecht gesetzt werden, endet das Abenteuer sofort und die Spielleitung lässt es mit dem schlechtmöglichsten Ausgang enden. Sie kann die Spielenden in diese Erzählung einbeziehen und mit ihnen gemeinsam überlegen, welche Narben diese Erfahrung bei den Charakteren hinterlassen hat. Die Regel „Am Ende einer Spielsession” wird trotzdem abgehandelt. In diesem Fall können für die ersten beiden Aufgaben jedoch keine Punkte vergeben werden.
 
+Alternativtext:
+
+Sollten alle Charaktere gleichzeitig außer Gefecht gesetzt werden, gibt es verschiedene möglichkeiten der Spielleitung damit umzugehen. Falls dies in einem Kampf geschieht könnte die Bedrohnung das Abenteuer nachhaltig für den Rest der Zeit verändern. Die Gruppe könnte dann eventuell von alleine am Schauplatz erwachen, oder aber zum Beispiel von Dorfbewohnenr in ein nahegelegens Haus gebracht worden sein. Im härtesten Fall und wenn dies zum Ende des Abenteuers passiert könnte die Spiellieutng mit der Gruppe auch beschließen das dass Abenteuer so endet und den schlimstmöglichen ausgang nimmt. Da Charaktere in "Augen des Zwielichts: Königreich der Yōkai" ja aber grundsätzlich nicht versterben sondern nur außer gefecht gesetzt werden erwacht die Gruppe auf die ein oder andere Art wieder. Seid auch hier nie unfähr zu euren Spielenden sondern versucht eine gelungene Geschichte zu erzählen. Die in diesem Fall zwar eine düstere Wendung nimmt, aber vielleicht ja noch nicht hoffnungslos ist. 
+
 ## Zustände abbauen
 
 Die Zustände können auf zwei verschiedene Arten reduziert werden. Jeder dieser beiden Wege kann von jedem Spielenden einmal pro Abenteuer angewendet werden.
@@ -144,7 +148,7 @@ Die Zustände können auf zwei verschiedene Arten reduziert werden. Jeder dieser
 2. Benutze den Spielzug "Auf Reisen".
 3. Setze einen Bonuswürfel ein, um einen Zustand sofort zu heilen.
 
-## Der freie Attributsslot - Attribut, Freier Slot
+## Der freie Attributsslot - Attribut: Freier Slot
 
 Auf dem Charakterbogen gibt es ein Attribut mit dem Titel „Freier Slot”. Dieser Slot gibt der Spielleitung die Möglichkeit, den Spielenden für Situationen, die sie sich erarbeitet haben, oder Gegenstände, die sie im Abenteuer gefunden haben und bei sich tragen, einen weißen oder schwarzen Würfel zu geben. Gab es beispielsweise ein magisches Buch als Hinweis und konfrontiert die Gruppe einen NSC damit? Hier wäre ein passender Zeitpunkt, das Buch als weißen oder schwarzen Attributswürfel einzusetzen. Dieser Slot zählt wie alle anderen Attributsslots und ist kein zusätzlicher Würfel.
 

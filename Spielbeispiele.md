@@ -97,7 +97,7 @@ Kämpfe dauern in der Regel nur eine bis wenige Runden. Dabei würfeln wie im re
 
 ### Etwas riskieren - Außer Gefecht gesetzt
 
->**Martina**: Ihr rennt zurück zur Schmiede, aber es ist bereits zu spät: im Garten findet ihr die Tochter des Schmieds, über und über bedeckt von einer schwarzen Masse, die aussehen, wie sich bewegende Wurzeln.  
+>**Martina**: Ihr rennt zurück zur Schmiede, aber es ist bereits zu spät: Im Garten findet ihr die Tochter des Schmieds, über und über bedeckt von einer schwarzen Masse, die aussehen, wie sich bewegende Wurzeln.  
 >**Hannes**: Oh nein, nicht Hisako! Eran läuft direkt hin und versucht sie aus diesen Wurzeln zu befreien. "Das darf nicht passieren, sie wollte uns doch nur helfen!"  
 >**Martina**: Du rupfst einige der Wurzeln von ihrem Körper weg, aber es sind sehr viele...  
 >**Lydia**: Können wir da nicht noch irgendwas machen? Ich möchte gern versuchen alle Wurzeln einzufrieren, ohne Hisako zu verletzen, und dann von ihr entfernen und sie irgendwie reinigen?  
@@ -162,7 +162,7 @@ Außerdem wechseln sich die drei Elemente Rollenspiel, Würfeln und Erzählung i
 
 ### Das Abenteuer lösen
 
->**Martina**: So, wir haben jetzt etwa drei Stunden gespielt und ihr habt insgesamt 15 Hinweise gesammelt. Ich würde sagen damit kommen wir langsam zum Ende. Ihr bekommt jetzt ein bisschen Zeit von mir, vielleicht so 10-15 Minuten, damit ihr euch mit euren Hinweisen eine Story überlegen könnt. Zur Erinnerung: eure Aufgabe in diesem Abenteuer ist es herauszufinden, warum plötzlich Leute im Wald verschwinden und wie ihr dem Dorf helfen könnt. Je mehr Hinweise ihr in eurer Geschichte zusammenbaut, desto mehr senkt ihr die Schwierigkeit des Abenteuers, gegen die ihr am Schluss würfeln müsst. Im Moment liegt die Schwierigkeit bei 16.   
+>**Martina**: So, wir haben jetzt etwa drei Stunden gespielt und ihr habt insgesamt 15 Hinweise gesammelt. Ich würde sagen damit kommen wir langsam zum Ende. Ihr bekommt jetzt ein bisschen Zeit von mir, vielleicht so 10-15 Minuten, damit ihr euch mit euren Hinweisen eine Story überlegen könnt. Zur Erinnerung: Eure Aufgabe in diesem Abenteuer ist es herauszufinden, warum plötzlich Leute im Wald verschwinden und wie ihr dem Dorf helfen könnt. Je mehr Hinweise ihr in eurer Geschichte zusammenbaut, desto mehr senkt ihr die Schwierigkeit des Abenteuers, gegen die ihr am Schluss würfeln müsst. Im Moment liegt die Schwierigkeit bei 16.   
 >*Die Gruppe fängt an unter sich zu diskutieren. Es werden Verbindungen zwischen Hinweisen geknüpft und wieder verworfen, um dann an anderer Stelle wiederhergestellt zu werden. Immer wieder fällt jemandem auf, dass sie den einen oder anderen Hinweis aus der Liste ihrer gefundenen Hinweise noch nicht in der Geschichte eingebaut haben. Aber so langsam einigen sich alle auf eine bestimmte Abfolge.*  
 >**Martina**: So, wie schaut's denn bei euch aus? Das klingt ja schon so als wärt ihr mit eurer Geschichte so weit zufrieden. Dann erzählt mir jetzt bitte einmal der Reihe nach was eurer Meinung nach passiert ist. Ich hake dann die Hinweise ab, die ihr in der Geschichte eingebaut habt. Wer möchte denn anfangen?  
 >**Lydia**: Ralph hat mitgeschrieben, er erklärt das mal.  

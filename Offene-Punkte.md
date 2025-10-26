@@ -1,6 +1,13 @@
 # Offene Punkte
 
+Änderungen zum Stand: "Buch zweite Kontrolle"
+
+- 
+
+
+
 ## 1 Änderungen/Ergänzungen für Regeln u. Spielzüge
+
 - [x] Kapitel "Abenteuer selbst schreiben" korrekturlesen und ergänzen --> Marcel
 - [x] Kapitel zu TPK schreiben (worst case-Szenario am Schauplatz; aus der Geisterwelt befreien) --> Marcel
   - [x] Korrekttur und Sinn lesen
@@ -401,7 +408,6 @@
 - [x] Wirkliche sterben und heilen und so abschaffen? Progression über die Abenteuer hinweg. Tod bzw auder Gefecht nur wichtig ob es ein schwarze oder ein weise Epoche des Charakters war?
 - [x] Doch vor dem Kampf den Würfel werfen aber mit einem Modifikator drauf? Also von +1 - -2 oder so.
 - [x] Einen Zustand heilen über eine spezifische Frage die nur für das Abenteuer ist
-
 
 
 
