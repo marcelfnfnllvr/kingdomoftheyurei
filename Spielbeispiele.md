@@ -10,35 +10,35 @@
 
 ## Spielszenen
 
-Hier findet ihr einige beispielhafte Szenen, wie sie theoretisch im Spielverlauf passieren können. Sie sind dazu gedacht, euch einen besseren Eindruck von den Regeln, den Spielzügen und dem Ablauf des Ganzen zu vermitteln. Die Szenen sind spoilerfrei und haben keinen direkten Bezug zu den im Regelwerk enthaltenen Abenteuern.    
-Wir folgen hier einer Spielgruppe um die Spielleiterin Martina und ihren drei Mitspielenden Ralph, Hannes und Lydia. 
+Hier findet ihr einige Szenarien, die zeigen, wie sich Spielsituationen theoretisch entwickeln können. Sie sind dazu gedacht, euch einen besseren Eindruck von den Regeln, den Spielzügen und dem Ablauf des Ganzen zu vermitteln. Die Szenen sind spoilerfrei und haben keinen direkten Bezug zu den im Regelwerk enthaltenen Abenteuern.    
+Wir folgen hier einer Spielgruppe um die Spielleiterin Martina und ihren drei Mitspielenden Ralph (Yūsuke), Hannes (Eran) und Lydia (Ayane). 
 Die Charaktere der drei heißen  
 - Yūsuke (gespielt von Ralph),  
 - Eran (gespielt von Hannes) und  
 - Ayane (gespielt von Lydia).  
 
-Wenn die Spielenden oder die Spielleiterin *in Character* sprechen, dann steht das in "Anführungsstrichen".
+Wenn die Spielenden oder die Spielleiterin *in Character* sprechen, dann steht das in "Anführungszeichen".
 
 ### Etwas herausfinden - Eröffnungsfrage - Hilfe anbieten - freier Gegenstand
 
->**Martina**: Ihr geht auf den Dorfplatz und beobachtet das geschäftige Treiben. Heute findet ein Markt statt, also sind hier gerade auch einige Händler die lautstark ihre Waren anpreisen. Und da habe ich auch gleich mal eine *Paint the Scene*-Frage für euch: Ihr wisst, dass das Dorf einmal ein florierender Handelsort war. Woran merkt ihr, dass es aber seine besten Zeiten schon hinter sich hat?  
->**Lydia**: Der Marktplatz ist relativ groß für so einen kleinen Ort, aber mindestens ein Drittel vom Platz ist völlig leer, ohne Marktstände oder Läden. Nur eine Katze liegt dort auf einer Mauer und sonnt sich.  
->**Hannes**:  Die Stände, die noch hier sind, sind teilweise nur sehr spärlich besucht. Zwar gehen die Leute zwar Lebensmittel einkaufen und besonders am Fischstand ist einiges los. Aber viele Händler - gerade die mit etwas ungewöhnlicheren Waren - stehen eher etwas verloren herum und warten auf Kundschaft.  
->**Ralph**: Hmm, mir fällt gerade nichts gutes mehr ein...  
->**Martina**: Das macht nichts, es muss auch nicht jeder immer was antworten. Und so steht ihr also am Rand und betrachtet die Leute, die Stände und die Waren. Am Rand des Platzes hat sich eine kleine Traube Menschen um einen Marktstand versammelt.    
->**Ralph**: Ich möchte gerne zu dem Stand gehen und herausfinden, was es dort so interessantes gibt.  
->**Martina**: Yūsuke, du begibst dich zu der Traube Menschen und versuchst dich ein wenig vorzudrängeln, um den Stand sehen zu können. Durch den Spielzug "Etwas herausfinden" bekommst du hier einen weißen Würfel.   Allerdings hast du Angst vor Menschenmengen. Da du dich direkt in die dichte Menge begibst, bekommst du hier für auch noch einen schwarzen Würfel.  
->**Ralph**: Ich habe eine weiße 3 und eine schwarze 2 geworfen.  
+>**Martina**: Ihr geht auf den Dorfplatz und beobachtet das geschäftige Treiben. Heute findet ein Markt statt, also sind hier gerade auch einige Händler, die lautstark ihre Waren anpreisen. Und da habe ich gleich mal eine *Paint the Scene*-Frage für euch: Ihr wisst, dass das Dorf einmal ein florierender Handelsort war. Woran merkt ihr, dass es aber seine besten Zeiten schon hinter sich hat?  
+>**Lydia**: Der Marktplatz ist relativ groß für so einen kleinen Ort, aber mindestens ein Drittel des Platzes ist völlig leer, ohne Marktstände oder Läden. Nur eine Katze liegt dort auf einer Mauer und sonnt sich.  
+>**Hannes**:  Die Stände, die noch hier sind, sind teilweise nur sehr spärlich besucht. Zwar gehen die Leute Lebensmittel einkaufen und besonders am Fischstand ist einiges los, aber viele Händler - gerade die mit etwas ungewöhnlicheren Waren - stehen eher etwas verloren herum und warten auf Kundschaft.  
+>**Ralph**: Hmm, mir fällt gerade nichts Gutes mehr ein...  
+>**Martina**: Das macht nichts, es muss auch nicht immer jeder antworten. Und so steht ihr also am Rand und betrachtet die Leute, die Stände und die Waren. Am Rand des Platzes hat sich eine kleine Traube von Menschen um einen Marktstand versammelt.    
+>**Ralph**: Ich möchte gerne zu dem Stand gehen und herausfinden, was es dort so Interessantes gibt.  
+>**Martina**: Yūsuke (Ralph), du begibst dich zu der Menschentraube und versuchst, dich ein wenig vorzudrängeln, um den Stand sehen zu können. Für den Spielzug "Etwas herausfinden" bekommst du hier einen weißen Würfel.   Allerdings hast du Angst vor Menschenmengen. Da du dich direkt in die dichte Menge begibst, bekommst du hierfür auch noch einen schwarzen Würfel.  
+>**Ralph**: Ich habe eine weiße 3 und eine schwarze 2 gewürfelt.  
 >**Martina**: Das würde nicht für einen Hinweis reichen und ich würde dafür einen Verderbnispunkt bekommen.  
->**Lydia**: Ich möchte Yūsuke gerne helfen. Ayane ist zwar zierlich, aber wir hatten doch vorher so ein Horagai als Hinweis gefunden... Ich nehme also dieses Muschelhorn und puste kräftig hinein, damit uns die Menge Platz macht und Yūsuke  zusammen mit mir nach vorne kann. Dann steht er auch nicht ganz allein inmitten der ganzen unbekannten Menschen stehen muss.  
+>**Lydia**: Ich möchte Yūsuke (Ralph) gerne helfen. Ayane (Lydia) ist zwar zierlich, aber wir hatten doch vorher so ein Horagai als Hinweis gefunden... Ich nehme also dieses Muschelhorn und puste kräftig hinein, damit uns die Menge Platz macht und Yūsuke (Ralph)  zusammen mit mir nach vorne kann. Dann steht er auch nicht ganz allein inmitten der unbekannten Menschen.  
 >**Martina**: Ich finde das passt gut, den Hinweis kannst du über den freien Gegenstandslot einsetzen. Damit bekommst du einen weißen Attributswürfel dazu.    
 >**Lydia**: Ich habe eine 4 gewürfelt.  
->**Martina**: Das reicht leider immer noch nicht. Yūsuke, du kannst den Wurf aber noch einmal mit einem zusätzlichen schwarzen Würfel rerollen, weil die höchste Augenzahl bisher dein weißer Würfel hatte.  
+>**Martina**: Das reicht leider immer noch nicht. Yūsuke (Ralph), du kannst den Wurf aber noch einmal mit einem zusätzlichen schwarzen Würfel rerollen, weil deine höchste Augenzahl bisher dein weißer Würfel hatte.  
 >**Ralph**: Also gut, ich geh' das Risiko ein und würfle mit zwei schwarzen und einem weißen Würfel noch einmal. Ich habe eine weiße 6, eine weiße 3 und eine schwarze 4.  
->**Martina**: Wunderbar, damit hast du den Wurf geschafft, du kannst mit Hilfe von Ayane zu dem Stand und bekommst einen Hinweis. Allerdings hat Ayane jetzt mit ihrem Hilfswurf die schwarze 4 getroffen und bekommt deshalb einen Zustand. Ayane, erzähl doch mal wie das genau aussieht und was da wohl schieflaufen könnte.  
+>**Martina**: Wunderbar, damit hast du den Wurf geschafft, du kannst mit Hilfe von Ayane (Lydia) zu dem Stand und bekommst einen Hinweis. Allerdings hat Ayane (Lydia) jetzt mit ihrem Hilfswurf die schwarze 4 getroffen und bekommt deshalb einen Zustand. Ayane, erzähl doch mal wie das genau aussieht und was da wohl schieflaufen könnte.  
 >**Lydia**: Ich springe auf meinen Bär Jiro und bewege mich mit ihm auf die Traube Menschen zu...
 
-Grundsätzlich ist der Spielzug "Etwas herausfinden" nicht sehr gefährlich, aber wenn er nicht auf Anhieb funktioniert und mehr schwarze Würfel ins Spiel kommen, kann auch da etwas unangenehmes passieren. Wenn es in die Szene passt, können sich die Spielenden durchaus untereinander helfen, aber auch das ist mit einem gewissen Risiko für den Helfenden verbunden. Trotzdem haben die beiden so gemeinsam einen Hinweis finden können, der zur Lösung des Abenteuers beiträgt.
+Grundsätzlich ist der Spielzug "Etwas herausfinden" nicht sehr gefährlich, aber wenn er nicht auf Anhieb funktioniert und mehr schwarze Würfel ins Spiel kommen, kann auch da etwas Unangenehmes passieren. Wenn es in die Szene passt, können sich die Spielenden durchaus untereinander helfen, aber auch das ist mit einem gewissen Risiko für den Helfenden verbunden. Trotzdem haben die beiden so gemeinsam einen Hinweis finden können, der zur Lösung des Abenteuers beiträgt.
 
 >[Zurück nach oben](#spielbeispiele)
 
@@ -46,63 +46,64 @@ Grundsätzlich ist der Spielzug "Etwas herausfinden" nicht sehr gefährlich, abe
 
 ##### Ruf des Vergangenen – Lässt dich eine Szene oder einen Gegenstand untersuchen und seine Vergangenheit erleben.
 
-> **Martina**: Ihr betretet ein verbranntes Stück mitten im Wald. Fast wie eine natürliche Lichtung liegt ein Aschefeld vor euch, welches von hohen Kiefern gerahmt wird.  
-> **Hannes**: Ich würde gerne die Vergangenheit dieses Ortes erleben mit meiner Fähigkeit "Ruf des Vergangenen".  
-> **Martina**: Eran, du nutzt den Spielzug "Eine Fähigkeit nutzen" und darfst dir einen schwarzen Würfel für die Fähigkeit nehmen und einen weißen Würfel für dein Attribut Pflanzen.  
+> **Martina**: Ihr betretet ein verbranntes Stück mitten im Wald. Fast wie eine natürliche Lichtung liegt ein Aschefeld vor euch, das von hohen Kiefern gerahmt wird.  
+> **Hannes**: Ich würde gerne mit meiner Fähigkeit "Ruf des Vergangenen" die Vergangenheit dieses Ortes erleben.  
+> **Martina**: Eran (Hannes), du nutzt den Spielzug "Eine Fähigkeit nutzen" und darfst dir einen schwarzen Würfel für die Fähigkeit
+und einen weißen Würfel für dein Attribut Pflanzen nehmen.  
 > **Hannes**: Ich hab eine weiße 6 und eine schwarze 4 gewürfelt.  
-> **Martina**: Perfekt, die weiße 6 gibt dir einen weißen Bonuswürfel auf einen nächsten Wurf. Bitte gib mir einen Wurf auf "Etwas Herausfinden" mit einem weißen Würfel für den Spielzug, deinem weißen Bonuswürfel und einem weiteren weißen weißen Würfel für dein Attribut Pflanzen.  
+> **Martina**: Perfekt, die weiße 6 gibt dir einen weißen Bonuswürfel auf einen nächsten Wurf. Bitte gib mir einen Wurf auf "Etwas Herausfinden" mit einem weißen Würfel für den Spielzug und einem weiteren weißen Würfel für dein Attribut Pflanzen. Wenn du möchtest, kannst du auch direkt deinen Bonuswürfel einsetzen.    
 > **Hannes**: Ich habe eine 6, eine weitere 6 und eine 2 gewürfelt.  
-> **Martina**: Perfekt. Damit bekommst du in der Rückblende einen Hinweis von mir für die erste 6 und einen weiteren Hinweis für den Sechserpasch.  
-> **Hannes**: *freut sich*  
+> **Martina**: Perfekt. Damit bekommst du in der Rückblende zwei Hinweise von mir für die beiden Sechser.  
+> **Hannes**: *Freut sich.*  
 > **Martina**: Okay, deine Sicht ist von Rauchschwaden eingeschränkt, die durch den Wald ziehen, und du spürst die Hitze von Feuer. Dir fällt auf...  
 
-Diese Interaktion von dem S1 und dem SL veranschaulicht wie eine Fähigkeit für das Suchen von Hinweisen verwendet werden kann. In jedem Fall hätte der Spielleitende dem Spielenden die Geschichte erzählt wie der Wald verbrannt wurde, aber ohne einen weiteren Wurf auf "Etwas herausfinden" hätte der Spielende dafür keinen Hinweis erhalten. So hat der SL den Spielenden direkt nach dem Wurf "Eine Fähigkeit nutzen" auf "Etwas herausfinden" werfen lassen und der SC hat dabei auch noch den weißen Bonuswürfel aus seinem erfolgreichen "Eine Fähigkeit nutzen" Spielzug verwendet. 
+Diese Interaktion zwischen dem SC und der SL veranschaulicht, wie eine Fähigkeit für das Suchen von Hinweisen verwendet werden kann. In jedem Fall hätte die Spielleitung dem Spielenden die Geschichte erzählt, wie der Wald verbrannt wurde; ohne einen weiteren Wurf auf "Etwas herausfinden" hätte der Spielende jedoch keinen Hinweis erhalten. So hat der SL den Spielenden direkt nach dem Wurf "Eine Fähigkeit nutzen" auf "Etwas herausfinden" würfeln lassen und der SC hat dabei auch noch den weißen Bonuswürfel aus seinem erfolgreichen "Eine Fähigkeit nutzen" Spielzug verwendet. 
 
 >[Zurück nach oben](#spielbeispiele)
 
 ### Kampf - Den Gegner schwächen
 
->**Martina**: Ich gebe jetzt meine 3 Verderbnispunkte aus, damit hier mal ein bisschen mehr Spannung aufkommt! Ihr biegt gerade in eine ene Gasse ein, da lauert euch eine Gruppe Jäger auf. Finstere Gestalten mit einem Sammelsurium verschiedener Waffen wollen euch von vorne und von hinten einkesseln. Sie sind auf eure besonderen dämonischen Merkmale aus und blicken gierig auf dein Geweih, Yūsuke, auf die Federn von Eran und auf Ayane mit ihrer schneeweißen Haut.   
->**Lydia**: Wir stellen uns natürlich dem Kampf! Ayane schaut die Jäger grimmig und herausfordernd an und Jiro knurrt laut.    
+>**Martina**: Ich gebe jetzt meine 3 Verderbnispunkte aus, damit hier etwas mehr Spannung aufkommt! Ihr biegt gerade in eine ene Gasse ein, da lauert euch eine Gruppe Jäger auf. Finstere Gestalten mit einem Sammelsurium verschiedener Waffen wollen euch von vorne und von hinten einkesseln. Sie sind auf eure besonderen dämonischen Merkmale aus und blicken gierig auf dein Geweih, Yūsuke (Ralph), auf die Federn von Eran (Hannes) und auf Ayane (Lydia) mit ihrer schneeweißen Haut.   
+>**Lydia**: Wir stellen uns natürlich dem Kampf! Ayane (Lydia) schaut die Jäger grimmig und herausfordernd an und Jiro knurrt laut.    
 >**Martina**: Ich habe 3 Verderbnispunkte ausgegeben, also hat der Gegner die Gefahrenstufe 10. Wenn ihr wollt, könnt ihr versuchen den Gegner zu schwächen.  
 >**Ralph**: Ich möchte das versuchen. Ich will mit meiner Fähigkeit *Gedankenmanipulation* einen der Gegner beeinflussen, sodass er Angst bekommt und nicht mehr gegen uns kämpfen möchte.    
 >**Martina**: Gut, für den Spielzug selbst bekommst du einen schwarzen Würfel. Hast du noch irgendein Attribut, das du einsetzen kannst?  
 >**Ralph**: Mein Reittier hat das Attribut "stark", vielleicht könnte mein Wasserbüffel Ken mir helfen?  
->**Martina**: In Ordnung, für das Attribut bekommst du noch einen weißen W6 dazu. Dann würfel mal.  
+>**Martina**: In Ordnung, für das Attribut bekommst du noch einen weißen W6 dazu. Dann würfle bitte.  
 >**Ralph**: Ich habe eine weiße 5 und eine schwarze 3.  
->**Martina**: Damit senkst du die Gefahrenstufe des Gegners um 1. Sie ist jetzt also insgesamt bei 9. Wir sind ja ganz am Anfang vom Kampf, deshalb würfelt jetzt bitte alle mal euren jeweiligen Schwachpunkt für diesen Kampf aus. Das heißt ihr werft mit 1W6 und tragt euren Wert dann in den Kampfbogen ein.  
+>**Martina**: Damit senkst du die Gefahrenstufe des Gegners um 1. Sie ist jetzt also insgesamt bei 9. Wir sind ja erst beim Anfang des Kampfes, deshalb würfelt jetzt bitte alle euren jeweiligen Schwachpunkt für diesen Kampf aus. Das heißt, ihr würfelt mit 1W6 und tragt euren Wert dann in den Kampfbogen ein.  
 >**Lydia**: Ich habe eine 3.  
 >**Ralph**: Ich hab' auch eine 3.  
->**Hannes**: Mein Würfel sagt eine 5.  
->**Martina**: Also 3, 3 und 5. Gut, dann beginnt jetzt die erste richtige Kampfrunde. Würfelt bitte alle nochmal einen W6, das ist euer Kampfwürfel für diese Runde. Um den Gegner zu besiegen, braucht ihr mit euren beiden höchsten Würfeln zusammen mindestens eine 9. Ralph beziehungsweise Yūsuke hat schon den Gegner geschwächt, deshalb kann er diese Runde weder treffen noch getroffen werden und wirft keinen Kampfwürfel.   
+>**Hannes**: Mein Würfel zeigt eine 5.  
+>**Martina**: Also 3, 3 und 5. Gut, dann beginnt jetzt die erste richtige Kampfrunde. Würfelt bitte alle nochmals einen W6, das ist euer Kampfwürfel für diese Runde. Um den Gegner zu besiegen, braucht ihr mit euren beiden höchsten Würfeln zusammen mindestens eine 9. Ralph, beziehungsweise Yūsuke, hat schon den Gegner geschwächt, deshalb kann er diese Runde weder treffen noch getroffen werden und wirft keinen Kampfwürfel.   
 >**Lydia**: Ich habe eine 5.  
 >**Hannes**: Bei mir ist es eine 2.  
 >**Martina**: Gut, eine 2 und 5. Das heißt ihr habt insgesamt 7 Punkte, das reicht leider nicht.  
 >**Ralph**: Ja nun...  
->**Martina**: Außerdem haben wir eine 5, das ist der Schwachpunkt von Eran in diesem Kampf. Hannes, dein Charakter bekommt einen Zustand. Wenn ihr gleich erzählt, was ihr in der Kampfrunde so macht, können wir ja schauen was da passen könnte. Dann erzählt doch mal, was ihr so macht und wie das ggf. auch schief geht. Ralph hat den Gegner geschwächt, also fängt er an. Hannes, dein Kampfwürfel hatte den niedrigsten Wert, also kommst du als nächstes. Zuletzt ist dann Lydia dran.  
+>**Martina**: Außerdem haben wir eine 5, das ist Erans (Hannes) Schwachpunkt in diesem Kampf. Hannes, dein Charakter bekommt einen Zustand. Wenn ihr gleich erzählt, was ihr in der Kampfrunde so macht, können wir ja schauen, was da passen könnte. Dann erzählt mir bitte, was ihr so macht und wie das ggf. auch schief geht. Ralph hat den Gegner geschwächt, also fängt er an. Hannes, dein Kampfwürfel hatte den niedrigsten Wert, also kommst du als nächstes. Zuletzt ist dann Lydia dran.  
 >*Ralph, Hannes und Lydia erzählen, was ihre drei Charaktere in der Kampfrunde genau machen, wie sie angreifen und was ihnen in dieser Runde zum Verhängnis wird.*  
->**Martina**: Wunderbar, ihr habt eurem Gegner zwar ein wenig zusetzen können, aber noch sind fast alle am Leben und greifen euch weiter an. Lydia, du hattest in Runde 1 den höchsten Kampfwürfelwert mit deiner 5, deshalb bekommst du jetzt ab Runde 2 einen zweiten W6 in deinen Kampfwürfelpool. Möchte nochmal jemand den Gegner schwächen in Runde 2?  
+>**Martina**: Wunderbar, ihr habt eurem Gegner zwar ein wenig zusetzen können, aber noch sind fast alle am Leben und greifen euch weiter an. Lydia, du hattest in Runde 1 den höchsten Kampfwürfelwert mit deiner 5, deshalb bekommst du jetzt ab Runde 2 einen zweiten W6 in deinen Kampfwürfelpool. Möchte noch einmal jemand den Gegner schwächen in Runde 2?  
 >**Hannes**: Lieber angreifen...  
 >**Ralph**: Ja, diesmal klappt es!  
->**Lydia**: Ich habe eine 2 und eine 6, darf ja aber den höheren behalten, also 6.   
+>**Lydia**: Ich habe eine 2 und eine 6, darf ja aber den höheren Wurf behalten, also 6.   
 >**Ralph**: Ich greif' auch an und habe eine 4 gewürfelt.  
 >**Hannes**. Bei mir ist es ne 3, upsi.  
->**Martina**: Alles klar, ihr greift alle an und mit einer Summe von 10 könnt ihr den Gegner diese Runde besiegen! Allerdings kriegen Ayane und Yūsuke jeweils einen Zustand, weil ihr Schwachpunkt getroffen wurde. Dann erzählt mir mal wie ihr eure Widersacher alle platt macht. Erst ist Hannes dran, dann Lydia und das Grand Finale darf Ralph beschreiben.  
->*Wieder beschreiben Lydia, Ralph und Hannes wie ihre Charaktere tapfer die Feinde bekämpfen und diese schließlich töten oder in die Flucht schlagen können.*  
+>**Martina**: Alles klar, ihr greift alle an und mit einer Summe von 10 könnt ihr den Gegner in dieser Runde besiegen! Allerdings erhalten Ayane (Lydia) und Yūsuke (Ralph) jeweils einen Zustand, weil ihr Schwachpunkt getroffen wurde. Dann erzählt doch noch, wie ihr eure Widersacher alle platt macht. Erst ist Hannes dran, dann Ralph und das Grand Finale darf Lydia beschreiben.  
+>*Wieder beschreiben Lydia, Ralph und Hannes, wie ihre Charaktere tapfer die Feinde bekämpfen und diese schließlich töten oder in die Flucht schlagen können.*  
 >**Martina**: Sehr schön, das habt ihr doch gut hingekriegt. Ihr habt zwei Runden lang gekämpft, also bekommt ihr jetzt noch zwei Hinweise von mir. Ihr durchstöbert ein wenig das Chaos nach der Schlacht und findet...
 
-Kämpfe dauern in der Regel nur eine bis wenige Runden. Dabei würfeln wie im restlichen Spielverlauf nur die Spielenden. Den Gegner zu schwächen ist sinnvoll und kann eine große Wirkung haben, wenn er eine Gefahrenstufe von 9 oder höher hat - ab einer Gefahrenstufe von mindestens 13 ist es sogar notwendig, da die Gruppe ihn sonst nicht besiegen kann. Wie detailliert Gewaltbeschreibungen und wie blutig die Kämpfe beschrieben werden dürfen, das sollte die Gruppe in der Session 0 gemeinsam klären.
+Kämpfe dauern in der Regel nur wenige Runden. Dabei würfeln nur die Spielenden, wie auch im restlichen Spielverlauf. Den Gegner zu schwächen ist sinnvoll und kann eine große Wirkung haben, wenn er eine Gefahrenstufe von 9 oder mehr hat. Ab einer Gefahrenstufe von mindestens 13 ist es sogar notwendig, da die Gruppe ihn sonst nicht besiegen kann. Wie detailliert Gewaltbeschreibungen und wie blutig die Kämpfe beschrieben werden dürfen, sollte die Gruppe in der Session 0 gemeinsam klären.
 
 >[Zurück nach oben](#spielbeispiele)
 
 ### Etwas riskieren - Außer Gefecht gesetzt
 
 >**Martina**: Ihr rennt zurück zur Schmiede, aber es ist bereits zu spät: Im Garten findet ihr die Tochter des Schmieds, über und über bedeckt von einer schwarzen Masse, die aussehen, wie sich bewegende Wurzeln.  
->**Hannes**: Oh nein, nicht Hisako! Eran läuft direkt hin und versucht sie aus diesen Wurzeln zu befreien. "Das darf nicht passieren, sie wollte uns doch nur helfen!"  
->**Martina**: Du rupfst einige der Wurzeln von ihrem Körper weg, aber es sind sehr viele...  
->**Lydia**: Können wir da nicht noch irgendwas machen? Ich möchte gern versuchen alle Wurzeln einzufrieren, ohne Hisako zu verletzen, und dann von ihr entfernen und sie irgendwie reinigen?  
->**Martina**: Die Idee mit dem Einfrieren finde ich gut. Ihr könnt das generell schon, schließlich wohnt ein Dämon in euch. Aber das ist definitiv eine gefährliche Sache, denn es könnte ja sein, dass die Wurzeln dann dich angreifen. Dann würdest du einmal auf "Etwas riskieren" würfeln.  
->**Lydia**: Also gut, dann versucht Ayane das.  
+>**Hannes**: "Oh nein, nicht Hisako!" Eran (Hannes) läuft direkt zu ihr und versucht, sie aus diesen Wurzeln zu befreien. "Das darf nicht passieren, sie wollte uns doch nur helfen!"  
+>**Martina**: Du reißt einige der Wurzeln von ihrem Körper weg, aber es sind sehr viele...  
+>**Lydia**: Können wir da nicht noch irgendwas machen? Ich möchte gern versuchen alle Wurzeln einzufrieren, ohne Hisako zu verletzen, und dann von ihr entfernen und sie irgendwie reinigen.  
+>**Martina**: Die Idee mit dem Einfrieren finde ich gut. Du kannst das generell schon, schließlich wohnt ein Dämon in dir. Aber das ist definitiv eine gefährliche Sache, denn es könnte ja sein, dass die Wurzeln dann dich angreifen. Dann müsstest du einmal auf "Etwas riskieren" würfeln.  
+>**Lydia**: Also gut, dann versucht Ayane (Lydia) das.  
 >**Martina**: Wie viele Zustände hat sie eigentlich gerade? Oh, das sind ja schon 5. Bist du sicher, dass du das machen möchtest?  
 >**Lydia**: Ja, ich riskier' es jetzt einfach. Hisako ist unschuldig und sie hat uns sogar geholfen! Da darf sie jetzt nicht so enden.  
 >**Martina**: Also gut. Für den "Etwas riskieren"-Spielzug bekommst du einen schwarzen Würfel. Hast du noch irgendein Attribut, das dir dabei helfen kann?  
@@ -110,33 +111,33 @@ Kämpfe dauern in der Regel nur eine bis wenige Runden. Dabei würfeln wie im re
 >**Martina**: Na, das passt doch sehr gut. Da es von deinem Dämon kommt, wäre das aber ein weiterer schwarzer Würfel. Also wenn du Erfolg hast, dann bekommst du definitiv noch einen Zustand.   
 >**Lydia**: Ok, darf ich dann vielleicht vorher kurz meine Fähigkeit "Auszehren" einsetzen, damit ich vielleicht diesen Wurzeln auch noch direkt die Energie entziehe? Dann kann ich sie danach leichter einfrieren oder so.  
 >**Martina**: Ist gut.  
->**Lydia**: Ich würde dazu gerne auch mein Attribut Geschick einsetzen, denn das erfordert ja jetzt schon Fingerspitzengefühl, dass ich nicht aus Versehen Hisako dabei verletze.  
->**Ralph**: Oh man, ob das was wird...  
->**Martina**: Na gut, dann mach das so. Also erstmal "eine Fähigkeit einsetzen", mit einem schwarzen W6 für den Spielzug und einem weißen W6 für dein Attribut.  
->**Lydia**: Das ist eine schwarze 4 und eine weiße 6. Glück gehabt, das hat schonmal funktioniert!  
+>**Lydia**: Ich würde dazu gerne auch mein Attribut Geschick einsetzen, denn das erfordert ja schon Fingerspitzengefühl, dass ich nicht aus Versehen Hisako dabei verletze.  
+>**Ralph**: Oh Mann, ob das was wird...  
+>**Martina**: Na gut, dann mach das so. Also erstmal würfelst du für "eine Fähigkeit einsetzen", mit einem schwarzen W6 für den Spielzug und einem weißen W6 für dein Attribut.  
+>**Lydia**: Das ist eine schwarze 4 und eine weiße 6. Glück gehabt, das hat zumindest funktioniert!  
 >**Martina**: Sehr schön, damit bekommst du einen weißen Bonuswürfel. Den wolltest du ja jetzt für deinen "Etwas riskieren"-Wurf einsetzen, um Hisako zu retten.  
->**Lydia**: Genau, dann riskiere ich jetzt mal - Uh oh, ich habe eine weiße 3 und eine schwarze 6.  
->**Hannes**: Och nööööö!   
->**Martina**: Na, immerhin hast du damit geschafft, was du dir vorgenommen hast. Allerdings bekommst du durch die schwarze 6 noch einen Zustand und wirst damit erstmal außer Gefecht gesetzt und dein Dämon gewinnt etwas mehr die Oberhand. Erzähl doch mal, wie das aussieht.  
->**Lydia**: Also, Ayane stellt sich neben Eran und legt ihm die Hand auf die Schulter. "Lass mich mal machen, ich hab' eine Idee!". Sie kniet sich neben Hisako, schließt kurz die Augen und atmet dann tief durch. Dann klatscht sie kurz ihre Hände zusammen und macht damit eine Geste, um Kraft zu sammeln. Dann hält sie beide Hände mit den Handflächen nach unten und gespreizten Fingern über Hisakos Körper und diese Wurzeln. Ein Windhauch geht durch ihre langen schwarzen Haare und ihre Augen fangen an so kalt und blau zu leuchten. Dann seht ihr, wie die Wurzeln erst langsamer werden in ihren Bewegungen und sie vertrocknen etwas. Das Leuchten in Ayanes Augen wird stärker. Obwohl Sommer ist, bilden sich beim Ausatmen jetzt kleine Nebelschwaden. Auf ihren Händen glitzert der Raureif, der immer weiter auf die Wurzeln überspringt, bis diese komplett zu Eis erstarrt sind. Dann pustet sie einmal sanft über ihre Handfläche auf die Wurzeln und sie zerspringen in Millionen kleine Stücke wie Kristalle. Allerdings war diese Anstrengung zu viel für Ayane. Ihre bleichen Lippen werden noch blasser und dann blau. Sie erstarrt kurz und dann seht ihr, wie ihr gesamter Körper sich verwandelt in eine Eisskulptur mit leuchtend blauen Augen. Ihr langes schwarzes Haar wird auch von Raureif überzogen und wird dann komplett weiß. Die Kälte um euch herum breitet sich aus. Sie hat gerade noch Zeit aufzustehen und hilfesuchend eine Hand in eure Richtung auszustrecken, bevor sie komplett erstarrt.  
+>**Lydia**: Genau, dann riskiere ich jetzt mal - uh oh, ich habe eine weiße 3 und eine schwarze 6.  
+>**Hannes**: Och nööö!   
+>**Martina**: Na, immerhin hast du damit geschafft, was du dir vorgenommen hast. Allerdings bekommst du durch die schwarze 6 noch einen Zustand und wirst damit außer Gefecht gesetzt und dein Dämon gewinnt etwas mehr die Oberhand. Erzähl doch bitte, wie das aussieht.  
+>**Lydia**: Also, Ayane (Lydia) stellt sich neben Eran (Hannes) und legt ihm die Hand auf die Schulter. "Lass mich mal machen, ich hab' eine Idee!". Sie kniet sich neben Hisako, schließt kurz die Augen und atmet dann tief durch. Dann klatscht sie kurz ihre Hände zusammen und macht damit eine Geste, um Kraft zu sammeln. Dann hält sie beide Hände mit den Handflächen nach unten und gespreizten Fingern über Hisakos Körper und diese Wurzeln. Ein Windhauch geht durch ihre langen, schwarzen Haare und ihre Augen fangen an so kalt und blau zu leuchten. Dann seht ihr, wie die Wurzeln erst langsamer werden in ihren Bewegungen und sie vertrocknen etwas. Das Leuchten in Ayanes Augen wird stärker. Obwohl Sommer ist, bilden sich beim Ausatmen jetzt kleine Nebelschwaden. Auf ihren Händen glitzert der Raureif, der immer weiter auf die Wurzeln überspringt, bis diese komplett zu Eis erstarrt sind. Dann pustet sie einmal sanft über ihre Handfläche auf die Wurzeln und sie zerspringen in Millionen kleine Stücke wie Kristalle. Allerdings war diese Anstrengung zu viel für Ayane. Ihre bleichen Lippen werden noch blasser und dann blau. Sie erstarrt kurz und dann seht ihr, wie ihr gesamter Körper sich verwandelt in eine Eisskulptur mit leuchtend blauen Augen. Ihr langes schwarzes Haar wird auch von Raureif überzogen und wird dann komplett weiß. Die Kälte um euch herum breitet sich aus. Sie hat gerade noch Zeit aufzustehen und hilfesuchend eine Hand in eure Richtung auszustrecken, bevor sie komplett erstarrt.  
 >**Ralph**: "Nein, Ayane! Verdammt, was machen wir denn jetzt?!"  
->**Hannes**: Eran schaut immer wieder zwischen Ayane und Hisako hin und her.  
+>**Hannes**: Eran (Hannes) schaut immer wieder zwischen Ayane (Lydia) und Hisako hin und her.  
 >**Martina**: Ja, Hisako öffnet jetzt auch langsam ihre Augen und schaut dich etwas verwirrt an. "Wo bin ich? Wo sind diese schwarzen Wurzeln hin? Sie hatten mich doch erwischt... Und warum ist es hier so kalt?"  
->**Hannes**: "Das war Ayane, sie hat dich gerettet. Aber ich glaube du solltest erstmal weg hier. Kannst du aufstehen?" Und ich würde ihr so ein bisschen aufhelfen, damit sie zumindest schonmal sitzt.  
->**Martina**: "Ja, danke, ich denke es geht." Sie schaut in Richtung Ayane. "Was ist denn mit ihr passiert?!"  
->**Ralph**: "Sie hat ziemlich viel riskiert, um dir zu helfen. Aber jetzt müssen wir erstmal *ihr* helfen." Und damit würde Yūsuke sich vor Ayane hinstellen, ganz vorsichtig seine Hände auf ihre Schultern legen und versuchen sie zurückzuholen.  
+>**Hannes**: "Das war Ayane (Lydia), sie hat dich gerettet. Aber ich glaube du solltest erstmal weg hier. Kannst du aufstehen?" Und ich würde ihr so ein bisschen aufhelfen, damit sie zumindest schonmal sitzt.  
+>**Martina**: "Ja, danke, ich denke es geht." Sie schaut in Richtung Ayane (Lydia). "Was ist denn mit ihr passiert?!"  
+>**Ralph**: "Sie hat ziemlich viel riskiert, um dir zu helfen. Aber jetzt müssen wir erstmal *ihr* helfen." Und damit würde Yūsuke (Ralph) sich vor Ayane (Lydia) hinstellen, ganz vorsichtig seine Hände auf ihre Schultern legen und versuchen sie zurückzuholen.  
 >**Martina**: Ja, das kannst du gerne versuchen, das wäre dann auch ein Wurf auf "Etwas riskieren".  
 >**Ralph**: Ich hab' leider kein passendes Attribut, das mir da irgendwie helfen könnte...  
 >**Martina**: Gut, dann bleibt es für den Wurf bei einem schwarzen W6.  
 >**Ralph**: Das ist eine 5!  
->**Martina**: Das reicht aus, du kannst Ayane auf der eisigen Umarmung ihres Dämons befreien, bekommst dafür allerdings selbst einen Zustand. Was genau möchte Yūsuke denn tun?  
+>**Martina**: Das reicht aus, du kannst Ayane (Lydia) auf der eisigen Umarmung ihres Dämons befreien, bekommst dafür allerdings selbst einen Zustand. Was genau möchte Yūsuke (Ralph) denn tun?  
 >**Ralph**: Also, er legt die Hände auf Ayanes Schultern und sein Geweih scheint so ein bisschen so wachsen. Aber die neuen Äste sind aus grünlichem Licht. Das fließt dann über seine Arme und Hände rüber zu Ayanes Körper und langsam verwandelt sie sich wieder zurück von einer Eisskulptur in ihre "normale" Form.  
->**Martina**: Sehr schön, dann darf Ayane jetzt auch wieder aufwachen. Sie ist jetzt definitiv mehr gezeichnet von ihrem Dämon als vorher, aber zumindest ist sie wieder bei Bewusstsein.  
+>**Martina**: Sehr schön, dann darf Ayane (Lydia) jetzt auch wieder aufwachen. Sie ist jetzt definitiv mehr gezeichnet von ihrem Dämon als vorher, aber zumindest ist sie wieder bei Bewusstsein.  
 >**Lydia**: Ja, das blaue Leuchten in Ayanes Augen erlöscht und ihr Körper nimmt wieder seine normale blasse Farbe an - bis auf ihre Haare, die bleiben schneeweiß. Sie blinzelt kurz und sackt dann so ein bisschen in sich zusammen -  
->**Ralph**: Yūsuke würde sie stützen, damit sie nicht zusammenbricht. "Hey, da bist du ja wieder. Du hast uns einen ganz schönen Schreck eingejagt."  
+>**Ralph**: Yūsuke (Ralph) würde sie stützen, damit sie nicht zusammenbricht. "Hey, da bist du ja wieder. Du hast uns einen ganz schönen Schreck eingejagt."  
 >**Lydia**: "Tut mir leid, ich dachte ich könnte das schaffen. Was ist mit Hisako?" Fragt sie und guckt sich um. Wahrscheinlich würde Jiro jetzt auch zu ihr kommen und sie vorsichtig anstupsen und sie vergräbt ihre Hände in seinem weichen Fell.  
 >**Hannes**: "Hisako geht es gut, denke ich. Das war ziemlich beeindruckend, aber auch ganz schön riskant, was du da gemacht hast! Aber ich froh, dass es dir gut geht."  
->**Martina**: Ja, sehr schön, damit habt ihr Hisako gerettet - wenn auch nicht ohne Opfer. Am Ende des Abends schauen wir dann mal bei dir, Lydia, was das bei Ayane jetzt alles verändert.
+>**Martina**: Ja, sehr schön, damit habt ihr Hisako gerettet - wenn auch nicht ohne Opfer. Am Ende des Abends schauen wir dann mal bei dir, Lydia, was das bei Ayane (Lydia) jetzt alles verändert.
 
 Auch wenn ein Charakter keine Fähigkeit besitzt, die ganz genau zur Situation passt, kann er oder sie eine Aktion trotzdem durchführen. Außerdem können die Charaktere nicht "sterben" im eigentlichen Sinne. Es ist auch nicht verwerflich, wenn jemand mit schon 5 Zuständen auch noch etwas riskantes machen möchte. Das Hauptaugenmerk liegt auf einer tollen Erzählung und die Spielenden sollen ihrer Kreativität hier freien Lauf lassen können. Dadurch können mitreißende und mitunter auch schön emotionale Szenen entstehen.  
 Außerdem wechseln sich die drei Elemente Rollenspiel, Würfeln und Erzählung immer wieder ab. Phasenweise wird mehr gewürfelt wie hier bei der riskanten Aktion oder auch im Kampf. Aber einen größeren Anteil nehmen die Erzählungen aller (Spielleitung *und* Mitspielende) und ihr Rollenspiel ein.
