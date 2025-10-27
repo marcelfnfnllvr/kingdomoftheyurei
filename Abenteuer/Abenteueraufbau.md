@@ -31,7 +31,7 @@ Eine einleitende Beschreibung wie die Charaktere am Abenteuerort ankommen.
 
 ### Momente:
 
-- Kleine Momente, die der Welt Leben einhauen sollen, und die der Spielleitende im Abenteuer nutzen kann.
+- Kleine Momente, die der Welt Leben einhauchen sollen, und die die Spielleitung im Abenteuer nutzen kann.
 
 ### Personen:
 
@@ -53,4 +53,4 @@ Herausforderung: Falls der Ort eine Herausforderung bietet, wird diese kurz skiz
 
 ### Hinweise:
 
--	[   ] Verschiedene Hinweise, die der Spielleitende im Laufe des Abenteuers zufällig oder auch passend im Abenteuer platzieren kann.
+-	[   ] Verschiedene Hinweise, die der Spielleitung im Laufe des Abenteuers zufällig oder auch passend im Abenteuer platzieren kann.

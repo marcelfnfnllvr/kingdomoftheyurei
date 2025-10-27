@@ -4,7 +4,7 @@ Schwierigkeit: 14 – ein kurzes und eher einfaches Abenteuer - ein bis zwei Abe
 
 Gesammelte Verderbnispunkte: [  n ]
 
-### Hinweise für Spielleitende:
+### Hinweise für Spielleitung:
 
 Die Gruppe befindet sich in einem riesigen Haus auf einem Berg. Die Gruppe wurde zu dem Anwesen von Yoshiteru Sugimoto gerufen. Dort wurde ein Bediensteter des Herrn namens Anwar Kazushige tot aufgefunden. Der Herr hatte gerade noch die Familie mit seinen beiden Kindern gefeiert und trauert nun um einen seiner ältesten Angestellten. Die Bediensteten machen die Hausgeister für den Tod verantwortlich, welche seit dem Tag verschwunden sind. 
 

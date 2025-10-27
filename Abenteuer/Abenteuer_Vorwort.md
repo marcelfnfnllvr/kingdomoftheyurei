@@ -26,7 +26,7 @@ In den vorgefertigten Abenteuern sind alle wichtigen Elemente wie Schauplätze, 
 
 ## Tipps für die SL
 
-> Dieses Kapitel richtet sich vorrangig an die Spielleitenden, denn hier findet ihr neben einigen vorgefertigten Abenteuern auch Tipps für die richtige Stimmung, Informationen zum Abenteueraufbau und weitere Ideen, die ihr in Abenteuer verbauen könnt. Also: Achtung, Spoilergefahr! Weiterlesen auf eigene Gefahr. 
+> Dieses Kapitel richtet sich vorrangig an die Spielleitung, denn hier findet ihr neben einigen vorgefertigten Abenteuern auch Tipps für die richtige Stimmung, Informationen zum Abenteueraufbau und weitere Ideen, die ihr in Abenteuer verbauen könnt. Also: Achtung, Spoilergefahr! Weiterlesen auf eigene Gefahr. 
 
 Die hier vorgestellten Abenteuer lassen sich in ein bis zwei Sessions durchspielen, wobei wir bei einer Session von einer Dauer von ca. 4-5 Stunden ausgehen. Genau lässt sich das nie vorher sagen, denn Gruppen spielen einfach unterschiedlich. In den Geschichten in *Königreich der Yōkai* gibt es auch keine festgeschriebenen Events oder Reihenfolgen, sondern die Gruppe bewegt sich von Szene zu Szene. Wann genau eine Session also vorbei sein soll, kann relativ frei festgelegt werden. Natürlich wird aber die Wahrscheinlichkeit das Abenteuer friedlich abzuschließen größer, je mehr Hinweise die Gruppe sammeln konnte.  
 
