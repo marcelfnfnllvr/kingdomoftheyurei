@@ -6,7 +6,7 @@ Gesammelte Verderbnispunkte: [  n ]
 
 ### Hinweise für Spielleitung:
 
-Die Gruppe befindet sich in einem riesigen Haus auf einem Berg. Die Gruppe wurde zu dem Anwesen von Yoshiteru Sugimoto gerufen. Dort wurde ein Bediensteter des Herrn namens Anwar Kazushige tot aufgefunden. Der Herr hatte gerade noch die Familie mit seinen beiden Kindern gefeiert und trauert nun um einen seiner ältesten Angestellten. Die Bediensteten machen die Hausgeister für den Tod verantwortlich, welche seit dem Tag verschwunden sind. 
+Die Gruppe befindet sich in einem riesigen Haus auf einem Berg. Die Gruppe wurde zu dem Anwesen von Yoshiteru Sugimoto gerufen. Dort wurde ein Bediensteter des Herrn namens Anwar Kazushige tot aufgefunden. Der Herr hatte gerade noch mit seiner Familie und seinen beiden Kindern gefeiert und trauert nun um einen seiner ältesten Angestellten. Die Bediensteten machen die Hausgeister für den Tod verantwortlich, welche seit dem Tag verschwunden sind.
 
 ### Fragestellung, Eskalation und Ehrung:
 
@@ -18,7 +18,7 @@ Freund der Hausgeister - Einfühlsam
 
 ### Abenteuerfrage:
 
-Kann sich dein Charakter vorstellen in so einem Anwesen seinen Ruhestand zu verbringen? Warum oder warum nicht?
+Kann sich dein Charakter vorstellen in so einem Anwesen seinen Ruhestand zu verbringen? Warum, oder warum nicht?
 
 ### Einleitung:
 
@@ -26,7 +26,7 @@ Ein langer und anstrengender Aufstieg liegt hinter euch. Der Pass hier hinauf wa
 
 > Wie gut habt ihr den schwierigen Aufstieg überstanden?
 
-Es kommen Väterchen und Mütterchen auf euch zugelaufen und begrüßen euch. Sie bringen euch zum Anwesen. Beim Versuch das Gebäude zu betreten, bricht ein oberhalb des Eingangs liegender Balkon ab und die Gruppe muss verhindern getroffen zu werden. 
+Es kommen Väterchen und Mütterchen auf euch zugelaufen und begrüßen euch. Sie bringen euch zum Anwesen. Beim Versuch, das Gebäude zu betreten, bricht ein oberhalb des Eingangs liegender Balkon ab, und die Gruppe muss verhindern, getroffen zu werden.
 
 ### Gefahren:
 
@@ -38,8 +38,8 @@ Es kommen Väterchen und Mütterchen auf euch zugelaufen und begrüßen euch. Si
 
 ### Momente:
 
--	Das Licht im Raum flackert und ihr habt das Gefühl beobachtet zu werden. Nach einem kurzem Moment scheinen die Lampen wieder normal, aber ein silberner Krug, der vor euch auf einen Kommode stand, fehlt. 
--	Die untergehende Sonne bricht sich im Fenster und einen Moment ist alles still. Eine Art Klarheit überkommt euch. Was an diesem Haus erinnert euch an euren eigenen Zerfall durch den Dämonen?
+-	Das Licht im Raum flackert, und ihr habt das Gefühl, beobachtet zu werden. Nach einem kurzen Moment scheinen die Lampen wieder normal, aber ein silberner Krug, der vor euch auf einer Kommode stand, fehlt. 
+-	Die untergehende Sonne bricht sich im Fenster, und einen Moment ist alles still. Eine Art Klarheit überkommt euch. Was an diesem Haus erinnert euch an euren eigenen Zerfall durch den Dämon?
 -	Das Gebäude wackelt leicht und stöhnt, als ob es Schmerzen hätte. 
 
 ### Personen:
@@ -48,7 +48,7 @@ Es kommen Väterchen und Mütterchen auf euch zugelaufen und begrüßen euch. Si
 
 *Spricht mit ruhiger, etwas dünner aber gut zu verstehender Stimme - Wohlgesonnen*
 
-Ein netter, sehr alter Herr. Hat hier früher mit seiner Frau Hiroko gelebt. Sie verschwand eines Tages spurlos. Er besitzt Land und lässt Reis anbauen. Er sagt er sei gütig und er mag die Hausgeister. Sie leisten ihm immer Gesellschaft und sind nicht so unheimlich wie Mütterchen und Väterchen. 
+Ein netter, sehr alter Herr. Hat hier früher mit seiner Frau Hiroko gelebt. Sie verschwand eines Tages spurlos. Er besitzt Land und lässt Reis anbauen. Er sagt, er sei gütig, und er mag die Hausgeister. Sie leisten ihm immer Gesellschaft und sind nicht so unheimlich wie Mütterchen und Väterchen. 
 
 ##### Anwar Kazushige – unehelicher Sohn von Yoshiteru
 
@@ -58,7 +58,7 @@ Tot aufgefundener, unehelicher Sohn des Yoshiteru. Er war auf dem Anwesen als Ko
 
 *Nasale Stimme, die leicht hochnäsig wirkt - Wohlgesonnen - Trägt edle Gewänder, die teuer aussehen*
 
-Er ist ca. 50-60 Jahre alt. Erst seit Kurzem wieder auf dem Anwesen. In den großen Städten ist es viel angenehmer und lukrativer zu wohnen. Möchte hier schnell wieder weg. Auf die Gesellschaft seiner Schwester kann er verzichten. An Geister glauben nur Kinder und Narren.
+Er ist ca. 50-60 Jahre alt. Erst seit kurzem wieder auf dem Anwesen. In den großen Städten ist es viel angenehmer und lukrativer, zu wohnen. Möchte hier schnell wieder weg. Auf die Gesellschaft seiner Schwester kann er verzichten. An Geister glauben nur Kinder und Narren.
 
 ##### Najwa Sugimoto – Tochter von Yoshiteru
 
@@ -70,20 +70,19 @@ Sie ist ca. 50-60 Jahre alt. Sie reist durch das Land und kontrolliert die Länd
 
 *Komische Stimmen. Unregelmäßige Sprache - Wiederholen sich oft - Wohlgesonnen*
 
-Sie sind dankbar und haben jetzt mehr Arbeit, seit die Hausgeister fehlen. Sie waren schon immer hier. Vor dem alten Herrn. Sie können sich nicht mehr daran erinnern, dass sie einst Hausgeister waren. Die anderen Hausgeister denken, dass beim Ankommen des alten Herrn zehn von ihnen verschwunden sind. Sie sind jedoch weder tot, noch haben sie das Anwesen verlassen: Fünf Geister haben sich in Ephram und fünf weitere in Eru verwandelt.
+Sie sind dankbar und haben jetzt mehr Arbeit, seit die Hausgeister fehlen. Sie waren schon immer hier. Vor dem Alten Herrn. Sie können sich nicht mehr daran erinnern, dass sie einst Hausgeister waren. Die anderen Hausgeister denken, dass beim Ankommen des alten Herrn zehn von ihnen verschwunden sind. Sie sind jedoch weder tot, noch haben sie das Anwesen verlassen: Fünf Geister haben sich in Ephram und fünf weitere in Eru verwandelt.
 
 ##### Die Hausgeister
 
 *Sie sprechen alle gleich, denn alle sind gleich. - Misstrauisch*
 
-Sie werden nicht verraten, ob sie Anwar getötet haben oder nicht. Sie sagen aber es wäre nicht ihre Art. Es wurde allerdings Unrecht getan. 
+Sie werden nicht verraten, ob sie Anwar getötet haben oder nicht. Sie sagen, aber es wäre nicht ihre Art. Es wurde allerdings Unrecht getan. 
 
 ##### Der alte Kater Ito
 
 *Wohlgesonnen*
 
-Dicker Kater, kann an verschiedenen Stellen des Hauses angetroffen werden.
-Der Kater kann alles wissen, ist aber katzenmäßig eher mit Vorsicht anzufassen. Er ist ein Geist und kann mit den Fureru sprechen.
+Dicker Kater, der an verschiedenen Stellen des Hauses angetroffen werden kann. Der Kater kann alles wissen, ist aber katzenmäßig eher mit Vorsicht anzufassen. Er ist ein Geist und kann mit den Furiern sprechen.
 
 ### Schauplätze:
 
@@ -119,7 +118,7 @@ Gefährlich
 
 > Eröffnungsfrage: Wie sieht die Tür zum Keller aus?
 
-Herausforderung: Der Keller wird von den Hausgeister verschlossen gehalten. Es muss ein Weg gefunden werden dort einzudringen. 
+Herausforderung: Der Keller wird von den Hausgeistern verschlossen gehalten. Es muss ein Weg gefunden werden, dort einzudringen. 
 
 ### Hinweise:
 
@@ -131,10 +130,10 @@ Herausforderung: Der Keller wird von den Hausgeister verschlossen gehalten. Es m
 -	[ ] 6. Eine vergiftete Flasche Wein.
 -	[ ] 7. Ein Brief von Hiroko: „Ich liebe dich, mein Gatte, aber ich muss die Schuld bezahlen.“
 -	[ ] 8. Gespräch: Der Reichtum ist vorbei. Die Hausgeister entwenden zu viel. Sie sind gierig. Das muss enden. Sofort. (Person ist nur zu belauschen und verschwindet sofort.)
--	[ ] 9. Der tote Hausgeist. (Nur im Keller zu finden)
+-	[ ] 9. Der tote Hausgeist. (Nur im Keller zu finden.)
 -	[ ] 10. Ein zerrissener Brief, laut dem Geschäftsleute aus dem Norden einen hohen Preis für das Land des Herrn zahlen wollen.
 -	[ ] 11. Ein altes Tagebuch: „Die Hausgeister piesacken und schikanieren mich. Vater hört mir nicht zu.“
--	[ ] 12. Es heißt das Haus bricht zusammen, wenn die Geister verschwinden. Es heißt es gibt einen Vertrag darüber.
+-	[ ] 12. Es heißt, das Haus bricht zusammen, wenn die Geister verschwinden. Es heißt es gibt einen Vertrag darüber.
 -	[ ] 13. Schwester hasst die Mutter, den Vater und den Bruder.
 -	[ ] 14. Ein Ritualmesser, das magisch überzogen wurde. Das Blut eines Geistes klebt an der Klinge.
 -	[ ] 15. Der Hausherr ist über 120 Jahre alt.
