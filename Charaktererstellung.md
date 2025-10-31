@@ -1,14 +1,14 @@
 # Charaktererstellung und Entwicklung
 
-Die Charaktere in "Augen des Zwielichts: Königreich der Yōkai" werden zum größten Teil ausgewürfelt. Natürlich wäre es auch möglich, dass sich die Spielenden ihre eigenen Berufe, Dämonen und Attribute ausdenken. Die Grundidee der Charaktere jedoch ist, dass zwar niemand bestimmen kann, woher er kommt, aber gestalten kann, wohin er geht. Das heißt am Anfang ist der eigene Charakter ein zufällig gewürfeltes Lebewesen in der Welt von "Augen des Zwielichts: Königreich der Yōkai". Erst mit der Zeit füllen wir seinen Hintergrund mit Leben und bestimmen selbst, in welche Richtung er sich mit jedem Abschnitt entwickelt. 
+Die Charaktere in "Augen des Zwielichts: Königreich der Yōkai" werden zum größten Teil ausgewürfelt. Natürlich wäre es für die Spielenden auch möglich, sich ihre Berufe, Dämonen und Attribute selbst auszudenken. Die Grundidee der Charaktere ist aber, dass zwar niemand bestimmen kann, woher er kommt, aber dass er gestalten kann, wohin er geht. Das heißt, am Anfang ist der eigene Charakter ein zufällig gewürfeltes Lebewesen in "Augen des Zwielichts: Königreich der Yōkai". Erst mit der Zeit füllen wir dessen Hintergrund mit Leben und bestimmen selbst, in welche Richtung er sich mit jedem Abschnitt entwickelt.
 
 Zu diesem Zweck befinden sich am Ende des Buches Zufallstabellen, auf die die Spielenden bei der Charaktererstellung und beim Eintritt des Charakters in einen neuen Abschnitt würfeln. Ihr solltet euch beim ersten Mal etwa eine Stunde Zeit nehmen, um dies gemeinsam zu tun. Es ist immer spannend, gemeinsam herauszufinden, woher die eigene Figur kommt und welchen Dämon sie hat. Meist entstehen hier schon die ersten Ideen der Spielenden für die weitere Charakterentwicklung. 
 
 ## Vor der Session 0
 
-Du kannst deinen Spielenden natürlich diese PDF zur Verfügung stellen oder sie können das Regelwerk einfach frei im Internet herunterladen. Es ergibt durchaus Sinn für die Spielenden, die Beschreibung der Welt, in der "Augen des Zwielichts: Königreich der Yōkai" spielt, zu lesen und sich vorher schon mal einen Charakterbogen anzusehen. 
+Du kannst deinen Spielenden natürlich dieses PDF zur Verfügung stellen oder sie können das Regelwerk einfach frei im Internet herunterladen. Es ergibt durchaus Sinn für die Spielenden, die Beschreibung der Welt, in der "Augen des Zwielichts: Königreich der Yōkai" spielt, zu lesen und sich vorher schon einmal einen Charakterbogen anzusehen.
 
-Vor allem sollten deine Spielenden sich aber Gedanken darüber machen, auf welchem Reittier der eigene Charakter unterwegs ist und welchen Namen dieses trägt. Außerdem ist es durchaus beliebt dem eigenen Charakter einen Namen zu geben. Wenn du Spielende hast, die sich ganz auf die Zufallstabellen verlassen wollen, ist das auch kein Problem. Wir haben natürlich am Ende des Regelwerks auch Tabellen für den Charakternamen und das Reittier vorbereitet.
+Vor allem sollten deine Spielenden sich aber Gedanken darüber machen, auf welchem Reittier der eigene Charakter unterwegs ist und welchen Namen dieses trägt. Außerdem ist es durchaus üblich, dem eigenen Charakter schon vor dem Spielstart einen Namen zu geben. Wenn du Spielende hast, die sich ganz auf die Zufallstabellen verlassen wollen, ist das auch kein Problem. Wir haben natürlich am Ende des Regelwerks auch Tabellen für Charakternamen und Reittiere vorbereitet.
 
 ## Ehrungen
 
@@ -16,21 +16,21 @@ Ehrungen werden nicht zufällig gewürfelt, sondern müssen verdient werden. Die
 
 ## Die Charaktererstellung
 
-Theoretisch ist es natürlich möglich, dass die Spielenden ein Veto gegen die Würfelergebnisse einlegen. Dabei ist zu bedenken, dass die Grundidee immer mehr verloren geht, je mehr Einfluss die Spielenden auf die Erstellung der Spielfigur haben. Das ist natürlich trotzdem völlig in Ordnung. Folgt ihr jedoch der Charaktererstellung wie sie eigentlich vorgesehen ist, dann wird auf die Zufallstabellen in folgender Reihenfolge mit je einem **W20** gewürfelt:
+Theoretisch ist es natürlich möglich, dass die Spielenden ein Veto gegen die Würfelergebnisse einlegen. Dabei ist zu bedenken, dass die Grundidee des ausschließlich ausgewürfelten Charakters immer mehr verloren geht, je mehr Einfluss die Spielenden auf die Erstellung der Spielfigur haben. Das ist natürlich trotzdem völlig in Ordnung. Folgt ihr jedoch der Charaktererstellung, wie sie eigentlich vorgesehen ist, dann wird auf die Zufallstabellen in folgender Reihenfolge mit je einem **W20** gewürfelt:
 
 1. Tabelle Dämon - Welcher Dämon wohnt in deinem Charakter?
-   1. Dämon, Zeichnung, Attribut 3 und einzigartige Fähigkeit 1 
+   1. Dämon, Zeichnung, Attribut und einzigartige Dämonenfähigkeit
 
 2. Tabelle Herkunft - Welchem Beruf ging dein Charakter nach, bevor ihn der Dämon besetzen konnte?
-   1. Herkunft, Attribut 4, Attribut 5, Gegenstand 1
+   1. Herkunft, zwei Attribute, Ausrüstung - Attribut
 
 3. Tabellen Ängste - Wovor hat dein Charakter Angst?
    1. Angst I Tabelle
    2. Angst II Tabelle
 
 4. Tabellen Fähigkeiten - Welche weiteren besonderen Fähigkeiten besitzt dein Charakter?
-   1. Fähigkeiten I - Kommt in Fähigkeit 2
-   2. Fähigkeiten II - Kommt in Fähigkeit 3
+   1. Fähigkeiten I - Kommt in Fähigkeiten 1
+   2. Fähigkeiten II - Kommt in Fähigkeiten 2
 
 5. Dein Charakter beginnt in einem dunklen Abschnitt, der von seinem Dämon beherrscht wird. Ändere eines der Attribute auf dunkel.
 6. Optional
@@ -131,7 +131,7 @@ Korruption beschreibt, wie sehr der Dämon von eurem Charakter Besitz ergreift u
 | 5 - [    ] |                                          |
 | 6 - [    ] |                                          |
 
-*Mit jedem Zustand, den der Charakter erhält, steigt auch seine Korruptionsstufe. Die meisten Zustände erhalten Charaktere durch das Werfen schwarzer Würfel. Bei sechs „Korruption” wird der Charakter außer Gefecht gesetzt und muss die dazugehörige Regel abhandeln. Ein Zustand kann ein allgemeines Wort wie geschwächt, verletzt oder verwirrt sein, aber auch spezifischer formuliert werden, zum Beispiel zu lange wach oder am rechten Knie verletzt. Der erste Zustand wird niemals entfernt und gehört immer dem Dämon, mit dem der Charakter verschmolzen ist.*
+*Mit jedem Zustand, den der Charakter erhält, steigt auch seine Korruptionsstufe. Die meisten Zustände erhalten Charaktere durch Würfe mit schwarzen Würfeln. Bei sechs „Korruption” wird der Charakter außer Gefecht gesetzt und muss die dazugehörige Regel abhandeln. Ein Zustand kann ein allgemeines Wort wie geschwächt, verletzt oder verwirrt sein, aber auch spezifischer formuliert werden, zum Beispiel zu lange wach oder am rechten Knie verletzt. Der erste Zustand wird niemals entfernt und gehört immer dem Dämon, mit dem der Charakter verschmolzen ist.*
 
 ### Zustände abbauen
 
@@ -149,7 +149,7 @@ Stufe 2 -  [    ] [    ] [    ]
 
 Stufe 3 -  [    ] [    ]		
 
-| **Wähle drei zusätzliche Aufgaben                            | Gewählt |
+| Wähle drei zusätzliche Aufgaben                              | Gewählt |
 | ------------------------------------------------------------ | ------- |
 | Löst das momentan aktive Problem.                            | X       |
 | Schlagt eine Lösung für das aktive Problem vor, die von allen Beteiligten akzeptiert wird. | X       |
@@ -221,7 +221,7 @@ Schreibe ein Haiku über das aktuelle Abenteuer.
 |                                                              |
 |                                                              |
 
-*Hier wird das letzte Abenteuer sowie die dazugehörige Abenteuerfrage und eure Antwort darauf festgehalten.*
+*Hier werden das letzte Abenteuer sowie die dazugehörige Abenteuerfrage und eure Antwort darauf festgehalten.*
 
 ### Abschnittsfragen
 
