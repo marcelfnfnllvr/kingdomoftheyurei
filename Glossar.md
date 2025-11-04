@@ -44,6 +44,8 @@
     Überdachter Gang zwischen den Wohnräumen eines Hauses, meist auch an dessen Außenseite(n). Besteht aus Holz oder Bambus.
   - **Futon**  
     Faltbare weiche Matratze und Bettdecke, die untertags im Schrank aufbewahrt und erst abends auf die Tatami zum Schlafen gelegt werden.
+  - **Geisha**  
+    Unterhaltungskünstlerin mit aufwändig geschminktem Gesicht und edlem Kimono, die zur Unterhaltung zahlender Kunden unter Anderem Instrumente spielt, Geschichten erzählt, tanzt oder eine Teezeremonie abhält.  
   - **Hiyayakko**  
     Kalter Seidentofu, der mit verschiedenen Toppings gar niert wird, z.B. Katsuobushi, Sojasoße, Frühlingszwiebel oder Ingwer.
   - **Horagai**  
@@ -54,6 +56,8 @@
     Flocken aus getrocknetem, geräucherten Bonito-Thunfisch.
   - **Kumiko**  
     Filigrane Holzverarbeitungstechnik, bei der flache Holzstücke ohne Leim oder Nägel zu geometrischen Mustern zusammengesteckt werden.
+  - **Kunai**  
+    Waffe/Werkzeug mit zweischneidiger Klinge aus weichem Metall. Am Ende des Griffs befindet sich ein Ring, durch den z.B. ein Seil gezogen werden kann. Wurde beispielsweise von Shinobi, aber auch Handwerkern genutzt.  
   - **Machiya**  
     Traditionelles, städtisches Holzhaus mit langem, schmalen Grundriss. Im Erdgeschoss häufig mit Geschäftsräumen (Werkstatt, Laden,...) unter den Wohnräumen im Obergeschoss.
   - **Miso**  
@@ -74,6 +78,8 @@
     Traditionalles Gasthaus mit getrenntgeschlechtlichen Gemeinschaftsbädern. Die Zimmer sind ausgelegt mit Tatami, geschlafen wird auf dem Futon.
   - **Sake**  
     Aus poliertem Reis gebrautes Bier. Wird entweder aus flachen Schalen oder eckigen Holzbechern getrunken.
+  - **Shinobi**  
+    Ausgebildete Kämpfer, der spezialisiert ist auf verborgene Einsätze wie Brandstiftung, Spionage, Kundschaften oder Meuchelmord.  
   - **Sōzu**  
     Wasserspiel aus Bambus. Wasser fällt in das offene Ende eines Bambusrohrs, das an einer Wippe befestigt ist. Ist das Bambusrohr gefüllt, wippt das Rohr um und gießt dabei das Wasser aus. Danach wippt das geschlossene Ende des Rohrs wieder zurück, schlägt dabei auf seinen Sockel und erzeugt so regelmäßig ein Klopfgeräusch.
   - **Shōchū**  
