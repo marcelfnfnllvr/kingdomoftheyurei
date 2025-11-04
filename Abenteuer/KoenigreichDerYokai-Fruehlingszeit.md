@@ -12,7 +12,7 @@ Fragestellung, die es zu lösen gilt: Was ist mit dem Großen Baum geschehen?
 
 Falls die Situation eskaliert: Der Baum verdorrt und wird schwarz. Seine Blätter fallen ab und unter Ächzen erhebt sich der kahle Baum aus der Erde. Mit langen spitzen Zweigen und peitschenden Ästen greift er die Gruppe an.  
 
-Ehrung: Baumpfleger - Umwelt 
+Ehrung: Baumpfleger - Pflanzen 
 
 ### Abenteuerfrage:
 
