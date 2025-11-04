@@ -8,27 +8,27 @@ Gesammelte Verderbnispunkte: [  n  ]
 
 ### Hinweise für Spielleitende:
 
-Die Gruppe befindet sich auf einem Handelsweg durch ein riesiges Waldgebiet. Es ist nicht der einzige, aber der sicherste Weg. Am Wegesrand finden sie einen kaputten Karren mit einem lebenden und einem toten Ochsen. 
+Die Gruppe befindet sich auf einem Handelsweg, der durch ein riesiges Waldgebiet führt. Es ist nicht der einzige, aber der sicherste Weg. Am Wegesrand finden sie einen kaputten Karren mit einem lebenden und einem toten Ochsen. 
 
 Das Monster in diesem Abenteuer wird nicht näher beschrieben. Aber das eigentliche Monster ist ein Dämon, der den Geist jedes Tieres, das er befällt, verrückt macht. Wie ein Virus. Er nimmt die Form von Tausenden von Würmern an, die die Tiere vollständig einhüllen.
 
 ### Fragestellung, Eskalation und Ehrung:
 
-Was ist passiert, welche Kreatur hat Herrn Botan Ryan angegriffen und ist Fräulein Kaho Ryan noch am Leben?
+Was ist passiert, welche Kreatur hat Herrn Botan Ryan angegriffen, und ist Fräulein Kaho Ryan noch am Leben?
 
-Wenn die Situation eskaliert, stirbt Fräulein Kaho Ryan unabhängig von der Erzählung. Die Gruppe wird von dem Wesen angegriffen, das die Fureru als solche erkennt. Es kann aufgehalten werden, beginnt aber bei Schwierigkeit 14. Wird es nicht in der ersten Runde aufgehalten, findet die Gruppe später Herrn Botan Ryan tot neben seinem Karren.
+Wenn die Situation eskaliert, stirbt Fräulein Kaho Ryan, unabhängig von der Erzählung. Die Gruppe wird von dem Wesen angegriffen, das die Fureru als solche erkennt. Es kann aufgehalten werden, beginnt aber bei Schwierigkeit 14. Wird es nicht in der ersten Runde aufgehalten, findet die Gruppe später Herrn Botan Ryan tot neben seinem Karren.
 
 Meister des Waldes - Überleben
 
 ### Abenteuerfrage:
 
-> Was hofft euer Charakter in der abgelegenen Festung zu finden?
+> Was hofft euer Charakter, in der abgelegenen Festung zu finden?
 
 ### Einleitung:
 
 Ihr seid seit Tagen unterwegs durch den endlosen Wald. In der Mitte soll es eine fortschrittliche und wohlhabende Festung mit einer gnädigen Fürstin geben. Ganz ohne Einfluss der Zentralregierung.
 
-Am Horizont seht ihr einen älteren Mann mit einem Ochsen und einem kaputten Karren, den er gerade repariert. Als ihr näher kommt, seht ihr einen zweiten Ochsen, der leblos neben dem Karren liegt. Der Mann neben dem Karren stellt sich als Botan Ryan vor. Er erzählt, dass eine wilde Kreatur aus dem Wald gestürmt sei, den Ochsen sofort getötet habe und mit seiner Tochter in den Wald geflohen sei. Er kann ihre Schreie noch in seinen Ohren hören. Er bittet die Gruppe um Hilfe. Das Wesen scheint kein normales Tier zu sein.
+Am Horizont seht ihr einen älteren Mann mit einem Ochsen und einem kaputten Karren, den er gerade repariert. Als ihr näher kommt, seht ihr, einen zweiten Ochsen, der leblos neben dem Karren liegt. Der Mann neben dem Karren stellt sich als Botan Ryan vor. Er erzählt, dass eine wilde Kreatur aus dem Wald gestürmt sei, den Ochsen sofort getötet habe und mit seiner Tochter in den Wald geflohen sei. Er kann ihre Schreie noch in seinen Ohren hören. Er bittet die Gruppe um Hilfe. Das Wesen scheint kein normales Tier zu sein.
 > Welche Waren auf dem kaputten Wagen fallen euren Charakteren besonders ins Auge?
 
 ### Gefahren:
@@ -45,7 +45,7 @@ Am Horizont seht ihr einen älteren Mann mit einem Ochsen und einem kaputten Kar
 - Eine mit Flechten überwachsene Statue eines Wildschweins. Sieht zwar verwittert aus, aber offenbar hat sich jemand vor kurzer Zeit die Mühe gemacht und Laub und Dreck davon weggewischt.
 - Kleine Wesen - nicht größer als Kolibris - fliegen als Schwarm durch den Wald. Sie bilden zusammen ein größeres Abbild ihrer selbst.  
 - In der Nähe eines besonders großen, alten Baumes taucht ein kleines Irrlicht auf. Erst scheint es die Gruppe zu beobachten, dann tanzt es ein wenig um sie herum und verschwindet dann wieder.  
-- ein einzelner Hirsch huscht vorbei, fast scheint es als würde sein Geweih kurz aufleuchten 
+- Ein einzelner Hirsch huscht vorbei, fast scheint es als würde sein Geweih kurz aufleuchten!
 
 ### Personen:
 
@@ -53,13 +53,12 @@ Am Horizont seht ihr einen älteren Mann mit einem Ochsen und einem kaputten Kar
 
 *Spricht aufgeregt mit dünner Stimme - Wohlgesonnen - Trägt gelbe Roben, die edel aussehen*
 
-Er tut sehr unwissend, aber er ist bei weitem nicht dumm. Er weiß, dass die große Straße dem Wald nicht gefällt. Natürlich weiß er auch vom Sklavenhandel in der Festung mitten im Wald. Ob seine Tochter wirklich seine Tochter ist oder ob er sie nur gekauft hat, bleibt der Gruppe überlassen. Zu den Fureru ist er nett, aber zur Suche kann er nicht viel beitragen.
+Er tut sehr unwissend, aber er ist bei Weitem nicht dumm. Er weiß, dass die große Straße dem Wald nicht gefällt. Natürlich weiß er auch vom Sklavenhandel in der Festung, mitten im Wald. Ob seine Tochter wirklich seine Tochter ist, oder ob er sie nur gekauft hat, bleibt der Gruppe überlassen. Zu den Fureru ist er nett, aber zur Suche kann er nicht viel beitragen.
 
 
 ##### Kaho Ryan – Tochter des Händlers
 
-trägt blaue Roben, schwarze Haare
-*Verschwunden*. 
+*Trägt blaue Roben - schwarze Haare - Verschwunden*. 
 
 ##### Faheem Den – Jäger der Nomaden des Waldes
 
@@ -73,13 +72,13 @@ Ein ruhiger Zeitgenosse, der sich seiner Überlegenheit im Wald sicher ist. Er h
 
 *Wortkarg und redet gerne in Rätseln - Neutral - Sein Kopf ist weiß bemalt und er ist viel größer als alle anderen Wildschweine*
 
-Setze diese Gruppe situativ passend ein. Sie kann als großes Finale im Abenteuer dienen, aber auch nur am Rande auftreten. Entweder löst sie das Rätsel oder sie macht es noch kryptischer. Die Wildschweine sind vielschichtig und schwer zu durchschauen.
+Setze diese Gruppe situativ passend ein. Sie kann als großes Finale im Abenteuer dienen, aber auch nur am Rande auftreten. Entweder löst sie das Rätsel, oder sie macht es noch kryptischer. Die Wildschweine sind vielschichtig und schwer zu durchschauen.
 
 ##### Sayomi Leonhard - Eigenbrötlerin - alte Fureru - Hexe
 
 *Wortkarg mit tiefer, ruhiger Stimme - Wohlgesonnen - Hat ein stark vernarbtes Gesicht*
 
-Sie gibt nicht direkt zu, dass sie eine Fureru ist. Sie versteckt ihre äußerliche Veränderung gut. "Meine Kräfte schwinden. Der Wald wird immer unruhiger." Sie kann gut eingesetzt werden, um die Gruppe vor eine schwierige Wahl zu stellen. Sie wird sich immer für die Gesundheit des Waldes und das Gleichgewicht zwischen Menschen und Geistern einsetzen. Bis zu ihrem Tod.
+Sie gibt nicht direkt zu, dass sie eine Fureru ist. Sie versteckt ihre äußerliche Veränderung gut. „Meine Kräfte schwinden. Der Wald wird immer unruhiger.“ Sie kann gut eingesetzt werden, um die Gruppe vor eine schwierige Wahl zu stellen. Sie wird sich immer für die Gesundheit des Waldes und das Gleichgewicht zwischen Menschen und Geistern einsetzen. Bis zu ihrem Tod.
 
 ### Schauplätze:
 
@@ -91,7 +90,7 @@ Sie gibt nicht direkt zu, dass sie eine Fureru ist. Sie versteckt ihre äußerli
 
 > Wie verändert sich der Wald, während ihr Meter für Meter tiefer in ihn vordringt?
 
-Herausforderung: Sich tiefer in den Wald zu arbeiten ist immer herausfordernd.
+Herausforderung: Sich tiefer in den Wald zu arbeiten, ist immer herausfordernd.
 
 ##### Das Nest einer Kreatur
 
@@ -101,7 +100,7 @@ Herausforderung: Wer oder was hier lebt, scheint nicht da zu sein. Aber für wie
 
 ##### Ein Labyrinth aus Felsen
 
-Es geht ein paar Meter bergab. Überall ist dichter Wald. Man wird durch Felsspalten geführt wie durch ein Labyrinth.
+Es geht ein paar Meter bergab. Überall ist dichter Wald. Man wird durch Felsspalten geführt, wie durch ein Labyrinth.
 
 > Woher wisst ihr, dass ihr nicht die Ersten seid, die dieses Naturlabyrinth betreten?
 
@@ -118,7 +117,7 @@ Herausforderung: Um durch das Labyrinth zu gelangen, ohne sich zu verlaufen, ist
 - [ ] 7. Schreie lassen einen aufschrecken.
 - [ ] 8. Große Kratzspuren an einem Baum.
 - [ ] 9. Fallen im Labyrinth mit toten Tieren. Die Tiere sind nur noch Kadaver.
-- [ ] 10. Zeichen des Festes mitten im Wald in einen Baum und/oder Stein geritzt.
+- [ ] 10. Zeichen des Festes, mitten im Wald, in einen Baum und/oder Stein geritzt.
 - [ ] 11. Ein Vogelschwarm, der aus den Bäumen in der Nähe aufsteigt.
 - [ ] 12. Ein mit Stöcken und Zweigen bedecktes Loch. Am Boden ist Blut zu sehen.
 - [ ] 13. Ein Haufen Knochen. Hauptsächlich Tierknochen, aber ihr könnt auch einige Menschenknochen erkennen.
