@@ -6,7 +6,7 @@ Gesammelte Verderbnispunkte: [  n ]
 
 ### Hinweise für Spielleitende:
 
-Das Dorf Hiroto ist ein kleiner Fischerort, direkt an der Küste in einer geschützten Bucht gelegen. Die Bewohner hüten gemeinsam ein Geheimnis: In der Bucht soll seit einer Ewigkeit ein großes Seemonster leben. Seit langer Zeit wird es als lokaler Schutzpatron des Dorfes verehrt. Allerdings fordert die Tradition alle 4 Jahre ein Menschenopfer, damit es das Dorf nicht angreift, sondern beschützt. Mittlerweile hinterfragen einige Leute im Dorf diese Praxis, sie lehnen das bestialische Ritual ab und so ist das Dorf tief gespalten. Diejenigen, die das Monster loswerden wollen, haben hierfür vor einiger Zeit heimlich den Fureru Kenji um Hilfe gebeten. Doch nun ist er verschwunden und das Dorf wird weiter geplagt. 
+Das Dorf Hiroto ist ein kleiner Fischerort, direkt an der Küste, in einer geschützten Bucht gelegen. Die Bewohner hüten gemeinsam ein Geheimnis: In der Bucht soll seit einer Ewigkeit ein großes Seemonster leben. Seit langer Zeit wird es als lokaler Schutzpatron des Dorfes verehrt. Allerdings fordert die Tradition alle 4 Jahre ein Menschenopfer, damit es das Dorf nicht angreift, sondern beschützt. Mittlerweile hinterfragen einige Leute im Dorf diese Praxis, sie lehnen das bestialische Ritual ab und so ist das Dorf tief gespalten. Diejenigen, die das Monster loswerden wollen, haben hierfür vor einiger Zeit heimlich den Fureru Kenji um Hilfe gebeten. Doch nun ist er verschwunden, und das Dorf wird weiter geplagt. 
 
 ### Fragestellung, Eskalation und Ehrung:
 
@@ -18,7 +18,7 @@ Treue Freunde - Beschützer
 
 ### Abenteuerfrage:
 
-Der Dämon in dir prägt viele Aspekte deines Lebens und deines Wegs. Was vermisst du an einem normalen Leben am meisten?
+Der Dämon in dir prägt viele Aspekte deines Lebens und deines Weges. Was vermisst du an einem normalen Leben am meisten?
 
 ### Einleitung:
 
@@ -32,16 +32,16 @@ Euer Bekannter und Kamerad Kenji war Gerüchten zufolge hier, um einen Auftrag z
 ### Gefahren:
 
 - Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden.
-- Einige Dorfbewohner wollen hier keine Eindringlinge, die ihre Nase in fremde Angelegenheiten stecken. Sie wollen die Gruppe mit allen Mitteln davon überzeugen zu gehen.
-- Ein Schwarm Möwen sammelt sich über der Gruppe. Ihr Kreischen schwillt an zu einer lauten Kakophonie und sie stürzen sich mit spitzen Schnäbeln zum Angriff herab. 
+- Einige Dorfbewohner wollen hier keine Eindringlinge, die ihre Nase in fremde Angelegenheiten stecken. Sie wollen die Gruppe mit allen Mitteln davon überzeugen, zu gehen.
+- Ein Schwarm Möwen sammelt sich über der Gruppe. Ihr Kreischen schwillt an zu einer lauten Kakophonie, und sie stürzen sich mit spitzen Schnäbeln zum Angriff herab.
 
 
 ### Momente:
 
 - Im Dunkeln/bei schlechtem Wetter sieht man - wenn man oben auf der Klippe steht - weit draußen ein weißes, geisterhaftes Schiff segeln. Es fährt aber nicht in die Bucht, sondern dreht vorher ab und verschwindet wieder.
-- Ein Vogel fängt im seichten Wasser eine Krabbe mit sechs Beinen. Als er sie verschlingen will, kneift sie ihm den Schnabel zu, verflucht den Vogel lautstark und verschwindet dann so schnell sie ihre sechs Beine tragen.
+- Ein Vogel fängt im seichten Wasser eine Krabbe mit sechs Beinen. Als er sie verschlingen will, kneift sie ihm den Schnabel zu, verflucht den Vogel lautstark und verschwindet dann so schnell sie ihre sechs Beine sie tragen.
 - Am Fischmarkt klaut eine Katze einen großen Fisch von einem Stand und wird von der laut zeternden Händlerin verfolgt.
-- In der Nähe des Hafens strandet plötzlich ein großer Wal. Einige Dorfbewohner sammeln sich um ihn und beginnen zu diskutieren, ob sie ihn töten oder versuchen sollen, ihn zurück ins Meer zu bringen.
+- In der Nähe des Hafens strandet plötzlich ein großer Wal. Einige Dorfbewohner sammeln sich um ihn und beginnen, zu diskutieren, ob sie ihn töten oder versuchen sollen, ihn zurück ins Meer zu bringen.
 - Ein hungriges Kind isst am Hafen sein Onigiri, als plötzlich eine Möwe auf seinem Kopf landet und ihm den Rest seines Essens direkt aus der Hand schnappt und im Ganzen verschlingt. 
 - Eine Frau nimmt mit geübten, flinken Händen einen Fisch aus. Ihr beobachtet sie genauer und plötzlich fällt euch auf, dass sie das Messer und den Fisch nicht mit ihren Händen hält, sondern mit mehreren Tentakeln.  
 
@@ -51,14 +51,14 @@ Euer Bekannter und Kamerad Kenji war Gerüchten zufolge hier, um einen Auftrag z
 
 *Misstrauisch - seufzt oft und spricht mit niedergeschlagener Stimme - trägt einfache Fischerkleidung*
 
-Der Inbegriff von "gut gemeint ist das Gegenteil von gut gemacht". Möchte es im Dorf allen recht machen und hat durch seine fehlende Fähigkeit durchzugreifen den Bruch der Gemeinschaft in zwei Fraktionen gefördert. 
-Möchte die Gruppe freundlich abwimmeln, ebenso wie er es zuvor bei Kenji versucht hat. Warum Kenji überhaupt hier war, darüber verrät will Hanzo nichts verraten und wird der Gruppe gegenüber bei Nachfragen immer unhöflicher.
+Der Inbegriff von "gut gemeint ist das Gegenteil von gut gemacht". Möchte es im Dorf allen recht machen und hat durch seine fehlende Fähigkeit, durchzugreifen, den Bruch der Gemeinschaft in zwei Fraktionen gefördert. 
+Möchte die Gruppe freundlich abwimmeln, ebenso wie er es zuvor bei Kenji versucht hat. Warum Kenji überhaupt hier war, darüber will Hanzo nichts verraten und wird der Gruppe gegenüber bei Nachfragen immer unhöflicher.
 
 ##### Kei Shiraishi - Perlentaucherin, Mutter von Nanami
 
 *Wohlgesonnen - flucht recht viel - trägt weiße Kleidung und ein weißes Tuch um den Kopf gebunden*
 
-Sie war es, die Kenji ursprünglich um Hilfe gebeten hatte. Erzählt von der alten Sage, dass in der Bucht ein riesigers Seemonster hausen soll. Ursprünglich soll es das Dorf angegriffen haben, konnte aber durch ein Menschenopfer besänftigt werden. Seitdem opfert das Dorf alle vier Jahre eine Person. Dadurch hat Kei bereits ihren Vater, einen Fischer, verloren und befürchtet jetzt, dass es auch ihre Tochter treffen wird. Sie ist die lauteste Stimme der Fraktion, die mit den Opfern aufhören will. Kenji sollte herausfinden, was an der Sage alles dran ist und ihnen helfen, sich von was auch immer dort unten lauert loszusagen. Als erfahrene Taucherin kennt Kei die Bucht wie ihre Westentasche. 
+Sie war es, die Kenji ursprünglich um Hilfe gebeten hatte. Erzählt von der alten Sage, dass in der Bucht ein riesiges Seemonster hausen soll. Ursprünglich soll es das Dorf angegriffen haben, konnte aber durch ein Menschenopfer besänftigt werden. Seitdem opfert das Dorf alle vier Jahre eine Person. Dadurch hat Kei bereits ihren Vater, einen Fischer, verloren, und befürchtet jetzt, dass es auch ihre Tochter treffen wird. Sie ist die lauteste Stimme der Fraktion, die mit den Opfern aufhören will. Kenji sollte herausfinden, was an der Sage alles dran ist, und ihnen helfen, sich von dem, was auch immer dort unten lauert, loszusagen. Als erfahrene Taucherin kennt Kei die Bucht wie ihre Westentasche.
 
 ##### Nanami Shiraishi - Perlentaucherin in Ausbildung, Tochter von Kei
 
@@ -70,25 +70,25 @@ Hat Kenji auf Bitte ihrer Mutter hin einmal heimlich den Schrein auf der Klippe 
 
 *Misstrauisch - redet laut und betont einzelne Wörter sehr deutlich - teure, feine Kleidung*
 
-Sohn eines Fischers, der immer mehr Fisch und Meerestiere fischen lassen und verkaufen will. Skrupelloser Geschäftsmann und Traditionalist, dem Kenjis Untersuchung ein Dorn im Auge war. Sämtliche Schiffe im Dorf sind von ihm gebaut. Will der Gruppe nichts sagen und sie stattdessen dazu bringen wieder zu verschwinden. Will unbedingt an dem alten Brauch festhalten aus Angst, dass sonst seine Geschäfte den Bach runtergehen.
+Sohn eines Fischers, der immer mehr Fische und Meerestiere fischen lassen und verkaufen will. Skrupelloser Geschäftsmann und Traditionalist, dem Kenjis Untersuchung ein Dorn im Auge war. Sämtliche Schiffe im Dorf sind von ihm gebaut. Will der Gruppe nichts sagen und sie stattdessen dazu bringen, wieder zu verschwinden. Will unbedingt an dem alten Brauch festhalten, aus Angst, dass sonst seine Geschäfte den Bach runtergehen.
 
 ##### Saburo Kobayashi - Fischer, jüngerer Bruder von Jirō
 
 *Wohlgesonnen - optimistisch, lächelt und lacht oft - einfacher dunkelblauer Yukata mit Wellenmuster, Hose hochgekrempelt*
 
-Möchte ebenfalls, dass die Opferungen aufhören, ist aber in seinem Protest gegen seinen Bruder etwas unterlegen. Ist fasziniert von der Welt "da draußen" und lässt sich leicht für Reisegeschichten begeistern. Auch Kenji hat ihm einige Geschichten erzählt, an die Saburo sich gern erinnert.
+Möchte ebenfalls, dass die Opferungen aufhören, ist aber in seinem Protest gegen seinen Bruder etwas unterlegen. Ist fasziniert von der Welt „da draußen“ und lässt sich leicht für Reisegeschichten begeistern. Auch Kenji hat ihm einige Geschichten erzählt, an die Saburo sich gern erinnert.
 
 ##### Ina - Priesterin
 
 *Misstrauisch - brüchige, leise Stimme - weiße Robe mit maritimen Symbolen und eine lange Perlenkette um den Hals*
 
-Alte Priesterin, die sich um den Schrein oben auf der Klippe kümmert und an ihren Ritualen festhalten will. Bildet bei den Opferungen die spirituelle Seite und ist maßgeblich an der Auswahl des nächsten Opfers beteiligt. Ist davon überzeugt, dass sie selbst für das Gleichgewicht zwischen Dorf und Meer verantwortlich ist und duldet keine Einmischung von außen. Als ehrwürdige Priesterin hat ihr Wort in der Gemeinschaft einiges Gewicht.
+Eine alte Priesterin, die sich um den Schrein oben auf der Klippe kümmert und an ihren Ritualen festhalten will. Sie bildet bei den Opferungen die spirituelle Seite und ist maßgeblich an der Auswahl des nächsten Opfers beteiligt. Sie ist davon überzeugt, dass sie selbst für das Gleichgewicht zwischen Dorf und Meer verantwortlich ist, und duldet keine Einmischung von außen. Als ehrwürdige Priesterin hat ihr Wort in der Gemeinschaft einiges Gewicht.
 
 ##### Nora Yohei - Hausfrau/Oktopus-Yōkai
 
 *Wohlgesonnen - spricht lansam und mit merkwürdiger Intonation, als wüsste sie nicht, wie manche Worte betont werden - einfacher bodenlanger Kimono, der untere Rand ist nass*
 
-Kümmert sich um den Haushalt, währned ihr Mann fischen geht. Kann sehr gut kochen und lädt gerne Gäste zum Essen ein. Versucht ihre wahre Identität zu vertuschen und spielt Anmerkungen zu ihrem Aussehen freundlich/peinlich berührt runter. Explizit auf ihr Geheimnis angesprochen, fleht sie die Gruppe an, ihr Geheimnis nicht zu verraten, sonst muss sie zurück ins Meer, in die Bucht.
+Kümmert sich um den Haushalt, während ihr Mann fischen geht. Kann sehr gut kochen und lädt gerne Gäste zum Essen ein. Versucht, ihre wahre Identität zu vertuschen, und spielt Anmerkungen zu ihrem Aussehen freundlich/peinlich berührt runter. Explizit auf ihr Geheimnis angesprochen, fleht sie die Gruppe an, ihr Geheimnis nicht zu verraten, sonst muss sie zurück ins Meer in die Bucht.
 
 
 ##### Kenji - Wandernder
@@ -124,7 +124,7 @@ Gefährlich
 
 > An was wird deutlich, dass Fremde hier nicht willkommen sind?
 
-Herausforderung: Der Streit um das Schicksal des gestrandeten Wals. Sich auf eine Seite zu schlagen - egal welche - bedeutet sich irgendjemand zum Feind zu machen. Und die Stimmung ist ohnehin schon geladen...
+Herausforderung: Der Streit um das Schicksal des gestrandeten Wals. Sich auf eine Seite zu schlagen - egal, welche - bedeutet sich irgendjemand zum Feind zu machen. Und die Stimmung ist ohnehin schon geladen...
 
 ##### Auf dem Wasser
 
@@ -148,11 +148,11 @@ Herausforderung: Wer sich auf die Wellen hinauswagt, der sollte sich gut mit Boo
 - [ ] 10. Schnitzerei eines Seemonsters.
 - [ ] 11. Hanzos Haus wurde mit faulen Fischresten verunstaltet.
 - [ ] 12. Einer der Fischer schuldet einem Kobayashi Geld.
-- [ ] 13. Eine große schwarze Perle.
+- [ ] 13. Eine große, schwarze Perle.
 - [ ] 14. Die Wellen hinterlassen im Sand merkwürdige Muster.
 - [ ] 15. Das Rauschen des Meeres klingt wie Schreie.
 - [ ] 16. Ein Stück Haut mit Schuppen.
-- [ ] 17. Ein altes rostiges Messer mit Seepocken.
+- [ ] 17. Ein altes, rostiges Messer mit Seepocken.
 - [ ] 18. Trittspuren eines Steinbocks.
 - [ ] 19. Manche der Dorfbewohner meiden einander oder werfen sich finstere Blicke zu.
 - [ ] 20. Im Lauf der letzten Monate sind die Fischfänge immer weniger geworden.
@@ -161,7 +161,7 @@ Herausforderung: Wer sich auf die Wellen hinauswagt, der sollte sich gut mit Boo
 - [ ] 23. Eine hastig gekritzelte Warnung.
 - [ ] 24. Tuschezeichnung, wie das Dorf von mehreren Schiffen angegriffen wurde.
 - [ ] 25. Jemand will im Mondschein am Strand vor einigen Tagen einen großen Schatten gesehen haben.
-- [ ] 26. Eine schwächlicher Wasservogel mit sehr zerrupften Federn.
+- [ ] 26. Ein schwächlicher Wasservogel mit sehr zerrupften Federn.
 - [ ] 27. Eine zerrissene Perlenkette.
 - [ ] 28. Ein Fischer ist zuletzt nicht von seiner morgendlichen Angeltour zurückgekommen.
 - [ ] 29. Bestellung für Holz und Dichtungsmasse.
