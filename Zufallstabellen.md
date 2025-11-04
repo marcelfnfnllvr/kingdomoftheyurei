@@ -4,28 +4,28 @@
 
 ## Dämon 
 
-| **1d20** | **Dämon**        | **Zeichnung**                                  | **Attribut 3**| Fähigkeiten                                                 |
-| -------- | ---------------- | ---------------------------------------------- | ------------ | ------------------------------------------------------------ |
-| 1        | Hirsch           | Hirschgeweih                                   | Stechend     | Widerstandskraft - Die Kraft der Jugend                      |
-| 2        | Kitsune          | Rote Zeichnungen, Fuchsohren, Fuchsschwanz     | Gewandtheit  | Fuchsflammen - Erschaffe eine kleine schwebende Flamme, die auf Menschen eine unwiderstehliche anziehende Wirkung ausübt |
-| 3        | Bär              | Bärenfell                                      | Warm         | Bärenstark - Du bist so stark wie 10 Menschen                |
-| 4        | Steinbock        | Hufe                                           | Stoisch      | Geländegängig - Bewege dich durch schwergängiges Gelände     |
-| 5        | Affe             | Fell                                           | Klettern     | Schauspieltalent - Ahme jemanden nach                        |
-| 6        | Koi              | Schuppen                                       | Aussehen     | Glück - Fortuna ist dir hold                                 |
-| 7        | Katze            | Katzenaugen, Katzenohren                       | Aufmerksam   | Zwielichtpfad - Lege eine kurze Strecke durch die Geisterwelt zurück, um schneller und ungesehen von A nach B zu kommen |
-| 8        | Hone Onna        | durchscheinende Haut, Skelettfinger            | Furchterregend| Umarmung des Todes: Entziehe jemandem die Lebenskraft       |
-| 9        | Yuki Onna        | bleiche Haut                                   | Kälte        | Frost: Du kannst die Temperatur senken                       |
-| 10       | Nure Onna        | Vampirzähne, Schlangenschuppen, Schlangenzunge | Aussehen     | Dominanz - Anderen deinen Willen aufzwingen                  |
-| 11       | Hyakume          | Augen überall                                  | Aufmerksam   | Wächter -  Deinen Augen entgeht kein Verbrechen              |
-| 12       | Vogel            | Federhaare                                     | Leicht       | Flugfertig - Du kannst einen Moment lang fliegen             |
-| 13       | Kappa            | Kiemen                                         | Atmen        | Gerissen - führe jemanden an der Nase herum                  |
-| 14       | Tengu            | Flügel                                         | Leicht       | Wutanfall - Schlage um dich                                  |
-| 15       | Riesensalamander | Schuppen, Schwanz, Breitmaul                   | Wasserratte  | Wärme spenden - Du spendest deine eigene Seelenwärme an jemanden in deiner Nähe die sie braucht |
-| 16       | Tanuki           | Bauch                                          | Geschützt    | Gestaltwandler – Du nimmst für kurze Zeit die physische Form von etwas an. |
-| 17       | Kodama           | Weiße Haut                                     | Wald         | Grüner Daumen - Ein guter Draht zu Pflanzen                  |
-| 18       | Tsukumogami      | Gegenstand                                     | Versteckt    | Unscheinbar - Falle nicht auf                                |
-| 19       | Iwana bōzu       | Schuppige Haut                                 | Ehrwürdig    | Gastfreundschaft - Du deeskalierst eine Situation            |
-| 20       | Onryō            | Lange schwarze Haare                           | Bedrohlich   | Schrecken - Zeige etwas seine tiefste Angst auf              |
+| **1d20** | **Dämon**        | **Zeichnung**                                      | **Attribut 3**| Fähigkeiten                                                 |
+| -------- | ---------------- | -------------------------------------------------- | ------------ | ------------------------------------------------------------ |
+| 1        | Hirsch           | Hirschgeweih                                       | Stechend     | Widerstandskraft - Die Kraft der Jugend.                      |
+| 2        | Kitsune          | Rote Zeichnungen, Fuchsohren, Fuchsschwanz         | Gewandtheit  | Fuchsflammen - Erschaffe eine kleine schwebende Flamme, die auf Menschen eine unwiderstehliche anziehende Wirkung ausübt. |
+| 3        | Bär              | Bärenfell                                          | Warm         | Bärenstark - Du bist so stark wie 10 Menschen.                |
+| 4        | Steinbock        | Hufe                                               | Stoisch      | Geländegängig - Bewege dich geschickt durch schwieriges Gelände.     |
+| 5        | Affe             | Fell                                               | Klettern     | Schauspieltalent - Ahme jemanden nach.                        |
+| 6        | Koi              | Schuppen                                           | Aussehen     | Glück - Fortuna ist dir hold.                                 |
+| 7        | Katze            | Katzenaugen, Katzenohren                           | Aufmerksam   | Zwielichtpfad - Lege eine kurze Strecke durch die Geisterwelt zurück, um schneller und ungesehen von A nach B zu kommen. |
+| 8        | Hone Onna        | durchscheinende Haut, Skelettfinger                | Furchterregend| Umarmung des Todes - Entziehe jemandem die Lebenskraft.       |
+| 9        | Yuki Onna        | bleiche Haut                                       | Kälte        | Frost - Du kannst die Temperatur senken.                       |
+| 10       | Nure Onna        | Vampirzähne, Schlangenschuppen, Schlangenzunge     | Aussehen     | Dominanz - Anderen deinen Willen aufzwingen.                  |
+| 11       | Hyakume          | Augen überall                                      | Aufmerksam   | Wächter -  Deinen Augen entgeht kein Verbrechen.              |
+| 12       | Vogel            | Federhaare                                         | Leicht       | Flugfertig - Du kannst einen Moment lang fliegen.             |
+| 13       | Kappa            | Kiemen                                             | Atmen        | Gerissen - Führe jemanden an der Nase herum.                  |
+| 14       | Tengu            | Flügel                                             | Leicht       | Wutanfall - Schlage um dich.                                  |
+| 15       | Riesensalamander | Schuppen, Schwanz, Breitmaul                       | Wasserratte  | Wärme spenden - Du spendest deine eigene Seelenwärme an jemanden in deiner Nähe, der sie braucht. |
+| 16       | Tanuki           | Bauch                                              | Geschützt    | Gestaltwandler – Du nimmst für kurze Zeit die physische Form von etwas an. |
+| 17       | Kodama           | Weiße Haut                                         | Wald         | Grüner Daumen - Ein guter Draht zu Pflanzen.                  |
+| 18       | Tsukumogami      | Gegenstand (z.B. Teekessel, Laterne, Sandale,...)  | Versteckt    | Unscheinbar - Falle nicht auf.                                |
+| 19       | Iwana bōzu       | Schuppige Haut                                     | Ehrwürdig    | Gastfreundschaft - Du deeskalierst eine Situation.            |
+| 20       | Onryō            | Lange schwarze Haare                               | Bedrohlich   | Schrecken - Zeige jemandem seine tiefste Angst auf.           |
 
 >[Dämon](#d%C3%A4mon) - [Herkunft](#herkunft) - [Ängste](#%C3%A4ngste) - [Fähigkeiten](#f%C3%A4higkeiten) - [Reittiere](#reittiere) - [Namen](#namen) - [Waffen](#waffen)
 
@@ -34,12 +34,12 @@
 | **1d20** | **Herkunft**                                               | **Attribut 4**   | **Attribut 5**      | **Gegenstand 1**                           |
 | -------- | ---------------------------------------------------------- | ---------------- | ------------------- | ------------------------------------------ |
 | 1        | Krieger - Samurai                                          | Disziplin        | Kraft               | Katana & Wakizashi - Lang- und Kurzschwert |
-| 2        | Lehrer der Kampfkünste                                     | Erzählen         | Ausdauer            | Holzschwert                                |
+| 2        | Lehrer der Kampfkünste                                     | Erzählen         | Ausdauer            | Bokutō - Holzschwert                       |
 | 3        | Lehrer der Philosophie / Dichter                           | Verstand         | Inspiration         | Schreibwerkzeug                            |
 | 4        | Führer                                                     | Wegfindung       | Nahrungssuche       | Wanderstab                                 |
 | 5        | Teebauer / Reisbauer                                       | Pflanzen         | Umwelt              | Sichel                                     |
 | 6        | Priester / Mönch / Miko                                    | Inspiration      | Erzählen            | Standesgemäße Kleidung                     |
-| 7        | Theaterdarsteller                                          | Akrobatik        | Geschichtenerzähler | Kabuki (Maske)                             |
+| 7        | Theaterdarsteller                                          | Akrobatik        | Geschichtenerzähler | Nō-Maske / Musikinstrument                 |
 | 8        | Schmied / Schreiner                                        | Kraft / Geschick | Präzision           | Schmiedehammer                             |
 | 9        | Shinobi                                                    | Heimlich         | Verstand            | Kunai                                      |
 | 10       | Weber / Färber / Töpfer / Keramik / Gerber / Lederarbeiter | Geschick         | Pflanzen            | Gerbmesser                                 |
@@ -67,8 +67,8 @@
 | 4    | Angst vor Wasser                                      |
 | 5    | Angst vor Insekten                                    |
 | 6    | Angst vor Ruinen, instabilen Gebäuden oder Strukturen |
-| 7    | Angst gefesselt zu werden                             |
-| 8    | Angst davor aufzufliegen                              |
+| 7    | Angst, gefesselt zu werden                            |
+| 8    | Angst davor, aufzufliegen                             |
 | 9    | Angst vor Feuer                                       |
 | 10   | Angst vor Blut                                        |
 | 11   | Angst vor Unglückssymbolen                            |
@@ -91,7 +91,7 @@
 | 3    | Angst vor Brücken                                     |
 | 4    | Angst vor Reptilien                                   |
 | 5    | Angst vor Blitz und Donner                            |
-| 6    | Angst vor Dreck                                       |
+| 6    | Angst vor Schmutz                                     |
 | 7    | Angst vor Mäusen und Ratten                           |
 | 8    | Angst vor Priestern und heiligen Dingen               |
 | 9    | Angst vor plötzlichen, lauten Geräuschen              |
@@ -127,7 +127,7 @@
 | 11       | Stille             | Unterdrücke alle Geräusche in deiner näheren Umgebung.                                   |
 | 12       | Leidfresser        | Nimm das Leid einer Person oder eines Wesens als dein eigenes.                           |
 | 13       | Doppelgänger       | Erschaffe ein Abbild von dir.                                                            |
-| 14       | Die Aura spüren    | Zeigt Emotionen und wahre Absichten auf.                                                 | 
+| 14       | Die Aura spüren    | Zeige Emotionen und wahre Absichten auf.                                                 | 
 | 15       | Ablenkung          | Lass deine Stimme an einer anderen Stellen erscheinen.                                   |
 | 16       | Farben des Gesangs | Ein Publikum wird von dir in seinen Bann gezogen.                                        |
 | 17       | Täuschungsbann     | Decke das wahre Ich eines Wesens auf.                                                    |
@@ -137,28 +137,28 @@
 
 ### **Fähigkeiten II**
 
-| **1d20** | **Name**           | **Beschreibung**                                                                         | 
-| -------- | ------------------ | ---------------------------------------------------------------------------------------- |
-| 1        | Genügsam           | Dir genügt wenig von allem.                                                              |
-| 2        | Fels               | Du gibst ein Gefühl von Sicherheit.                                                      | 
-| 3        | Furchteinflößend   | Andere haben Angst vor dir.                                                              |
-| 4        | Traummahl          | Dringe in Träume ein.                                                                    |
-| 5        | Sinnesschärfe      | Du nimmst viel wahr.                                                                     |
-| 6        | Kompetent          | Du vermittelst immer den Eindruck die Lage im Griff zu haben.                            | 
-| 7        | Niederer Diener    | Befehlige einen niederen Geist eine kleine Aufgabe zu erledigen.                         |
-| 8        | Schleier           | Du kannst von dir ausgehend einen Nebel erzeugen.                                        |  
-| 9        | Flexibel           | Kleine Spalte sind kein Problem. <!-- Sei geschickt und/oder beweglich? -->              |
-| 10       | Hexer              | Durch die Augen des Zwielichts. <!-- ? -->                                               |
-| 11       | Aufmerksam         | Analysiere einen Raum.                                                                   |
-| 12       | Einsicht           | Du schenkst jemandem einen Einblick in deine Gedanken, Gefühle oder deine Seele.         |
-| 13       | Ungebetene Gäste   | Rufe Störenfriede aus dem Zwielicht.  <!-- ? -->                                         |
-| 14       | Vergeltung         | Lasse einem Unrecht Gerechtigkeit folgen.                                                | 
-| 15       | Gedankenmanipulation | Ändert jemandes Gedanken für einen kurzen Zeitraum.                                    |
-| 16       | Todgeweiht         | Vernehme drohende Gefahr.                                                                |
-| 17       | Schattentheater    | Zeige etwas, was nicht existiert.  <!-- ? -->                                            |
-| 18       | Tuschemeister      | Erschaffe Dinge aus Tinte.                                                               | 
-| 19       | Seelenwandler      | Streife die Bürde deines Körpers für kurze Zeit ab.                                      | 
-| 20       | Auszehren          | Entziehe jemand oder etwas Energie.                                                      |
+| **1d20** | **Name**           | **Beschreibung**                                                                   | 
+| -------- | ------------------ | ---------------------------------------------------------------------------------- |
+| 1        | Genügsam           | Dir genügt wenig von allem.                                                        |
+| 2        | Fels               | Du gibst ein Gefühl von Sicherheit.                                                | 
+| 3        | Furchteinflößend   | Andere haben Angst vor dir.                                                        |
+| 4        | Traummahl          | Dringe in Träume ein.                                                              |
+| 5        | Sinnesschärfe      | Du nimmst viel wahr.                                                               |
+| 6        | Kompetent          | Du vermittelst immer den Eindruck, die Lage im Griff zu haben.                     | 
+| 7        | Niederer Diener    | Befehlige einem niederen Geist, eine kleine Aufgabe zu erledigen.                  |
+| 8        | Schleier           | Du kannst von dir ausgehend einen Nebel erzeugen.                                  |  
+| 9        | Flexibel           | Kleine Spalte sind kein Problem. <!-- Sei geschickt und/oder beweglich? -->        |
+| 10       | Hexer              | Blicke durch die Augen des Zwielichts.                                             |
+| 11       | Aufmerksam         | Analysiere einen Raum.                                                             |
+| 12       | Einsicht           | Du schenkst jemandem einen Einblick in deine Gedanken, Gefühle oder deine Seele.   |
+| 13       | Ungebetene Gäste   | Rufe Störenfriede aus dem Zwielicht.                                               |
+| 14       | Vergeltung         | Lasse einem Unrecht Gerechtigkeit folgen.                                          | 
+| 15       | Gedankenmanipulation | Ändere jemandes Gedanken für einen kurzen Zeitraum.                              |
+| 16       | Todgeweiht         | Erkenne drohende Gefahr.                                                           |
+| 17       | Schattentheater    | Zeige etwas, was nicht existiert.                                                  |
+| 18       | Tuschemeister      | Erschaffe Dinge aus Tinte.                                                         | 
+| 19       | Seelenwandler      | Streife die Bürde deines Körpers für kurze Zeit ab.                                | 
+| 20       | Auszehren          | Entziehe jemandem oder etwas Energie.                                              |
 
 >[Dämon](#d%C3%A4mon) - [Herkunft](#herkunft) - [Ängste](#%C3%A4ngste) - [Fähigkeiten](#f%C3%A4higkeiten) - [Reittiere](#reittiere) - [Namen](#namen) - [Waffen](#waffen)
 
@@ -170,7 +170,7 @@
 | 2        | Erdmännchen      | Aufmerksam      | 
 | 3        | Bär              | Bedrohlich      |
 | 4        | Roter Panda      | Niedlich        |
-| 5        | Vogel Strauß     | Weitsicht       |
+| 5        | Strauß           | Weitsicht       |
 | 6        | Wolf             | Gesellig        | 
 | 7        | Echse            | Flink           |
 | 8        | Hirsch           | Ehrwürdig       |  
@@ -272,7 +272,7 @@
 | 2    | bedeckt     | Arbeit       | bedrückt    | Trinkgelage | Tempel/Schrein |
 | 3    | sonnig      | Unterhaltung | fröhlich    | Duell       | Izakaya        |
 | 4    | Monsun      | Familie      | griesgrämig | Essen       | Shōji/Tatami   |
-| 5    | stickig     | Feier/Fest   | euphorisch  | Bergdorf    | Onsen          |
+| 5    | schwül      | Feier/Fest   | euphorisch  | Bergdorf    | Onsen          |
 | 6    | Nieselregen | Reise        | bestürzt    | Glücksspiel | Fureru         |
 
 ## Personen:
@@ -326,4 +326,5 @@
 | 6            | **Ryokan**                       | Auch wenn hier alles sehr gut in Schuss ist, merkt ihr, dass das Ryokan schon eine lange Geschichte hinter sich hat. Woran? |In der mit einem Tuschegemälde und einem frichen Blumengesteck dekorierten Eingangshalle stehen die Schuhe der anderen Gäste sauber aufgereiht an der Stufe. Weiter hinten führt eine Treppe hinauf zu den Gästezimmern.|
 | 7            | **Izakaya**                      | Welche der Speisen fällt euch ins Auge und warum? | An der Wand hängt grob gekritzelt die Speisekarte, der Schankraum ist gefüllt mit niedrigen Tischen auf Tatami-Matten und der Geruch von Sake steht in der Luft.|
 | 8            | **Apotheke/Kräuterladen**        | Wie merkt ihr, dass die Leute in der Gegend auf die Kräuter als Medizin vertrauen? | Als ihr den kleinen Laden betretet, steigt euch der Geruch zahlreicher verschiedener Kräuter in die Nase. Fein zu Büscheln gebunden hängen sie zum Trocknen unter der Decke oder werden in beschrifteten Schalen, Krügen oder Schatullen aufbewahrt. Der Durchgang nach hinten gibt gleichzeitig einen Blick auf den Garten frei, in dem noch mehr Kräuter feinsäuberlich in Reihen gepflanzt wachsen. |
+
 
