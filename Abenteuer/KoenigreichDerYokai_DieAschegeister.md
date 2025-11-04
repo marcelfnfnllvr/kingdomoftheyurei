@@ -8,7 +8,7 @@ Gesammelte Verderbnispunkte: [  n  ]
 
 Die Gruppe befindet sich in einem Dorf am Rande einer Vulkanwüste. Die Menschen hier sterben seit einigen Monaten auf unerklärliche Weise. Es gibt Berichte, dass sie Geister sehen, bevor sie sterben. Allerdings kann wohl nur die sterbende Person diesen Geist sehen. Nachdem die Person gestorben ist, fängt ihre Haut an zu brennen und sie steht wieder auf. Lediglich das komplette Löschen mit Wasser lässt sie für immer ruhen. Während die Gruppe dort ist, stirbt eine Person genau vor ihren Augen. So haben sie die Chance diese genauer zu befragen.
 
-Präsentiere der Gruppe als erstes das Onsen und das Izakaya. Die weiteren beiden Orte können durch das Finden von Hinweisen freigeschaltet werden.
+Präsentiere der Gruppe als Erstes das Onsen und das Izakaya. Die beiden weiteren Orte können durch das Finden von Hinweisen freigeschaltet werden.
 
 ### Fragestellung, Eskalation und Ehrung:
 
@@ -38,7 +38,7 @@ Eure Gruppe hat der Hilferuf des Dorfes erreicht und ihr seid gerade auf dem Weg
 
 ### Momente:
 
-- Am Rande des Lavafeldes jagt ein pechschwarzer kleiner Fuchs einen Ascheraben. Dieser setzt sich immer wieder auf größere Steine und kurz bevor er geschnappt wird, fliegt er wieder ein Stück weg. In der Lava reflektieren sich die Augen des Fuchses und sehen blutrot aus. Er setzt erneut an und packt den Vogel beinahe mitten in der Luft. Einen Moment bevor sein Kiefer sich schließt, löst sich der Rabe allerdings in schwarzen Rauch auf und erscheint anderthalb Meter weiter wieder.
+- Am Rande des Lavafeldes jagt ein pechschwarzer, kleiner Fuchs einen Ascheraben. Dieser setzt sich immer wieder auf größere Steine und kurz bevor er geschnappt wird, fliegt er wieder ein Stück weg. In der Lava reflektieren sich die Augen des Fuchses und sehen blutrot aus. Er setzt erneut an und packt den Vogel beinahe mitten in der Luft. Einen Moment bevor sein Kiefer sich schließt, löst sich der Rabe allerdings in schwarzen Rauch auf und erscheint anderthalb Meter weiter wieder.
 - Euch fällt auf wie tief die Sonne hier zu jeder Zeit steht. Wirklich auf geht sie nie. Die Wärme, die ihr spürt, wird lediglich durch die Lavaströme erzeugt, die um das Dorf fließen. Ihr seht eine Gruppe größerer Vögel, die über das Dorf ziehen und rot schimmernde Schwanzfedern aufweisen.
 - Nachts erscheinen die Aschegestalten um das Dorf. Wenn die Dorfbewohner ihnen näherkommen, zerfallen sie normalerweise. Bei den Wandernden verhalten sie sich eventuell anders.
 - Aus einem rot glühenden Teich aus blubbernder Lava erhebt sich langsam erst ein Kopf mit langem Bart, Mähne und Hörnern, dann folgt dem Kopf ein langer Schlangenkörper mit vier Beinen. Der Drache scheint komplett aus Feuer zu bestehen und kleine, heiße Lavatropfen fallen von ihm herab, als er durch die Luft hinauf und über einen Bergkamm fliegt. Bevor sie den Boden erreicht haben, sind sie bereits zu schwarzen Kieseln erstarrt.
@@ -61,7 +61,7 @@ Alter Mann, aber sehr nett und zuvorkommend. Lädt die Gruppe gerne ein im Badeh
 
 *Misstrauisch* - trägt einfache Kleidung -  hat Schwielen an den Händen
 
-Zierliche junge Frau. Wirkt etwas blass. Hilft im Badehaus alles am Laufen zu halten. Das ewige Gefrage nach dem Wasser der Quellen nervt sie. "Da ist nix besonderes dran. Der Vulkan gibt uns das heiße Wasser und wir nutzen es."
+Zierliche junge Frau. Wirkt etwas blass. Hilft im Badehaus, alles am Laufen zu halten. Das ewige Gefrage nach dem Wasser der Quellen nervt sie. "Da ist nix Besonderes dran. Der Vulkan gibt uns das heiße Wasser und wir nutzen es."
 
 #### Seki Haruchika, Shijou Tamehiko, Nagatani Sukemochi & Sue Ima - Wohlhabende Badegäste
 
@@ -79,7 +79,7 @@ Immer im Izakaya anzutreffen. Zumeist betrunken und gut gelaunt. Geben nicht imm
 
 *Wohlwollend*
 
-Müder aber freundlicher Blick. Redet langsam aber geraderaus. Erfüllt alle Wünsche, die man hat. 
+Müder, aber freundlicher Blick. Redet langsam aber geraderaus. Erfüllt alle Wünsche, die man hat. 
 
 #### Nakagawa Tsunesane - Älterer Herr, im Dorf lebend
 
@@ -107,7 +107,7 @@ Herausforderung: Es gilt sich um die Lavaströme und heiße Fontänen herum zu b
 
 ##### Das Dorf
 
-> Eröffnungsfrage: Was am Dorf lädt euch zum Verweilen ein.
+> Eröffnungsfrage: Was am Dorf lädt euch zum Verweilen ein?
 
 ##### Das Izakaya
 
@@ -134,7 +134,7 @@ Herausforderung: Der Weg nach oben ist beschwerlich. Leicht können sich Lavastr
 -	[ ] 11. Ein zerbrochenes heiliges Schutzsymbol.
 -	[ ] 12. Natürlicher Filter, der das Badewasser filtert. Er ist mit einer seltsam schleimigen Substanz gefüllt.
 -	[ ] 13. Die Frau des Badehausbesitzers ist seit einer Weile verschwunden.
--	[ ] 14. Kurz vor dem Tod summt das Wesen ein Kinderlied
+-	[ ] 14. Kurz vor dem Tod summt das Wesen ein Kinderlied.
 -	[ ] 15. Dunkelglüher sollen die Seelen der Verstorbenen in den Himmel tragen.
 -	[ ] 16. Ausgerissene Federn von einem Ascheraben.
 -	[ ] 17. Ein Weg, dem schwer zu folgen ist. Er bildet eine Schleife und führt wieder in das Dorf.
