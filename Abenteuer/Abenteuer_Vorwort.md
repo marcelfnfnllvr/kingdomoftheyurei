@@ -68,7 +68,7 @@ NSCs
   Pilgert von Tempel zu Tempel und spielt seine Flöte. Spricht gern über die Natur und kleine Dinge, die er auf seinen Wanderungen bemerkt oder gesehen hat. Hält sich eher an ruhigen Orten auf.
 - Tetsuya Kano - Tusche-Künstler  
   *misstrauisch - schlichte Kleidung und Finger mit zahlreichen schwarzen Flecken - zerstreut, hört oft mitten im Satz auf zu reden*  
-  Stets auf der Suche nach inspirierenden Motiven. Trägt einige zusammengerollte Bilder und Papier mit sich, dazu Pinsel, Tuschestein und Schleifstein in einer edlen Schatulle. Malt direkt vor Ort. Hat Angst, das ihm jemand seine Bilder klaut.
+  Stets auf der Suche nach inspirierenden Motiven. Trägt einige zusammengerollte Bilder und Papier mit sich, dazu Pinsel, Tuschestein und Schleifstein in einer edlen Schatulle. Malt direkt vor Ort. Hat Angst, dass ihm jemand seine Bilder klaut.
 - Rika Tani - Sake-Brauerin  
   *wohlgesonnen - einfache Kleidung unter Schürze, Ärmel hochgebunden - spricht sehr laut und deutlich*  
   Wohnt nahe an einer sauberen Quelle, von der aus sie das Wasser für's Brauen bezieht. Trinkt selbst selten, ist aber sehr stolz auf ihr Produkt und verhandelt hart. Weiß sich zu behaupten. Bringt für Weiherituale manchmal ein großes Holzfass Sake zum Tempel.
