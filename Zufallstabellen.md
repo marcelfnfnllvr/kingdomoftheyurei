@@ -275,7 +275,7 @@
 | 5    | schwül      | Feier/Fest   | euphorisch  | Bergdorf    | Onsen          |
 | 6    | Nieselregen | Reise        | bestürzt    | Glücksspiel | Fureru         |
 
-## Personen:
+## Personen 1:
 
 | Würfel D8 | Name    | Gemüt       | Motivation                  | Tier      | Merkmal                | Beruf               | Verwerfliches |
 | --------- | ------- | ----------- | --------------------------- | --------- | ---------------------- | ------------------- | ------------- |
@@ -287,6 +287,21 @@
 | **6**     | Fune    | Traurig     | Freunde                     | Hirsch    | Edle Brosche im Haar   | Straßenhändler      | Schabernack   |
 | **7**     | Kiku    | Unruhig     | Ruhe                        | Marderhund| Keine Kleidung         | Kabuki-Schauspieler | Zerstörung    |
 | **8**     | Riyo    | Resigniert  | Gerechtigkeit               | Kranich   | Blutverschmierte Hände | Dieb                | Missgunst     |
+
+## Personen 2:
+
+| Würfel D10 | Person                                                       |
+| ---------- | ------------------------------------------------------------ |
+| 1          | Keiko Ishida - Lackwaren-Händlerin  <br/>*wohlgesonnen - hat einen Bambusschirm und einen kleinen Holzkarren - raucht Pfeife*  <br/>Zieht von Ort zu Ort und verkauft Lackwaren (Schüsseln, Anhänger, Dosen, Flaschen, Schatullen,...). Erzählt gern Geschichten von ihren Reisen und betet regelmäßig an Schreinen für Handelsglück. |
+| 2          | Misao - wandernder Mönch  <br/>*wohlgesonnen - trägt einen großen Bambushut, einfache Kleidung und eine Bambusflöte - spricht ruhig und ohne Gefühlsregung*  <br/>Pilgert von Tempel zu Tempel und spielt seine Flöte. Spricht gern über die Natur und kleine Dinge, die er auf seinen Wanderungen bemerkt oder gesehen hat. Hält sich eher an ruhigen Orten auf. |
+| 3          | Tetsuya Kano - Tusche-Künstler  <br/>*misstrauisch - schlichte Kleidung und Finger mit zahlreichen schwarzen Flecken - zerstreut, hört oft mitten im Satz auf zu reden*  <br/>Stets auf der Suche nach inspirierenden Motiven. Trägt einige zusammengerollte Bilder und Papier mit sich, dazu Pinsel, Tuschestein und Schleifstein in einer edlen Schatulle. Malt direkt vor Ort. Hat Angst, dass ihm jemand seine Bilder klaut. |
+| 4          | Rika Tani - Sake-Brauerin  <br/>*wohlgesonnen - einfache Kleidung unter Schürze, Ärmel hochgebunden - spricht sehr laut und deutlich*  <br/>Wohnt nahe an einer sauberen Quelle, von der aus sie das Wasser für's Brauen bezieht. Trinkt selbst selten, ist aber sehr stolz auf ihr Produkt und verhandelt hart. Weiß sich zu behaupten. Bringt für Weiherituale manchmal ein großes Holzfass Sake zum Tempel. |
+| 5          | Hanzo - Taugenichts  <br/>*misstrauisch - edle, aber schlecht gepflegte Kleidung und Bambuskegelhut - spricht quengelnd und beschwert sich gern*  <br/>Will nicht arbeiten und hat Angst, verpfiffen zu werden. Trinkt gerne oder macht ein Nickerchen, bei dem er seinen Hut tief über das Gesicht zieht. |
+| 6          | Rin - Kitsune (Fuchsgeist)  <br/>*wohlgesonnen - einfache aber hochwertige Kleidung, trägt eine Fuchsmaske bei sich - spricht zischend*  <br/>Erkennt die Wandernden als das, was sie sind und offenbart sich ihnen, wenn niemand sonst anwesend ist. Findet Menschen faszinierend und lebt deshalb unter ihnen. Hat etwas mehr Einsicht über das, was vor Ort geschehen ist. Hält einige Dinge für merkwürdig, die für Menschen selbstverständlich sind. |
+| 7          | Hideo Yamamura - Kumiko-Handwerker  <br/>*wohlgesonnen - helle, robuste Kleidung, Tuch um den Kopf gewickelt - genervt, wenn er bei der Arbeit gestört wird*  <br/>Ist sehr konzentriert bei der Arbeit, schneidet kleine Holzstücke zu und legt sie in Rahmen. Interessiert sich für wenig abseits seiner Arbeit und zeigt stolz seine Werke. |
+| 8          | Ai Sato - Hausdame im Ryokan  <br/>*wohlgesonnen - makelloser, schlichter Kimono, Haare ordentlich zusammengesteckt - ruhige, freundliche Stimme*  <br/>Heißt freundlich die Gäste willkommen, zeigt ihnen die Zimmer und erzählt dabei allgemeine Informationen über Ort, Geschichte und Attraktionen. |
+| 9          | Yoshiyuki Kaneda - Wirt im Izakaya  <br/>*misstrauisch - einfache dunkle Kleidung unter heller Schürze - recht einsilbig und schroff*    <br/>Mag keine Fremden und bewirtet sie entsprechend deutlich weniger freundlich als Einheimische. Ist sehr stolz auf seine Spezialgericht und ist beleidigt, wenn es verschmäht wird. |
+| 10         | Ichirō - Jäger<br />*geladen - einfache aber robuste Kleidung - alte röchelnde Stimme*<br />Er liebt die Jagd und seinen Beruf. Allerdings wurde er vor einigen Jahren von einem Hirsch verwundet und ist seitdem auf die Hilfe seines Lehrlings Oswin angewiesen. Er hinkt mit dem rechten Bein und duldet keine Fragen diesbezüglich. |
 
 ## Yokai-Tabelle:
 
@@ -326,5 +341,4 @@
 | 6            | **Ryokan**                       | Auch wenn hier alles sehr gut in Schuss ist, merkt ihr, dass das Ryokan schon eine lange Geschichte hinter sich hat. Woran? |In der mit einem Tuschegemälde und einem frichen Blumengesteck dekorierten Eingangshalle stehen die Schuhe der anderen Gäste sauber aufgereiht an der Stufe. Weiter hinten führt eine Treppe hinauf zu den Gästezimmern.|
 | 7            | **Izakaya**                      | Welche der Speisen fällt euch ins Auge und warum? | An der Wand hängt grob gekritzelt die Speisekarte, der Schankraum ist gefüllt mit niedrigen Tischen auf Tatami-Matten und der Geruch von Sake steht in der Luft.|
 | 8            | **Apotheke/Kräuterladen**        | Wie merkt ihr, dass die Leute in der Gegend auf die Kräuter als Medizin vertrauen? | Als ihr den kleinen Laden betretet, steigt euch der Geruch zahlreicher verschiedener Kräuter in die Nase. Fein zu Büscheln gebunden hängen sie zum Trocknen unter der Decke oder werden in beschrifteten Schalen, Krügen oder Schatullen aufbewahrt. Der Durchgang nach hinten gibt gleichzeitig einen Blick auf den Garten frei, in dem noch mehr Kräuter feinsäuberlich in Reihen gepflanzt wachsen. |
-
 
