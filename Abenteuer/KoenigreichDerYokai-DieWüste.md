@@ -8,7 +8,7 @@ Gesammelte Verderbnispunkte: [  n  ]
 
 Spielt mit eurer Gruppe ein bis drei Runden bzw. Schauplätze, je nachdem, ob ihr einen oder zwei Abende geplant habt und wie schnell die Gruppe durch die Runden kommt. Lasst am Ende des letzten Rings die Spieler die Geschichte erzählen. Es wird der Spielzug „Das Abenteuer lösen” genutzt, aber noch nicht gelöst. Dies passiert erst am Ende des letzten Aktes, nachdem die Spielenden noch die Möglichkeit bekommen, ihre Geschichte anzupassen. Der letzte Akt sollte auf die Geschichte der Spieler aufbauen.
 
-Jeder Ring hat einen Schauplatz, ein Yokai oder mehrere Yokai einer Art sowie mehrere NSC. Mindestens einer dieser NSC sollte unschuldig oder zumindest naiv sein und in die Fänge der Schauplätze oder Yokai geraten sein. Die Gruppe kann diesen NSC im jeweiligen Ring retten. Die Schauplätze existieren in der Wüste mehr oder weniger real. Sie sind Trugbilder oder Bruchstücke aus anderen Dimensionen. Dies ist der leitenden Person überlassen.
+Jeder Ring hat einen Schauplatz, ein Yokai oder mehrere Yokai einer Art sowie mehrere NSC. Mindestens einer dieser NSC sollte unschuldig oder zumindest naiv sein und in die Fänge der Schauplätze oder Yokai geraten sein. Die Gruppe kann diesen NSC im jeweiligen Ring retten. Die Schauplätze existieren in der Wüste mehr oder weniger real. Sie sind Trugbilder oder Bruchstücke aus anderen Dimensionen. Dies ist der Leitenden Person überlassen.
 
 ### Fragestellung, Eskalation und Ehrung:
 
@@ -24,24 +24,24 @@ Was war eure bisher schaurigste und erschreckendste Erfahrung?
 
 ### Einleitung:
 
-Durch die Akai Sabaku, die rote Wüste, führte vor einiger Zeit noch eine der belebtesten Handels- und Verkehrssraßen von ganz Soho. Nach und nach sind dort allerdings immer mehr Menschen verschwunden und es wurde über Merkwürdige Phänome Berichtet. Lasst hier die Gruppe auf 3 Hinweise Würfeln. Sie bekommt die zum Start des Abenteuers. Die Gruppe der Spielenden wurde nun angewiesen sich um dieses Problem zu kümmern und die Straße wieder begehbar zu machen. 
+Durch die Akai Sabaku, die rote Wüste, führte vor einiger Zeit noch eine der belebtesten Handels- und Verkehrsstraßen von ganz Soho. Nach und nach sind dort allerdings immer mehr Menschen verschwunden und es wurde über merkwürdige Phänomene berichtet. Lasst hier die Gruppe auf 3 Hinweise würfeln. Sie bekommt die zum Start des Abenteuers. Die Gruppe der Spielenden wurde nun angewiesen, sich um dieses Problem zu kümmern und die Straße wieder begehbar zu machen. 
 
-Ihr habt eine Gruppe Männer und Frauen zur Seite gestellte bekomen die für euch ein kleines Camp mitten in der Wüste errichtet habe. Sie sind mit euch bis zu dem Punkt gegangen als ihr angefangen habt zu spüren das sich hier "etwas verändert". Die Gruppe kümmert sich nun um das Camp während ihr euch tiefer in die Wüste aufgemacht habt um dem Problem auf den Grund zu gehen. 
+Ihr habt eine Gruppe Männer und Frauen zur Seite gestellt bekommen, die für euch ein kleines Camp mitten in der Wüste errichtet haben. Sie sind mit euch bis zu dem Punkt gegangen, als ihr angefangen habt zu spüren, dass sich hier „etwas verändert“. Die Gruppe kümmert sich nun um das Camp, während ihr euch tiefer in die Wüste aufgemacht habt, um dem Problem auf den Grund zu gehen. 
 
 ### Gefahren:
 
 -	Alle Yokai können hier als Gefahr verwendet werden. 
 -	Außerdem kann die Wüste selbst und ihre Merkwürdigkeiten als Gefahr dienen.
--	Die Männer und Frauen in Rot. Sie greifen ohne zu Zögern an und sind schwerlich zum reden zu überzeugen.
+-	Die Männer und Frauen in Rot. Sie greifen ohne zu Zögern an und sind schwerlich zum Reden zu überzeugen.
 
 ### Momente:
 
 -	Ein Wüstenfuchs steht einige Meter vor euch und sieht euch an. Er läuft ein Stück weg wenn ihr ihm näher kommt, fast als wollte er euch etwas zeigen. Nach einigen Schritten verschwindet er hinter einem Felsen.
--	Ihr seht eine Merkwürdig versteinert aussehende Pflanze. Wenn ihr zu Nahe kommt Platz ihr Blüte und lässt einen schwall Sporen frei.
+-	Ihr seht eine merkwürdig versteinert aussehende Pflanze. Wenn ihr zu nahe kommt, platzt ihr Blüte und lässt einen Schwall Sporen frei.
 
 ### Personen:
 
-Zur Vorbereitung dieses Abenteuers nutzt bitte die Personentabelle auf Seite XX. Bereitet pro Ring, den ihr spielen wollt, zwei bis drei Charaktere vor. Ihr werdet nicht für jeden Ring alle Charaktere benötigen, aber es ist sehr praktisch, eine Auswahl parat zu haben. Ihr findet hier fünf fertig ausgewürfelte und interpretierte Charaktere zur Nutzung oder als Vorlage, um zu sehen, wie wir die Personentabelle verwenden.
+Zur Vorbereitung dieses Abenteuers nutzt bitte die Personentabelle 1. Bereitet pro Ring, den ihr spielen wollt, zwei bis drei Charaktere vor. Ihr werdet nicht für jeden Ring alle Charaktere benötigen, aber es ist sehr praktisch, eine Auswahl parat zu haben. Ihr findet hier fünf fertig ausgewürfelte und interpretierte Charaktere zur Nutzung oder als Vorlage, um zu sehen, wie wir die Personentabelle verwenden.
 
 - **Haru** – Eine zweifelnde Geisha mit einer schwarzen Augenklappe. Ihr tierischer Begleiter, ein listiger Affe, ist Teil ihrer Auftritte. Sie lebt für ihren Beruf, doch ihre Neigung zum Lügen hat ihr bereits viele Feinde eingebracht.
 - **Jirō** – Ein wütender Samurai mit einem hinkenden Bein und der Stärke eines Bären. Sein Stolz ist legendär, doch in seiner Vergangenheit klebt Blut an seinen Händen – er hat einen Mord begangen, den er nie bereute.
@@ -51,7 +51,7 @@ Zur Vorbereitung dieses Abenteuers nutzt bitte die Personentabelle auf Seite XX.
 
 ### Yokai:
 
-Sucht euch aus der Tabelle auf Seite XX jeweils einen Yokai für jeden geplanten Ring heraus. Im finalen Ring treffen dann alle Yokai aufeinander. 
+Sucht euch aus der Yokai-Tabelle jeweils einen Yokai für jeden geplanten Ring heraus. Im finalen Ring treffen dann alle Yokai aufeinander. 
 
 ### Geisterhafte-Schauplätze:
 
@@ -71,19 +71,19 @@ Jeder Ring hat eine besondere Eigenschaft. Diese kann ihn gefährlicher machen o
 ### Hinweise:
 
 -	[ ] 1. Vor ein paar Tagen hat mich ein Mensch in einem blutroten Yukata angesprochen.
--	[ ] 2. Banzettel in einer Sprache die euch nicht geläufig ist
+-	[ ] 2. Banzettel in einer Sprache, die euch nicht geläufig ist!
 -	[ ] 3. Eine zerrissene Schriftrolle, die mit einem roten Rosenblatt gekennzeichnet ist.
 -	[ ] 4. Der Geist soll sich in einen Menschen verwandelt haben.
 -	[ ] 5. Ein Toter in einem roten Yukata.
--	[ ] 6. Holzpfäle mit Zeichen in einer Fremden Sprache
+-	[ ] 6. Holzpfähle mit Zeichen in einer fremden Sprache
 -	[ ] 7. Bericht: "Ich war wie hypnotisiert. Ich musste weiter in die Wüste gehen." 
 -	[ ] 8. Bericht: „Man sagt, ich hätte einen starken Geist, aber ich habe mich noch nie so allein gefühlt wie an den vier Tagen der letzten Durchquerung.“
 -	[ ] 9. Es ist ein Teil einer roten, kreisrunden Linie. Mit Sand bedeckt.
--	[ ] 10. Ein Toter mit einem bleichen Arm und schwarzen langen Haaren.
+-	[ ] 10. Ein Toter mit einem bleichen Arm und schwarzen, langen Haaren.
 -	[ ] 11. Es handelt sich um einen Zettel mit einem Ritualablauf und der Anweisung, diesen anschließend zu verbrennen.
 -	[ ] 12. Die Überreste eines Camps. Ihr seht Vorräte und Schlafplätze für etwa drei bis fünf Personen. Es wirkt, als wäre das Camp einfach verlassen worden.
 -	[ ] 13. An die wenigen Bäume, die es in der Wüste gibt, sind kleine Glocken gehängt.
--	[ ] 14. Eine Phiole mit blutroter Flüssigkeit. (Kann man nehmen. Zieht einen "Etwas risikieren" Spielzug nach sich. Bei Erfolg heilt sie den Charakter komplett.)
+-	[ ] 14.  Eine Phiole mit blutroter Flüssigkeit. (Kann man nehmen. Zieht einen „Etwas riskieren” Spielzug nach sich. Bei Erfolg heilt sie den Charakter komplett.)
 -	[ ] 15. Ein Geist trennt sich von einem Körper.
 -	[ ] 16. Geister, die gerufen wurden. 
 -	[ ] 17. Menschen mit verschiedenen Yokai-Masken

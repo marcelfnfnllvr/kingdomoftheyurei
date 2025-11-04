@@ -1,22 +1,22 @@
 # Der Tempel
 
-Schwierigkeit: 16 – ein kurzes und aber eher schwerers und düsteres Abenteuer - ein bis zwei Abende  
+Schwierigkeit: 18 – ein kurzes und aber eher schwerers und düsteres Abenteuer - ein bis zwei Abende  
 
 Gesammelte Verderbnispunkte: [ n ]
 
 ### Hinweise für Spielleitende:
 
-Die Gruppe sucht Ruhe in der berühmten Tempelanlage Takedera, weit weg von anderen Dörfern und Städten. Die Anlage liegt in einem malerischen Bambuswald, umgeben von hohen Bergen. Die einzigen Geräusche, die man hört, kommen von dem riesigen Wasserfall, den die Mönche liebevoll kleiner Alouatta nennen. Kleiner Brüllaffe. Benannt nach dem Tier, das die andere Geräuschquelle in diesem Wald ist. 
+Die Gruppe sucht Ruhe in der berühmten Tempelanlage Takedera, weit weg von anderen Dörfern und Städten. Die Anlage liegt in einem malerischen Bambuswald, umgeben von hohen Bergen. Die einzigen Geräusche, die man hört, kommen von dem riesigen Wasserfall, den die Mönche liebevoll Kleiner Alouatta nennen. Kleiner Brüllaffe. Benannt nach dem Tier, das die andere Geräuschquelle in diesem Wald ist. 
 
 Kaum sind sie im Tempel angekommen, scheint es, als würde ihn niemand je wieder verlassen. Alles in diesem Abenteuer deutet darauf hin, dass etwas die Menschen hier gefangen nimmt und verändert. Was das genau ist, sollte die Spielleitende Person abhängig von den Begegnungen der Spielenden und den Hinweisen entscheiden.
 
-Der Charakter Miyamoto Musashi ist oder denkt im Abenteuer, er sei ein berühmter Schwermeister. Wie genau dies ausgelegt wird, ist der Spielleitung überlassen. Miyamoto Musashi war ein legendärer japanischer Samurai und Schwertmeister. Er blieb in über 60 Duellen unbesiegt. Er entwickelte den Kampfstil mit zwei Schwertern (Niten Ichi-ryū) und zog sich später zurück, um sein Werk „Das Buch der fünf Ringe“ zu verfassen.
+Der Charakter Miyamoto Musashi ist oder denkt im Abenteuer, er sei ein berühmter Schwertmeister. Wie genau dies ausgelegt wird, ist der Spielleitung überlassen. Miyamoto Musashi war ein legendärer japanischer Samurai und Schwertmeister. Er blieb in über 60 Duellen unbesiegt. Er entwickelte den Kampfstil mit zwei Schwertern (Niten Ichi-ryū) und zog sich später zurück, um sein Werk „Das Buch der Fünf Ringe“ zu verfassen.
 
 ### Fragestellung, Eskalation und Ehrung:
 
-Fragestellung, die es zu lösen gilt: Entkommt der Tempelanlage Takedera! 
+Fragestellung, die es zu lösen gilt: Entkomme der Tempelanlage Takedera! 
 
-Falls die Situation eskaliert, lassen sich entweder die Füchse oder Affen nicht beruhigen oder von ihrem Plan abbringen. Chaos bricht im Tempel aus und der Konflikt zwischen den Parteien eskaliert.
+Falls die Situation eskaliert, lassen sich entweder die Füchse oder die Affen nicht beruhigen oder von ihrem Plan abbringen. Chaos bricht im Tempel aus, und der Konflikt zwischen den Parteien eskaliert.
 
 Bewahrende der Ruhe - Ruhig
 
@@ -26,21 +26,21 @@ Was gibt dir Halt in dieser Welt der Geister und Dämonen? In dieser Welt, in de
 
 ### Einleitung:
 
-> Was sucht euer Charakter hier in der Tempelanlage Takedera?
+> Was sucht euer Charakter hier, in der Tempelanlage Takedera?
 
-Ihr befindet euch beim morgendlichen Frühstück. Es gibt Natto, fermentierte Bohnen, Reis und dazu Miso-Suppe. Wie immer habt ihr bei der Zubereitung heute morgen geholfen. Nun sitzt ihr alle gemeinsam mit den Mönchen am großen Tisch.
+Ihr befindet euch beim morgendlichen Frühstück. Es gibt Natto, fermentierte Bohnen, Reis und dazu Miso-Suppe. Wie immer habt ihr bei der Zubereitung heute Morgen geholfen. Nun sitzt ihr alle gemeinsam mit den Mönchen am großen Tisch.
 
 ### Gefahren:
 
 -	Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden.  
--	Eine Horde Affen fällt über euch her. Sie reißen und zerren an euch und ihr habt das Gefühl in Stücke gerissen zu werden.
+-	Eine Horde Affen fällt über euch her. Sie reißen und zerren an euch, und ihr habt das Gefühl, in Stücke gerissen zu werden.
 -	Der Charakter wird mit seiner schlimmsten Angst konfrontiert.
 -	Ein Mönch greift euch mit einer Samurai-Rüstung an. Seine Augen glühen rot.
--	Eine Papierrolle, die sie angreift. Allgemein Gegenstände. 
+-	Eine Papierrolle, die sie angreift. Allgemein: Gegenstände.
 
 ### Momente:
 
--	Es ist eine neblige Morgendämmerung und der Duft von feuchtem Moos und Räucherwerk liegt in der Luft, während das sanfte Plätschern des Alouatta-Wasserfalls die Stille durchbricht. 
+-	Es ist eine neblige Morgendämmerung, und der Duft von feuchtem Moos und Räucherwerk liegt in der Luft, während das sanfte Plätschern des Alouatta-Wasserfalls die Stille durchbricht. 
 -	Plötzlich fliegt eine weiße Krähe über den Tempelhof, ihr Ruf klingt fast wie ein Flüstern. Gerade in diesem Augenblick scheint die Welt in perfekter Harmonie – als hätte sich der Schleier zwischen Diesseits und Jenseits für einen Wimpernschlag geöffnet. 
 -	Ein roter Fuchs mit flauschigem Fell sitzt auf den warmen Steinstufen eines alten Tempels. Die Morgensonne taucht sein Fell in goldenes Licht, während er genüsslich die Augen schließt und sich die Nase mit seiner kleinen Pfote reibt.
 
@@ -68,7 +68,7 @@ Für ihn ist klar, dass er in diesem Tempel sein Paradies gefunden hat. Er ist n
 
 *Redet kurz - Wohlgesonnen*
 
-> Eröffnungsfrage: Welches Detail an seinem Mönchsrobe erinnert euch an einen Samurai?
+> Eröffnungsfrage: Welches Detail an seiner Mönchsrobe erinnert euch an einen Samurai?
 
 Ein alter Samurai, der seinen Lebensabend im Tempel verbringen wollte. Er ist noch nicht komplett verwandelt und kann noch zum Teil sinnvoll antworten.
 
@@ -82,7 +82,7 @@ Sie reden nur in Rätseln und geben keinerlei sinnvolle Antworten.
 
 *Wohlgesonnen*
 
-Dick und rund und mit sehr tiefer Stimme. Er schwingt trotzdem grazil durch die Baumwipfel und offenliegende Deckenbalken. Er ist nett und kann die Wanderer davor warnen hier zu lange zu bleiben. Die Füchsen sind böse und sie lassen niemanden wieder gehen.
+Dick und rund und mit sehr tiefer Stimme. Er schwingt trotzdem grazil durch die Baumwipfel und offen liegende Deckenbalken. Er ist nett und kann die Wanderer davor warnen, hier zu lange zu bleiben. Die Füchse sind böse und sie lassen niemanden wieder gehen.
 
 ### Schauplätze:
 
@@ -96,11 +96,11 @@ Ungefährlich
 
 ##### Der Wasserfall
 
-Ein malerischer Wasserfall nicht weit vom Tempelkomplex gelegen. Das stetige Rauschen ist selbst in den hintersten Räumen des Tempels noch zu hören. Affen hängen in den riesigen Bäumen, die sich zu den Seiten erstrecken. Vor euch liegt ein kleine See, in dem sich das herabstürzende Wasser staut. 
+Ein malerischer Wasserfall, nicht weit vom Tempelkomplex gelegen. Das stetige Rauschen ist selbst in den hintersten Räumen des Tempels noch zu hören. Affen hängen in den riesigen Bäumen, die sich zu den Seiten erstrecken. Vor euch liegt ein kleiner See, in dem sich das herabstürzende Wasser staut. 
 
 Ungefährlich
 
-> Eröffnungsfrage: Welches Detail an diesem Ort lässt sich hinter sein Schönheit blicken?
+> Eröffnungsfrage: Welches Detail an diesem Ort lässt euch hinter seine Schönheit blicken?
 
 Herausforderung: Der See kann optional als Gefahrenquelle dienen. 
 
@@ -118,9 +118,7 @@ Ihr wandert einen mit Moos bewachsenen Pfad entlang, der von uralten Steinlatern
 
 Gefährlich
 
-> Eröffnungsfrage: Ihr seht Papierzettel an ein schweres Seil gebunden, welches die Begrenzung zum Wald zeigt. Welcher Wunsch steht auf dem Zettel, den ihr euch anschaut?
-
-
+> Eröffnungsfrage: Ihr seht Papierzettel, an ein schweres Seil gebunden, welches die Begrenzung zum Wald zeigt. Welcher Wunsch steht auf dem Zettel, den ihr euch anschaut?
 
 ### Hinweise:
 
@@ -134,8 +132,8 @@ Gefährlich
 -	[ ] 8. Fußabdrücke, die von menschlich zu Pfoten gehen.
 -	[ ] 9. Eure Reflektion im Wasser scheint immer durchsichtiger und dünner zu werden.
 -	[ ] 10. Jemand, der verbotene Gebete an böse Kami-Geister zitiert. 
--	[ ] 11. Eine der Statuen hat eine tropfenförmige rote Flüssigkeit unter den Augen.
--	[ ] 12. Ein Gespräch oder eine Schriftrolle ,die bestätigt, dass es hier früher einmal Frauen gegeben haben muss.
+-	[ ] 11. Eine der Statuen hat eine tropfenförmige, rote Flüssigkeit unter den Augen.
+-	[ ] 12. Ein Gespräch oder eine Schriftrolle, die bestätigt, dass es hier früher einmal Frauen gegeben haben muss.
 -	[ ] 13. Das Schlagen von Trommeln.
 -	[ ] 14. Der Duft von Räucherwerk und ein leises Kichern.
 -	[ ] 15. Jemand, der glücklich morgens den Tempel verlässt. Ein Gast. Ihr habt die Person noch nie zuvor gesehen.
@@ -143,6 +141,6 @@ Gefährlich
 -	[ ] 17. Die Füchsin, die dich auf den falschen Weg führt.
 -	[ ] 18. Schatten, wo keine Schatten sind.
 -	[ ] 19. „Sie kehren zurück in den Zyklus.“
--	[ ] 20. Es scheinen nie Lebensmittel gebracht zu werden und trotzdem sind die Lager niemals leer.
+-	[ ] 20. Es scheinen nie Lebensmittel gebracht zu werden, und trotzdem sind die Lager niemals leer.
 -	[ ] 21. Die Mönche sehen sich zunehmend ähnlicher.
--	[ ] 22. Eine jahrhundertealte Schriftrollen mit Gebeten. Bei genaurem Hinsehen verschwimmen die Worte und übrig bleibt nur ein einziges Wort: „Kaeshite“ (返して) – „Gib es zurück.“
+-	[ ] 22. Eine jahrhundertealte Schriftrolle mit Gebeten. Bei genauerem Hinsehen verschwimmen die Worte und übrig bleibt nur ein einziges Wort: „Kaeshite“ (返して) – „Gib es zurück.“
