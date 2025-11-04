@@ -53,7 +53,7 @@ Männer, die im Bergwerk arbeiten: Amatake Okakumi, Mori Kyubei, Kamihara Sukeku
 
 #### Mawasu Totsuna – Schmiedemeister
 
-*Wirkt unendlich alt - hat eine raue krazige Stimme - trägt sehr einfache Kleidung*
+*Wirkt unendlich alt - hat eine raue kratzige Stimme - trägt sehr einfache Kleidung*
 
 Der Nachfolger des Schmiedemeisters, der das Abkommen geschlossen hat. Er weiß, dass die Geister in der Gestalt von Frauen hier leben. Der Pakt ist ihm allerdings heilig. Jeder neue Geist wird festlich begrüßt. Die Qualität der Schwerter, so sagt er, hat aber nichts mit dem Pakt zu tun. Dies sei jahrzehntelange harte Arbeit und die Weitergabe von Fähigkeiten an die nächste Generation. 
 
