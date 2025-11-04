@@ -49,7 +49,7 @@
   - **Horagai**  
     Blasmusikinstrument bestehend aus der geschwungenen Schale einer großen Meeresschnecke (Tritonshorn), mit dem über ein Mundstück drei bis fünf verschiedene Töne erzeugt werden können.
   - **Izakaya**  
-    Traditionelle, gesellige Kneipe, in dem alkoholisch Getränke, kleine Snacks und Speisen serviert werden. 
+    Traditionelle, gesellige Kneipe, in der alkoholische Getränke, kleine Snacks und Speisen serviert werden. 
   - **Katsuobushi**  
     Flocken aus getrocknetem, geräucherten Bonito-Thunfisch.
   - **Kumiko**  
