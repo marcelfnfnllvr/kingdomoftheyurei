@@ -1,4 +1,4 @@
-# Frühlingsszeit
+# Frühlingszeit
 Schwierigkeit: 14 – ein kurzes und eher lockeres Abenteuer - eine Session
 
 Gesammelte Verderbnispunkte: [ n ]
