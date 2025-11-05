@@ -182,7 +182,7 @@ Jede Gruppe baut aus den Hinweisen eine andere, ganz eigene Geschichte zusammen 
 
 >**Martina**: Also, euer aktuelles Abenteuer ist jetzt zwar vorbei, aber bevor wir Feierabend machen, schauen wir natürlich noch, was jetzt mit euren Charakteren passiert und ob jemand einen Stufenaufstieg macht. Lydia, dein Charakter wurde ja außer Gefecht gesetzt, das heißt Ayane kommt jetzt auch in einen neuen Abschnitt, allerdings nicht durch einen Stufenaufstieg. Da ihr Dämon mehr von ihr Besitz ergriffen hat, ist sie jetzt in einem dunklen Abschnitt. Wie schaut's denn bei den anderen aus? Wir gehen einfach alles der Reihe nach durch. Ihr habt auf zusammen die aktive Aufgabe gelöst und das sogar friedlich. Dafür gibt es zwei Punkte für jeden.  
 >**Ralph**: Ich habe eine Rückblende erzählt und damit sogar zwei Zustände geheilt...  
->**Martina**: Das stimmt, dafür bekommst du drei Punkte.  
+>**Martina**: Das stimmt, dann bist du jetzt bei drei Punkten.
 >**Ralph**: Außerdem hatte ich im Kampf einmal das Gefahrenlevel gesenkt. Das ist noch ein Punkt, dann sind es vier. Ich konnte aber niemandem ein Geheimnis entlocken. Es bleibt also bei vier Punkten. Hey, damit habe ich die Stufe 2 voll!!  
 >**Martina**: Sehr gut, dann kannst du dir überlegen, ob du einen Stufenaufstieg der Stufe 2 machen möchtest oder lieber noch warten und schauen, ob du mit dem nächsten Abenteuer Stufe 3 erreichst. Wie sieht es bei Hannes aus?  
 >**Hannes**: Ich konnte zumindest eine Situation deeskalieren und den aufgebrachten Besitzer des Ryokan beruhigen. Aber ich hatte diesmal keine Rückblende und konnte auch kein Gefahrenlevel senken. Also habe ich 3 Punkte. Damit wäre zwar meine Stufe 1 voll, aber ich warte lieber noch mit dem Aufstieg.  
