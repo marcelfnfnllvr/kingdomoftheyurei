@@ -82,7 +82,7 @@ Sie werden nicht verraten, ob sie Anwar getötet haben oder nicht. Sie sagen, ab
 
 *Wohlgesonnen*
 
-Dicker Kater, der an verschiedenen Stellen des Hauses angetroffen werden kann. Der Kater kann alles wissen, ist aber katzenmäßig eher mit Vorsicht anzufassen. Er ist ein Geist und kann mit den Furiern sprechen.
+Dicker Kater, der an verschiedenen Stellen des Hauses angetroffen werden kann. Der Kater kann alles wissen, ist aber katzenmäßig eher mit Vorsicht anzufassen. Er ist ein Geist und kann mit den Fureru sprechen.
 
 ### Schauplätze:
 
