@@ -6,7 +6,7 @@ Gesammelte Verderbnispunkte: [  n  ]
 
 ### Hinweise für die Spielleitung:
 
-Wir haben hier drei Parteien, die alle dafür gesorgt haben könnten, dass die Berggeister erwacht sind. Es gibt die Händler, die durch einen Tunnel den Zugangsweg verbessern wollen, damit sie leichter ihre Sklaven verkaufen können. Bisher müssen sie dafür immer über den Gebirgspass, um in das entfernte Land zu kommen. Der Bergwerksvorsteher versucht es allen recht zu machen, kommt aber auch nicht gut seiner Arbeit nach und kennt sich in dem Stollen nicht wirklich gut aus. Außerdem gibt es noch die Gilde der Schmiede, die vor langer Zeit einen Pakt mit einem Feuergott geschlossen hat, und abtrünnige Schmiede, die keine Schwerter sondern im Geheimen Waffen herstellen. Die Frauen der Eisenhütte machen dagegen ihre Arbeit mit Stolz und belächeln die Männer lediglich. Sie kümmern sich nicht um den Unfug, der im Dorf stattfindet. 
+Wir haben hier drei Parteien, die alle dafür gesorgt haben könnten, dass die Berggeister erwacht sind. Es gibt die Händler, die durch einen Tunnel den Zugangsweg verbessern wollen, damit sie ihre Sklaven leichter verkaufen können. Bisher müssen sie dafür immer über den Gebirgspass, um in das entfernte Land zu kommen. Der Bergwerksvorsteher versucht es allen recht zu machen, kommt aber auch nicht gut seiner Arbeit nach und kennt sich in den Stollen nicht wirklich gut aus. Außerdem gibt es noch die Gilde der Schmiede, die vor langer Zeit einen Pakt mit einem Feuergott geschlossen hat, und abtrünnige Schmiede, die keine Schwerter, sondern im Geheimen Waffen herstellen. Die Frauen der Eisenhütte machen dagegen ihre Arbeit mit Stolz und belächeln die Männer lediglich. Sie kümmern sich nicht um den Unfug, der im Dorf stattfindet. 
 
 ### Fragestellung, Eskalation und Ehrung:
 
@@ -22,7 +22,7 @@ Bergwächter - Dunkelsicht
 
 ### Einleitung:
 
-Ein hochgelegenes Bergdorf, welches sich nur über einen schmalen Pass erreichen lässt. Bekannt dafür die edelsten Schwerter zu schmieden. Leider steht seit einer Weile die Produktion komplett still. Es kam zu mehreren Unfällen, bei denen Arbeiter auf mysteriöse Weise ums Leben gekommen sind. Es wird berichtet, dass sie in den Stollen vom Berg aufgespießt worden sein sollen. Es sieht aus, als wäre der Stein im Stollen gewachsen und hätte sie erstochen. Die Gruppe befindet sich auf dem recht engen Bergpass, der zu der Hochebene führt, auf dem das Dorf Toro liegt. Der Wind hat angezogen und der Schnee peitscht der Truppe unentwegt ins Gesicht. Nach gut einer Stunde Wanderung sehen sie, dass der Weg vor ihnen versperrt ist. Ein Erdrutsch hat den Weg in ein Geröllfeld verwandelt und der Schnee macht es schwierig sich dort hinüber zu bewegen.
+Ein hochgelegenes Bergdorf, das sich nur über einen schmalen Pass erreichen lässt. Bekannt dafür, die edelsten Schwerter zu schmieden. Leider steht seit einer Weile die Produktion komplett still. Es kam zu mehreren Unfällen, bei denen Arbeiter auf mysteriöse Weise ums Leben gekommen sind. Es wird berichtet, dass sie in den Stollen vom Berg aufgespießt wurden. Es sieht aus, als wäre der Stein im Stollen gewachsen und hätte sie erstochen. Die Gruppe befindet sich auf dem recht engen Bergpass, der zu der Hochebene führt, auf dem das Dorf Toro liegt. Der Wind hat angezogen und der Schnee peitscht der Truppe unentwegt ins Gesicht. Nach gut einer Stunde Wanderung sehen sie, dass der Weg vor ihnen versperrt ist. Ein Erdrutsch hat den Weg in ein Geröllfeld verwandelt und der Schnee macht es schwierig, sich dort hinüber zu bewegen.
 > Macht euren Charakteren die Kälte etwas aus? Wie schützen sie sich dagegen?
 
 ### Gefahren:
@@ -35,17 +35,17 @@ Ein hochgelegenes Bergdorf, welches sich nur über einen schmalen Pass erreichen
 
 ### Momente:
 
-- Das Licht flackert und wenn ihr wieder sehen könnt, habt ihr das Gefühl der Stein neben euch ist euch näher gekommen. 
-- Es fangen kleine Steine an, auf euch zuzurollen und gegen euch zu springen. Es wirkt fast so, als wäre der Berg sauer.
-- Ein Stück von der Eisenhütte entfernt hört ihr mehrere Frauenstimmen lachen. Es scheint von einem Wasserfall zu kommen. Doch als ihr den Wasserfall nahe des Weges seht, ist dort niemand zu sehen.
+- Das Licht flackert und wenn ihr wieder sehen könnt, habt ihr das Gefühl, der Stein neben euch ist euch nähergekommen.
+- Kleine Steine beginnen, auf euch zuzurollen und gegen euch zu prallen. Es wirkt fast so, als wäre der Berg verärgert.
+- In der Nähe der Eisenhütte hört ihr, scheinbar beim Wasserfall, das Gelächter mehrerer Frauen.
 - Von einer Felswand kullern euch einige Steine vor die Füße. Doch anstatt liegen zu bleiben, wie man das von Steinen erwarten würde, wachsen ihnen plötzlich dünne Arme und Beine und sie laufen an euch vorbei.
 - An den Enden des Dachfirsts eines Hauses erscheinen plötzlich Flammensäulen. Sie springen auf die Firste der benachbarten Häuser und breiten sich wie ein Lauffeuer über alle Häuser aus. Dann verschwinden sie schlagartig und ohne Schaden anzurichten wieder.
 
 ### Personen:
 
-#### Ito Sato – Bergwerkschef
+#### Ito Sato – Bergwerksvorsteher
 
-*Bestimmend direkt mit ruhiger Stimme - Wohlgesonnen - Trägt einen schlichten aber gut gefertigten Kimono*
+*Bestimmend direkt mit ruhiger Stimme - Wohlgesonnen - Trägt einen schlichten, aber gut gefertigten Kimono*
 
 Er ist ein netter und sehr engagierter Mann. Er weiß nichts. Die Händler sind ihm etwas suspekt, er hat Respekt vor den Schmiedemeistern und fürchtet sich vor den Frauen. Er versucht, gut mit seinen Männern umzugehen, und betritt jeden Stollen als Erster. Er hat die Gruppe gerufen.
 
@@ -53,9 +53,9 @@ Männer, die im Bergwerk arbeiten: Amatake Okakumi, Mori Kyubei, Kamihara Sukeku
 
 #### Mawasu Totsuna – Schmiedemeister
 
-*Wirkt unendlich alt - hat eine raue kratzige Stimme - trägt sehr einfache Kleidung*
+*Wirkt unendlich alt - hat eine raue, kratzige Stimme - trägt sehr einfache Kleidung*
 
-Der Nachfolger des Schmiedemeisters, der das Abkommen geschlossen hat. Er weiß, dass die Geister in der Gestalt von Frauen hier leben. Der Pakt ist ihm allerdings heilig. Jeder neue Geist wird festlich begrüßt. Die Qualität der Schwerter, so sagt er, hat aber nichts mit dem Pakt zu tun. Dies sei jahrzehntelange harte Arbeit und die Weitergabe von Fähigkeiten an die nächste Generation. 
+Der Nachfolger des Schmiedemeisters, der das Abkommen geschlossen hat. Er weiß, dass die Geister in der Gestalt von Frauen hier leben. Der Pakt ist ihm allerdings heilig. Jeder neue Geist wird festlich begrüßt. Die Qualität der Schwerter, so sagt er, hat aber nichts mit dem Pakt zu tun. Dies beruhe auf jahrzehntelanger harter Arbeit und der Weitergabe von Fähigkeiten an die nächste Generation.
 
 #### Akaga Jinzamichi – Abtrünniger Schmiedemeister
 
@@ -75,9 +75,9 @@ Weitere Frauen, die in der Eisenhütte arbeiten: Kiyo San, Tomika Sanadori, Kora
 
 #### Tomo Hariato – Vorsteher der Händlergilde und Menschenhändler
 
-*Tut dümmer als er ist - versucht die Gruppe in eine Falle zu locken*
+*Tut dümmer als er ist - versucht, die Gruppe in eine Falle zu locken*
 
-Versucht zusammen mit Ito einen Stollen so weit durch den Berg zu treiben, dass er unterhalb der Hochebene herauskommt, auf der das Dorf liegt. So soll der Handel gestärkt werden. Er weiß natürlich, dass seine Handlanger noch im Berg sind und auch in welchen Gängen sich die Gefangenen verstecken. Er stellt alles so dar, als ob er nur die Handelsroute stärken will, damit es dem Dorf noch besser geht.
+Gemeinsam mit Ito versucht er, einen Stollen so weit durch den Berg zu treiben, dass er unterhalb der Hochebene austritt, auf der das Dorf liegt. So soll der Handel gestärkt werden. Er weiß natürlich, dass seine Handlanger noch im Berg sind und auch, in welchen Gängen sich die Gefangenen verstecken. Er stellt alles so dar, als ob er nur die Handelsroute stärken will, damit es dem Dorf noch besser geht.
 
 #### Kure Nagahisa - Bardame beim Izakaya
 
@@ -87,11 +87,11 @@ Sie weiß viel über das Dorf, aber nicht alles. Sie sollte so viel wissen, dass
 
 #### Hono - Der Gott der Flammen und des Feuers
 
-Er schützt die Geister, sorgt für gutes Feuer und ordentliches Eisen. Er spürt Angriffe und Beben. Hono kann sowohl in Träumen als auch in jeder Flamme erscheinen. Er ist schwer zu fassen und mischt sich nicht direkt in das Dorf ein.
+Er schützt die Geister, sorgt für gutes Feuer und ordentliches Eisen. Er spürt Angriffe und Beben. Hono kann sowohl in Träumen als auch in jeder Flamme erscheinen. Er ist schwer zu fassen und mischt sich nicht direkt in die Belange des Dorfes ein. 
 
 #### Yama - Der Gott des Berges
 
-Verärgert aber ruhig. Wissend aber zugleich unwissend. Er spürt mehr, als dass er weiß und er weiß, dass mächtig viel schiefläuft in diesem Dorf. Yama kann sowohl in Träumen als auch in Gestalt eines Steingebildes erscheinen. Er ist schwer zu fassen und mischt sich nicht direkt in das Dorf ein.
+Verärgert, aber ruhig. Wissend und unwissend zugleich. Er spürt mehr als er weiß, und er weiß, dass im Dorf sehr viel schiefläuft. Yama kann sowohl in Träumen als auch in Gestalt eines Steingebildes erscheinen. Er ist schwer zu fassen und mischt sich nicht direkt in die Belange des Dorfes ein. 
 
 ### Schauplätze:
 
@@ -103,31 +103,31 @@ Herausforderung: Geröll löst sich und stürzt auf die Gruppe hinab.
 
 ##### Das Dorf
 
-Das Dorf Toro liegt ruhig da. Alle Arbeit ist gestoppt. Es kann momentan kein neues Erz in den Stollen geschürft werden. Die Leute liegen in der Sonne und schlafen, unterhalten sich oder sitzen beim Tee zusammen. Die meisten scheinen recht entspannt mit der Situation umzugehen. Lediglich die Schmiedemeister verarbeiten noch das restliche Eisen zu ihren berühmten Schwertern.
+Das Dorf Toro liegt ruhig da. Die Arbeit ruht. In den Stollen kann im Moment kein neues Erz geschürft werden. Die Leute liegen in der Sonne und schlafen, unterhalten sich oder sitzen beim Tee zusammen. Die meisten scheinen recht entspannt mit der Situation umzugehen. Lediglich die Schmiedemeister verarbeiten noch das restliche Eisen zu ihren berühmten Schwertern.
 
 ##### Die Eisenhütte
 
-Hier wird Tamahagane hergestellt - ein hochwertiger Stahl, der auch der Waffenherstellung dient. Die Luft ist trocken und heiß, denn der kastenförmige Rennofen strahlt eine enorme Hitze ab. Durch Düsen wird dem Inneren des Ofens immer wieder Luft von einem großen Blasebalg zugeführt, den mehrere Frauen mit ihren Füßen bedienen.
+Hier wird Tamahagane hergestellt - ein hochwertiger Stahl, der auch der Waffenherstellung dient. Die Luft ist trocken und heiß, denn der kastenförmige Rennofen strahlt eine enorme Hitze ab. Durch Düsen wird dem Inneren des Ofens immer wieder die Luft eines großen Blasbalgs zugeführt, den mehrere Frauen mit ihren Füßen bedienen.
 
 > Was zeigt euch, wie hart die Frauen hier bisher gearbeitet haben?
 
 ##### Die Händlergilde
 
-> Was hier zeigt euch die Überheblichkeit der Händlergilde und ihr Wissen um ihren Status im Dorf?
+> Was zeigt euch die Überheblichkeit der Händlergilde und ihr Wissen um ihren Status im Dorf?
 
 ##### Das Izakaya
 
-> Hier kommen alle zusammen. Bilder hängen an den Wänden, auf Tischen und in Nischen stehen bunt gemischte Gegenstände als Deko. Was steht dort und wie erinnert es euch an eure Heimat?   
+> Hier kommen alle zusammen. Bilder hängen an den Wänden, auf Tischen und in Nischen stehen verschiedene Dekorationsgegenstände. Was steht dort und wie erinnert es euch an eure Heimat?   
 
 ##### Die Schmiede
 
-> Was hier zeigt euch die Bescheidenheit der Schmiede?
+> Was hier zeigt euch die Bescheidenheit der Handwerker?
 
 ##### Der Stollen
 
-> Wie weicht der Stollen von euch bekannten klassischen Stollen ab? Was bringt ihr direkt in Zusammenhang damit das hier Geister oder Dämonen ihr Unwesen treiben?
+> Wie weicht der Stollen von euch bekannten, klassischen Stollen ab? In welchem Zusammenhang bemerkt ihr, dass hier Geister oder Dämonen ihr Unwesen treiben?
 
-Herausforderung: Die Gänge sind schwierig zu navigieren. Hier wäre ein Wurf auf „Sich einem Risiko aussetzen“ angebracht, um zu schauen, ob sich die Charaktere nicht verlaufen und in einen Hinterhalt der Steingeister geraten. Es wäre auch möglich, dass sich die Gruppe trennt, nachdem das Licht ausgefallen ist.
+Herausforderung: Die Navigation in den Gängen ist schwierig. Hier wäre ein Wurf auf „Sich einem Risiko aussetzen“ angebracht, um zu prüfen, ob sich die Charaktere nicht verlaufen und in einen Hinterhalt der Steingeister geraten. Es wäre auch möglich, dass sich die Gruppe freiwillig oder unfreiwillig trennt, nachdem das Licht ausgefallen ist.
 
 ### Hinweise:
 
