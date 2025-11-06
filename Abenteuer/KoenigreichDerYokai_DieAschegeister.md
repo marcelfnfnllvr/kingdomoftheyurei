@@ -79,7 +79,7 @@ Immer im Izakaya anzutreffen. Zumeist betrunken und gut gelaunt. Geben nicht imm
 
 *Wohlwollend*
 
-Müder, aber freundlicher Blick. Redet langsam aber geraderaus. Erfüllt alle Wünsche, die man hat. 
+Müder, aber freundlicher Blick. Redet langsam, aber offen. Erfüllt alle Wünsche, die man hat. 
 
 #### Nakagawa Tsunesane - Älterer Herr, im Dorf lebend
 
@@ -97,17 +97,17 @@ Ein riesiger Rabe, dessen Schwanzfedern rot glühende Spitzen haben. Er weiß vi
 
 ##### Aschefeld mit schwarzem Sand
 
-> Eröffnungsfrage: Welche Tierart findet ihr hier, in einer dunklen Form, die ihr nicht vermutet hättet?
+> Eröffnungsfrage: Welche Tierart, die ihr hier nicht vermutet hättet, findet ihr hier in einer dunklen Form?
 
-Herausforderung: Es gilt sich um die Lavaströme und heiße Fontänen herum zu bewegen.
+Herausforderung: Es gilt, sich um die Lavaströme und heiße Fontänen herum zu bewegen.
 
 ##### Das Badehaus
 
-> Eröffnungsfrage: Was lädt euch dazu ein sofort ein Bad zu nehmen?
+> Eröffnungsfrage: Was lädt euch dazu ein, sofort ein Bad zu nehmen?
 
 ##### Das Dorf
 
-> Eröffnungsfrage: Was am Dorf lädt euch zum Verweilen ein?
+> Eröffnungsfrage: Was im Dorf lädt euch zum Verweilen ein?
 
 ##### Das Izakaya
 
@@ -122,12 +122,12 @@ Herausforderung: Der Weg nach oben ist beschwerlich. Leicht können sich Lavastr
 ### Hinweise:
 
 -	[ ] 1. Berichte zeigen einen alten Konflikt zwischen zwei Völkern, die hier um das Land gekämpft haben sollen.
--	[ ] 2. Die Gestalt scheint eine Frau zu sein, der lange schwarze Haare ins Gesicht hängen. Ihre Haut blättert langsam ab und sie scheint zu zerfallen.
--	[ ] 3. Es dauert ungefähr eine Minute bis die Person verstirbt.
--	[ ] 4. Das Dorf wurde vor ca. 100 Jahren auf den Ruinen eines anderen Dorfes erbaut.
--	[ ] 5. Die Sichtung von Dunkelglühern hier in der Gegend ist massiv angestiegen nachdem das Unglück geschehen ist.
+-	[ ] 2. Die Gestalt scheint eine Frau zu sein, der lange, schwarze Haare ins Gesicht hängen. Ihre Haut blättert langsam ab und sie scheint zu zerfallen.
+-	[ ] 3. Es dauert ungefähr eine Minute, bis die Person verstirbt.
+-	[ ] 4. Das Dorf wurde vor etwa 100 Jahren auf den Ruinen eines anderen Dorfes erbaut.
+-	[ ] 5. Die Sichtung von Dunkelglühern hier in der Gegend ist massiv angestiegen, nachdem das Unglück geschehen ist.
 -	[ ] 6. Die Formel der Mixtur für die Lampen wurde kürzlich geändert.
--	[ ] 7. Es werden vermehrt tote Schwarzsandfüchse gesehen. Diese sind ungenießbar und wirken komisch verändert.
+-	[ ] 7. Es werden vermehrt tote Schwarzsandfüchse gefunden. Diese sind ungenießbar und weisen zudem seltsame Veränderungen auf.
 -	[ ] 8. Das Sekret der Dunkelglüher soll heilende Kräfte besitzen.
 -	[ ] 9. Jemand hat einen älteren Mann grazil und flink wie ein Steinbock die Wände des Berges hochlaufen sehen.
 -	[ ] 10. Die Quellen sollen früher wärmer gewesen sein.
@@ -136,13 +136,13 @@ Herausforderung: Der Weg nach oben ist beschwerlich. Leicht können sich Lavastr
 -	[ ] 13. Die Frau des Badehausbesitzers ist seit einer Weile verschwunden.
 -	[ ] 14. Kurz vor dem Tod summt das Wesen ein Kinderlied.
 -	[ ] 15. Dunkelglüher sollen die Seelen der Verstorbenen in den Himmel tragen.
--	[ ] 16. Ausgerissene Federn von einem Ascheraben.
--	[ ] 17. Ein Weg, dem schwer zu folgen ist. Er bildet eine Schleife und führt wieder in das Dorf.
+-	[ ] 16. Ausgerupfte Federn von einem Ascheraben.
+-	[ ] 17. Ein Weg, dem schwer zu folgen ist. Er bildet eine Schleife und führt zurück ins Dorf.
 -	[ ] 18. Ein Händler bringt wohlschmeckende Bohnenpaste in das Dorf.
--	[ ] 19. Eine Unterhaltung oder ein Briefverkehr, der nahelegt, dass den Bewohnern die Besucher nicht passen.
+-	[ ] 19. Eine Unterhaltung oder ein Briefverkehr, der nahelegt, dass den Bewohnern die Besucher nicht gefallen.
 -	[ ] 20. Die Tochter des Onsen-Besitzers scheint krank zu sein.
 -	[ ] 21. Eine Händleruniform mit Tragegurten für den Rücken.
 -	[ ] 22. Lichtpunkte, fast wie große Feuer, werden vermehrt in den Bergen gesehen.
--	[ ] 23. Nachts sind vermehrt menschenähnliche Aschegestalten nahe dem Dorf zu sehen.
+-	[ ] 23. Nachts sind vermehrt menschenähnliche Aschegestalten in der Nähe des Dorfes zu sehen.
 -	[ ] 24. Die Toten werden in der Erde vergraben und nicht wie üblich verbrannt.
 -	[ ] 25. Das Wasser des Badehauses soll heilende Kräfte besitzen.
