@@ -4,7 +4,7 @@ Schwierigkeit: 20 – ein längeres und aber eher schwerers und düsteres Abente
 
 Gesammelte Verderbnispunkte: [  n  ]
 
-### Hinweise für Spielleitende:
+### Hinweise für die Spielleitung:
 
 Die guten und einfachen Zeiten in Fukusaki sind längst vorbei. Der Shogun regiert hinter den Kulissen mit eiserner Hand und erhält so das Trugbild einer strahlenden Stadt. Die Verbindung zur Geisterwelt wird immer schwächer und die Einzigartigkeit Fukusakis scheint langsam zu schwinden. Er zwingt, sich zur Ruhe gesetzte Fureru für ihn zu arbeiten die Geister zu zwingen hier weiterhin präsent zu bleiben und die Bevölkerung zu unterstützen. Gleichzeitig infiltrieren die Mönche des Roten Ordens die Stadt und treiben die Geister zurück in ihre Welt. Zu ihrem eigenen Schutz, versteht sich. In der Bevölkerung haben sich verschiedene Gruppen gebildet, die die Geister untersuchen. Diese Gruppen werden natürlich unterdrückt und sollen mit aller Macht verhindert werden.
 
