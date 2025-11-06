@@ -35,7 +35,7 @@ Ihr seht zwei Personen, die dem Hund hinterher eilen und hektisch winken und ruf
 - Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden.
 - Jeder NSC kann vom Virus befallen sein und mutieren.
 - Ein infizierter Hund.
-- Ihr seht eine Wildschwein mit ihren Frischlingen, ein paar Meter von euch entfernt. Die Sau fällt zu Boden und tentakelartige Pilze beginnen langsam, aus ihrem Maul zu sprießen. Diese packen sofort die Frischlinge, und die Sau schaut mit rotglühenden Augen in eure Richtung.
+- Ihr seht ein Wildschwein mit ihren Frischlingen, ein paar Meter von euch entfernt. Die Sau fällt zu Boden und tentakelartige Pilze beginnen langsam, aus ihrem Maul zu sprießen. Diese packen sofort die Frischlinge, und die Sau schaut mit rotglühenden Augen in eure Richtung.
 - Eine dichte Wolke frischer Pilzsporen wird vom Wind herangetragen. Die Gruppe muss sich entweder schnell entfernen oder eine Möglichkeit finden, wie ihnen die Sporen erst einmal nichts mehr anhaben können.
 
 ### Momente:

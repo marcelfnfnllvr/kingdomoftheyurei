@@ -21,25 +21,25 @@ Wenn du eine Art Schule hättest, was würdest du gerne lehren?
 
 ### Einleitung:
 
-Vor einigen Tagen habt ihr von einem begeisterten Schüler den Bericht über ein nahegelegenes Dōjō gehört, das kürzlich von einem neuen Meister übernommen wurde. Da er bereit ist, neue Schülerinnen und Schüler aufzunehmen, und ihr euch besser auf Gefahren während eurer Reisen vorbereiten wollt, beschließt ihr, dem Dōjō einen Besuch abzustatten. Von der Hauptstraße seid ihr einem kleineren, aber gut ausgeschilderten Weg gefolgt und seht schon das offene Eingangstor.  
+Vor einigen Tagen habt ihr von einem begeisterten Schüler den Bericht über ein nahegelegenes Dōjō gehört, das kürzlich von einem neuen Meister übernommen wurde. Da er bereit ist, neue Schülerinnen und Schüler aufzunehmen, und ihr euch besser auf Gefahren während eurer Reisen vorbereiten wollt, beschließt ihr, dem Dōjō einen Besuch abzustatten. Von der Hauptstraße aus seid ihr einem kleineren, aber gut ausgeschilderten Weg gefolgt und seht schon das offene Eingangstor.  
 
 > Was hat der Schüler euch erzählt, das euch letztlich überzeugt hat, hierherzukommen?
 
-Ihr wollt gerade in den Innenhof gehen, da kommt euch plötzlich eine panisch rufende Menge Schüler entgegengerannt, dicht gefolgt von ihrem Meister sowie einigen Tatami-Matten und einer großen Papierrolle, die auf sie einschlagen.
+Ihr wollt gerade in den Innenhof gehen, da kommt euch plötzlich eine panisch rufende Gruppe Schüler entgegengerannt, dicht gefolgt von ihrem Meister sowie einigen Tatami-Matten und einer großen Papierrolle, die auf sie einschlagen.
 
 ### Gefahren:
 
 -	Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden.  
--	Diverse Übungswaffen erwachen plötzlich zum Leben und greifen die Gruppe in der Luft schwebend an.  
--	Eine kleine Gang von fortgeschrittenen Auszubildenden will euch als Neuzugängen eine Abreibung verpassen.  
+-	Diverse Übungswaffen erwachen plötzlich zum Leben, schweben durch die Luft und greifen die Gruppe an.  
+-	Eine kleine Truppe von fortgeschrittenen Auszubildenden will euch als Neuzugängen eine Abreibung verpassen.
 -	Einige magische, blaue Flammen erscheinen wie aus dem Nichts und beginnen, Dinge anzuzünden.
 
 ### Momente:
 
 -	Das Porträt des alten Meisters, das an der Stirnseite im Dōjō hängt, zerfällt plötzlich zu Staub.
--	Ein Schüler versucht, gerade zu meditieren, als eine Zikade auf seinem Kopf landet und anfängt, ohrenbetäubend zu zirpen. Der Schüler verzieht immer mehr das Gesicht, bis er sich schließlich nicht mehr beherrschen kann, wild mit den Händen wedelt und nach der Zikade schlägt.
--	Zahlreiche Wesen erscheinen, die aussehen wie Miniaturmenschen mit roter Haut. Sie schlagen laut auf den Helm einer Samurai-Rüstung, hauen Tatami klatschend gegeneinander, trampeln auf den Holzfußböden, klopfen auf Töpfe und klappern mit dem Geschirr. 
--   Drei farbige Flammen schweben über einem großen Stein im Garten. Nähert man sich, dann fliegen die Flammen im Kreis um einen herum, bevor sie verschwinden, wie eine ausgepustete Kerzenflamme.
+-	Ein Schüler versucht zu meditieren, als eine Zikade auf seinem Kopf landet und ohrenbetäubend zu zirpen beginnt. Der Schüler verzieht immer mehr das Gesicht, bis er sich schließlich nicht mehr beherrschen kann, wild mit den Händen wedelt und nach der Zikade schlägt.
+-	Zahlreiche Wesen erscheinen, die aussehen wie Miniaturmenschen mit roter Haut. Sie trommeln laut auf dem Helm einer Samurai-Rüstung, schlagen Tatami klatschend gegeneinander, trampeln auf den Holzfußböden, klopfen auf Töpfen herum und klappern mit dem Geschirr.
+-   Drei bunte Flammen schweben über einem großen Stein im Garten. Nähert man sich, dann fliegen die Flammen im Kreis um einen herum, bevor sie verschwinden wie eine ausgepustete Kerzenflamme.
 
 ### Personen:
 
@@ -47,11 +47,11 @@ Ihr wollt gerade in den Innenhof gehen, da kommt euch plötzlich eine panisch ru
 
 *Wohlgesonnen - Spricht ruhig, aber befehlend - trägt einen weißen Hakama und Keikogi*
 
-Mittelalter Mann mit ordentlich zusammengebundenen Haaren. Hat das Dōjō vor Kurzem übernommen, nachdem er den alten Meister im Kampf besiegt hat. Ist es gewöhnt, dass seinen Befehlen Folge geleistet wird. Empfängt Neuankömmlinge freundlich. Identifiziert die Gruppe als Wandernde und wird sie um Hilfe bitten, wenn sie es nicht von sich aus anbieten.
+Mittelalter Mann mit ordentlich zusammengebundenen Haaren. Hat das Dōjō vor kurzem übernommen, nachdem er den alten Meister im Kampf besiegt hat. Ist daran gewöhnt, dass seinen Befehlen Folge geleistet wird. Empfängt Neuankömmlinge freundlich. Identifiziert die Gruppe als Wandernde und wird sie um Hilfe bitten, wenn sie es nicht von sich aus anbieten.
 
 ##### Miho Takanori – Hilfslehrerin 
 
-*Wohlgesonnen - ruhige und aufmunternde Art - trägt ebenfalls Hakama und Keikogi, aber in Dunkelblau*  
+*Wohlgesonnen - ruhige und aufmunternde Art - trägt ebenfalls Hakama und Keikogi, aber in dunkelblau*  
 
 Ranghöchste Schülerin und Hilfslehrerin im Dōjō. Hat noch unter Shinobu-Sensei gelernt. Verantwortungsbewusst übernimmt sie diverse Pflichten im Dōjō, fungiert aber auch als Vertrauensperson für die anderen. Bedauert das Ableben des alten Meisters sehr, akzeptiert aber den natürlichen Lauf der Dinge.
 
@@ -63,15 +63,15 @@ Glaubt, dass die Fureru selbst hinter den Störungen und Phänomenen stecken - s
 
 ##### Itō Yamaguchi – Köchin, Hausmeisterin, Gärtnerin
 
-*Misstrauisch - flucht ständig und ist genervt - klein, sehnig und vom Alter gebeugt, trägt einfache Kleidung , die Ärmel mit meinem Band hochgebunden, und eine Schürze*
+*Misstrauisch - flucht ständig und ist genervt - klein, sehnig und vom Alter gebeugt, trägt einfache Kleidung, die Ärmel mit meinem Band hochgebunden, und eine Schürze*
 
-Sie ist sehr alt, keiner weiß genau, wie alt, denn niemand traut sich, zu fragen. Stets schlecht gelaunt, schimpft sie über quasi alles – nur über den Meister nicht, jedenfalls nicht zu laut. Kümmert sich im Dōjō um alles, was mit Haus und Ordnung zu tun hat. Die Küche ist ihr Heiligtum.
+Keiner weiß genau, wie alt, denn niemand traut sich, sie zu fragen. Stets schlecht gelaunt, schimpft sie über quasi alles – nur über den Meister nicht, jedenfalls nicht zu laut. Kümmert sich im Dōjō um alles, was mit Haus und Ordnung zu tun hat. Die Küche ist ihr Heiligtum.
 
 ##### Jun und Kyō – Alte Hundegeschwister
 
 *Wohlgesonnen - bestätigen gegenseitig ihre Aussagen oder Fragen - zwei große, braun-weiße Akita Inu*  
 
-Eigentlich Wachhunde, sind aber mittlerweile recht alt und gemütlich geworden und liegen am liebsten im Garten in der Sonne. Sie spielen der Haushälterin manchmal Streiche und versuchen immer, Essen zu klauen. Beschimpfen sie (nicht ernsthaft!) und haben im Gegensatz zu allen Schülerinnen und Schülern keine Angst vor ihr. Kannten den alten Meister sehr gut und mochten ihn, er hat ihnen sogar ab und zu etwas aus der Küche gemopst. Sind insbesondere gegen „Bezahlung” gerne zu Auskünften bereit.
+Eigentlich Wachhunde, sind aber mittlerweile recht alt und gemütlich geworden und liegen am liebsten im Garten in der Sonne. Sie spielen der Haushälterin manchmal Streiche und versuchen immer, Essen zu stibitzen. Beschimpfen sie (nicht ernsthaft!) und haben im Gegensatz zu allen Schülerinnen und Schülern keine Angst vor ihr. Kannten den alten Meister sehr gut und mochten ihn, er hat ihnen sogar ab und zu etwas aus der Küche gemopst. Sind insbesondere gegen „Bezahlung” gerne zu Auskünften bereit.
 
 ##### Die roten Kobolde 
 
@@ -115,7 +115,7 @@ Gefährlich
 
 > Eröffnungsfrage: Was fällt euch auf, das ihr nicht in einer Küche erwarten würdet?
 
-Herausforderung: Die Gruppe darf sich nicht von der Köchin Itō erwischen lassen, sie erlaubt niemandden Zutritt zu ihrer Küche. 
+Herausforderung: Die Gruppe darf sich nicht von der Köchin Itō erwischen lassen, sie erlaubt niemandem den Zutritt zu ihrer Küche.
 
 ### Hinweise:
 
@@ -128,8 +128,8 @@ Herausforderung: Die Gruppe darf sich nicht von der Köchin Itō erwischen lasse
 - [ ] 7. Eine Notiz mit der Warnung „Wir vergessen nicht.”
 - [ ] 8. Eine Kendo-Trainingsrüstung mit einem großen Durchstich.
 - [ ] 9. Ein kostbares Katana mit einem eingravierten Tengu.
-- [ ] 10. Das gemalte Porträt von einem jungen Shinobu-sensei, der einen sehr jungen Schüler anleitet.
-- [ ] 11. Früher sind ab und zu Dinge verschwunden, doch seit Kurzem häufen sich solche Vorkommnisse.
+- [ ] 10. Das gemalte Portrait des jungen Shinobu-sensei, der einen sehr jungen Schüler anleitet.
+- [ ] 11. Früher sind ab und zu Dinge verschwunden, doch seit kurzem häufen sich solche Vorkommnisse.
 - [ ] 12. Ein halb verbrannter Baum im Garten.
 - [ ] 13. Die Bitte an einen Schüler, doch lieber in ein anderes Dōjō zu wechseln.
 - [ ] 14. Räucherstäbchen, die einen widerlichen Gestank verbreiten.
