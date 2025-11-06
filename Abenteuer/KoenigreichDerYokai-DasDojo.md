@@ -3,7 +3,7 @@ Schwierigkeit: 14 – ein kurzes und eher einfaches Abenteuer - ein bis zwei Abe
 
 Gesammelte Verderbnispunkte: [  n  ]
 
-### Hinweise für Spielleitende:
+### Hinweise für die Spielleitung:
 
 Die Gruppe hat von einem hervorragenden Dōjō gehört, in dem ein neuer Meister nie zuvor gesehene Kampftechniken lehrt. Um sich selbst besser für ihre Reisen und gefährliche Begegnungen zu wappnen, machen sie sich also auf den Weg dorthin, um von dem Meister zu lernen. Doch kaum angekommen, müssen sie feststellen, dass das Dōjō und seine Schülerinnen und Schüler von übernatürlichen Phänomenen geplagt werden. Aber vielleicht ist der Meister ja eher dazu bereit, ihnen seine Künste zu zeigen, wenn sie das Dōjō von der Plage befreien?
 
