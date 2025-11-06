@@ -6,7 +6,7 @@ Gesammelte Verderbnispunkte: [  n ]
 
 ### Hinweise für die Spielleitung:
 
-Das Dorf Hiroto ist ein kleiner Fischerort, direkt an der Küste, in einer geschützten Bucht gelegen. Die Bewohner hüten gemeinsam ein Geheimnis: In der Bucht soll seit einer Ewigkeit ein großes Seemonster leben. Seit langer Zeit wird es als lokaler Schutzpatron des Dorfes verehrt. Allerdings fordert die Tradition alle 4 Jahre ein Menschenopfer, damit es das Dorf nicht angreift, sondern beschützt. Mittlerweile hinterfragen einige Leute im Dorf diese Praxis, sie lehnen das bestialische Ritual ab und so ist das Dorf tief gespalten. Diejenigen, die das Monster loswerden wollen, haben hierfür vor einiger Zeit heimlich den Fureru Kenji um Hilfe gebeten. Doch nun ist er verschwunden, und das Dorf wird weiter geplagt. 
+Das Dorf Hiroto ist ein kleiner Fischerort, direkt an der Küste, in einer geschützten Bucht gelegen. Die Bewohner hüten gemeinsam ein Geheimnis: In der Bucht soll seit einer Ewigkeit ein großes Seemonster leben. Seit langer Zeit wird es als lokaler Schutzpatron des Dorfes verehrt. Allerdings fordert die Tradition alle 4 Jahre ein Menschenopfer, damit es das Dorf nicht angreift, sondern beschützt. Mittlerweile hinterfragen einige Leute im Dorf diese Praxis, sie lehnen das bestialische Ritual ab und so ist das Dorf tief gespalten. Diejenigen, die das Monster loswerden wollen, haben hierfür vor einiger Zeit heimlich den Fureru Kenji um Hilfe gebeten. Doch nun ist er verschwunden und das Dorf wird weiter geplagt. 
 
 ### Fragestellung, Eskalation und Ehrung:
 
@@ -18,11 +18,11 @@ Treue Freunde - Beschützer
 
 ### Abenteuerfrage:
 
-Der Dämon in dir prägt viele Aspekte deines Lebens und deines Weges. Was vermisst du an einem normalen Leben am meisten?
+Der Dämon in dir prägt viele Aspekte deines Lebens und deines Weges. Was vermisst du aus einem normalen Leben am meisten?
 
 ### Einleitung:
 
-Die Gruppe erreicht nach einem Aufstieg eine Anhöhe und sieht von dort die Bucht vor sich. Unten am Wasser liegt das Dorf Hiroto. Die Bucht wird geschützt von einer sandigen Landzunge mit Kiefernwald auf der einen Seite und einer hohen Klippe auf der anderen. Auf der Klippe ist ein kleiner Schrein auszumachen, zu dem ein schmaler Pfad hoch führt, der teilweise in den Stein gehauen wurde. 
+Die Gruppe erreicht nach einem Aufstieg eine Anhöhe und sieht von dort die Bucht vor sich. Unten am Wasser liegt das Dorf Hiroto. Die Bucht wird von einer sandigen Landzunge mit Kiefernwald auf der einen Seite und einer hohen Klippe auf der anderen Seite geschützt. Auf der Klippe ist ein kleiner Schrein auszumachen, zu dem ein schmaler Pfad hoch führt, der teilweise in den Stein gehauen wurde. 
 Über euch hört ihr Seevögel schrill kreischen und der starke Wind trägt euch den salzigen Geruch des Meeres entgegen.
 
 > War dein Charakter schon einmal am Meer? Was empfand er, als er es das erste Mal erblickte?
@@ -38,11 +38,11 @@ Euer Bekannter und Kamerad Kenji war Gerüchten zufolge hier, um einen Auftrag z
 
 ### Momente:
 
-- Im Dunkeln/bei schlechtem Wetter sieht man - wenn man oben auf der Klippe steht - weit draußen ein weißes, geisterhaftes Schiff segeln. Es fährt aber nicht in die Bucht, sondern dreht vorher ab und verschwindet wieder.
-- Ein Vogel fängt im seichten Wasser eine Krabbe mit sechs Beinen. Als er sie verschlingen will, kneift sie ihm den Schnabel zu, verflucht den Vogel lautstark und verschwindet dann so schnell sie ihre sechs Beine sie tragen.
-- Am Fischmarkt klaut eine Katze einen großen Fisch von einem Stand und wird von der laut zeternden Händlerin verfolgt.
-- In der Nähe des Hafens strandet plötzlich ein großer Wal. Einige Dorfbewohner sammeln sich um ihn und beginnen, zu diskutieren, ob sie ihn töten oder versuchen sollen, ihn zurück ins Meer zu bringen.
-- Ein hungriges Kind isst am Hafen sein Onigiri, als plötzlich eine Möwe auf seinem Kopf landet und ihm den Rest seines Essens direkt aus der Hand schnappt und im Ganzen verschlingt. 
+- Im Dunkeln/bei schlechtem Wetter sieht man - wenn man oben auf der Klippe steht - weit draußen die Segel eines geisterhaft weißen Schiff. Es fährt aber nicht in die Bucht, sondern dreht vorher ab und verschwindet wieder.
+- Ein Vogel fängt im seichten Wasser eine Krabbe mit sechs Beinen. Als er sie verschlingen will, kneift sie ihm den Schnabel zu, verflucht den Vogel lautstark und verschwindet dann so schnell ihre sechs Beine sie tragen.
+- Am Fischmarkt angelt sich eine Katze einen großen Fisch von einem Stand und wird von der laut zeternden Händlerin verfolgt.
+- In der Nähe des Hafens strandet ein großer Wal. Einige Dorfbewohner versammeln sich bald darauf um ihn und diskutieren, ob sie ihn töten oder versuchen sollen, ihn zurück ins Meer zu schaffen.
+- Ein hungriges Kind isst am Hafen sein Onigiri, als plötzlich eine Möwe auf seinem Kopf landet, ihm den Rest seines Essens direkt aus der Hand schnappt und im Ganzen verschlingt. 
 - Eine Frau nimmt mit geübten, flinken Händen einen Fisch aus. Ihr beobachtet sie genauer und plötzlich fällt euch auf, dass sie das Messer und den Fisch nicht mit ihren Händen hält, sondern mit mehreren Tentakeln.  
 
 ### Personen:
@@ -51,14 +51,14 @@ Euer Bekannter und Kamerad Kenji war Gerüchten zufolge hier, um einen Auftrag z
 
 *Misstrauisch - seufzt oft und spricht mit niedergeschlagener Stimme - trägt einfache Fischerkleidung*
 
-Der Inbegriff von "gut gemeint ist das Gegenteil von gut gemacht". Möchte es im Dorf allen recht machen und hat durch seine fehlende Fähigkeit, durchzugreifen, den Bruch der Gemeinschaft in zwei Fraktionen gefördert. 
+Der Inbegriff von "gut gemeint ist das Gegenteil von gut gemacht". Möchte es im Dorf allen recht machen, aber seine Unfähigkeit, hart durchzugreifen, führt zur Spaltung der Gemeinschaft in zwei Fraktionen. 
 Möchte die Gruppe freundlich abwimmeln, ebenso wie er es zuvor bei Kenji versucht hat. Warum Kenji überhaupt hier war, darüber will Hanzo nichts verraten und wird der Gruppe gegenüber bei Nachfragen immer unhöflicher.
 
 ##### Kei Shiraishi - Perlentaucherin, Mutter von Nanami
 
 *Wohlgesonnen - flucht recht viel - trägt weiße Kleidung und ein weißes Tuch um den Kopf gebunden*
 
-Sie war es, die Kenji ursprünglich um Hilfe gebeten hatte. Erzählt von der alten Sage, dass in der Bucht ein riesiges Seemonster hausen soll. Ursprünglich soll es das Dorf angegriffen haben, konnte aber durch ein Menschenopfer besänftigt werden. Seitdem opfert das Dorf alle vier Jahre eine Person. Dadurch hat Kei bereits ihren Vater, einen Fischer, verloren, und befürchtet jetzt, dass es auch ihre Tochter treffen wird. Sie ist die lauteste Stimme der Fraktion, die mit den Opfern aufhören will. Kenji sollte herausfinden, was an der Sage alles dran ist, und ihnen helfen, sich von dem, was auch immer dort unten lauert, loszusagen. Als erfahrene Taucherin kennt Kei die Bucht wie ihre Westentasche.
+Sie war es, die Kenji ursprünglich um Hilfe gebeten hatte. Erzählt von der alten Sage, dass in der Bucht ein riesiges Seemonster hausen soll. Ursprünglich soll es das Dorf angegriffen haben, konnte aber durch ein Menschenopfer besänftigt werden. Seitdem opfert das Dorf alle vier Jahre eine Person. Dadurch hat Kei bereits ihren Vater, einen Fischer, verloren, und befürchtet jetzt, dass es auch ihre Tochter treffen wird. Sie ist die lauteste Stimme der Fraktion, die mit dem Opfern aufhören will. Kenji sollte herausfinden, was an der Sage alles dran ist, und ihnen helfen, sich von dem Unheil dort unten loszusagen. Als erfahrene Taucherin kennt Kei die Bucht wie ihre Westentasche.
 
 ##### Nanami Shiraishi - Perlentaucherin in Ausbildung, Tochter von Kei
 
