@@ -19,7 +19,7 @@ Du findest das Regelwerk hier in einer fast fertigen Version. Es lässt sich mit
    8. Darstellung der Welt  
       1. Wohnhäuser
       2. Stadthäuser
-      3. Iakaya
+      3. Izakaya
       4. Ryokan
       5. Burgen
       6. Onsen
@@ -70,3 +70,4 @@ Du findest das Regelwerk hier in einer fast fertigen Version. Es lässt sich mit
 ###### Rooted in Trophy
 
 *This work is based on Trophy (trophyrpg.com), product of Jesse Ross  and Hedgemaze Press, and licensed for our use under the Creative Commons Attribution 4.0 License (https://creativecommons.org/licenses/by/4.0/). Trophy is adapted from Cthulhu Dark with permission of Graham Walmsley. Trophy is also based on Blades in the Dark (found at  http://www.bladesinthedark.com/), product of One Seven Design, developed and authored by John Harper, and licensed for our use under the  Creative Commons Attribution 3.0 Unported license  (http://creativecommons.org/licenses/by/3.0/).*
+
