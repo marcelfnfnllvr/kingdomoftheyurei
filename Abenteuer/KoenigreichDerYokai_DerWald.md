@@ -1,5 +1,3 @@
-
-
 # Der Wald
 
 Schwierigkeit: 14 – kurzes Abenteuer – ein Abend
@@ -16,20 +14,20 @@ Das Monster in diesem Abenteuer wird nicht näher beschrieben. Aber das eigentli
 
 Was ist passiert, welche Kreatur hat Herrn Botan Ryan angegriffen, und ist Fräulein Kaho Ryan noch am Leben?
 
-Wenn die Situation eskaliert, stirbt Fräulein Kaho Ryan, unabhängig von der Erzählung. Die Gruppe wird von dem Wesen angegriffen, das die Fureru als solche erkennt. Es kann aufgehalten werden, beginnt aber bei Schwierigkeit 14. Wird es nicht in der ersten Runde aufgehalten, findet die Gruppe später Herrn Botan Ryan tot neben seinem Karren.
+Wenn die Situation eskaliert, stirbt Fräulein Kaho Ryan, unabhängig vom sonstigen Verlauf der Erzählung. Die Gruppe wird von dem Wesen angegriffen, das die Fureru als solche erkennt. Es kann aufgehalten werden, beginnt aber bei Schwierigkeit 14. Wird es nicht in der ersten Runde aufgehalten, findet die Gruppe später Herrn Botan Ryan tot neben seinem Karren.
 
 Meister des Waldes - Überleben
 
 ### Abenteuerfrage:
 
-> Was hofft euer Charakter, in der abgelegenen Festung zu finden?
+> Was hofft euer Charakter in der abgelegenen Festung zu finden?
 
 ### Einleitung:
 
 Ihr seid seit Tagen unterwegs durch den endlosen Wald. In der Mitte soll es eine fortschrittliche und wohlhabende Festung mit einer gnädigen Fürstin geben. Ganz ohne Einfluss der Zentralregierung.
 
 Am Horizont seht ihr einen älteren Mann mit einem Ochsen und einem kaputten Karren, den er gerade repariert. Als ihr näher kommt, seht ihr, einen zweiten Ochsen, der leblos neben dem Karren liegt. Der Mann neben dem Karren stellt sich als Botan Ryan vor. Er erzählt, dass eine wilde Kreatur aus dem Wald gestürmt sei, den Ochsen sofort getötet habe und mit seiner Tochter in den Wald geflohen sei. Er kann ihre Schreie noch in seinen Ohren hören. Er bittet die Gruppe um Hilfe. Das Wesen scheint kein normales Tier zu sein.
-> Welche Waren auf dem kaputten Wagen fallen euren Charakteren besonders ins Auge?
+> Welche der Waren auf dem kaputten Wagen fallen euren Charakteren besonders ins Auge?
 
 ### Gefahren:
 
@@ -37,15 +35,15 @@ Am Horizont seht ihr einen älteren Mann mit einem Ochsen und einem kaputten Kar
 - Ein mit der Schwarzen Pest infiziertes Tier oder ein Rudel von infizierten Tieren läuft auf die Gruppe zu.
 - Die Gruppe der Wildschweine könnte mittlerweile infiziert sein.
 - Auch die Bäume sind bereits Opfer der Schwarzen Pest geworden. Als die Gruppe einen Waldabschnitt passieren will, stürzen einige davon direkt über ihnen zusammen. Jetzt sind schnelle Reflexe gefragt!
-- Die Gruppe muss an einem großen Baum vorbei, in dem ein riesiger Schwarm Krähen seine Nestkolonie gebaut hat. Schnell oder unauffällig sollten sie sein, denn sonst werden die Krähen auf sie aufmerksam und könnten die Eindringlinge angreifen.
+- Die Gruppe muss an einem großen Baum vorbei, in dem ein riesiger Schwarm Krähen seine Nistkolonie gebaut hat. Schnell oder unauffällig sollten sie sein, denn sonst werden die Krähen auf sie aufmerksam und könnten die Eindringlinge angreifen.
 
 ### Momente:
 
 - Wie von Zauberhand fällt das Licht durch die Baumkronen und taucht den Wald in ein frisches, leuchtendes Grün. Für einen Moment verschmilzt euer Geist mit dem Wald und findet Frieden.
-- Eine mit Flechten überwachsene Statue eines Wildschweins. Sieht zwar verwittert aus, aber offenbar hat sich jemand vor kurzer Zeit die Mühe gemacht und Laub und Dreck davon weggewischt.
+- Eine mit Flechten überwachsene Statue eines Wildschweins. Sieht zwar verwittert aus, aber offenbar hat sich jemand vor kurzer Zeit die Mühe gemacht und Laub und Schmutz davon weggewischt.
 - Kleine Wesen - nicht größer als Kolibris - fliegen als Schwarm durch den Wald. Sie bilden zusammen ein größeres Abbild ihrer selbst.  
 - In der Nähe eines besonders großen, alten Baumes taucht ein kleines Irrlicht auf. Erst scheint es die Gruppe zu beobachten, dann tanzt es ein wenig um sie herum und verschwindet dann wieder.  
-- Ein einzelner Hirsch huscht vorbei, fast scheint es als würde sein Geweih kurz aufleuchten!
+- Ein einzelner Hirsch huscht vorbei, fast scheint es, als würde sein Geweih kurz aufleuchten!
 
 ### Personen:
 
@@ -53,7 +51,7 @@ Am Horizont seht ihr einen älteren Mann mit einem Ochsen und einem kaputten Kar
 
 *Spricht aufgeregt mit dünner Stimme - Wohlgesonnen - Trägt gelbe Roben, die edel aussehen*
 
-Er tut sehr unwissend, aber er ist bei Weitem nicht dumm. Er weiß, dass die große Straße dem Wald nicht gefällt. Natürlich weiß er auch vom Sklavenhandel in der Festung, mitten im Wald. Ob seine Tochter wirklich seine Tochter ist, oder ob er sie nur gekauft hat, bleibt der Gruppe überlassen. Zu den Fureru ist er nett, aber zur Suche kann er nicht viel beitragen.
+Er tut sehr unwissend, aber er ist bei Weitem nicht dumm. Er weiß, dass die große Straße dem Wald nicht gefällt. Natürlich weiß er auch vom Sklavenhandel in der Festung mitten im Wald. Ob seine Tochter wirklich seine Tochter ist, oder ob er sie nur gekauft hat, bleibt der Gruppe überlassen. Zu den Fureru ist er nett, aber zur Suche kann er nicht viel beitragen.
 
 
 ##### Kaho Ryan – Tochter des Händlers
@@ -90,11 +88,11 @@ Sie gibt nicht direkt zu, dass sie eine Fureru ist. Sie versteckt ihre äußerli
 
 > Wie verändert sich der Wald, während ihr Meter für Meter tiefer in ihn vordringt?
 
-Herausforderung: Sich tiefer in den Wald zu arbeiten, ist immer herausfordernd.
+Herausforderung: Sich tiefer in den Wald vorzuarbeiten ist immer herausfordernd.
 
 ##### Das Nest einer Kreatur
 
-In einer kleinen Höhle entdeckt ihr eine Art Nest von einem Tier.
+In einer kleinen Höhle entdeckt ihr eine Art Nest eines Tieres.
 
 Herausforderung: Wer oder was hier lebt, scheint nicht da zu sein. Aber für wie lange?
 
@@ -111,21 +109,21 @@ Herausforderung: Um durch das Labyrinth zu gelangen, ohne sich zu verlaufen, ist
 - [ ] 1. Blut an einer Felswand.
 - [ ] 2. Traumfänger in einem Baum mit dämonischen Symbolen.
 - [ ] 3. Ein mächtiger Zauberer soll im Wald sein Unwesen treiben.
-- [ ] 4. Ein von Tieren getretener Pfad, der tiefer in den Wald führt. Man sieht unregelmäßige Spuren, wie sie verletzte Tiere hinterlassen.
+- [ ] 4. Ein von Tieren getretener Pfad, der tiefer in den Wald führt. Man sieht unregelmäßige Spuren, wie verletzte Tiere sie hinterlassen.
 - [ ] 5. Hier soll früher ein Waldvolk gelebt haben.
 - [ ] 6. Kleine Figuren aus Zweigen. Sie stellen Menschen dar, die sich verändert haben.
 - [ ] 7. Schreie lassen einen aufschrecken.
-- [ ] 8. Große Kratzspuren an einem Baum.
-- [ ] 9. Fallen im Labyrinth mit toten Tieren. Die Tiere sind nur noch Kadaver.
+- [ ] 8. Tiefe Kratzspuren an einem Baum.
+- [ ] 9. Fallen mit Tierkadavern im Labyrinth.
 - [ ] 10. Zeichen des Festes, mitten im Wald, in einen Baum und/oder Stein geritzt.
 - [ ] 11. Ein Vogelschwarm, der aus den Bäumen in der Nähe aufsteigt.
 - [ ] 12. Ein mit Stöcken und Zweigen bedecktes Loch. Am Boden ist Blut zu sehen.
 - [ ] 13. Ein Haufen Knochen. Hauptsächlich Tierknochen, aber ihr könnt auch einige Menschenknochen erkennen.
 - [ ] 14. Ihr hört eine Stimme in eurem Kopf: "Es ist gut. Riskiert nicht euer Leben für mich. Ich bin jetzt glücklicher als vorher."
 - [ ] 15. Ein Haufen toter, tiefschwarzer Würmer.
-- [ ] 16. Ein alter Leichnam. Verwest und zerfallen. Ein Brief, ob sie nicht noch so einen Jungen bringen könnten.
+- [ ] 16. Ein alter Leichnam. Verwest und zerfallen. Ein Brief mit der Frage, ob sie nicht noch so einen Jungen bringen könnten.
 - [ ] 16. Wandmalerei, die ein Ritual zeigt.
 - [ ] 17. Nebel zieht auf und verursacht ein starkes Unwohlsein.
-- [ ] 18. Wisst ihr nicht, dass die fahrenden Händler Sklavenhändler sind und sich die Sklaven gerne für eine Weile zur Frau nehmen?
+- [ ] 18. Wisst ihr nicht, dass die fahrenden Händler Sklavenhändler sind und sich die Sklavinnen gerne für eine Weile zur Frau nehmen?
 - [ ] 19. Der alte Weg, der vor dem neuen benutzt wurde. Viel kleiner und der Geographie des Waldes angepasst.
 - [ ] 20. Bäume sind von einer seltsamen Krankheit befallen.
