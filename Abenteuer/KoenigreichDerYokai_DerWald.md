@@ -6,7 +6,7 @@ Schwierigkeit: 14 – kurzes Abenteuer – ein Abend
 
 Gesammelte Verderbnispunkte: [  n  ]
 
-### Hinweise für Spielleitende:
+### Hinweise für die Spielleitung:
 
 Die Gruppe befindet sich auf einem Handelsweg, der durch ein riesiges Waldgebiet führt. Es ist nicht der einzige, aber der sicherste Weg. Am Wegesrand finden sie einen kaputten Karren mit einem lebenden und einem toten Ochsen. 
 
