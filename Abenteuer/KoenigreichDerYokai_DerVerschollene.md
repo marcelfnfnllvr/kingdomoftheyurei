@@ -4,7 +4,7 @@ Schwierigkeit: 18 – längeres Abenteuer – zwei bis drei Abende
 
 Gesammelte Verderbnispunkte: [  n ]
 
-### Hinweise für Spielleitende:
+### Hinweise für die Spielleitung:
 
 Das Dorf Hiroto ist ein kleiner Fischerort, direkt an der Küste, in einer geschützten Bucht gelegen. Die Bewohner hüten gemeinsam ein Geheimnis: In der Bucht soll seit einer Ewigkeit ein großes Seemonster leben. Seit langer Zeit wird es als lokaler Schutzpatron des Dorfes verehrt. Allerdings fordert die Tradition alle 4 Jahre ein Menschenopfer, damit es das Dorf nicht angreift, sondern beschützt. Mittlerweile hinterfragen einige Leute im Dorf diese Praxis, sie lehnen das bestialische Ritual ab und so ist das Dorf tief gespalten. Diejenigen, die das Monster loswerden wollen, haben hierfür vor einiger Zeit heimlich den Fureru Kenji um Hilfe gebeten. Doch nun ist er verschwunden, und das Dorf wird weiter geplagt. 
 
