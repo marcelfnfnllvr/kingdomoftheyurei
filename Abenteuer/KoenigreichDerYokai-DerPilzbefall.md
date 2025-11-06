@@ -4,7 +4,7 @@ Schwierigkeit: 20 – längeres Abenteuer – zwei bis drei Abende
 
 Gesammelte Verderbnispunkte: [ n ]
 
-### Hinweise für Spielleitende:
+### Hinweise für die Spielleitung:
 
 Das Dorf Haran ist bekannt für seine wohlschmeckenden Shiitake-Pilze und deren Produktion. Seit einiger Zeit ist das Dorf jedoch befallen. Zwei Menschen sind gestorben, weil sie von infizierten Pilzen gegessen haben, und es sind zwei Schweine mutiert und durchgedreht. Sie haben dabei zwei weitere Menschen getötet. Die betroffene Pilzkolonie wurde isoliert und alle Pilze drumherum verbrannt. Allerdings scheinen das Feuer und jede andere Bemühung, die infizierten Pilze zu beseitigen, ihnen nichts auszumachen. Im Dorf sind Frauen und Männer strikt getrennt. Es wird sich nur zur Fortpflanzung getroffen – oder zum Vergnügen im Freudenhaus. Die Frauen ziehen gemeinsam die Kinder groß. Männer spielen nur eine untergeordnete Rolle.
 
