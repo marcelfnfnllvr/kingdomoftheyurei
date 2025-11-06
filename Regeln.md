@@ -41,7 +41,7 @@ Bonuswürfel werden in einem gemeinschaftlichen Pool auf dem Abenteuerbogen fest
 
 ## Der Wurf
 
-Nachdem der oder die Spielende den Würfelpool für den Spielzug zusammengestellt hat, wird gewürfelt. Ziel ist, eine möglichst hohe Augenzahl mit einem der Würfel zu erreichen. Beispielsweise besteht der Pool aus zwei weißen und einem schwarzen Würfel. Der Wurf ergibt eine weiße 4, eine weiße 3 und eine schwarze 3. Damit steht als vorläufiges Ergebnis die weiße 4. Wenn wir jetzt zum Beispiel den Spielzug "Etwas herausfinden" betrachten, dann wäre eine 4 das Ergebnis: 1-4 -> Die Spielleitung erhält einen Verderbnispunkt. Sollte der oder die Spielende damit nicht zufrieden sein, kann der Wurf einmalig wiederholt werden. Das neue Ergebnis zählt.
+Nachdem der oder die Spielende den Würfelpool für den Spielzug zusammengestellt hat, wird gewürfelt. Ziel ist es, eine möglichst hohe Augenzahl mit einem der Würfel zu erreichen. Beispielsweise besteht der Pool aus zwei weißen und einem schwarzen Würfel. Der Wurf ergibt eine weiße 4, eine weiße 3 und eine schwarze 3. Damit steht als vorläufiges Ergebnis die weiße 4. Wenn wir jetzt zum Beispiel den Spielzug "Etwas herausfinden" betrachten, dann wäre eine 4 das Ergebnis: 1-4 -> Die Spielleitung erhält einen Verderbnispunkt. Sollte der oder die Spielende damit nicht zufrieden sein, kann der Wurf einmalig wiederholt werden. Das neue Ergebnis zählt.
 
 >[Nach oben](Regeln)
 
@@ -134,7 +134,7 @@ Wenn die Korruption zunimmt, bekommt dein Charakter einen Zustand. Zustände zei
 
 ## TPK - Total Party Kill
 
-Sollten alle Charaktere gleichzeitig außer Gefecht gesetzt werden, gibt es verschiedene möglichkeiten der Spielleitung damit umzugehen. Falls dies in einem Kampf geschieht könnte die Bedrohnung das Abenteuer nachhaltig für den Rest der Zeit verändern. Die Gruppe könnte dann eventuell von alleine am Schauplatz erwachen, oder aber zum Beispiel von Dorfbewohnenr in ein nahegelegens Haus gebracht worden sein. Im härtesten Fall und wenn dies zum Ende des Abenteuers passiert könnte die Spiellieutng mit der Gruppe auch beschließen das dass Abenteuer so endet und den schlimstmöglichen ausgang nimmt. Da Charaktere in "Augen des Zwielichts: Königreich der Yōkai" ja aber grundsätzlich nicht versterben sondern nur außer gefecht gesetzt werden erwacht die Gruppe auf die ein oder andere Art wieder. Seid auch hier nie unfähr zu euren Spielenden sondern versucht eine gelungene Geschichte zu erzählen. Die in diesem Fall zwar eine düstere Wendung nimmt, aber vielleicht ja noch nicht hoffnungslos ist. 
+Sollten alle Charaktere gleichzeitig außer Gefecht gesetzt werden, gibt es verschiedene Möglichkeiten der Spielleitung damit umzugehen. Falls dies in einem Kampf geschieht, könnte die Bedrohnung das Abenteuer nachhaltig für den Rest der Zeit verändern. Die Gruppe könnte dann eventuell von alleine am Schauplatz erwachen, oder aber zum Beispiel von Dorfbewohnern in ein nahegelegenes Haus gebracht worden sein. Im härtesten Fall und wenn dies zum Ende des Abenteuers passiert könnte die Spielleitung mit der Gruppe auch beschließen, dass das Abenteuer so endet und den schlimmstmöglichen Ausgang nimmt. Da Charaktere in "Augen des Zwielichts: Königreich der Yōkai" aber grundsätzlich nicht versterben, sondern nur außer Gefecht gesetzt werden, erwacht die Gruppe auf die eine oder andere Art wieder. Seid auch hier nie unfair zu euren Spielenden, sondern versucht eine gelungene Geschichte zu erzählen. Sie nimmt in diesem Fall zwar eine düstere Wendung, aber vielleicht ist ja noch nicht alle Hoffnung verloren. 
 
 ## Zustände abbauen
 
@@ -169,3 +169,4 @@ Alle Spielenden dürfen am Ende einer Spielsession folgende Schritte ausführen:
 *Zwei der fünf Aufgaben, für die die Spielenden Abschnittspunkte erhalten können, sind immer aktiv: wurde das aktive Problem des Abenteuers gelöst und war der Wurf auf "Das Abenteuer lösen" erfolgreich, sodass die Lösung von allen Beteiligten akzeptiert wurde? Diese Aufgaben können allerdings immer nur am Ende eines Abenteuers beantwortet werden, das gilt auch für die Bonusaufgabe, auch dafür gibt es nur zum Schluss einen Abschnittspunkt.*
 
 >[Nach oben](Regeln)
+
