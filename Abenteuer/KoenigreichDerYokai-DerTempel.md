@@ -4,7 +4,7 @@ Schwierigkeit: 18 – ein kurzes und aber eher schwerers und düsteres Abenteuer
 
 Gesammelte Verderbnispunkte: [ n ]
 
-### Hinweise für Spielleitende:
+### Hinweise für die Spielleitung:
 
 Die Gruppe sucht Ruhe in der berühmten Tempelanlage Takedera, weit weg von anderen Dörfern und Städten. Die Anlage liegt in einem malerischen Bambuswald, umgeben von hohen Bergen. Die einzigen Geräusche, die man hört, kommen von dem riesigen Wasserfall, den die Mönche liebevoll Kleiner Alouatta nennen. Kleiner Brüllaffe. Benannt nach dem Tier, das die andere Geräuschquelle in diesem Wald ist. 
 
