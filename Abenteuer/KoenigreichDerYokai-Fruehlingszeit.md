@@ -3,7 +3,7 @@ Schwierigkeit: 14 – ein kurzes und eher lockeres Abenteuer - eine Session
 
 Gesammelte Verderbnispunkte: [ n ]
 
-### Hinweise für Spielleitende:
+### Hinweise für die Spielleitung:
 
 Ōkawa ist ein kleines Dorf in einem grünen Tal, durch das ein großer Fluss fließt. Das Dorf liegt direkt an dem Fluss Kanda, der sich hier verzweigt und eine kleine Insel umschließt. Auf der Insel wurde ein kunstvoller Garten angelegt, dessen Schmuckstück seit Jahr und Tag ein riesiger Obstbaum ist. Niemand kann sich mehr an eine Zeit ohne diesen Baum erinnern, der das Dorf zusätzlich mit wunderbaren Früchten versorgt. Bald soll wieder zu seinen Ehren ein großes Fest stattfinden, doch seit kurzer Zeit geht es dem Baum zusehends schlechter. Da der Baum alles für das Dorf bedeutet, haben die Bewohnerinnen und Bewohner die Gruppe um Hilfe gebeten. Wer auch immer es war, das muss die Gruppe herausfinden. Doch die Dorfgemeinschaft ist eng verbunden. Zwar sind alle sehr höflich und zollen den Fureru Respekt, aber scheinbar hüten sie ein Geheimnis. Wie kann die Gruppe sie aus der Reserve locken?  
 
