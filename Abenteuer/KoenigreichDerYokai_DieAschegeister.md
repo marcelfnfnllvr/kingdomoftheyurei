@@ -6,17 +6,17 @@ Gesammelte Verderbnispunkte: [  n  ]
 
 ### Hinweise für die Spielleitung:
 
-Die Gruppe befindet sich in einem Dorf am Rande einer Vulkanwüste. Die Menschen hier sterben seit einigen Monaten auf unerklärliche Weise. Es gibt Berichte, dass sie Geister sehen, bevor sie sterben. Allerdings kann wohl nur die sterbende Person diesen Geist sehen. Nachdem die Person gestorben ist, fängt ihre Haut an zu brennen und sie steht wieder auf. Lediglich das komplette Löschen mit Wasser lässt sie für immer ruhen. Während die Gruppe dort ist, stirbt eine Person genau vor ihren Augen. So haben sie die Chance diese genauer zu befragen.
+Die Gruppe befindet sich in einem Dorf am Rande einer Vulkanwüste. Die Menschen hier sterben seit einigen Monaten auf unerklärliche Weise. Es gibt Berichte, dass sie Geister sehen, bevor sie sterben. Allerdings kann wohl nur die sterbende Person diesen Geist sehen. Nachdem die Person gestorben ist, fängt ihre Haut an zu brennen und sie steht wieder auf. Lediglich das komplette Löschen mit Wasser lässt sie für immer ruhen. Während die Gruppe dort ist, stirbt eine Person genau vor ihren Augen. So haben sie die Chance, diese genauer zu befragen.
 
 Präsentiere der Gruppe als Erstes das Onsen und das Izakaya. Die beiden weiteren Orte können durch das Finden von Hinweisen freigeschaltet werden.
 
 ### Fragestellung, Eskalation und Ehrung:
 
-Wieso verwandeln sich die Menschen in Supa in Asche. Welches Unrecht ist hier geschehen? 
+Wieso verwandeln sich die Menschen in Supa in Asche? Welches Unrecht ist hier geschehen? 
 
 Das ganze Dorf wird von den Aschegeistern überrannt, die jeden mit sich reißen und in Lavaströme werfen.
 
-Aschegeist - Feuerfest
+Aschegeist - Feuerresistent
 
 ### Abenteuerfrage
 
@@ -24,24 +24,24 @@ Aschegeist - Feuerfest
 
 ### Einleitung:
 
-Ihr seid auf dem Weg in das Dorf „Supa“. Es ist berühmt für sein schönes Bad, welches vielen Gästen angenehme Stunden bereitet. Mehr noch: Das heiße Wasser soll durch seine vulkanische Herkunft eine heilende Wirkung haben. Entsprechend viele Reisende zieht das Dorf an. Seit einer Weile jedoch ist das wohltuende Idyll in Supa gestört, denn außerhalb des Dorfes tauchen immer wieder Gestalten aus Asche auf und töten die Unglückseligen, die ihnen über den Weg laufen. Aus Angst davor bleiben bald die Besucher aus.  
-Eure Gruppe hat der Hilferuf des Dorfes erreicht und ihr seid gerade auf dem Weg dorthin. Ihr folgt dem Pfad durch das Geröllfeld und die schwefelgeschwängerte Luft bis ihr schließlich schweißgebadet den Bogen aus schwarzem Basalt erreicht, der den Eingang zur Siedlung bildet.
-> Auch wenn die Besucher von außerhalb gerade weniger werden, versuchen verschiedene Händler ihren Geschäften mit ihnen noch normal nachzugehen. Was bieten sie an?
+Ihr seid auf dem Weg in das Dorf „Supa“. Es ist berühmt für sein schönes Bad, das vielen Gästen angenehme Stunden bereitet. Mehr noch: Das heiße Wasser soll durch seine vulkanische Herkunft eine heilende Wirkung haben. Entsprechend viele Reisende zieht das Dorf an. Seit einer Weile jedoch ist das wohltuende Idyll in Supa gestört, denn außerhalb des Dorfes tauchen immer wieder Gestalten aus Asche auf und töten die Unglückseligen, die ihnen über den Weg laufen. Aus Angst davor bleiben bald die Besucher aus.  
+Eure Gruppe hat der Hilferuf des Dorfes erreicht und ihr seid gerade auf dem Weg dorthin. Ihr folgt dem Pfad durch das Geröllfeld und die schwefelgeschwängerte Luft, bis ihr schließlich schweißgebadet den Bogen aus schwarzem Basalt erreicht, der den Eingang zur Siedlung bildet.
+> Auch wenn die Besucher von außerhalb gerade weniger werden, versuchen verschiedene Händler, ihren Geschäften mit ihnen noch normal nachzugehen. Was bieten sie an?
 
 ### Gefahren:
 
 - Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden.
 - Aschegeister greifen die Gruppe an. Sie erheben sich langsam aus dem Sand und formen fast menschliche Abbilder. 
 - Eine Person stirbt direkt vor den Augen der Fureru. Sie zu löschen erfordert schnelles Handeln und einiges an Geschick.
-- Plötzlich wachsen aus der Lava in einem der Becken hunderte von Armen und die gesamte Lava kommt scheinbar unaufhaltsam auf euch zugekrochen.
-- Der Vulkan bricht aus und schleudert heiße Gesteinsbrocken auf die Gruppe nieder.
+- Plötzlich wachsen aus einem der Lavabecken Hunderte von Armen und die gesamte Lava kommt scheinbar unaufhaltsam auf euch zugekrochen.
+- Der Vulkan bricht aus und schleudert heiße Gesteinsbrocken auf die Gruppe herab.
 
 ### Momente:
 
-- Am Rande des Lavafeldes jagt ein pechschwarzer, kleiner Fuchs einen Ascheraben. Dieser setzt sich immer wieder auf größere Steine und kurz bevor er geschnappt wird, fliegt er wieder ein Stück weg. In der Lava reflektieren sich die Augen des Fuchses und sehen blutrot aus. Er setzt erneut an und packt den Vogel beinahe mitten in der Luft. Einen Moment bevor sein Kiefer sich schließt, löst sich der Rabe allerdings in schwarzen Rauch auf und erscheint anderthalb Meter weiter wieder.
-- Euch fällt auf wie tief die Sonne hier zu jeder Zeit steht. Wirklich auf geht sie nie. Die Wärme, die ihr spürt, wird lediglich durch die Lavaströme erzeugt, die um das Dorf fließen. Ihr seht eine Gruppe größerer Vögel, die über das Dorf ziehen und rot schimmernde Schwanzfedern aufweisen.
+- Am Rande des Lavafeldes jagt ein pechschwarzer, kleiner Fuchs einen Ascheraben. Dieser setzt sich immer wieder auf größere Steine und kurz bevor er geschnappt wird, fliegt er wieder ein Stück weg. In der Lava spiegeln sich die Augen des Fuchses und sehen blutrot aus. Er setzt erneut an und packt den Vogel beinahe mitten in der Luft. Einen Moment bevor sein Kiefer sich schließt, löst sich der Rabe allerdings in schwarzen Rauch auf und erscheint anderthalb Meter weiter wieder.
+- Euch fällt auf, wie tief die Sonne hier zu jeder Zeit steht. Wirklich auf geht sie nie. Die Wärme, die ihr spürt, wird lediglich durch die Lavaströme erzeugt, die um das Dorf fließen. Ihr seht eine Gruppe größerer Vögel mit rot schimmernden Schwanzfedern, die über das Dorf ziehen.
 - Nachts erscheinen die Aschegestalten um das Dorf. Wenn die Dorfbewohner ihnen näherkommen, zerfallen sie normalerweise. Bei den Wandernden verhalten sie sich eventuell anders.
-- Aus einem rot glühenden Teich aus blubbernder Lava erhebt sich langsam erst ein Kopf mit langem Bart, Mähne und Hörnern, dann folgt dem Kopf ein langer Schlangenkörper mit vier Beinen. Der Drache scheint komplett aus Feuer zu bestehen und kleine, heiße Lavatropfen fallen von ihm herab, als er durch die Luft hinauf und über einen Bergkamm fliegt. Bevor sie den Boden erreicht haben, sind sie bereits zu schwarzen Kieseln erstarrt.
+- Aus einem rot glühenden Teich mit blubbernder Lava erhebt sich langsam ein Kopf mit langem Bart, wilder Mähne und gewundenen Hörnern. Ihm folgt ein langer Schlangenkörper mit vier kräftigen Beinen. Der Drache scheint ganz aus Feuer zu bestehen; kleine, glühende Lavatropfen lösen sich von ihm, während er durch die Luft steigt und über den Bergkamm fliegt. Bevor sie den Boden erreicht haben, sind sie bereits zu schwarzen Kieseln erstarrt.
 
 ### Personen:
 
@@ -55,7 +55,7 @@ Er hat eine Mixtur entwickelt, streng geheim, die abends an die Lampen und Later
 
 *Wohlwollend - wiederholt sich ständig*
 
-Alter Mann, aber sehr nett und zuvorkommend. Lädt die Gruppe gerne ein im Badehaus zu baden. Es wird gesagt, dass das Wasser des Badehauses heilende und lebensverlängernde Kräfte hat. Was niemand weiß, ist, dass seine Tochter eigentlich todkrank ist und tatsächlich durch das Wasser am Leben gehalten wird. 
+Alter Mann, aber sehr nett und zuvorkommend. Lädt die Gruppe gerne ein, im Badehaus zu baden. Es wird gesagt, dass das Wasser des Badehauses heilende und lebensverlängernde Kräfte hat. Was niemand weiß: Seine Tochter ist todkrank - und tatsächlich durch das Wasser am Leben gehalten wird. 
 
 #### Aoki Sadayuki - Tochter des Inhaber des Badehauses
 
