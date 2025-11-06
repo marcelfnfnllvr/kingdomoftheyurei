@@ -5,7 +5,7 @@ Gesammelte Verderbnispunkte: [ n ]
 
 ### Hinweise für die Spielleitung:
 
-Ōkawa ist ein kleines Dorf in einem grünen Tal, durch das ein großer Fluss fließt. Das Dorf liegt direkt an dem Fluss Kanda, der sich hier verzweigt und eine kleine Insel umschließt. Auf der Insel wurde ein kunstvoller Garten angelegt, dessen Schmuckstück seit Jahr und Tag ein riesiger Obstbaum ist. Niemand kann sich mehr an eine Zeit ohne diesen Baum erinnern, der das Dorf zusätzlich mit wunderbaren Früchten versorgt. Bald soll wieder zu seinen Ehren ein großes Fest stattfinden, doch seit kurzer Zeit geht es dem Baum zusehends schlechter. Da der Baum alles für das Dorf bedeutet, haben die Bewohnerinnen und Bewohner die Gruppe um Hilfe gebeten. Wer auch immer es war, das muss die Gruppe herausfinden. Doch die Dorfgemeinschaft ist eng verbunden. Zwar sind alle sehr höflich und zollen den Fureru Respekt, aber scheinbar hüten sie ein Geheimnis. Wie kann die Gruppe sie aus der Reserve locken?  
+Ōkawa ist ein kleines Dorf in einem grünen Tal mit einem großen Fluss. Das Dorf liegt direkt an dem Fluss Kanda, der sich hier verzweigt und eine kleine Insel umschließt. Auf der Insel wurde ein kunstvoller Garten angelegt, dessen Schmuckstück seit Jahr und Tag ein riesiger Obstbaum ist. Niemand kann sich mehr an eine Zeit ohne diesen Baum erinnern, der das Dorf zusätzlich mit wunderbaren Früchten versorgt. Bald soll zu seinen Ehren wieder ein großes Fest stattfinden, doch seit kurzer Zeit geht es dem Baum zusehends schlechter. Da der Baum alles für das Dorf bedeutet, haben die Bewohnerinnen und Bewohner die Gruppe um Hilfe gebeten. Wer auch immer es war, die Gruppe muss es herausfinden. Doch die Dorfgemeinschaft ist eng verbunden. Zwar sind alle sehr höflich und zollen den Fureru Respekt, aber scheinbar hüten sie ein Geheimnis. Wie kann die Gruppe sie aus der Reserve locken?  
 
 ### Fragestellung, Eskalation und Ehrung:  
 Fragestellung, die es zu lösen gilt: Was ist mit dem Großen Baum geschehen?  
@@ -31,13 +31,13 @@ Wodurch erkennt ihr, dass der Baum für das Dorf eine herausragende Bedeutung ha
 ### Gefahren:
 - Jäger sind immer auf der Suche nach Markierten. Ihre Transformationen können meist gewinnbringend verkauft werden.  
 - Mehrere Kappas springen aus dem Fluss und greifen an!  
-- Ein Pflanzenwesen versucht verzweifelt den Baum zu retten und greift alle an, die sich nähern wollen.  
+- Ein Pflanzenwesen versucht verzweifelt, den Baum zu retten und greift alle an, die sich nähern wollen.  
 
 
 ### Momente:
-- Eine frische Brise kommt auf und bringt die Bäume zum Rascheln. Laub und Blütenblätter fliegen durch die Luft. Plötzlich sammeln sie sich und verdichten sich zu einer menschenartigen Gestalt. Sie streckt einen Arm nach euch aus und fast habt ihr den Eindruck ein trauriges Seufzen im Wind zu hören. Dann legt er sich langsam und die Gestalt zerfällt wieder, die Blätter sinken langsam zu Boden.    
-- Jemand beißt in eine Frucht des Baumes. Doch anstelle von süßem, fruchtigem Saft läuft ein widerlich stinkender, klebriger grauer Schleim heraus. Angewidert spuckt sie das Stück wieder aus und wirft die Frucht weg.
-- Ein kleiner weißer Vogel mit langen Schwanzfedern landet auf einem niedrigen Ast und beginnt zu singen. Plötzlich kommt aus dem Nichts eine Katze und springt hoch, um den Vogel zu fangen. Im letzten Moment kann er der Gefahr ausweichen. Er landet weiter oben, wo ihn die Katze nicht erwischen kann, und scheint sie beinahe auszulachen.  
+- Eine frische Brise kommt auf und die Bäume rascheln. Laub und Blütenblätter gaukeln durch die Luft. Plötzlich sammeln sie sich und verdichten sich zu einer menschenartigen Gestalt. Sie streckt einen Arm nach euch aus und fast habt ihr den Eindruck, ein trauriges Seufzen im Wind zu hören. Dann legt er sich langsam und die Gestalt zerfällt wieder, die Blätter sinken langsam zu Boden.    
+- Jemand beißt in eine Frucht des Baumes. Doch anstelle von süßem, fruchtigem Saft läuft ein widerlich stinkender, klebrig-grauer Schleim heraus. Angewidert spuckt die Person das Stück wieder aus und wirft die Frucht weg.
+- Ein kleiner weißer Vogel mit langen Schwanzfedern landet auf einem niedrigen Ast und beginnt zu singen. Plötzlich kommt aus dem Nichts eine Katze und springt hoch, um den Vogel zu fangen. Im letzten Moment kann er der Gefahr entkommen. Er landet weiter oben, wo ihn die Katze nicht erreichen kann, und scheint sie beinahe auszulachen.  
 
 
 ### Personen:
@@ -49,26 +49,26 @@ Bittet um Hilfe, ist sehr höflich. Kann sich an keine Zeit erinnern, als es den
 
 ##### Hanzo – Gärtner und Baumhüter  
 
-*Sehr alter, rüstiger Herr - noch kräftige Stimme - one-track mind was Gärtnern angeht - wohlgesonnen*  
+*Sehr alter, rüstiger Herr - noch kräftige Stimme - beinahe krankhaft auf das Gärtnern fixiert - wohlgesonnen*  
 
-Bittet die Gruppe um Hilfe, will aber alles sehen, was sie tun im Garten. Stolz auf sein Werk auf der Insel und sehr besorgt um das Wohl des Baumes. Hat schon mit diversen Mitteln versucht ihn zu retten, ist jetzt aber mit seinem Latein am Ende.  
+Bittet die Gruppe um Hilfe, will aber alles sehen, was sie im Garten tun. Stolz auf sein Werk auf der Insel und sehr besorgt um das Wohl des Baumes. Hat schon mit diversen Mitteln versucht, ihn zu retten, ist jetzt aber mit seinem Latein am Ende.  
 
 ##### Yoshio - Obstverkäufer (Tanuki im Dorf) 
 
 *Beleibter, junger Mann - lacht/kichert häufig beim Reden - sein puscheliger Schwanz guckt unter seiner Kleidung hervor - misstrauisch* 
 
-Verkauft sowohl die Früchte des Großen Baums als auch weiteres Obst an seinem Marktstand. Mag Menschen und hält sich gerne unter ihnen auf, wo er sie beobachtet und sich über ihr merkwürdiges Verhalten amüsiert. Ist den Fureru misstrauisch gegenüber und hat (erst einmal) Angst vor ihnen.   
+Verkauft sowohl die Früchte des Großen Baums als auch weiteres Obst an seinem Marktstand. Mag Menschen und hält sich gerne unter ihnen auf, wo er sie beobachtet und sich über ihr merkwürdiges Verhalten amüsiert. Ist den Fureru gegenüber misstrauisch und hat (erst einmal) Angst vor ihnen.   
 
 ##### Rina - Wirtin
 
 *Resolute mittelalte Frau - Schürze und Kopfbedeckung - wohlgesonnen*  
 
-Ist sehr stolz auf ihre Mochi, gefüllt mit Fruchtgelee. Ist daher auf den Großen Baum und seine Ernte direkt angewiesen.   
+Ist sehr stolz auf ihre Mochi, gefüllt mit Fruchtgelee. Ist daher direkt auf den Großen Baum und seine Ernte angewiesen.   
 
 ### Schauplätze:
 ##### Der Garten auf der Flussinsel
 
-Im fein gepflegten Garten auf der felsigen Insel, oberhalb des Flusses, ist alles friedlich. Mehrere Kieswege schlängeln sich zwischen Kiefern, Kirschbäumen, Sträuchern und moosbewachsenen Steinen hindurch. Über allem thront majestätisch der Große Baum. Einige Kaninchen mümmeln am frischen Gras.  
+Im fein gepflegten Garten auf der felsigen Insel oberhalb des Flusses ist alles friedlich. Mehrere Kieswege schlängeln sich zwischen Kiefern, Kirschbäumen, Sträuchern und moosbewachsenen Steinen hindurch. Über allem thront majestätisch der Große Baum. Einige Kaninchen mümmeln am frischen Gras.  
 
 Ungefährlich   
 
@@ -91,14 +91,14 @@ Der Duft von frischem Gemüse, heißer Brühe und Tee steigt euch in die Nase, a
 Ungefährlich
 
 ### Hinweise:
-- [ ] 1. Ein dickes Tau mit *Shide* (Zickzack-Papierbänder), zerstört
+- [ ] 1. Ein dickes Tau mit *Shide* (Zickzack-Papierbändern), zerstört
 - [ ] 2. Gerüchte, dass unter dem Baum jemand begraben wurde
 - [ ] 3. Eine Frucht des Baumes, aus der eine ölige, stinkende, schwarze Substanz austritt
 - [ ] 4. Pflanzendünger, hergestellt aus Fureru-Teilen
 - [ ] 5. Eine kleine Schatulle mit Samen des Großen Baums
 - [ ] 6. Ein Brief aus dem Norden über einen Handelsvorschlag
 - [ ] 7. Geschwärzte, angenagte Wurzeln
-- [ ] 8. Demnächst soll eine Delegation aus dem Norden durch das Dorf kommen
+- [ ] 8. Demnächst soll eine Delegation aus dem Norden in das Dorf kommen
 - [ ] 9. Dunkle, pulsierende Adern in den Blättern des Baumes
 - [ ] 10. Ein kleiner Kodama, sieht sehr schwach aus
 - [ ] 11. Gerüchte über Tunnel unter dem Garten
