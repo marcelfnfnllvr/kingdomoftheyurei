@@ -1,6 +1,9 @@
 ## Spielzüge und Regeln
 [Würfelpools](#w%C3%BCrfelpools) - [Verderbnispunkte](#verderbnispunkte-ausgeben-sl) - [Etwas herausfinden](#etwas-herausfinden---wei%C3%9Fer-w6) - [Etwas riskieren](#etwas-riskieren---schwarzer-w6) - [Hilfe anbieten](#hilfe-anbieten-1) - [Fähigkeit nutzen](#eine-f%C3%A4higkeit-nutzen---schwarzer-w6---f%C3%A4higkeit-selbst-gelingt-immer) - [Zustände abbauen](#zust%C3%A4nde-abbauen) - [Kampf](#kampf) - [Gegner schwächen](#gegner-schw%C3%A4chen---schwarzer-w6---muss-eingesetzt-werden-wenn-gegner-gefahrenstufe-12) - [Abenteuer lösen](#abenteuer-l%C3%B6sen)
 ### Würfeln
+
+Erklärung zu 4W6kh2: Vier sechsseitige Würfel, von denen die beiden höchsten Augenzahlen behalten werden.
+
 #### Würfelpools
 Wenn ein schwarzer Würfel im Ergebnis größer oder gleich der höchsten Augenzahl eines weißen Würfels ist: 
 --> + 1 Zustand 

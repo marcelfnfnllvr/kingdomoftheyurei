@@ -25,7 +25,7 @@ In der dritten Runde hat Ayane einen weiteren Würfel zur Verfügung, weil sie i
 | 2    | Eran               | 3                            | 3->4               | 3                       | GFL -1 | 2       |      |      |      |
 | 3    | Yūsuke             | 6                            | 4->5               | 2                       | (*1)   | (4&6) 6 |      |      |      |
 | 4    |                    |                              |                    |                         |        |         |      |      |      |
-|      |                    | Summe aus den zwei höchsten  | Würfelaugenzahlen: | 8                       | 10     | 11      |      |      |      |
+|      |                    | Summe aus den zwei höchsten  | Würfelaugenzahlen: | 8                       |        | 11      |      |      |      |
 |      |                    | Gefahrenlevel der            | Bedrohung:         | 12                      | 10     | 10      |      |      |      |
 |      |                    | Hinweise beim Überwinden der | Bedrohung:         | 1                       | 2      | 3       | 3    | 3    | 3    |
 

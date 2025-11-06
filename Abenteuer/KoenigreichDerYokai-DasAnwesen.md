@@ -12,13 +12,13 @@ Die Gruppe befindet sich in einem riesigen Haus auf einem Berg. Die Gruppe wurde
 
 Eine Fragestellung, die es zu lösen gilt: Warum wurde Anwar Kazushige getötet und wo befinden sich die Hausgeister? 
 
-Falls die Situation eskaliert, mutiert der alte Herr zu einer riesigen Gestalt mit sechs Armen und packt nach jedem und schlingt ihn einfach hinunter. Der Einfluss der Hausgeister scheint ihn stark verändert zu haben. Er kann aufgehalten werden, fängt aber mit der Schwierigkeit 14 an.
+Falls die Situation eskaliert, mutiert der alte Herr zu einer riesigen Gestalt mit sechs Armen und packt jeden in seiner Nähe, um ihn einfach hinunterzuschlingen. Der Einfluss der Hausgeister scheint ihn stark verändert zu haben. Er kann aufgehalten werden, fängt aber mit der Schwierigkeit 14 an.
 
 Freund der Hausgeister - Einfühlsam
 
 ### Abenteuerfrage:
 
-Kann sich dein Charakter vorstellen in so einem Anwesen seinen Ruhestand zu verbringen? Warum, oder warum nicht?
+Kann sich dein Charakter vorstellen, in so einem Anwesen seinen Ruhestand zu verbringen? Warum, oder warum nicht?
 
 ### Einleitung:
 
@@ -26,7 +26,7 @@ Ein langer und anstrengender Aufstieg liegt hinter euch. Der Pass hier hinauf wa
 
 > Wie gut habt ihr den schwierigen Aufstieg überstanden?
 
-Es kommen Väterchen und Mütterchen auf euch zugelaufen und begrüßen euch. Sie bringen euch zum Anwesen. Beim Versuch, das Gebäude zu betreten, bricht ein oberhalb des Eingangs liegender Balkon ab, und die Gruppe muss verhindern, getroffen zu werden.
+Väterchen und Mütterchen kommen auf euch zugelaufen und begrüßen euch. Sie bringen euch zum Anwesen. Beim Versuch, das Gebäude zu betreten, bricht ein oberhalb des Eingangs liegender Balkon ab, und die Gruppe muss verhindern, getroffen zu werden.
 
 ### Gefahren:
 
@@ -34,19 +34,19 @@ Es kommen Väterchen und Mütterchen auf euch zugelaufen und begrüßen euch. Si
 -	Hausgeister greifen die Gruppe an.  
 -	Die Tochter oder der Sohn drehen durch.  
 -	Ein Raum, in dem sich die Gruppe befindet, kippt und stürzt in die Tiefe. Die Abwesenheit der Hausgeister lässt das Gebäude schneller zerfallen.  
--	Alte Samurai-Rüstungen in dem Haus, welche durch die Geister belebt werden.  
+-	Es gibt alte Samurai-Rüstungen in dem Haus, welche durch die Geister belebt werden.
 
 ### Momente:
 
--	Das Licht im Raum flackert, und ihr habt das Gefühl, beobachtet zu werden. Nach einem kurzen Moment scheinen die Lampen wieder normal, aber ein silberner Krug, der vor euch auf einer Kommode stand, fehlt. 
--	Die untergehende Sonne bricht sich im Fenster, und einen Moment ist alles still. Eine Art Klarheit überkommt euch. Was an diesem Haus erinnert euch an euren eigenen Zerfall durch den Dämon?
+-	Das Licht im Raum flackert, und ihr habt das Gefühl, beobachtet zu werden. Nach einem kurzen Moment leuchten die Lampen wieder normal, aber ein silberner Krug, der vor euch auf einer Kommode stand, fehlt. 
+-	Die untergehende Sonne bricht sich im Fenster, und einen Moment lang ist alles still. Eine Art Klarheit überkommt euch. Was an diesem Haus erinnert euch an euren eigenen Zerfall durch den Dämon?
 -	Das Gebäude wackelt leicht und stöhnt, als ob es Schmerzen hätte. 
 
 ### Personen:
 
-##### Yoshiteru Sugimoto – Reicher Besitzer des Anwesens
+##### Yoshiteru Sugimoto – reicher Besitzer des Anwesens
 
-*Spricht mit ruhiger, etwas dünner aber gut zu verstehender Stimme - Wohlgesonnen*
+*Spricht mit ruhiger, etwas dünner, aber gut zu verstehender Stimme - Wohlgesonnen*
 
 Ein netter, sehr alter Herr. Hat hier früher mit seiner Frau Hiroko gelebt. Sie verschwand eines Tages spurlos. Er besitzt Land und lässt Reis anbauen. Er sagt, er sei gütig, und er mag die Hausgeister. Sie leisten ihm immer Gesellschaft und sind nicht so unheimlich wie Mütterchen und Väterchen. 
 
@@ -58,7 +58,7 @@ Tot aufgefundener, unehelicher Sohn des Yoshiteru. Er war auf dem Anwesen als Ko
 
 *Nasale Stimme, die leicht hochnäsig wirkt - Wohlgesonnen - Trägt edle Gewänder, die teuer aussehen*
 
-Er ist ca. 50-60 Jahre alt. Erst seit kurzem wieder auf dem Anwesen. In den großen Städten ist es viel angenehmer und lukrativer, zu wohnen. Möchte hier schnell wieder weg. Auf die Gesellschaft seiner Schwester kann er verzichten. An Geister glauben nur Kinder und Narren.
+Er ist ca. 50-60 Jahre alt. Erst seit kurzem wieder auf dem Anwesen. In den großen Städten ist das Leben viel angenehmer und lukrativer. Möchte hier schnell wieder weg. Auf die Gesellschaft seiner Schwester kann er verzichten. An Geister glauben nur Kinder und Narren.
 
 ##### Najwa Sugimoto – Tochter von Yoshiteru
 
@@ -96,7 +96,7 @@ Ungefährlich
 
 Ungefährlich
 
-> Eröffnungsfrage: Was zeigt euch, dass die Geister trotzdem anwesend sind und nicht verschwunden?
+> Eröffnungsfrage: Was zeigt euch, dass die Geister trotzdem anwesend sind und nicht verschwanden?
 
 ##### Das Arbeitszimmer
 
@@ -122,16 +122,16 @@ Herausforderung: Der Keller wird von den Hausgeistern verschlossen gehalten. Es 
 
 ### Hinweise:
 
--	[ ] 1. Ein Brief mit einem Geständnis der verstorbenen Ehefrau einen Hausgeist aus Versehen getötet zu haben. Er ist ungeöffnet.
--	[ ] 2. Silberbesteck mit Blut darauf.
--	[ ] 3. Ein unecht wirkendes Testament, welches die Hausgeister aus dem Erbe streicht.
+-	[ ] 1. Ein Brief mit einem Geständnis der verstorbenen Ehefrau, einen Hausgeist aus Versehen getötet zu haben. Er ist ungeöffnet.
+-	[ ] 2. Blutbeflecktes Silberbesteck.
+-	[ ] 3. Ein unecht wirkendes Testament, das die Hausgeister aus dem Erbe streicht.
 -	[ ] 4. Die Geister nehmen ein Leben für ein Leben.
 -	[ ] 5. Geburtsurkunde des Toten, welche Yoshiteru als Vater ausweist.
 -	[ ] 6. Eine vergiftete Flasche Wein.
 -	[ ] 7. Ein Brief von Hiroko: „Ich liebe dich, mein Gatte, aber ich muss die Schuld bezahlen.“
 -	[ ] 8. Gespräch: Der Reichtum ist vorbei. Die Hausgeister entwenden zu viel. Sie sind gierig. Das muss enden. Sofort. (Person ist nur zu belauschen und verschwindet sofort.)
 -	[ ] 9. Der tote Hausgeist. (Nur im Keller zu finden.)
--	[ ] 10. Ein zerrissener Brief, laut dem Geschäftsleute aus dem Norden einen hohen Preis für das Land des Herrn zahlen wollen.
+-	[ ] 10. Ein zerrissener Brief, laut dem Geschäftsleute aus dem Norden einen hohen Preis für das Land des Herrn bezahlen wollen.
 -	[ ] 11. Ein altes Tagebuch: „Die Hausgeister piesacken und schikanieren mich. Vater hört mir nicht zu.“
 -	[ ] 12. Es heißt, das Haus bricht zusammen, wenn die Geister verschwinden. Es heißt es gibt einen Vertrag darüber.
 -	[ ] 13. Schwester hasst die Mutter, den Vater und den Bruder.
