@@ -63,7 +63,7 @@ Diese Interaktion zwischen dem SC und der SL veranschaulicht, wie eine Fähigkei
 
 ### Kampf - Den Gegner schwächen
 
->**Martina**: Ich gebe jetzt meine 3 Verderbnispunkte aus, damit hier etwas mehr Spannung aufkommt! Ihr biegt gerade in eine ene Gasse ein, da lauert euch eine Gruppe Jäger auf. Finstere Gestalten mit einem Sammelsurium verschiedener Waffen wollen euch von vorne und von hinten einkesseln. Sie sind auf eure besonderen dämonischen Merkmale aus und blicken gierig auf dein Geweih, Yūsuke (Ralph), auf die Federn von Eran (Hannes) und auf Ayane (Lydia) mit ihrer schneeweißen Haut.   
+>**Martina**: Ich gebe jetzt meine 3 Verderbnispunkte aus, damit hier etwas mehr Spannung aufkommt! Ihr biegt gerade in eine enge Gasse ein, da lauert euch eine Gruppe Jäger auf. Finstere Gestalten mit einem Sammelsurium verschiedener Waffen wollen euch von vorne und von hinten einkesseln. Sie sind auf eure besonderen dämonischen Merkmale aus und blicken gierig auf dein Geweih, Yūsuke (Ralph), auf die Federn von Eran (Hannes) und auf Ayane (Lydia) mit ihrer schneeweißen Haut.   
 >**Lydia**: Wir stellen uns natürlich dem Kampf! Ayane (Lydia) schaut die Jäger grimmig und herausfordernd an und Jiro knurrt laut.    
 >**Martina**: Ich habe 3 Verderbnispunkte ausgegeben, also hat der Gegner die Gefahrenstufe 10. Wenn ihr wollt, könnt ihr versuchen den Gegner zu schwächen.  
 >**Ralph**: Ich möchte das versuchen. Ich will mit meiner Fähigkeit *Gedankenmanipulation* einen der Gegner beeinflussen, sodass er Angst bekommt und nicht mehr gegen uns kämpfen möchte.    
@@ -98,7 +98,7 @@ Kämpfe dauern in der Regel nur wenige Runden. Dabei würfeln nur die Spielenden
 
 ### Etwas riskieren - Außer Gefecht gesetzt
 
->**Martina**: Ihr rennt zurück zur Schmiede, aber es ist bereits zu spät: Im Garten findet ihr die Tochter des Schmieds, über und über bedeckt von einer schwarzen Masse, die aussehen, wie sich bewegende Wurzeln.  
+>**Martina**: Ihr rennt zurück zur Schmiede, aber es ist bereits zu spät: Im Garten findet ihr die Tochter des Schmieds, über und über bedeckt von einer schwarzen Masse, die aussieht wie sich bewegende Wurzeln.  
 >**Hannes**: "Oh nein, nicht Hisako!" Eran (Hannes) läuft direkt zu ihr und versucht, sie aus diesen Wurzeln zu befreien. "Das darf nicht passieren, sie wollte uns doch nur helfen!"  
 >**Martina**: Du reißt einige der Wurzeln von ihrem Körper weg, aber es sind sehr viele...  
 >**Lydia**: Können wir da nicht noch irgendwas machen? Ich möchte gern versuchen alle Wurzeln einzufrieren, ohne Hisako zu verletzen, und dann von ihr entfernen und sie irgendwie reinigen.  
@@ -157,7 +157,7 @@ Außerdem wechseln sich die drei Elemente Rollenspiel, Würfeln und Erzählung i
 >**Ralph**: Wie wäre es mit "Ausdauer"? Ich war ja früher auch mal Perlentaucher, also komme ich gut im Wasser klar, auch wenn ich hier nicht unbedingt nach Perlen tauchen sollte, sondern nach Dreck...  
 >**Martina**: Ja das passt doch gut. Dann würfle mal mit zwei weißen W6.  
 >**Ralph**: Wow, ich hab' sogar eine Doppel-Sechs geworfen!  
->**Martina**: Cool, damit kannst du dann drei Zustände heilen. Der erste Zustand bleibt allerdings permanent, das ist ja dein Dämon. Aber die anderen beiden Zustände kannst du jetzt streichen.
+>**Martina**: Cool, damit kannst du dann drei Zustände heilen. Der erste Zustand bleibt allerdings permanent, das ist ja dein Dämon. Aber die anderen beiden Zustände kannst du jetzt streichen. Außerdem bekommst du noch einen Hinweis.
 
 >[Zurück nach oben](#spielbeispiele)
 
@@ -165,7 +165,7 @@ Außerdem wechseln sich die drei Elemente Rollenspiel, Würfeln und Erzählung i
 
 >**Martina**: So, wir haben jetzt etwa drei Stunden gespielt und ihr habt insgesamt 15 Hinweise gesammelt. Ich würde sagen, damit kommen wir langsam zum Ende. Ihr bekommt jetzt ein bisschen Zeit von mir, vielleicht so 10-15 Minuten, damit ihr euch mit euren Hinweisen eine Story überlegen könnt. Zur Erinnerung: Eure Aufgabe in diesem Abenteuer ist es, herauszufinden, warum plötzlich Leute im Wald verschwinden und wie ihr dem Dorf helfen könnt. Je mehr Hinweise ihr in eurer Geschichte einbaut, desto mehr senkt ihr die Schwierigkeit des Abenteuers, gegen die ihr am Schluss würfeln müsst. Im Moment liegt die Schwierigkeit bei 16.   
 >*Die Gruppe fängt an, unter sich zu diskutieren. Es werden Verbindungen zwischen Hinweisen geknüpft und wieder verworfen, um dann an anderer Stelle wiederhergestellt zu werden. Immer wieder fällt jemandem auf, dass sie den einen oder anderen Hinweis aus der Liste ihrer gefundenen Hinweise noch nicht in der Geschichte eingebaut haben. Aber so langsam einigen sich alle auf eine bestimmte Abfolge.*  
->**Martina**: So, wie schaut's denn bei euch aus? Das klingt nun schon so KOMMA als wärt ihr mit eurer Geschichte so weit zufrieden. Dann erzählt mir jetzt bitte einmal, der Reihe nach was eurer Meinung nach passiert ist. Ich hake dann die Hinweise ab, die ihr in die Geschichte eingebaut habt. Wer möchte denn anfangen?  
+>**Martina**: So, wie schaut's denn bei euch aus? Das klingt nun schon so, als wärt ihr mit eurer Geschichte so weit zufrieden. Dann erzählt mir jetzt bitte einmal der Reihe nach, was eurer Meinung nach passiert ist. Ich hake dann die Hinweise ab, die ihr in die Geschichte eingebaut habt. Wer möchte denn anfangen?  
 >**Lydia**: Ralph hat mitgeschrieben, er erklärt das mal.  
 >*Ralph erzählt noch einmal die ganze Geschichte von vorn bis hinten und erklärt dabei auch, welche Hinweise die Gruppe zu dieser Lösung gebracht haben. Außerdem erzählt er, wie die Gruppe gedenkt, dem Dorf zu helfen und damit das Problem zu lösen.*
 >**Martina**: Wunderbar, vielen Dank. Wenn ich richtig mitgezählt habe, dann habt ihr in eurer Geschichte 13 von 15 gefundenen Hinweisen verwendet, das ist eine ganze Menge.  
@@ -220,6 +220,7 @@ Jede Gruppe baut aus den Hinweisen eine andere, ganz eigene Geschichte zusammen 
 >**Ralph**:Ok, ich tausche Schleier. 
 >**Martina**: Ich denke damit sind wir fertig, nur eines fehlt noch: Ihr habt ja das Abenteuer abgeschlossen, also bekommt ihr noch eine neue Ehrung! Sie heißt "Hüter des Waldes" und gibt euch das Attribut "Umwelt". Das tragt ihr euch im Charakterbogen ein. Mit der Zeit sammelt ihr weitere Ehrungen. Ihr könnt am Ende eines Abenteuers eine Ehrung aus eurer Sammlung wählen und euch quasi damit „ausrüsten“, damit steht euch für das nächste Abenteuer das dazugehörige Attribut zur Verfügung. Das tragt ihr auch im Charakterbogen ein. Keine Angst, die Titel werden nicht verbraucht, sondern bleiben euch. Wechseln könnt ihr nur am Ende eines Abenteuers, aber nicht, während es aktiv ist.
 
-Im Lauf der Abenteuer sammeln die Spielenden Aufstiegspunkte. Haben sie genug Punkte beisammen, können sie einen Stufenaufstieg machen und damit für ihren Charakter einen neuen Abschnitt einläuten. Je länger sie sammeln, desto mehr Möglichkeiten haben sie beim Stufenaufstieg. Allerdings ist natürlich auch das Risiko höher, alles zu verlieren, wenn sie außer Gefecht gesetzt werden. Dann kommt der Charakter zwar auch in einen neuen Abschnitt und darf ein paar Dinge würfeln. Allerdings gibt es dabei deutlich weniger Freiheiten, da der Charakter stärker von seinem Dämon vereinnahmt wird.
+Im Lauf der Abenteuer sammeln die Spielenden Aufstiegspunkte. Haben sie genug Punkte beisammen, können sie einen Stufenaufstieg machen und damit für ihren Charakter einen neuen Abschnitt einläuten. Je länger sie sammeln, desto mehr Möglichkeiten haben sie beim Stufenaufstieg. Allerdings ist natürlich auch das Risiko höher, alles zu verlieren, wenn sie außer Gefecht gesetzt werden. Dann kommt der Charakter zwar auch in einen neuen Abschnitt und darf ein paar Dinge würfeln. Allerdings gibt es dabei deutlich weniger Freiheiten, da der Charakter stärker von seinem Dämon vereinnahmt wird. Übrigens verwendet Martina hier eine Hausregel und lässt auf die Fähigkeitentabellen erst mit einem W2 und dann mit einem W20 würfeln statt mit 2W20. 
 
 >[Zurück nach oben](#spielbeispiele)
+
