@@ -131,31 +131,31 @@ Herausforderung: Die Navigation in den Gängen ist schwierig. Hier wäre ein Wur
 
 ### Hinweise:
 
-- [ ] 1. Dokumente darüber, dass der Stollen zu tief in den Berg vordringt und dieser einstürzen könnte.
-- [ ] 2. Eine vor Schwäche verstorbene Person auf den Straßen vom Dorf. Es sind helle Stellen an den Handgelenken und Knöcheln sichtbar. Niemand scheint diese Person zu kennen.
+- [ ] 1. Dokumente mit dem Hinweis, dass der Stollen zu tief in den Berg eindringt und jener einstürzen könnte.
+- [ ] 2. Eine an Schwäche verstorbene Person auf einer Straßen des Dorfes. Es sind helle Stellen an den Handgelenken und Knöcheln sichtbar. Niemand scheint diese Person zu kennen.
 - [ ] 3. Eine Atemmaske aus Stoff. An der Innenseite klebt Blut.
-- [ ] 4. Jmd. berichtet von einer Vision die er/sie von ein paar Wochen hatte. Der Berg erschien ihr in einer Muttergestalt und flehte um das Leben ihrer Kinder.
+- [ ] 4. Jemand berichtet von einer Vision, die er/sie von ein paar Wochen hatte. Der Berg erschien in einer Muttergestalt und diese flehte um das Leben ihrer Kinder.
 - [ ] 5. Ein toter Steingeist.
-- [ ] 6. Die Legenden sagen, dass die Steingeister tief im Berg leben.
-- [ ] 7. Personen, die wegrennen, nachdem sie Schaden anrichten wollten.
-- [ ] 8. Ein edles Stück Stoff ist zwischen zwei Steinen eingeklemmt und abgerissen.
-- [ ] 9. Pläne für einen neuen Weg durch den Stollen und bis zum Fuße der Hochebene.
-- [ ] 10. Mit dem Feuer werden ehrenlose Waffen geschmiedet.
-- [ ] 11. Es werden in Toro keine Kinder geboren.
+- [ ] 6. Die Legenden besagen, dass die Steingeister tief im Berg leben.
+- [ ] 7. Personen, die weglaufen, nachdem sie Schaden anrichten wollten.
+- [ ] 8. Ein Fetzen eines edlen Stoffes klemmt zwischen zwei Steinen.
+- [ ] 9. Pläne für einen neuen Weg durch den Stollen bis zum Fuße der Hochebene.
+- [ ] 10. Mit dem Feuer werden ehrlose Waffen geschmiedet.
+- [ ] 11. In Toro werden keine Kinder geboren.
 - [ ] 12. Auf den Straßen von Toro sind nur Männer zu sehen.
 - [ ] 13. Eine Frau soll nachts draußen gesehen worden sein. 
 - [ ] 14. Erschütterungen und Bergrutsche werden immer häufiger. 
-- [ ] 15. Markierungen am Boden. Wie Ritualzeichen. 
-- [ ] 16. Eine Frau ist im Traum erschienen und sie verwandelte sich in einen Dämon. 
-- [ ] 17. Es heißt wer den Stollen betritt, muss die Schwelle zum Stollen küssen.
-- [ ] 18. Eine Schusswaffe, wie ein Schwert, in ein Tuch gehüllt. 
+- [ ] 15. Markierungen wie Ritualzeichen auf dem Boden.
+- [ ] 16. Eine Frau erschien im Traum und verwandelte sich in einen Dämon.
+- [ ] 17. Es heißt, wer den Stollen betritt, muss die Schwelle zum Stollen küssen.
+- [ ] 18. Eine Schusswaffe, wie ein Schwert in Tuch gehüllt. 
 - [ ] 19. Spuren eines mächtigen Rituals. 
 - [ ] 20. Dokumente, die den Preis für etwas Lebendes festlegen. 
-- [ ] 21. Eine Todesdrohung gegen den Bergwerkschef wurde an eine Hauswand geschmiert. 
-- [ ] 22. Ein in einer anderen Sprache aufgesetzter Brief. 
-- [ ] 23. Ein Kraut, welches dazu genutzt wird, mit der anderen Ebene zu reden. Es kommt in dieser Gegend nicht natürlich vor. 
+- [ ] 21. Eine Todesdrohung gegen den Bergwerksvorsteher wurde an eine Hauswand geschmiert. 
+- [ ] 22. Ein Brief in einer fremden Sprache.
+- [ ] 23. Ein Kraut, das den Kontakt zur anderen Ebene ermöglicht. Es kommt in dieser Gegend nicht natürlich vor. 
 - [ ] 24. Es sind keine Stollenarbeiter gestorben. Den Toten, der aufgespießt wurde, scheint niemand zu kennen. 
 - [ ] 25. Berggott und Feuergott sollen einen jahrtausendalten Kampf gegeneinander führen, dessen Ursprung niemand mehr kennt.  
 - [ ] 26. Eines der Geister arbeitet im Izakaya / Badehaus  als Bardame / Badehausmutter
-- [ ] 27. Der Stollen ändert seine Form.
-- [ ] 28. Die Aufseherin scheint ein Dämon zu sein.
+- [ ] 27. Der Stollen verändert seine Form.
+- [ ] 28. Die Aufseherin der Eisenhütte scheint ein Dämon zu sein.
