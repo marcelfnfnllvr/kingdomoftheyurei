@@ -4,7 +4,7 @@ Schwierigkeit: 14-20 – ein gefährliches Abenteuer - ein bis zwei Abende - kei
 
 Gesammelte Verderbnispunkte: [  n  ]
 
-### Hinweise für Spielleitende:
+### Hinweise für die Spielleitung:
 
 Spielt mit eurer Gruppe ein bis drei Runden bzw. Schauplätze, je nachdem, ob ihr einen oder zwei Abende geplant habt und wie schnell die Gruppe durch die Runden kommt. Lasst am Ende des letzten Rings die Spieler die Geschichte erzählen. Es wird der Spielzug „Das Abenteuer lösen” genutzt, aber noch nicht gelöst. Dies passiert erst am Ende des letzten Aktes, nachdem die Spielenden noch die Möglichkeit bekommen, ihre Geschichte anzupassen. Der letzte Akt sollte auf die Geschichte der Spieler aufbauen.
 
