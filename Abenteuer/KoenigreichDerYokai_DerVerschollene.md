@@ -70,7 +70,7 @@ Hat Kenji auf Bitte ihrer Mutter hin einmal heimlich den Schrein auf der Klippe 
 
 *Misstrauisch - redet laut und betont einzelne Wörter sehr deutlich - teure, feine Kleidung*
 
-Sohn eines Fischers, der immer mehr Fische und Meerestiere fischen lassen und verkaufen will. Skrupelloser Geschäftsmann und Traditionalist, dem Kenjis Untersuchung ein Dorn im Auge war. Sämtliche Schiffe im Dorf sind von ihm gebaut. Will der Gruppe nichts sagen und sie stattdessen dazu bringen, wieder zu verschwinden. Will unbedingt an dem alten Brauch festhalten, aus Angst, dass sonst seine Geschäfte den Bach runtergehen.
+Sohn eines Fischers, der immer mehr Fische und Meerestiere fischen lassen und verkaufen will. Skrupelloser Geschäftsmann und Traditionalist, dem Kenjis Untersuchung ein Dorn im Auge war. Alle Schiffe im Hafen hat er gebaut. Will der Gruppe nichts sagen und sie stattdessen dazu bringen, wieder zu verschwinden. Will unbedingt an dem alten Brauch festhalten, aus Angst, dass sonst seine Geschäfte scheitern.
 
 ##### Saburo Kobayashi - Fischer, jüngerer Bruder von Jirō
 
@@ -82,13 +82,13 @@ Möchte ebenfalls, dass die Opferungen aufhören, ist aber in seinem Protest geg
 
 *Misstrauisch - brüchige, leise Stimme - weiße Robe mit maritimen Symbolen und eine lange Perlenkette um den Hals*
 
-Eine alte Priesterin, die sich um den Schrein oben auf der Klippe kümmert und an ihren Ritualen festhalten will. Sie bildet bei den Opferungen die spirituelle Seite und ist maßgeblich an der Auswahl des nächsten Opfers beteiligt. Sie ist davon überzeugt, dass sie selbst für das Gleichgewicht zwischen Dorf und Meer verantwortlich ist, und duldet keine Einmischung von außen. Als ehrwürdige Priesterin hat ihr Wort in der Gemeinschaft einiges Gewicht.
+Eine alte Priesterin, die sich um den Schrein oben auf der Klippe kümmert und an ihren Ritualen festhalten will. Sie verkörpert bei den Opferungen die spirituelle Seite und ist maßgeblich an der Auswahl des nächsten Opfers beteiligt. Sie ist überzeugt, dass das Gleichgewicht zwischen Dorf und Meer allein in ihrer Verantwortung liegt - und duldet keine Einmischung von außen. Als ehrwürdige Priesterin hat ihr Wort in der Gemeinschaft einiges Gewicht.
 
 ##### Nora Yohei - Hausfrau/Oktopus-Yōkai
 
 *Wohlgesonnen - spricht lansam und mit merkwürdiger Intonation, als wüsste sie nicht, wie manche Worte betont werden - einfacher bodenlanger Kimono, der untere Rand ist nass*
 
-Kümmert sich um den Haushalt, während ihr Mann fischen geht. Kann sehr gut kochen und lädt gerne Gäste zum Essen ein. Versucht, ihre wahre Identität zu vertuschen, und spielt Anmerkungen zu ihrem Aussehen freundlich/peinlich berührt runter. Explizit auf ihr Geheimnis angesprochen, fleht sie die Gruppe an, ihr Geheimnis nicht zu verraten, sonst muss sie zurück ins Meer in die Bucht.
+Kümmert sich um den Haushalt, während ihr Mann fischen geht. Kann sehr gut kochen und lädt gerne Gäste zum Essen ein. Versucht, ihre wahre Identität zu vertuschen, und spielt Anmerkungen zu ihrem Aussehen freundlich/peinlich berührt herunter. Explizit darauf angesprochen, fleht sie die Gruppe an, ihr Geheimnis nicht zu verraten, sonst muss sie zurück ins Meer.
 
 
 ##### Kenji - Wandernder
@@ -102,19 +102,19 @@ Er wollte den Dorfbewohnern um Kei helfen, wurde aber von der Gefahr und seinem 
 
 Ungefährlich
 
-> Wodurch wird euch klar, dass das Meer einen großen Einfluss auf das Leben der Menschen hier hat?
+> Eröffnungsfrage: Wodurch wird euch klar, dass das Meer einen großen Einfluss auf das Leben der Menschen hier hat?
 
 ##### Hafen
 
 Ungefährlich
 
-> Wie macht es sich bemerkbar, dass die Dorfgemeinschaft gespalten ist?
+> Eröffnungsfrage: Wie macht es sich bemerkbar, dass die Dorfgemeinschaft gespalten ist?
 
 ##### Schrein auf der Klippe
 
 Tagsüber ungefährlich/nachts gefährlich
 
-> Woran erkennt ihr, dass hier noch immer alte Traditionen gewissenhaft gepflegt werden?
+> Eröffnungsfrage: Woran erkennt ihr, dass hier noch immer alte Traditionen gewissenhaft gepflegt werden?
 
 Herausforderung: Der Weg hoch zum Schrein ist schmal, gefährlich und führt direkt am Abgrund entlang. Wer ihn in der Dunkelheit sicher beschreiten möchte, der sollte einen sicheren Tritt haben, um nicht weit unten auf die Felsen zu stürzen.
 
@@ -122,17 +122,17 @@ Herausforderung: Der Weg hoch zum Schrein ist schmal, gefährlich und führt dir
 
 Gefährlich
 
-> An was wird deutlich, dass Fremde hier nicht willkommen sind?
+> Eröffnungsfrage: Wodurch wird deutlich, dass Fremde hier nicht willkommen sind?
 
-Herausforderung: Der Streit um das Schicksal des gestrandeten Wals. Sich auf eine Seite zu schlagen - egal, welche - bedeutet sich irgendjemand zum Feind zu machen. Und die Stimmung ist ohnehin schon geladen...
+Herausforderung: Der Streit um das Schicksal des gestrandeten Wals. Sich auf eine Seite zu schlagen - egal, welche - bedeutet, sich irgendjemand zum Feind zu machen. Und die Stimmung ist ohnehin schon geladen...
 
 ##### Auf dem Wasser
 
 Gefährlich; nur mit Boot oder schwimmend zu besuchen (abgesehen von besonderen Fähigkeiten)
 
-> Was gibt euch das ungute Gefühl, von jemand - oder etwas - beobachtet zu werden?
+> Eröffnungsfrage: Was gibt euch das ungute Gefühl, von jemandem - oder etwas - beobachtet zu werden?
 
-Herausforderung: Wer sich auf die Wellen hinauswagt, der sollte sich gut mit Booten und den Tücken des Meeres auskennen. Ungesehene Strömungen und schleichende Wellen können ein Boot schnell hinforttragen oder zum Kentern bringen, Menschen werden unter Wasser gezogen.
+Herausforderung: Wer sich auf die Wellen hinauswagt, der sollte sich gut mit Booten und den Tücken des Meeres auskennen. Unsichtbare Strömungen und schleichende Wellen können ein Boot schnell hinforttragen oder zum Kentern bringen, Menschen werden unter Wasser gezogen.
 
 ### Hinweise:
 
@@ -143,10 +143,10 @@ Herausforderung: Wer sich auf die Wellen hinauswagt, der sollte sich gut mit Boo
 - [ ] 5. Ein Fisch mit alten, großen, kreisrunden Narben.
 - [ ] 6. Überreste eines Opfers aus Fisch und Muscheln.
 - [ ] 7. Eine Notiz, in der das nächste Opfer genannt wird.
-- [ ] 8. Ausgeblichene Knochen eines Menschen.
-- [ ] 9. Ein kleiner Pfad, der bis ganz oben zur Klippenkante führt.
-- [ ] 10. Schnitzerei eines Seemonsters.
-- [ ] 11. Hanzos Haus wurde mit faulen Fischresten verunstaltet.
+- [ ] 8. Ausgebleichte Knochen eines Menschen.
+- [ ] 9. Ein kleiner Pfad, der bis ganz oben zum Klippenrand führt.
+- [ ] 10. Eine Schnitzerei, die ein Seemonster zeigt.
+- [ ] 11. Hanzos Haus wurde mit verdorbenen Fischresten verunstaltet.
 - [ ] 12. Einer der Fischer schuldet einem Kobayashi Geld.
 - [ ] 13. Eine große, schwarze Perle.
 - [ ] 14. Die Wellen hinterlassen im Sand merkwürdige Muster.
@@ -157,7 +157,7 @@ Herausforderung: Wer sich auf die Wellen hinauswagt, der sollte sich gut mit Boo
 - [ ] 19. Manche der Dorfbewohner meiden einander oder werfen sich finstere Blicke zu.
 - [ ] 20. Im Lauf der letzten Monate sind die Fischfänge immer weniger geworden.
 - [ ] 21. Ein Fischerboot, das von irgendetwas angegriffen und beschädigt wurde.
-- [ ] 22. Jirō war vor Kurzem oben beim Schrein.
+- [ ] 22. Jirō war vor kurzem oben beim Schrein.
 - [ ] 23. Eine hastig gekritzelte Warnung.
 - [ ] 24. Tuschezeichnung, wie das Dorf von mehreren Schiffen angegriffen wurde.
 - [ ] 25. Jemand will im Mondschein am Strand vor einigen Tagen einen großen Schatten gesehen haben.
