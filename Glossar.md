@@ -121,5 +121,5 @@
      - Tsukumogami ("Artefakt-Geist")  
        Gegenstand, der beseelt und zum Yōkai wurde, nachdem er achtlos entsorgt wurde und 100 Jahre alt geworden ist. Ist häufig eher ein Unruhestifter als tatsächlich böse und kann manchmal sogar Glück bringen. Gegenstände sind beispielsweise Regenschirm, Laterne, Teekessel, Mantel, Schuhe oder ein Musikinstrument.   
      - Yuki Onna ("Schneefrau")  
-       Wunderschöne Frau mit schwarzen Haaren, schneeweißer Haut und weißer Kleidung, aber eisig kalt. Lauert in der Kälte Menschen auf, die sie mit einem Atemhauch einfriert und ihnen ihre Lebensenergie entzieht.
+       Wunderschöne Frau mit weißen oder schwarzen Haaren, schneeweißer Haut und weißer Kleidung, aber eisig kalt. Lauert in der Kälte Menschen auf, die sie mit einem Atemhauch einfriert und ihnen ihre Lebensenergie entzieht.
   - die Begriffe aus der Weltbeschreibung in Allgemeines (Kurzfassung)?
