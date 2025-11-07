@@ -6,9 +6,9 @@ Gesammelte Verderbnispunkte: [  n  ]
 
 ### Hinweise für die Spielleitung:
 
-Spielt mit eurer Gruppe ein bis drei Runden bzw. Schauplätze, je nachdem, ob ihr einen oder zwei Abende geplant habt und wie schnell die Gruppe durch die Runden kommt. Lasst am Ende des letzten Rings die Spieler die Geschichte erzählen. Es wird der Spielzug „Das Abenteuer lösen” genutzt, aber noch nicht gelöst. Dies passiert erst am Ende des letzten Aktes, nachdem die Spielenden noch die Möglichkeit bekommen, ihre Geschichte anzupassen. Der letzte Akt sollte auf die Geschichte der Spieler aufbauen.
+Spielt mit eurer Gruppe ein bis drei Runden bzw. Schauplätze, je nachdem, ob ihr einen oder zwei Abende geplant habt und abhängig davon, wie schnell die Gruppe durch die Runden kommt. Lasst am Ende des letzten Rings die Spielende die Geschichte erzählen. Es wird der Spielzug „Das Abenteuer lösen” genutzt, ohne bereits zu lösen. Dies passiert erst am Ende des letzten Aktes, nachdem die Spielenden noch die Möglichkeit bekommen haben, ihre Geschichte anzupassen. Der letzte Akt sollte auf die Geschichte der Spielenden aufbauen.
 
-Jeder Ring hat einen Schauplatz, ein Yokai oder mehrere Yokai einer Art sowie mehrere NSC. Mindestens einer dieser NSC sollte unschuldig oder zumindest naiv sein und in die Fänge der Schauplätze oder Yokai geraten sein. Die Gruppe kann diesen NSC im jeweiligen Ring retten. Die Schauplätze existieren in der Wüste mehr oder weniger real. Sie sind Trugbilder oder Bruchstücke aus anderen Dimensionen. Dies ist der Leitenden Person überlassen.
+Jeder Ring hat einen Schauplatz, ein Yōkai oder mehrere Yōkai einer Art sowie mehrere NSC. Mindestens einer dieser NSC sollte unschuldig oder zumindest naiv sein und in die Fänge der Schauplätze oder Yōkai geraten sein. Die Gruppe kann diesen NSC im jeweiligen Ring retten. Die Schauplätze existieren in der Wüste mehr oder weniger real. Sie sind Trugbilder oder Bruchstücke aus anderen Dimensionen. Dies ist der Spielleitung überlassen.
 
 ### Fragestellung, Eskalation und Ehrung:
 
@@ -24,13 +24,13 @@ Was war eure bisher schaurigste und erschreckendste Erfahrung?
 
 ### Einleitung:
 
-Durch die Akai Sabaku, die rote Wüste, führte vor einiger Zeit noch eine der belebtesten Handels- und Verkehrsstraßen von ganz Soho. Nach und nach sind dort allerdings immer mehr Menschen verschwunden und es wurde über merkwürdige Phänomene berichtet. Lasst hier die Gruppe auf 3 Hinweise würfeln. Sie bekommt die zum Start des Abenteuers. Die Gruppe der Spielenden wurde nun angewiesen, sich um dieses Problem zu kümmern und die Straße wieder begehbar zu machen. 
+Durch die Akai Sabaku, die rote Wüste, führte vor einiger Zeit noch eine der belebtesten Handels- und Verkehrsstraßen von ganz Soho. Nach und nach sind dort allerdings immer mehr Menschen verschwunden und es wurde über merkwürdige Phänomene berichtet. Lasst hier die Gruppe auf 3 Hinweise würfeln. Sie bekommt diese zum Start des Abenteuers. Die Gruppe der Spielenden wurde nun angewiesen, sich um dieses Problem zu kümmern und die Straße wieder begehbar zu machen. 
 
 Ihr habt eine Gruppe Männer und Frauen zur Seite gestellt bekommen, die für euch ein kleines Camp mitten in der Wüste errichtet haben. Sie sind mit euch bis zu dem Punkt gegangen, als ihr angefangen habt zu spüren, dass sich hier „etwas verändert“. Die Gruppe kümmert sich nun um das Camp, während ihr euch tiefer in die Wüste aufgemacht habt, um dem Problem auf den Grund zu gehen. 
 
 ### Gefahren:
 
--	Alle Yokai können hier als Gefahr verwendet werden. 
+-	Alle Yōkai können hier als Gefahr verwendet werden. 
 -	Außerdem kann die Wüste selbst und ihre Merkwürdigkeiten als Gefahr dienen.
 -	Die Männer und Frauen in Rot. Sie greifen ohne zu Zögern an und sind schwerlich zum Reden zu überzeugen.
 
@@ -51,7 +51,7 @@ Zur Vorbereitung dieses Abenteuers nutzt bitte die Personentabelle 1. Bereitet p
 
 ### Yokai:
 
-Sucht euch aus der Yokai-Tabelle jeweils einen Yokai für jeden geplanten Ring heraus. Im finalen Ring treffen dann alle Yokai aufeinander. 
+Sucht euch aus der Yōkai-Tabelle jeweils einen Yōkai für jeden geplanten Ring heraus. Im finalen Ring treffen dann alle Yōkai aufeinander. 
 
 ### Geisterhafte-Schauplätze:
 
@@ -61,7 +61,7 @@ Bereitet für jeden Ring – bis auf den finalen Ring, dessen Aussehen durch die
 
 Jeder Ring hat eine besondere Eigenschaft. Diese kann ihn gefährlicher machen oder ihm einfach nur eine weitere Eigenschaft hinzufügen.
 
-1. Verschiedene Yokai tauchen als geisterhafte Erscheinungen kurzzeitig auf und verschwinden wieder.
+1. Verschiedene Yōkai tauchen als geisterhafte Erscheinungen kurzzeitig auf und verschwinden wieder.
 2. Ein massiver Wüstensturm zieht auf, wodurch sich die Sicht verschlechtert und das Bewegen erschwert wird.
 3. Überall entstehen Löcher mit Treibsand, die anfangen, alles um euch herum zu verschlucken.
 4. Die Sonne steht direkt über euch am Himmel und verbrennt alles, was sie berührt.
@@ -86,6 +86,6 @@ Jeder Ring hat eine besondere Eigenschaft. Diese kann ihn gefährlicher machen o
 -	[ ] 14.  Eine Phiole mit blutroter Flüssigkeit. (Kann man nehmen. Zieht einen „Etwas riskieren” Spielzug nach sich. Bei Erfolg heilt sie den Charakter komplett.)
 -	[ ] 15. Ein Geist trennt sich von einem Körper.
 -	[ ] 16. Geister, die gerufen wurden. 
--	[ ] 17. Menschen mit verschiedenen Yokai-Masken
+-	[ ] 17. Menschen mit verschiedenen Yōkai-Masken
 -	[ ] 18. Einen ausgedörrten Baum, der wie ein laufender Mensch aussieht. Der abgebrochene Arm liegt auf dem Boden.
 -	[ ] 19. „Ich habe gesehen, was ich am meisten begehrte.“
