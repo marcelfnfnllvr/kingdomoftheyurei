@@ -1,5 +1,5 @@
 ## Glossar
-### Spezifische Begriffe aus "Königreich der Yōkai"
+### Spezifische Begriffe aus "Augen des Zwielichts: Königreich der Yōkai"
   - **Fureru**  
     Die Charaktere der Spielenden sind Fureru: Menschen, denen ein Tiergeist oder Dämon innewohnt und ihnen Kräfte verleiht, durch die sie beispielsweise mit der Geisterwelt in Verbindung treten können. Ihre Aufgabe ist es, das Gleichgewicht zwischen Menschen und Geistern zu bewahren.
  - **Jäger**  
@@ -19,7 +19,7 @@
   - **Lines & Veils**  
     Safety Tool für Rollenspiele: Eine Liste von Themen, die entweder überhaupt nicht angesprochen werden sollen (Line = Grenze) oder nur angedeutet (Veil = Schleier) vorkommen, und an die sich alle halten sollen.     
   - **NSC**  
-    Nicht-Spielercharakter. Von den Spielleitenden gesteuerte Charaktere, mit denen die Spielenden während eines Abenteuers interagieren können. Dabei kann es sich sowohl um Menschen und Tiere als auch um Geister und Dämonen handeln.
+    Nicht-Spielercharakter. Von der Spielleitung gesteuerte Charaktere, mit denen die Spielenden während eines Abenteuers interagieren können. Dabei kann es sich sowohl um Menschen und Tiere als auch um Geister und Dämonen handeln.
   - **Oneshot**  
     Kurzes Abenteuer, das in einer einzigen Session bis zum Ende durchgespielt werden kann - im Gegensatz zum Fewshot oder zur Kampagne, die entweder in wenigen Sessions oder über einen langen Zeitraum hinweg meist regelmäßig gespielt werden.
   - **SC**  
@@ -27,7 +27,7 @@
   - **Session 0**  
     Eine Gesprächsrunde mit der Spielleitung und der gesamten Gruppe, bevor die eigentliche Pen&Paper-Runde losgeht. Hier wird z.B. über den Ablauf gesprochen und über die Erwartung aller Beteiligten. Außerdem können dabei Sicherheitsmechanismen und Tabuthemen besprochen und die Charaktere gebaut werden.
   - **SL**    
-    Der oder die Spielleitende. Gibt die Rahmenhandlung für das Abenteuer vor, spielt die Nicht-Spieler-Charaktere (NSC), verteilt Hinweise für erfolgreiche Würfe und gestaltet so gemeinsam mit den Spielenden die Runde.
+    Die Spielleitung. Gibt die Rahmenhandlung für das Abenteuer vor, spielt die Nicht-Spieler-Charaktere (NSC), verteilt Hinweise für erfolgreiche Würfe und gestaltet so gemeinsam mit den Spielenden die Runde.
   - **Virtual Tabletop (VTT)**  
     Bei Online-Runden genutztes digitales Tool, das den analogen Tisch ersetzt: Hier können z.B. Karten und Spielfiguren liegen, außerdem kann die Spielleitung hierüber Hinweise oder NSCs mit den Spielenden teilen. Darüber hinaus hat ein VTT in der Regel einen eingebauten Würfelbot, mit dem alle möglichen Würfel geworfen werden können - häufig auch direkt über die digitalen Charakterbögen.
   - **W6**  
@@ -79,7 +79,7 @@
   - **Sake**  
     Aus poliertem Reis gebrautes Bier. Wird entweder aus flachen Schalen oder eckigen Holzbechern getrunken.
   - **Shinobi**  
-    Ausgebildete Kämpfer, der spezialisiert ist auf verborgene Einsätze wie Brandstiftung, Spionage, Kundschaften oder Meuchelmord.  
+    Ausgebildete Kämpfer, die spezialisiert sind auf verborgene Einsätze wie Brandstiftung, Spionage, Kundschaften oder Meuchelmord.  
   - **Sōzu**  
     Wasserspiel aus Bambus. Wasser fällt in das offene Ende eines Bambusrohrs, das an einer Wippe befestigt ist. Ist das Bambusrohr gefüllt, wippt das Rohr um und gießt dabei das Wasser aus. Danach wippt das geschlossene Ende des Rohrs wieder zurück, schlägt dabei auf seinen Sockel und erzeugt so regelmäßig ein Klopfgeräusch.
   - **Shōchū**  
