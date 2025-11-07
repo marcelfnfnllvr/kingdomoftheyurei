@@ -268,7 +268,7 @@
 
 | 1d6  | Wetter      | Thema        | Gefühl      | Stichwort 1 | Stichwort 2    |
 | ---- | ----------- | ------------ | ----------- | ----------- | -------------- |
-| 1    | diesig      | Freundschaft | aufgeregt   | Feindschaft | Yokai          |
+| 1    | diesig      | Freundschaft | aufgeregt   | Feindschaft | Yōkai          |
 | 2    | bedeckt     | Arbeit       | bedrückt    | Trinkgelage | Tempel/Schrein |
 | 3    | sonnig      | Unterhaltung | fröhlich    | Duell       | Izakaya        |
 | 4    | Monsun      | Familie      | griesgrämig | Essen       | Shōji/Tatami   |
@@ -303,7 +303,7 @@
 | 9          | Yoshiyuki Kaneda - Wirt im Izakaya  <br/>*misstrauisch - einfache dunkle Kleidung unter heller Schürze - recht einsilbig und schroff*    <br/>Mag keine Fremden und bewirtet sie entsprechend deutlich weniger freundlich als Einheimische. Ist sehr stolz auf seine Spezialgericht und ist beleidigt, wenn es verschmäht wird. |
 | 10         | Ichirō - Jäger<br />*geladen - einfache aber robuste Kleidung - alte röchelnde Stimme*<br />Er liebt die Jagd und seinen Beruf. Allerdings wurde er vor einigen Jahren von einem Hirsch verwundet und ist seitdem auf die Hilfe seines Lehrlings Oswin angewiesen. Er hinkt mit dem rechten Bein und duldet keine Fragen diesbezüglich. |
 
-## Yokai-Tabelle:
+## Yōkai-Tabelle:
 
 | **Würfel D8** | **Name**       | **Verhalten**                    | **Motivation**                     | **Typische Handlung**                                 | **Aussehen**                                               | **Stimme**                                               |
 | ------------- | -------------- | -------------------------------- | ---------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------- |
@@ -341,4 +341,5 @@
 | 6            | **Ryokan**                       | Auch wenn hier alles sehr gut in Schuss ist, merkt ihr, dass das Ryokan schon eine lange Geschichte hinter sich hat. Woran? |In der mit einem Tuschegemälde und einem frichen Blumengesteck dekorierten Eingangshalle stehen die Schuhe der anderen Gäste sauber aufgereiht an der Stufe. Weiter hinten führt eine Treppe hinauf zu den Gästezimmern.|
 | 7            | **Izakaya**                      | Welche der Speisen fällt euch ins Auge und warum? | An der Wand hängt grob gekritzelt die Speisekarte, der Schankraum ist gefüllt mit niedrigen Tischen auf Tatami-Matten und der Geruch von Sake steht in der Luft.|
 | 8            | **Apotheke/Kräuterladen**        | Wie merkt ihr, dass die Leute in der Gegend auf die Kräuter als Medizin vertrauen? | Als ihr den kleinen Laden betretet, steigt euch der Geruch zahlreicher verschiedener Kräuter in die Nase. Fein zu Büscheln gebunden hängen sie zum Trocknen unter der Decke oder werden in beschrifteten Schalen, Krügen oder Schatullen aufbewahrt. Der Durchgang nach hinten gibt gleichzeitig einen Blick auf den Garten frei, in dem noch mehr Kräuter feinsäuberlich in Reihen gepflanzt wachsen. |
+
 
