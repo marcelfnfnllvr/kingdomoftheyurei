@@ -52,6 +52,8 @@
     Blasmusikinstrument bestehend aus der geschwungenen Schale einer großen Meeresschnecke (Tritonshorn), mit dem über ein Mundstück drei bis fünf verschiedene Töne erzeugt werden können.
   - **Izakaya**  
     Traditionelle, gesellige Kneipe, in der alkoholische Getränke, kleine Snacks und Speisen serviert werden. 
+  - **Jizō**  
+    Buddhistische Gottheit, die die Seelen Verstorbener in die Unterwelt begleitet. Schutzgott der Kinder. Jizō-Statuen stehen oft auf Friedhöfen, häufig werden ihnen das Lätzchen eines verstorbenen Kindes umgebunden, damit Jizō das Kind schneller finden und ins Totenreich bringen kann.  
   - **Katsuobushi**  
     Flocken aus getrocknetem, geräucherten Bonito-Thunfisch.
   - **Kumiko**  
