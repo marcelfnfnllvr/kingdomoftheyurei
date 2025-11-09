@@ -14,13 +14,17 @@ Die Eskalation, die ausgelöst wird, wenn der Gruppe der "Die Aufgabe lösen" Sp
 
 Der Name der Ehrung - Den Namen und das Attribut der Ehrung erhalten die Spielenden, wenn sie das Abenteuer abgeschlossen haben.
 
-### 4. Einleitung:
+### 4. Abenteuerfrage
+
+Eine Frage mit Bezug zum Abenteuer, die alle Spielenden mit ihrem Charakter einmal pro Abenteuer beantworten können, um ihrem Charakter etwas mehr Tiefe zu verleihen und gleichzeitig einen Zustand abzubauen.
+
+### 5. Einleitung:
 
 Eine einleitende Beschreibung, wie die Charaktere am Abenteuerort ankommen. 
 
 > eine passende Eröffnungsfrage für die Spielenden, um die Welt mitzugestalten.
 
-### 5. Gefahren:
+### 6. Gefahren:
 
 -	Verschiedene Gefahren, die die Spielleitung in das Abenteuer einbauen kann. Diese werden meistens durch das Würfeln der Spielenden ausgelöst.  
 -	Kämpfe entbrennen oft dadurch, dass die Spielleitung Verderbnispunkte einlöst, die sie zuvor aus misslungenen Würfen der Spielenden erhalten hat. Die Gefahrenstufe des Gegners hängt dabei von der Anzahl der ausgegebenen Verderbnispunkte ab:  
@@ -28,11 +32,11 @@ Eine einleitende Beschreibung, wie die Charaktere am Abenteuerort ankommen.
  	 3 Verderbnispunkte --> Gefahrenstufe 10  
  	 4 Verderbnispunkte --> Gefahrenstufe 12  
 
-### 6. Momente:
+### 7. Momente:
 
 - Kleine Momente, die der Welt Leben einhauchen sollen und die die Spielleitung im Abenteuer nutzen kann.
 
-### 7. Personen:
+### 8. Personen:
 
 ##### Name der Person – Position der Person - Wichtige Merkmale
 
@@ -40,7 +44,7 @@ Kurzbeschreibung:
 Ist die Person der Gruppe gegenüber wohlgesonnen oder misstrauisch?
 Eine längere Beschreibung des Verhaltens der Person mit kurzen Beispielen.
 
-### 8. Schauplätze:
+### 9. Schauplätze:
 
 ##### Name des Ortes, der bespielt wird
 
@@ -50,7 +54,8 @@ Ist dieser grundsätzlich ungefährlich oder gefährlich?
 
 Herausforderung: Falls der Ort eine Herausforderung bietet, wird diese kurz skizziert.
 
-### 9. Hinweise:
+### 10. Hinweise:
 
 -	[   ] Verschiedene Hinweise, die die Spielleitung im Laufe des Abenteuers zufällig oder auch passend im Abenteuer platzieren kann.
+
 
