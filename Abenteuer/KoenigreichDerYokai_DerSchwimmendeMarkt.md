@@ -11,7 +11,7 @@ Auch als Fähre werden die Boote gerne genutzt - jedenfalls bis vor ein paar Woc
 
 Fragestellung: Wer oder was ist dafür verantwortlich, dass die Menschen auf dem schwimmenden Markt verschwinden?
 
-Falls die Situation eskaliert, 
+Falls die Situation eskaliert, tjaaaa
 
 Der Name der Ehrung - Den Namen und das Attribut der Ehrung erhalten die Spielenden, wenn sie das Abenteuer abgeschlossen haben.
 
@@ -34,6 +34,7 @@ Eine einleitende Beschreibung, wie die Charaktere am Abenteuerort ankommen.
 - Eine dichte Nebelbank zieht über den gesamten See und schlingt den Markt in sich. Ihr seht kaum die Hand vor Augen und alle Geräusche sind merkwürdig gedämpft. Einzig das leise Schwappen des Wassers an die Boote ist noch zu hören. Dann erschallt plötzlich ein schauriger, beinahe trauernder Ruf. War das ein Vogel oder ein Mensch? Unweit von der Bootsflotille erblickt ihr Lichter im Nebel. Flackernd wie Feuer, aber zu unscharf, um sie richtig zu erkennen - und dennoch: da scheinen Flammen über dem Wasser zu schweben.  
 - Einer der Händler nutzt die Wartezeit, um sich einen Fisch für's Abendessen zu fangen. Er wirft seine Angelrute gekonnt aus und schon bald zuckt die Leine. Da hat einer angebissen! Der Händler müht sich ab und holt Stück für Stück die Leine ein. Noch ein letzter Ruck, dann holt er voller Vorfreude seine Beute aus dem Wasser. Es ist eine alte Sandale.  
 - Im Dunkeln liegt der gesamte See vollkommen still da. Eine riesige, dunkle Wassermasse, in der sich nun der Sternenhimmel in seiner ganzen Pracht spiegelt. In der Mitte davon leuchtet ein riesiger Vollmond auf euch herab. Wo ihr auch hinseht, überall blinken die Sterne. Für einen kurzen Moment fürchtet ihr fast in das endlose Nichts des Himmels zu fallen. Ihr haltet euch an dem beruhigend soliden Holz des Bootes fest und nach einigen Sekunden ist der Spuk vorbei.
+- Im Sumpfgebiet am Seeufer seht ihr Kraniche balzen. Als sie euch bemerken, fliegen sie grazil auf und landen dann außerhalb eures Blickfelds.  
 
 ### 7. Personen:
 
