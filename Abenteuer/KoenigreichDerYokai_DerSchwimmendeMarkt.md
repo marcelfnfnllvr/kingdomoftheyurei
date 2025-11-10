@@ -13,9 +13,9 @@ Amaya, die Nure Onna, hat sich dem Markt erst vor wenigen Jahren angeschlossen, 
 
 Fragestellung: Wer oder was ist dafür verantwortlich, dass die Menschen auf dem schwimmenden Markt verschwinden?
 
-Falls die Situation eskaliert, verliert die Nure Onna die Kontrolle über sich. Nach jahre
+Falls die Situation eskaliert, tritt - je nach Geschichte die Nure Onna oder der Wasserdrache als Gegner auf.
 
-Der Name der Ehrung - Den Namen und das Attribut der Ehrung erhalten die Spielenden, wenn sie das Abenteuer abgeschlossen haben.
+Fischende im Trüben - Durchblick 
 
 ### 4. Einleitung:
 
