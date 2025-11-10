@@ -5,29 +5,30 @@ Schwierigkeit: Schwierigkeit von 12-2X –  Beschreibung wie lang und wie gefäh
 ### 2. Hinweise für die Spielleitung:
 
 Der schwimmende Markt ist eine Ansammlung größerer und kleinerer Boote, die über den See Tsukino fahren und abwechselnd an den verschiedenen Orten docken, die am Seeufer gebaut sind. Natürlich könnte man auch den Landweg nehmen, aber der wäre deutlich länger und gefährlicher, denn hier sind z.B. Wegelagerer unterwegs, die es auf wertvolle Waren abgesehen haben.  
-Auch als Fähre werden die Boote gerne genutzt - jedenfalls bis vor ein paar Wochen. Denn seit einiger Zeit passiert es immer häufiger, dass Leute spurlos vom Markt verschwinden. Zeugen berichten davon ein Platschen gehört zu haben und kurze Zeit stellt man fest, dass irgendwer fehlt. Als wäre der häufig auftretende, tückische Nebel auf dem Tsukino-See nicht schon Herausforderung genug für den Markt...
+Auch als Fähre werden die Boote gerne genutzt - jedenfalls bis vor ein paar Wochen. Denn seit einiger Zeit passiert es immer häufiger, dass Leute spurlos vom Markt verschwinden. Zeugen berichten davon ein Platschen gehört zu haben und kurze Zeit stellt man fest, dass irgendwer fehlt. Als wäre der häufig auftretende, tückische Nebel auf dem Tsukino-See nicht schon Herausforderung genug für den Markt...  
+Die schwimmenden Boote müssen für das Abenteuer keiner festen Route oder einem Zeitplan folgen. So kann die Gruppe entweder auf dem offenen Wasser sein, an einem der Dörfer am See andocken oder in Ufernähe bei den Schilfgürteln herumschippern. Kleine Abstecher beispielsweise in den Sumpf sind mit einem kleineren Boot mit wenig Tiefgang ebenfalls möglich.
 
 ### 3. Fragestellung, Eskalation und Ehrung:
 
 Fragestellung: Wer oder was ist dafür verantwortlich, dass die Menschen auf dem schwimmenden Markt verschwinden?
 
-Falls die Situation eskaliert, tjaaaa
+Falls die Situation eskaliert, verliert die Nure Onna die Kontrolle über sich. Nach jahre
 
 Der Name der Ehrung - Den Namen und das Attribut der Ehrung erhalten die Spielenden, wenn sie das Abenteuer abgeschlossen haben.
 
 ### 4. Einleitung:
 
-Eine einleitende Beschreibung, wie die Charaktere am Abenteuerort ankommen. 
+Nach mehreren Tagen unterwegs seid ihr endlich kurz vor eurem Reiseziel. Am Anfang waren die Straßen noch gut, aber je näher ihr dem See Tsukino kamt, desto schlechter wurde ihr Zustand. In den Sümpfen, die den See großflächig umgeben, versackt die Straße teilweise schon im Morast. Früher angelegte Bohlenwege und kleinere Brücken sind längt morsch und geben bei zu viel Belastung nach. Doch nun erklimmt ihr einen letzten kleinen Hügel und seht ihn vor euch liegen: einer der größten Seen des Landes. 
 
-> eine passende Eröffnungsfrage für die Spielenden, um die Welt mitzugestalten.
+> Um den See und auch um seine Zuflüsse ranken sich viele Legenden. Was wurde euch davon erzählt, als ihr noch Kinder wart?
+
+Der Weg führt in einem weiten Bogen wieder vom Hügel herunter bis zum Ufer und einem Steg. Ihr habt Glück: gerade liegt der Schwimmende Markt genau hier. 
 
 ### 5. Gefahren:
 
--	Verschiedene Gefahren, die die Spielleitung in das Abenteuer einbauen kann. Diese werden meistens durch das Würfeln der Spielenden ausgelöst.  
--	Kämpfe entbrennen oft dadurch, dass die Spielleitung Verderbnispunkte einlöst, die sie zuvor aus misslungenen Würfen der Spielenden erhalten hat. Die Gefahrenstufe des Gegners hängt dabei von der Anzahl der ausgegebenen Verderbnispunkte ab:  
-    2 Verderbnispunkte --> Gefahrenstufe 8  
- 	 3 Verderbnispunkte --> Gefahrenstufe 10  
- 	 4 Verderbnispunkte --> Gefahrenstufe 12  
+-	Eine Gruppe Kappas springt aus dem Wasser. Eigentlich wollten sie nur Gurken klauen, aber jetzt greifen sie stattdessen euch an
+-	Ein dichter Nebel zieht heran und legt sich wie eine weiße Decke über das Wasser. Das Navigieren in dieser Suppe ist extrem schwierig und riskant. (Könnte eher in Ufernähe geeignet sein oder wenn die Gruppe sich mit einem eigenen Boot vom Schwimmenden Markt entfernt.)
+-	Ein riesiger Wels greift die Boote an.
 
 ### 6. Momente:
 
@@ -38,9 +39,20 @@ Eine einleitende Beschreibung, wie die Charaktere am Abenteuerort ankommen.
 
 ### 7. Personen:
 
-##### Akon – Kapitän der Handelsflottille
-*Wohlgesonnen - aufbrausend, bellt zwischendurch immer wieder Befehle durch die Gegend - trägt stolz als Amtsinsignie einen sehr langen Stab mit Lampe am Ende  
+##### Akon Nakashima – Kapitän der Handelsflottille
+*Wohlgesonnen - laut, fröhlich, bellt zwischendurch immer wieder Befehle durch die Gegend - trägt stolz als Amtsinsignie einen sehr langen Stab mit Lampe am Ende*  
 Er hat den Posten von seinem Vater übernommen und der von seinem Vater vor ihm und so weiter. Es sind ab und zu schon früher Leute verschwunden, aber sowas passiert eben auf dem Wasser. Eine Häufung wie in den letzten Wochen hat er noch nie überlebt. Kann sich ein Leben ohne den schwimmenden Markt nicht vorstellen, erst recht nicht an Land. 
+
+##### Amaya - Fischhändlerin
+*Misstrauisch - spricht langsam und mit tiefer Stimme - langer, grüner Kimono mit glänzendem Schuppenmuster, lange schwarze Haare*  
+Handelt mit Fisch - dem besten und größten der Gegend. Den anderen Bewohnern und ihren Kunden gegenüber ist sie sehr höflich, beinahe steif. Am schlimmsten ist es bei Akon. Der schönen Händlerin hat schon so manch einer versucht näher zu kommen, doch sie hat immer abgelehnt. Manchmal verlässt sie die Flottille, wenn diese weiterfährt, und schließt sich wieder an, wenn diese wieder am selben Ort auf dem See ankommt.  
+Amaya hütet ein Geheimnis: Sie ist eine Nure Onna, ein vampirisches Schlangenwesen, das die Gestalt einer jungen Frau annehmen kann. Noch scheint ihr niemand auf die Schliche gekommen zu sein. 
+
+##### Momo - stummes Waisenkind
+*Wohlgesonnen - redet nicht, stattdessen schreibt, malt und gestikuliert sie - einfache Kleidung, kinnlanges Haar*  
+Ihre Mutter Natsuko hat früher mit ihr zusammen auf dem Schwimmenden Markt gelebt, sie hat mit Obst und Gemüse gehandelt. Vor einigen Jahren ist Natsuko plötzlich spurlos verschwunden und ihre einstmals fröhliche Tochter blieb allein zurück. Erst dachten die Leute sie sei vor Trauer stumm geworden, aber vielleicht steckt auch mehr dahinter? Jedenfalls hat sie seitdem kein Wort mehr gesprochen. Die Gemeinschaft des Marktes kümmert sich um das zurückhaltende Mädchen. Niemand weiß warum, aber sie scheint Angst vor Amaya zu haben.
+
+
 
 ### 8. Schauplätze:
 
