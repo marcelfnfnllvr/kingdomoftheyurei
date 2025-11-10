@@ -1,6 +1,6 @@
 # 1. Der schwimmende Markt
 
-Schwierigkeit: Schwierigkeit von 12-2X –  Beschreibung wie lang und wie gefährlich das Abenteuer ist.
+Schwierigkeit: Schwierigkeit von 20 –  längeres Abenteuer (2-3 Sessions)
 
 ### 2. Hinweise für die Spielleitung:
 
@@ -68,22 +68,59 @@ Kümmert sich wegen seiner handwerklichen Begabung zusammen mit Gen auch um die 
 Kabbeln sich wie ein altes Ehepaar - denn das sind sie auch (Also ein Ehepaar. Sonderlich alt sind sie noch nicht.). Gen und Ida haben sich vor einigen Jahren auf der Überreise hier auf dem Schwimmenden Markt getroffen und haben sich seitdem hier eine Existenz aufgebaut. Sie handeln mit Schmuck, den sich normale Reisende kaum leisten können. Aber allein der sichere Transport der kostbaren Ware über den See lohnt sich. Einig sind sich die beiden dabei allerdings selten. Anderen begegnen sie zwar überaus freundlich, fallen sich dabei aber gegenseitig ins Wort oder werfen mehr oder weniger ernst gemeinte, bissige Kommentare ein. Trotzdem scheinen sie ihm Ernstfall aber zueinander zu halten.
 
 ##### Der Wasserdrache
-*Gefährlich - spricht nicht mit seinem mit Zähnen besetzten Maul sondern telepathisch, die Stimme kalt und hart wie eine Klinge - graziler, sehr langer Körper, mit Schuppen besetzt wie der einer Schlange, vier Gliedmaßen, keine Flügel*  
+*Misstrauisch - spricht nicht mit seinem mit Zähnen besetzten Maul sondern telepathisch, die Stimme kalt und hart wie eine Klinge - graziler, sehr langer Körper, mit Schuppen besetzt wie der einer Schlange, vier Gliedmaßen, keine Flügel*  
 Lebt eigentlich in einem der Zuflüsse des Tsukino-Sees und ist früher nur sehr selten in den See selbst gekommen. Verachtet die Menschen und nähert sich ihnen nur, um sie zu jagen und zu verspeisen. Auch für die Fureru hat er wenig übrig. Hat Macht über das Wasser und die Luft und kann seine Gestalt wandeln.
 
 
 ### 8. Schauplätze:
 
-##### Name des Ortes, der bespielt wird
+##### Der Schwimmende Markt
 
-Ist dieser grundsätzlich ungefährlich oder gefährlich?
+Ungefährlich
 
-> Eröffnungsfrage: Eine Eröffnungsfrage an die Spielenden, damit sie den Schauplatz mitgestalten können.
+> Was fällt euch an den Booten der Flottille auf?
 
-Herausforderung: Falls der Ort eine Herausforderung bietet, wird diese kurz skizziert.
+Herausforderung: Falls Nebel aufzieht, wird das sichere Navigieren der Boote deutlich erschwert.
+
+##### Im Sumpf
+
+Gefährlich
+
+> Was hört ihr im Sumpf alles an Geräuschen, von wem stammen sie wohl?
+Der See ist umgeben von einem dichten Schilfgürtel, der in einen großflächigen Sumpf übergeht. Trügerisch sicher sieht dessen mit Moosen und Gräsern bedeckte Oberfläche aus, doch jeder Schritt könnte der letzte sein. Das finden eines sicheren Weges ist eine Herausforderung, die durch schwebende Sumpflichter noch erschwert wird, die die Wandernden in die Irre führen wollen.
+
+##### Am Dorf Hasegawa angedockt
+
+Ungefährlich
+
+> Wie erkennt ihr den hohen Stellenwert des Schwimmenden Marktes für die Bewohner des Dorfs Hasegawa?
+
+Ein kleines Dorf mit einem Steg, an dem der Schwimmende Markt regelmäßig Stopps einlegt, um Waren aufzuladen oder zu verkaufen. Manchmal steigt auch ein Reisender ein, um sich auf die andere Seite des Tsukino-Sees bringen zu lassen. Die Häuser sind im Sumpf auf Stelzen erbaut.
+
+##### Flussaufwärts
+
+Ungefährlich (Lässt sich zu Fuß untersuchen oder auch mit dem Boot, wobei letzteres mit der Strömung recht anstrengend werden dürfte)
+
+> Wie unterscheiden sich der Fluss und seine Ufer vom großen See?
+
+Der Zufluss des Tsukino-Sees ist hier schon recht breit und gemächlich, aber ein Stück weiter aufwärts hat man euch von Stromschnellen berichtet. 
 
 ### 9. Hinweise:
 
--	[   ] Verschiedene Hinweise, die die Spielleitung im Laufe des Abenteuers zufällig oder auch passend im Abenteuer platzieren kann.
+-	[   ] 1. Ein Seidentaschentuch mit einem Mundabdruck in Dunkelrot.
+-	[   ] 2. Immer wenn Amaya von einem ihrer Abstecher zurückkommt, hat sie ein rosiges Aussehen.
+-	[   ] 3. Die aufgedunsene Wasserleiche eines Fischers.
+-	[   ] 4. Eine abgerissene Angelschnur, am Haken hängt nur eine einzelne Schuppe.
+-	[   ] 5. In der Mündung des Zuflusses werden viele tote Fische angetrieben.
+-	[   ] 6. Ein toter Riesensalamander.
+-	[   ] 7. Ein Schmuckstück wurde gestohlen und wurde dann im Sumpf wieder gefunden.
+-	[   ] 8. Der Riesenwels im See soll verwundet sein und trägt eine große Narbe.
+-	[   ] 9. In letzter Zeit hört man es häufig im Wasser laut platschen und spritzen, wenn Nebel aufzieht.
+-	[   ] 10. Kurz nachdem Momos Mutter verschwand und sie verstummte, ist Amaya aufgetaucht.
+-	[   ] 11. Akon hat vor einigen Nächten vergessen, die Lampe an seinem Stab anzumachen.
+-	[   ] 12. Eine handtellergroße, bunt schillernde Schuppe.
+-	[   ] 13. Weiter flussaufwärts sind an einer Stelle alle Pflanzen verdorrt.
+-	[   ] 14. Fächer bemalt mit seltsamen Schriftzeichen.
+-	[   ] 15. 
 
 
