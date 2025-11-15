@@ -43,15 +43,18 @@ Der Weg führt in einem weiten Bogen wieder vom Hügel herunter bis zum Ufer und
 
 ##### Akon Nakashima – Kapitän der Handelsflottille
 *Wohlgesonnen - laut, fröhlich, bellt zwischendurch immer wieder Befehle durch die Gegend - trägt stolz als Amtsinsignie einen sehr langen Stab mit Lampe am Ende*  
+
 Er hat den Posten von seinem Vater übernommen und der von seinem Vater vor ihm und so weiter. Es sind ab und zu schon früher Leute verschwunden, aber sowas passiert eben auf dem Wasser. Eine Häufung wie in den letzten Wochen hat er noch nie überlebt. Kann sich ein Leben ohne den schwimmenden Markt nicht vorstellen, erst recht nicht an Land. 
 
 ##### Amaya - Fischhändlerin
 *Misstrauisch - spricht langsam und mit tiefer Stimme - langer, grüner Kimono mit glänzendem Schuppenmuster, lange schwarze Haare*  
+
 Handelt mit Fisch - dem besten und größten der Gegend. Den anderen Bewohnern und ihren Kunden gegenüber ist sie sehr höflich, beinahe steif. Am schlimmsten ist es bei Akon. Der schönen Händlerin hat schon so manch einer versucht näher zu kommen, doch sie hat immer abgelehnt. Manchmal verlässt sie die Flottille, wenn diese weiterfährt, und schließt sich wieder an, wenn diese wieder am selben Ort auf dem See ankommt. Ansonsten versucht sie in der Gemeinschaft zu helfen wie die anderen auch. 
 Amaya hütet ein Geheimnis: Sie ist eine Nure Onna, ein vampirisches Schlangenwesen, das die Gestalt einer jungen Frau annehmen kann. Noch scheint ihr niemand auf die Schliche gekommen zu sein, ihre Tarnung ist sehr gut. Der Gruppe gegenüber ist sie misstrauisch und versucht alles, um nicht aufzufliegen. Um den Verdacht von sich weg zu lenken, weicht sie entweder aus oder verweist auf den Wasserdrachen.
 
 ##### Momo - stummes Waisenkind
 *Wohlgesonnen - redet nicht, stattdessen schreibt, malt und gestikuliert sie - einfache Kleidung, kinnlanges Haar*  
+
 Ihre Mutter Natsuko hat früher mit ihr zusammen auf dem Schwimmenden Markt gelebt, sie hat mit Obst und Gemüse gehandelt. Vor einigen Jahren ist Natsuko plötzlich spurlos verschwunden und ihre einstmals fröhliche Tochter blieb allein zurück. Erst dachten die Leute sie sei vor Trauer stumm geworden, aber vielleicht steckt auch mehr dahinter? Jedenfalls hat sie seitdem kein Wort mehr gesprochen. Die Gemeinschaft des Marktes kümmert sich um das zurückhaltende Mädchen. Niemand weiß warum, aber sie scheint Angst vor Amaya zu haben.
 
 ##### Kazumi - gute Seele des Marktes
@@ -60,15 +63,18 @@ Verkauft an einer kleinen schwimmenden Bar Sake. Hat immer ein offenes Ohr für 
 
 ##### Tobi - der Nordling
 *Wohlgesonnen - kräftige Stimme, ernst - trägt zwar normale Fischerkleidung, sticht mit seinen grünen Augen, roten Haaren und blasser Haut dennoch heraus*  
+
 Hat sich dem markt vor gut zehn Jahren angeschlossen und möchte nichts über sein Leben im Norden erzählen. Handelt mit Keramik und Haushaltsutensilien wie Essstäbchen, Fächer und Besen. Ist mittlerweile ebenfalls fester Bestandteil der Gemeinschaft, denn er hat sich durch harte Arbeit und sein friedliches Gemüt gegenüber der anfänglichen Skepsis durchgesetzt. Als er hier ankam, wurde auch er einmal verdächtigt, für das Verschwinden eines Reisenden verantwortlich zu sein, doch dank Kazumi konnte er damals seine Unschuld beweisen.  
 Kümmert sich wegen seiner handwerklichen Begabung zusammen mit Gen auch um die Instandhaltung der Boote.  
 
 ##### Gen und Ida Furukawa - Händlerehepaar
 *Wohlgesonnen - reden mit anderen Menschen ganz normal, gegenseitig brüllen oder keifen sie sich oft an - tragen etwas gehobenere Kleidung*  
+
 Kabbeln sich wie ein altes Ehepaar - denn das sind sie auch (Also ein Ehepaar. Sonderlich alt sind sie noch nicht.). Gen und Ida haben sich vor einigen Jahren auf der Überreise hier auf dem Schwimmenden Markt getroffen und haben sich seitdem hier eine Existenz aufgebaut. Sie handeln mit Schmuck, den sich normale Reisende kaum leisten können. Aber allein der sichere Transport der kostbaren Ware über den See lohnt sich. Einig sind sich die beiden dabei allerdings selten. Anderen begegnen sie zwar überaus freundlich, fallen sich dabei aber gegenseitig ins Wort oder werfen mehr oder weniger ernst gemeinte, bissige Kommentare ein. Trotzdem scheinen sie ihm Ernstfall aber zueinander zu halten.
 
 ##### Der Wasserdrache
 *Misstrauisch - spricht nicht mit seinem mit Zähnen besetzten Maul sondern telepathisch, die Stimme kalt und hart wie eine Klinge - graziler, sehr langer Körper, mit Schuppen besetzt wie der einer Schlange, vier Gliedmaßen, keine Flügel*  
+
 Lebt eigentlich in einem der Zuflüsse des Tsukino-Sees und ist früher nur sehr selten in den See selbst gekommen. Verachtet die Menschen und nähert sich ihnen nur, um sie zu jagen und zu verspeisen. Auch für die Fureru hat er wenig übrig. Hat Macht über das Wasser und die Luft und kann seine Gestalt wandeln.
 
 
@@ -87,13 +93,14 @@ Herausforderung: Falls Nebel aufzieht, wird das sichere Navigieren der Boote deu
 Gefährlich
 
 > Was hört ihr im Sumpf alles an Geräuschen, von wem stammen sie wohl?
+
 Der See ist umgeben von einem dichten Schilfgürtel, der in einen großflächigen Sumpf übergeht. Trügerisch sicher sieht dessen mit Moosen und Gräsern bedeckte Oberfläche aus, doch jeder Schritt könnte der letzte sein. Das finden eines sicheren Weges ist eine Herausforderung, die durch schwebende Sumpflichter noch erschwert wird, die die Wandernden in die Irre führen wollen.
 
 ##### Am Dorf Hasegawa angedockt
 
 Ungefährlich
 
-> Wie erkennt ihr den hohen Stellenwert des Schwimmenden Marktes für die Bewohner des Dorfs Hasegawa?
+> Wie erkennt ihr den hohen Stellenwert des Schwimmenden Marktes für die Bewohner des Dorfs Hasegawa?  
 
 Ein kleines Dorf mit einem Steg, an dem der Schwimmende Markt regelmäßig Stopps einlegt, um Waren aufzuladen oder zu verkaufen. Manchmal steigt auch ein Reisender ein, um sich auf die andere Seite des Tsukino-Sees bringen zu lassen. Die Häuser sind im Sumpf auf Stelzen erbaut.
 
@@ -101,7 +108,7 @@ Ein kleines Dorf mit einem Steg, an dem der Schwimmende Markt regelmäßig Stopp
 
 Ungefährlich (Lässt sich zu Fuß untersuchen oder auch mit dem Boot, wobei letzteres mit der Strömung recht anstrengend werden dürfte)
 
-> Wie unterscheiden sich der Fluss Kiyomizu und seine Ufer vom großen See?
+> Wie unterscheiden sich der Fluss Kiyomizu und seine Ufer vom großen See?  
 
 Der Zufluss des Tsukino-Sees ist hier schon recht breit und gemächlich, aber ein Stück weiter aufwärts hat man euch von Stromschnellen berichtet. 
 
