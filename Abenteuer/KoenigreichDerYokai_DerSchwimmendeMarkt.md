@@ -30,7 +30,7 @@ Der Weg führt in einem weiten Bogen wieder vom Hügel herunter bis zum Ufer und
 -	Eine Gruppe Kappas springt aus dem Wasser. Eigentlich wollten sie nur Gurken klauen, aber jetzt greifen sie stattdessen euch an
 -	Ein dichter Nebel zieht heran und legt sich wie eine weiße Decke über das Wasser. Das Navigieren in dieser Suppe ist extrem schwierig und riskant. (Könnte eher in Ufernähe geeignet sein oder wenn die Gruppe sich mit einem eigenen Boot vom Schwimmenden Markt entfernt.)
 -	Ein riesiger Wels greift die Boote an.
--	Aus dem Zufluss ist ein Schwarm Riesensalamander in den See eingefallen und bedroht euch. Mit ihrer glibschigen Haut sind die großmäuligen Lurche nur schwer zu greifen.
+-	Aus dem Kiyomizu-Fluss ist ein Schwarm Riesensalamander in den See eingefallen und bedroht euch. Mit ihrer glibschigen Haut sind die großmäuligen Lurche nur schwer zu greifen.
 
 ### 6. Momente:
 
@@ -101,14 +101,14 @@ Ein kleines Dorf mit einem Steg, an dem der Schwimmende Markt regelmäßig Stopp
 
 Ungefährlich (Lässt sich zu Fuß untersuchen oder auch mit dem Boot, wobei letzteres mit der Strömung recht anstrengend werden dürfte)
 
-> Wie unterscheiden sich der Fluss und seine Ufer vom großen See?
+> Wie unterscheiden sich der Fluss Kiyomizu und seine Ufer vom großen See?
 
 Der Zufluss des Tsukino-Sees ist hier schon recht breit und gemächlich, aber ein Stück weiter aufwärts hat man euch von Stromschnellen berichtet. 
 
 ### 9. Hinweise:
 
 -	[   ] 1. Ein Seidentaschentuch mit einem Mundabdruck in Dunkelrot.
--	[   ] 2. Immer wenn Amaya von einem ihrer Abstecher zurückkommt, hat sie ein rosiges Aussehen.
+-	[   ] 2. Immer wenn Amaya von einem ihrer Abstecher zurückkommt, sieht sie rosig und zufrieden aus.
 -	[   ] 3. Die aufgedunsene Wasserleiche eines Fischers.
 -	[   ] 4. Eine abgerissene Angelschnur, am Haken hängt nur eine einzelne Schuppe.
 -	[   ] 5. In der Mündung des Zuflusses werden viele tote Fische angetrieben.
@@ -120,7 +120,16 @@ Der Zufluss des Tsukino-Sees ist hier schon recht breit und gemächlich, aber ei
 -	[   ] 11. Akon hat vor einigen Nächten vergessen, die Lampe an seinem Stab anzumachen.
 -	[   ] 12. Eine handtellergroße, bunt schillernde Schuppe.
 -	[   ] 13. Weiter flussaufwärts sind an einer Stelle alle Pflanzen verdorrt.
--	[   ] 14. Fächer bemalt mit seltsamen Schriftzeichen.
--	[   ] 15. 
+-	[   ] 14. Fächer bemalt mit seltsamen Schriftzeichen.  
+-	[   ] 15. Ein zerrissenes Fischernetz.  
+-	[   ] 16. Früher gab es deutlich weniger Nebel.  
+-	[   ] 17. Ein einfacher Yukata, völlig mit Blut getränkt.  
+-	[   ] 18. Aus der Ferne ist ein tiefes, lautes Brüllen zu hören.
+-	[   ] 19. Pläne, den Kiyomizu auszubauen und so als Handelsweg zu erschließen.
+-	[   ] 20. Akon verlässt den Markt nie - bis auf ein Mal. Aber niemand weiß wo er war.
+-	[   ] 21. Ein abgebissener Unterarm, mit einem Ring am Finger.
+-	[   ] 22. Die Nebelschwaden scheinen ein Eigenleben zu haben und bewegen sich manchmal gegen den Wind.
+-	[   ] 23. Ein riesiger, dunkler Schatten unter der Wasseroberfläche.
+-	[   ] 24. Tasche eines Shinobi, gefüllt mit Kunai, Rauchbomben und Giftphiolen.
 
 
