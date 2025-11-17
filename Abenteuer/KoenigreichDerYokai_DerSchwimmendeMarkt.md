@@ -1,6 +1,6 @@
 # 1. Der schwimmende Markt
 
-Schwierigkeit: Schwierigkeit von 20 –  längeres Abenteuer (2-3 Sessions)
+Schwierigkeit von 20 –  längeres Abenteuer (2-3 Sessions)
 
 ### 2. Hinweise für die Spielleitung:
 
