@@ -1,6 +1,6 @@
 # Das Kirschblütenfest
 
-Kürzeres Abenteuer - ein bis zwei Abende
+Schwierigkeit: 0 (In diesem Abenteuer wird nicht auf die Lösung der Aufgabe gewürfelt) - kurzes Abenteuer - ein bis zwei Sessions
 
 ##### Spielleiterhinweise:
 
@@ -28,35 +28,35 @@ Der Würfelpool setzt sich wie folgt zusammen:
 
 ##### Abenteuerspezifische Aufgaben:
 
-Die Aufgaben ersetzen die normalen Aufgaben auf dem Charakterbogen. Die Spielenden dürfen sich hier auch drei zustzliche Aufgaben wählen. EIn Haiku kann natürlich auch beantwortet werden.
+Die Aufgaben ersetzen die normalen Aufgaben auf dem Charakterbogen. Die Spielenden dürfen sich hier auch drei zusätzliche Aufgaben wählen. Ein Haiku kann natürlich auch beantwortet werden.
 
 - [ X ] Besuche das Kirschblütenfest.
-- [    ] Spiele jemanden einen Streich.
+- [    ] Spiele jemandem einen Streich.
 - [    ] Gewinne gegen einen deiner Freunde.
 - [    ] Überzeuge einen Erwachsenen. 
 - [    ] Lass deinen Yukata heile.
-- [    ] Interagiere mit einem Yokai.
-- [    ] Mache etwas waghalsiges.
+- [    ] Interagiere mit einem Yōkai.
+- [    ] Mache etwas Waghalsiges.
 
 ##### Einleitung:
 
-Das Kirschblütenfest, auch „Hanami” genannt, findet seit einigen Jahren in der Stadt Yodo, genauer gesagt in der Parkanlage um die Burg Yodo, statt. Es ist schon zu einer Familientradition geworden, dass ihr euch mit euren Eltern und Großeltern dorthin aufmacht, um die Kirschblüten und ihre Vergänglichkeit zu feiern. Am Morgen des ersten Festtages spricht die Daimyō, die Fürstin von Yodo, zu ihrem Volk. Händler bieten an ihren Ständen Süßigkeiten, einfache Masken und Spielzeuge für Kinder an. Diese sind oft mit Motiven von Göttern oder Yokai verziert. Das Fest ist außerdem für seine Verbindung zur Geisterwelt bekannt, sodass nicht nur Yokai als Gäste erscheinen, sondern auch solche, die aktiv an den Feierlichkeiten teilnehmen. Menschen aus ganz Soho reisen an, um dieses Spektakel zu erleben und Geschichten über die echten Yokai zu erzählen.
+Das Kirschblütenfest, auch „Hanami” genannt, findet seit einigen Jahren in der Stadt Yodo, genauer gesagt in der Parkanlage um die Burg Yodo, statt. Es ist schon zu einer Familientradition geworden, dass ihr euch mit euren Eltern und Großeltern dorthin aufmacht, um die Kirschblüten und ihre Vergänglichkeit zu feiern. Am Morgen des ersten Festtages spricht die Daimyō, die Fürstin von Yodo, zu ihrem Volk. Händler bieten an ihren Ständen Süßigkeiten, einfache Masken und Spielzeuge für Kinder an. Diese sind oft mit Motiven von Göttern oder Yōkai verziert. Das Fest ist außerdem für seine Verbindung zur Geisterwelt bekannt, sodass nicht nur Yōkai als Gäste erscheinen, sondern auch solche, die aktiv an den Feierlichkeiten teilnehmen. Menschen aus ganz Soho reisen an, um dieses Spektakel zu erleben und Geschichten über die echten Yōkai zu erzählen.
 
 > Mit wem seid ihr auf dem Weg zu dem Fest? Was hat eure Familie am Vortag gemeinsam vorbereitet und mit zum Fest gebracht?
 
-Wenn ein Spieler zum ersten Mal Schaden nimmt, wird ihm folgende Frage gestellt:
+Wenn einer der Spielercharaktere zum ersten Mal Schaden nimmt, wird ihm folgende Frage gestellt:
 
 > Wie sieht der Yukata aus, den du trägst? Wie ist er kaputtgegangen?
 
 ##### Abenteuerfrage:
 
-Am Abend findet eine Yokai-Parade statt, bei der Tänze und Kostüme präsentiert werden und die Geister gefeiert werden. Höhepunkt ist wie jedes Jahr ein gewaltiges Feuerwerk. Was soll dort Schreckliches passieren?
+Am Abend findet eine Yōkai-Parade statt, bei der Tänze und Kostüme präsentiert und die Geister gefeiert werden. Höhepunkt ist wie jedes Jahr ein gewaltiges Feuerwerk. Was soll dort Schreckliches passieren?
 
 #### Was auf dem Fest zu finden ist:
 
-##### Sumoarena - die sanften Riesen
+##### Sumo-Arena - die sanften Riesen
 
-Um die Hauptarena, in der am Mittag ein Sumokampf stattfindet, befinden sich kleinere Arenen, in denen Kinder Sumo lernen und in Spaßkämpfen gegeneinander antreten können. Es gesellt sich auch gerne der ein oder andere Yokai, verkleidet mit Maske als Sumo-Ringer, in den Ring, aber obacht, ein Kampf gegen einen Yokai kann auch hier zu Verletzungen führen. 
+Um die Hauptarena, in der am Mittag ein Sumokampf stattfindet, befinden sich kleinere Arenen, in denen Kinder Sumo lernen und in Spaßkämpfen gegeneinander antreten können. Es gesellt sich auch gerne der ein oder andere Yōkai, verkleidet mit Maske als Sumo-Ringer, in den Ring. Aber Obacht: ein Kampf gegen einen Yōkai kann auch hier zu Verletzungen führen. 
 
 *Moment: Offensichtlich betrunken tritt ein Festbesucher gegen einen Tengu in eine der Probierarenen. Einen Wimpernschlag später hat der Tengu ihn tief in den sandigen Boden gedrückt. Ihr seht, wie eine Fontäne Spucke aus seinem Mund fliegt, bevor er reglos am Boden liegen bleibt. Der Tengu freut sich, wirft seine Sumomaske ab und tänzelt aus der Arena.* 
 
@@ -74,7 +74,7 @@ Die Essensstände locken mit einer vielfältigen Auswahl an köstlichen Speisen.
 
 - Dango, das sind kleine, runde Bällchen aus Reismehl und Wasser, die typischerweise zu dritt aufgespießt und mit einer süßen Sauce überzogen serviert werden.
 - Sardinen, Makrelen und Dorsche schmoren langsam auf dem Grill und verströmen einen verführerischen Duft, der sich über die umliegenden Stände legt und euch das Wasser im Mund zusammenlaufen lässt.
-- Mochi gibt es in einer Vielzahl von Formen und Farben. Man findet ihn beispielsweise als rosa Mochi in gesalzenem Kirschblatt, frisch geschnitten und in süßem Jojabohnemehl gewälzt, oder als grünes Mochi mit Beifuß aromatisiert.   
+- Mochi gibt es in einer Vielzahl von Formen und Farben. Man findet ihn beispielsweise als rosa Mochi in gesalzenem Kirschblatt, frisch geschnitten und in süßem Jojabohnenmehl gewälzt, oder als grünes Mochi mit Beifuß aromatisiert.   
 - Ako-Kobini, kleine Teigkügelchen mit gehacktem Oktopus, sind normalerweise den wohlhabenderen Gesellschaftsschichten vorbehalten. Heute hat die Kaiserin jedoch die Preise gesenkt, sodass auch ihr euch diese köstlichen Teigkügelchen leisten könnt.
 - Mit langen Bambuszangen hebt der Verkäufer glühende Steine zur Seite und enthüllt darunter eine dampfende Süßkartoffel. Ihr süßer Duft erfüllt die kalte Abendluft. Süßkartoffeln sind eine beliebte Speise aus der Kindheit, günstig, sättigend und unglaublich lecker.
 - Kōri-mizu, geschabtes Eis mit Pflaumensirup, ist nur solange der Vorrat reicht erhältlich. Also, macht euch auf den Weg zum Stand und genießt dieses erfrischende Getränk bei der brennenden Sonne. 
@@ -93,11 +93,11 @@ Die Samurai präsentieren sich in edlen Rüstungen und mit mächtigen Schwertern
 
 Bogenschießen?
 
-#### Yokai auf dem Fest:
+#### Yōkai auf dem Fest:
 
 ##### Shutō tori - das betrunkene Huhn
 
-Ein Vogel, der starke Ähnlichkeit mit einem Huhn aufweist. Er ist allerdings größer und trägt einen klassischen japanischen Bakama, einen Rock, und einen Kanzumuri, eine typische Kopfbedeckung. Er läuft auf typischen Vogelbeinen, aber hat zusätzlich zu seinen Flügeln noch Arme mit klauenartigen Händen. Er klaut Sake und wenn er erwischt wird, entflieht er und fällt betrunken in eines der Nachbarfelder. Auf dem Fest sind sie eher Störenfriede, die überall betrunken rumlungern und die Händler bestehlen. 
+Ein Vogel, der starke Ähnlichkeit mit einem Huhn aufweist. Er ist allerdings größer und trägt einen klassischen japanischen Bakama, einen Rock, und einen Kanzumuri, eine typische Kopfbedeckung. Er läuft auf typischen Vogelbeinen, aber hat zusätzlich zu seinen Flügeln noch Arme mit klauenartigen Händen. Er klaut Sake und wenn er erwischt wird, entflieht er und fällt betrunken in eines der Nachbarfelder. Auf dem Fest sind sie eher Störenfriede, die überall betrunken herumlungern und die Händler bestehlen. 
 
 ##### Myōbu - Fuchs Statue
 
@@ -111,7 +111,7 @@ Sie haben blaue Haut und nur ein riesiges Auge in der Mitte des Kopfes. Sie sind
 
 ##### Shōgorō - der belebte Gong
 
-Ein kleiner Tellergroßer Gong, der in buddhistischen Zeremonien genutzt wird. Die Gruppe kann beobachten, dass die Mönche dort alle einen bei sich tragen, diese sich aber immer selber schlagen und die geschlagen werden.
+Ein etwa kellergroßer Gong, der in buddhistischen Zeremonien genutzt wird. Die Gruppe kann beobachten, dass die Mönche dort alle einen bei sich tragen, diese sich aber immer selber schlagen und die geschlagen werden.
 
 ##### Kodama - die tanzenden Geister
 
@@ -125,7 +125,7 @@ Tengu kann man überall auf dem Fest begegnen. Sie tanzen, trommeln, fliegen, ra
 
 ##### Kuzuryū - der neunköpfige Drache
 
-Der neunköpfige Drachen fliegt majestätisch über die Menge hinweg. Er kontrolliert das Wasser und den Regen und lässt aus dem Burggraben hohe Wasserfontänen entspringen. Er hat leuchtende rote Augen, trägt eine goldene Perle auf dem Kopf und hat lange Schnurrhaare von seinen Backen abstehen. Früher für Unheil und Verwüstung bekannt, ist der neunköpfige Drachen ein Verbündeter der Menschen, seit er die Lehren von Buddha gehört hat. 
+Der neunköpfige Drache fliegt majestätisch über die Menge hinweg. Er kontrolliert das Wasser und den Regen und lässt aus dem Burggraben hohe Wasserfontänen entspringen. Er hat leuchtende rote Augen, trägt eine goldene Perle auf dem Kopf und hat lange Schnurrhaare von seinen Backen abstehen. Früher für Unheil und Verwüstung bekannt, ist der neunköpfige Drache ein Verbündeter der Menschen, seit er die Lehren von Buddha gehört hat. 
 
 #### Charaktere auf dem Fest:
 
@@ -135,7 +135,7 @@ Gruppe Kinder
 
 Die Fürstin von Yodo
 
-Trunkene Besucher
+Betrunkene Besucher
 
 Der blinde Mönch Imwe
 
@@ -145,25 +145,25 @@ Nordländler?
 
 Es ist eine ältere, gebückt gehende Frau, die mit ihrem Verkaufswagen durch die Besuchermenge zieht. Sie verkauft Noh-Masken an die älteren Besucher und verschenkt spezielle Noh-Masken an die jüngeren. Sie sagt immer, dass sie die Masken von den Göttern geschenkt bekommt und dass sie sie gar nicht selbst herstellt. Wenn die Spielenden eine der Masken aufsetzen, erhalten sie für diese Zeit eine zufällige Fähigkeit.
 
-> Wie sieht die Maske aus die ihr bekommen habt?
+> Wie sieht die Maske aus, die ihr bekommen habt?
 
 ##### Hinweise:
 
 - 1. Eine Spur Schwarzpulver zu einem unscheinbaren Karren.
-- 2. Eine Geisterhafte Stimme die zu dir spricht: "Sie wollen uns angreifen."
-- 3. Eine Liste mit den Namen bestimter Yokai.
-- 4. ein Hinweis wo das Fass Zeremonie-Sake dieses Jahr verwahrt wird
-- 5. ein Sack übel stinkendes Pulver
-- 6. ein Haiku, in dem eine Gruppe Yōkai beleidigt wird (oder ein Haiku, das sich reimt und sich nicht an die Silbenanzahl hält ^^ )
-- 7. ein großer, matschiger Bereich mitten auf dem Weg - Achtung, Rutschgefahr!
-- 8. jemand will einen Onryō gesehen haben
-- 9. ein Beschwörungsritual für eine Gruppe Yanari - rothäutige kleine Kobolde, die Lärm und Chaos stiften
-- 10. jemand hat ein verfluchtes Katashiro weggeworfen - ein Stück Papier in menschlicher Form, das in Ritualen benutzt wird
-- 11. eine Taiko-Trommel, bemalt mit einer fürchterlichen Fratze
-- 12. ein Shamisen, das gerade scheinbar von selbst weggeflitzt ist
-- 13. eine Maske wie ein Tengu - rot und mit sehr langer Nase
-- 14. ein Korb mit faulig stinkenden Eiern
-- 15. Plan eines Feuerwerkskörpers
-- 16. eine unsichtbare Wand (Nurikabe) blockiert den Weg
-- 17. alle Reiscracker wurden auf der Unterseite mit der Unglückszahl 4 beschriftet
-- 18. eine schemenhafte Gestalt schleicht auf den Hausdächern über der Menge
+- 2. Eine geisterhafte Stimme die zu dir spricht: "Sie wollen uns angreifen."
+- 3. Eine Liste mit den Namen bestimmter Yōkai.
+- 4. Ein Hinweis wo das Fass Zeremonie-Sake dieses Jahr verwahrt wird.
+- 5. Ein Sack übel stinkendes Pulver.
+- 6. Ein Haiku, in dem eine Gruppe Yōkai beleidigt wird. (Oder ein Haiku, das sich reimt und sich nicht an die Silbenanzahl hält.)
+- 7. Ein großer, matschiger Bereich mitten auf dem Weg - Achtung, Rutschgefahr!
+- 8. Jemand will einen Onryō gesehen haben.
+- 9. Ein Beschwörungsritual für eine Gruppe Yanari - rothäutige kleine Kobolde, die Lärm und Chaos stiften.
+- 10. Jemand hat ein verfluchtes Katashiro weggeworfen - ein Stück Papier in menschlicher Form, das in Ritualen benutzt wird.
+- 11. Eine Taiko-Trommel, bemalt mit einer fürchterlichen Fratze.
+- 12. Ein Shamisen, das gerade scheinbar von selbst weggeflitzt ist.
+- 13. Eine Maske wie ein Tengu - rot und mit sehr langer Nase.
+- 14. Ein Korb mit faulig stinkenden Eiern.
+- 15. Plan eines Feuerwerkskörpers.
+- 16. Eine unsichtbare Wand (Nurikabe) blockiert den Weg.
+- 17. Alle Reiscracker wurden auf der Unterseite mit der Unglückszahl 4 beschriftet.
+- 18. Eine schemenhafte Gestalt schleicht auf den Hausdächern über der Menge.
