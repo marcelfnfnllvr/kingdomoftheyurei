@@ -10,7 +10,7 @@ Ein Rückblick in die Vergangenheit der Fureru. Sie spielen ihre Charaktere als 
 
 - Die Maske mit einer zufälligen Fähigkeit können die erwachsenen Charaktere weiterhin verwenden.
 - Einen schwarzen Würfel gibt es nur, wenn der Wurf erneut gewürfelt wird und der schwarze Würfel hinzukommt.
-- Alle Attribute auf dem Charakterbogen können ganz normal genutzt werden und gelten alle als weiße Attribute.
+- Alle Attribute auf dem Charakterbogen können ganz normal genutzt werden und gelten alle als weiße Attribute. Die Ehrung kann auch wie gewohnt verwendet werden.
 - Die Kinder erleiden keine schädlichen Zustände, sondern es wird lediglich ihr Yukata beschädigt und sie bekommen im Zweifel Ärger mit ihren Eltern.
 - Ihre Fähigkeiten können sie nicht nutzen, da das Abenteuer vor der Verschmelzung mir ihrem Dämon spielt.
 - Die Geschichte und die Lösung zum Problem werden in diesem Abenteuer immer als Tatsache behandelt und es wird nicht gewürfelt am Ende des Abenteuers.
