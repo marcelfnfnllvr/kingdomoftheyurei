@@ -1,15 +1,15 @@
-# 1. Der schwimmende Markt
+# Der schwimmende Markt
 
 Schwierigkeit von 20 –  längeres Abenteuer (2-3 Sessions)
 
-### 2. Hinweise für die Spielleitung:
+### Hinweise für die Spielleitung:
 
 Der Schwimmende Markt ist eine Ansammlung größerer und kleinerer Boote, die über den See Tsukino fahren und abwechselnd an den verschiedenen Orten anlegen, die am Seeufer gebaut sind. Natürlich könnte man auch den Landweg nehmen, aber der wäre deutlich länger und gefährlicher, denn hier sind z.B. Wegelagerer unterwegs, die es auf wertvolle Waren abgesehen haben.  
 Auch als Fähre werden die Boote gerne genutzt - jedenfalls bis vor ein paar Wochen. Denn seit einiger Zeit passiert es immer häufiger, dass Leute spurlos vom Markt verschwinden. Zeugen berichten davon ein Platschen gehört zu haben und kurz darauf stellt man fest, dass irgendwer fehlt. Als wäre der häufig auftretende, tückische Nebel auf dem Tsukino-See nicht schon Herausforderung genug für den Markt...  
 Die schwimmenden Boote müssen für das Abenteuer keiner festen Route oder einem Zeitplan folgen. So kann die Gruppe entweder auf dem offenen Wasser sein, an einem der Dörfer am See andocken oder in Ufernähe bei den Schilfgürteln herumschippern. Kleine Abstecher beispielsweise in den Sumpf sind mit einem kleineren Boot mit wenig Tiefgang ebenfalls möglich.  
 Amaya, die Nure Onna, hat sich dem Markt erst vor wenigen Jahren angeschlossen, da sie in Akon verliebt ist. Dieser lebt jedoch mit Leib und Seele für seinen Markt.  
 
-### 3. Fragestellung, Eskalation und Ehrung:
+### Fragestellung, Eskalation und Ehrung:
 
 Fragestellung: Wer oder was ist dafür verantwortlich, dass die Menschen auf dem schwimmenden Markt verschwinden?
 
@@ -17,12 +17,13 @@ Falls die Situation eskaliert, tritt - je nach Geschichte die Nure Onna oder der
 
 Fischende im Trüben - Durchblick 
 
-### 4. Einleitung:
+### Abenteuerfrage
 
-Nach mehreren Tagen unterwegs seid ihr endlich kurz vor eurem Reiseziel. Am Anfang waren die Straßen noch gut, aber je näher ihr dem See Tsukino kamt, desto schlechter wurde ihr Zustand. In den Sümpfen, die den See großflächig umgeben, versackt die Straße teilweise schon im Morast. Früher angelegte Bohlenwege und kleinere Brücken sind längst morsch und geben bei zu viel Belastung nach. Doch nun erklimmt ihr einen letzten kleinen Hügel und seht ihn vor euch liegen: Einer der größten Seen des Landes. 
+Um den See und auch um seine Zuflüsse ranken sich viele Legenden. Was wurde euch davon erzählt, als ihr noch Kinder wart?
 
-> Um den See und auch um seine Zuflüsse ranken sich viele Legenden. Was wurde euch davon erzählt, als ihr noch Kinder wart?
+### Einleitung:
 
+Nach mehreren Tagen unterwegs seid ihr endlich kurz vor eurem Reiseziel. Am Anfang waren die Straßen noch gut, aber je näher ihr dem See Tsukino kamt, desto schlechter wurde ihr Zustand. In den Sümpfen, die den See großflächig umgeben, versackt die Straße teilweise schon im Morast. Früher angelegte Bohlenwege und kleinere Brücken sind längst morsch und geben bei zu viel Belastung nach. Doch nun erklimmt ihr einen letzten kleinen Hügel und seht ihn vor euch liegen: Einer der größten Seen des Landes.  
 Der Weg führt in einem weiten Bogen wieder vom Hügel herunter bis zum Ufer und einem Steg. Ihr habt Glück: Gerade liegt der Schwimmende Markt genau hier. 
 
 ### 5. Gefahren:
