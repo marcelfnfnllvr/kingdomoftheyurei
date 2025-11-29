@@ -1,10 +1,42 @@
+# Das Kirschblütenfest
+
+Kürzeres Abenteuer - ein bis zwei Abende
+
 ##### Spielleiterhinweise:
 
-Ein Rückblick in die Vergangenheit der Fureru. Sie spielen ihre Charaktere als Kinder die sich zufällig auf einem Sommerfestival treffen. Der Abend soll vor allem magisch sein und von kleinen, ungefährlichen Problemen handeln. Die Charaktere würfeln hier nie mit scharzen Würfeln und können Zustände nur durch "Etwas riskieren" Würfe aufbauen - behandel eine 1-2 als Ergebnis als einen Zustand. Fähigkeiten besitzen sie noch nich und können nicht eingesetzt werden. Es sollte sich hier eher um viele kleine Problemlösungen udn Fragestellungen drehen und weniger um das große ganze. Warum können die Kinder Geister sehen? Vielleicht weil sie Kinder sind? Vielleicht auch weil sie einfach doch schon immer besondern waren? Das Abenteuer sollte die Vergangenheit und Kindheit der Charaktere beleuchten und mehr zum Wohlfühlen sein. 
+Ein Rückblick in die Vergangenheit der Fureru. Sie spielen ihre Charaktere als Kinder die sich zufällig auf einem Kirschblütenfestival treffen. Der Abend soll vor allem magisch sein. 
 
-Kein schaden, aber wenn die Spielenden schaden bekommen würden, dann würd ihr Festival-Yukata dreckig und kaputt und sie bekommen ärger von ihren Eltern.
+##### Sonderregeln:
 
+- Die Maske mit einer zufälligen Fähigkeit können die erwachsenen Charaktere weiterhin verwenden.
+- Einen schwarzen Würfel gibt es nur, wenn der Wurf erneut gewürfelt wird und der schwarze Würfel hinzukommt.
+- Alle Attribute auf dem Charakterbogen können ganz normal genutzt werden und gelten alle als weiße Attribute.
+- Die Kinder erleiden keine schädlichen Zustände, sondern es wird lediglich ihr Yukata beschädigt und sie bekommen im Zweifel Ärger mit ihren Eltern.
+- Ihre Fähigkeiten können sie nicht nutzen, da das Abenteuer vor der Verschmelzung mir ihrem Dämon spielt.
+- Die Geschichte und die Lösung zum Problem werden in diesem Abenteuer immer als Tatsache behandelt und es wird nicht gewürfelt am Ende des Abenteuers.
 
+##### Sonderspielzug:
+
+Der "Gegeneinander im Wettkampf" Spielzug
+
+Das Ziel besteht darin, möglichst viele Sechsen zu würfeln. Wer die meisten Sechsen würfelt, gewinnt den Vergleich. Bei unentschieden darf sich erneut entschieden werden und neu gesetzt werden. 
+
+Der Würfelpool setzt sich wie folgt zusammen:
+
+- Für jedes passende Attribut gibt es einen weißen Würfel.
+- Es darf eine beliebige Anzahl schwarzer Würfel dem Pool hinzugefügt werden. Allerdings bekommt der Charakter einen Zustand pro schwarzem Würfel, der im Ergebnis eine 1 zeigt.
+
+##### Abenteuerspezifische Aufgaben:
+
+Die Aufgaben ersetzen die normalen Aufgaben auf dem Charakterbogen. Die Spielenden dürfen sich hier auch drei zustzliche Aufgaben wählen. EIn Haiku kann natürlich auch beantwortet werden.
+
+- [ X ] Besuche das Kirschblütenfest.
+- [    ] Spiele jemanden einen Streich.
+- [    ] Gewinne gegen einen deiner Freunde.
+- [    ] Überzeuge einen Erwachsenen. 
+- [    ] Lass deinen Yukata heile.
+- [    ] Interagiere mit einem Yokai.
+- [    ] Mache etwas waghalsiges.
 
 ##### Einleitung:
 
@@ -58,6 +90,8 @@ Auf dem Fest bieten die unterschiedlichsten Händler ihre Waren an. Dazu zählen
 Die Samurai präsentieren sich in edlen Rüstungen und mit mächtigen Schwertern. Majestätisch stehen die Pferde, auf denen sie in die Schlacht reiten, neben ihnen. Jeder Schaulustige darf einmal ein echtes Schwert heben und in Übungskämpfen mit Holzschwertern gegeneinander oder auch gegen einen Samurai antreten. Dafür stehen leichte Holzrüstungen zur Verfügung, die zumindest gegen Holzschwerter guten Schutz bieten.
 
 > Was beeindruckt euch besonders an den Samurai?
+
+Bogenschießen?
 
 #### Yokai auf dem Fest:
 
@@ -118,4 +152,18 @@ Es ist eine ältere, gebückt gehende Frau, die mit ihrem Verkaufswagen durch di
 - 1. Eine Spur Schwarzpulver zu einem unscheinbaren Karren.
 - 2. Eine Geisterhafte Stimme die zu dir spricht: "Sie wollen uns angreifen."
 - 3. Eine Liste mit den Namen bestimter Yokai.
-- 4. 
+- 4. ein Hinweis wo das Fass Zeremonie-Sake dieses Jahr verwahrt wird
+- 5. ein Sack übel stinkendes Pulver
+- 6. ein Haiku, in dem eine Gruppe Yōkai beleidigt wird (oder ein Haiku, das sich reimt und sich nicht an die Silbenanzahl hält ^^ )
+- 7. ein großer, matschiger Bereich mitten auf dem Weg - Achtung, Rutschgefahr!
+- 8. jemand will einen Onryō gesehen haben
+- 9. ein Beschwörungsritual für eine Gruppe Yanari - rothäutige kleine Kobolde, die Lärm und Chaos stiften
+- 10. jemand hat ein verfluchtes Katashiro weggeworfen - ein Stück Papier in menschlicher Form, das in Ritualen benutzt wird
+- 11. eine Taiko-Trommel, bemalt mit einer fürchterlichen Fratze
+- 12. ein Shamisen, das gerade scheinbar von selbst weggeflitzt ist
+- 13. eine Maske wie ein Tengu - rot und mit sehr langer Nase
+- 14. ein Korb mit faulig stinkenden Eiern
+- 15. Plan eines Feuerwerkskörpers
+- 16. eine unsichtbare Wand (Nurikabe) blockiert den Weg
+- 17. alle Reiscracker wurden auf der Unterseite mit der Unglückszahl 4 beschriftet
+- 18. eine schemenhafte Gestalt schleicht auf den Hausdächern über der Menge
