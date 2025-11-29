@@ -1,14 +1,14 @@
 ### Über Königreich der Yokai
 
-Königreich der Yōkai ist ein ungewöhnliches Pen-&-Paper-Abenteuer in einer fiktiven Welt, die dem Japan des 15. Jahrhunderts nachempfunden ist – inspiriert von Ghibli-Filmen wie *Prinzessin Mononoke* und *Nausicaä*. Ihr spielt eine Gruppe gezeichneter Wanderer, die als Fureru durch das Königreich Soho reisen, Geister bekämpfen und gemeinsam eine Geschichte erschaffen, die erklärt, warum diese außer Kontrolle geraten sind. Das Regelsystem setzt stark auf Kreativität und Interaktion mit der Welt, der Bevölkerung und den Geistern.
+Königreich der Yōkai ist ein ungewöhnliches Pen-&-Paper-Abenteuer in einer fiktiven Welt, die dem Japan des 15. Jahrhunderts nachempfunden ist – inspiriert von Ghibli-Filmen wie *Prinzessin Mononoke* und *Nausicaä aus dem Tal der Winde*. Ihr spielt eine Gruppe gezeichneter Wanderer, die als Fureru durch das Königreich Soho reisen, Geister bekämpfen und gemeinsam eine Geschichte erschaffen, die erklärt, warum diese außer Kontrolle geraten sind. Das Regelsystem setzt stark auf Kreativität und Interaktion mit der Welt, der Bevölkerung und den Geistern.
 
 ### Unser Team
 
-Wir sind hauptsächlich drei Personen: Brunvitr, Topflappen und ich, Marcel. Ihr findet dieses Regelwerk zwar auf meiner Webseite, aber ohne die beiden anderen wäre das hier nie möglich gewesen. Alle Grafiken, Illustrationen und das Layout des Buchs stammen von Brunvitr. Topflappen hat mich außerdem bei allen Texten unterstützt, einige selbst verfasst und zusätzlich noch Abenteuer beigesteuert. Tausend Dank dafür!
+Wir sind hauptsächlich drei Personen: Brunvitr, Topflappen und ich, Marcel. Ihr findet dieses Regelwerk zwar auf meiner Webseite, aber ohne die beiden anderen wäre das hier nie möglich gewesen. Alle Grafiken, Illustrationen und das Layout des Buchs stammen von Brunhvitr. Topflappen hat mich außerdem bei allen Texten unterstützt, einige selbst verfasst, ein paar Bilder und zusätzlich noch Abenteuer beigesteuert. Tausend Dank dafür!
 
 ### Unsere Vision
 
-Wir möchten, dass jeder dieses System spielen und damit Spaß mit seinen Freund:innen haben kann. Deshalb steht es kostenlos als reine Textversion auf GitHub sowie als herunterladbare PDF zur Verfügung. Außerdem gibt es alle notwendigen Bögen, ein reduziertes Artpack und fünf der elf Abenteuer kostenlos hier zum Download.
+Wir möchten, dass jeder dieses System spielen und damit Spaß mit seinen Freund:innen haben kann. Deshalb steht es kostenlos als reine Textversion auf GitHub zur Verfügung.  
 
 Wer uns darüber hinaus unterstützen möchte, kann sich gerne die voll illustrierte Version des Regelwerks mit allen elf Abenteuern auf itch.io kaufen.
 
@@ -20,7 +20,7 @@ Das Regelsystem basiert auf einem Attributs-D6-Poolsystem. Mechanisch orientiert
 
 Hier findest du die kostenlose Version des Regelwerks. Diese Version ist identisch zur Bezahlversion, mit Ausnahme der Tatsache, dass sie nicht illustriert ist und nur fünf der elf Abenteuer enthält. Die Zusatzinhalte findest du weiter unten auf dieser Webseite – sie sind kostenlos.
 
-## Die bezahl Version
+## Die Bezahl-Version
 
 Hier findest du die vollständig illustrierte Version des Regelwerks mit allen Abenteuern. Wir sind dankbar für jede Unterstützung und werden das Geld in Sushi und Ramen investieren.
 
