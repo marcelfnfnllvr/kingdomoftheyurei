@@ -6,7 +6,9 @@ Willkommen, Wanderer!
 
 Du findest hier ein Regelwerk, an dem wir seit geraumer Zeit arbeiten. Die grundlegende Idee war, ein Regelsystem zu schaffen, das die Würfelmechanik von Trophy Gold mit der Abenteuermechanik von Brindlewood Bay kombiniert. Außerdem wollten wir eine Welt erschaffen, die sich an die Ghibli-Filme „Prinzessin Mononoke”, „Nausicaä” oder auch „Die Chroniken von Erdsee” anlehnt. „Ernst, aber trotzdem magisch“ ist das Motto.
 
-Du findest das Regelwerk hier in einer fast fertigen Version. Es lässt sich mit allen Informationen aus diesem GitHub lesen und leiten. Wir wünschen dir viel Spaß dabei. Falls dir das gefällt, würden wir uns freuen, wenn du dir ebenfalls die bebilderte Version anschaust. Diese wird in wenigen Wochen zur Verfügung stehen.
+Hier findest du das komplette Regelwerk. Es lässt sich mit allen Informationen aus diesem GitHub lesen und nutzen. Wir wünschen dir viel Spaß dabei! Wenn es dir gefällt, würden wir uns freuen, wenn du dir auch die bebilderte Version anschaust. Diese findest du unter folgendem [>>Link<<](https://marcelexner.itch.io/augen-des-zwielichts-knigreich-der-ykai).
+
+Die bebilderte Version kostet 8 $ und ist als Gesamt-PDF erhältlich. Die GitHub-Version des Regelwerks bleibt frei zugänglich und enthält die gleichen Informationen wie die PDF-Version.
 
 1. Einführung und Übersicht ([Allgemeines.md](https://github.com/marcelfnfnllvr/kingdomoftheyurei/blob/main/Allgemeines.md))  
    1. Worum geht es in diesem Rollenspiel?
